@@ -39,13 +39,13 @@
 !    2 |   93459 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 !    3 |     225 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 !    4 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
-!    5 |   40473 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+!    5 |   40483 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 !    6 |     429 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 !    7 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
 !    8 |   14242 | domains | local  | online  | unchanged | black.list
 !    9 |      24 | domains | local  | online  | unchanged | black.list.threat-intelligence
 !
-! 132492 unique Domains - Version 2021.1019.164104
+! 132569 unique Domains - Version 2021.1019.225232
 !
 ||0.0.0.0.beeglivesex.com^
 ||0.0.0.0.hpyrdr.com^
@@ -1442,6 +1442,7 @@
 ||915651380225350.wt-eu02.net^
 ||91.affex.org^
 ||91.euleriancdn.net^
+||91yudao.com^
 ||922.hittail.com^
 ||925.lt^
 ||929408468507536.mateti.net^
@@ -6304,6 +6305,7 @@
 ||a.ants.vn^
 ||aanvlo.frenchconnection.com.au^
 ||aa.paramountplus.com^
+||aapedigree.com^
 ||a-api.skz.dev^
 ||aapt.com.au.102.122.2o7.net^
 ||aapz.com^
@@ -6590,6 +6592,7 @@
 ||abxslg.jollyroom.fi^
 ||abyss.affex.org^
 ||abyss.euleriancdn.net^
+||abyssos.eu^
 ||ac10.i2i.jp^
 ||ac2.affex.org^
 ||ac2.euleriancdn.net^
@@ -6625,6 +6628,7 @@
 ||academy.euleriancdn.net^
 ||academy.myad.vn^
 ||academy.mydfree.org^
+||academyoflifecoach.com^
 ||academy.urekamedia.com^
 ||acad.euleriancdn.net^
 ||acadianfinance.com^
@@ -7577,7 +7581,6 @@
 ||adriana.affex.org^
 ||adriana.euleriancdn.net^
 ||adrian.affex.org^
-||adrianaosorio.ottimosoft1.com^
 ||adrian.euleriancdn.net^
 ||adrianzajewicz.blogspot.com^
 ||adrms.affex.org^
@@ -8845,7 +8848,6 @@
 ||ah.affex.org^
 ||a.harimore.jp^
 ||ahasex.de^
-||ah.btp-inc.ca^
 ||a.heavy-r.com^
 ||a.heretv.com^
 ||ah.euleriancdn.net^
@@ -9103,7 +9105,6 @@
 ||alabama.euleriancdn.net^
 ||alabaster-steel-hawthorn.glitch.me^
 ||alabirambulance.com^
-||aladainexpress.com^
 ||aladdin.affex.org^
 ||aladdin.euleriancdn.net^
 ||aladdin.genieesspv.jp^
@@ -9127,6 +9128,7 @@
 ||alaskaair.com.102.112.2o7.net^
 ||alaska.euleriancdn.net^
 ||alatcommu.gq^
+||alavi.ge^
 ||a.law.com^
 ||alba.affex.org^
 ||alba.euleriancdn.net^
@@ -9193,7 +9195,9 @@
 ||aldorasystem.pl^
 ||aldrin.shortest-route.com^
 ||aldrin.support.mapp.com^
+||aldtec.net.br^
 ||aleciezko.icu^
+||alecsa.ng^
 ||alef.affex.org^
 ||alef.euleriancdn.net^
 ||ale-fotogragia.bo.pl^
@@ -9229,6 +9233,7 @@
 ||alexandre.euleriancdn.net^
 ||alexandria.affex.org^
 ||alexandria.euleriancdn.net^
+||alexdubai.com.aldiabsteel.com^
 ||alex.euleriancdn.net^
 ||alexianer-service.de^
 ||alexine.net^
@@ -9484,6 +9489,7 @@
 ||almaty.affex.org^
 ||almaty.euleriancdn.net^
 ||almdev.se^
+||almedical.al^
 ||alm.eulerian.com^
 ||alm.eulerian.fr^
 ||alm.eulerian.net^
@@ -9496,6 +9502,7 @@
 ||alms.euleriancdn.net^
 ||almshhadalyemeni.com^
 ||almuradtiles.zohosites.com^
+||almustafadates.com^
 ||aloedecaus.postaffiliatepro.com^
 ||al.office-com.jp^
 ||aloha.affex.org^
@@ -9742,6 +9749,7 @@
 ||amis.affex.org^
 ||amis.euleriancdn.net^
 ||amis.keurig.ca^
+||amitempo.com^
 ||amitracks.actonservice.com^
 ||amit-sbx.actonsoftware.com^
 ||amity.affex.org^
@@ -10316,6 +10324,7 @@
 ||andre.affex.org^
 ||andreas.affex.org^
 ||andreas.euleriancdn.net^
+||andreaskisauer.com^
 ||andreasr.dk^
 ||andre.euleriancdn.net^
 ||andrei.affex.org^
@@ -10323,7 +10332,6 @@
 ||andres.affex.org^
 ||andres.euleriancdn.net^
 ||andresmarin.ottimosoft1.com^
-||andres.ug^
 ||andrew.affex.org^
 ||andrew.euleriancdn.net^
 ||andrewrobertsllc.info^
@@ -11253,6 +11261,7 @@
 ||apps.net.daraz.com^
 ||app.solutions.wholesale.bell.ca^
 ||apps.print-mo.net.daraz.com^
+||apps.saintsoporte.com^
 ||apps-spring.net.daraz.com^
 ||app.storage.yunvm.com^
 ||appstore.affex.org^
@@ -11343,6 +11352,7 @@
 ||arab.euleriancdn.net^
 ||arabic.affex.org^
 ||arabic.euleriancdn.net^
+||arabuap.com^
 ||aracat01.wt-eu02.net^
 ||ar.adserver.yahoo.com^
 ||ara.euleriancdn.net^
@@ -11474,6 +11484,7 @@
 ||ariane.euleriancdn.net^
 ||ariba.112.2o7.net^
 ||ariboo.com^
+||aricc.sg^
 ||aridtestlahjak.com^
 ||arie.affex.org^
 ||arie.euleriancdn.net^
@@ -12219,9 +12230,9 @@
 ||aukrux.forum.com.br^
 ||aula.affex.org^
 ||aula.euleriancdn.net^
+||aulaintelimundo.com^
 ||aulavirtual.affex.org^
 ||aulavirtual.euleriancdn.net^
-||aulist.com^
 ||aumarketing.sedgwick.com^
 ||aumo123usedcarscom.112.2o7.net^
 ||aumoautomobilemagcom.112.2o7.net^
@@ -12523,7 +12534,6 @@
 ||avskype.com^
 ||avto.affex.org^
 ||avto.euleriancdn.net^
-||avtoremprof.ru^
 ||avtostekla-seme.si^
 ||a-vtp-audi-com.eulerian.com^
 ||a-vtp-audi-com.eulerian.fr^
@@ -12926,6 +12936,7 @@
 ||backlink.euleriancdn.net^
 ||backlinks.affex.org^
 ||backlinks.euleriancdn.net^
+||backlinksminer.com^
 ||backlinkwatch.com^
 ||backoffice.affex.org^
 ||backoffice.euleriancdn.net^
@@ -13675,6 +13686,7 @@
 ||bebo.crwdcntrl.net^
 ||bebpon.zetronix.com^
 ||becconet.com^
+||bec.demo.myitas.net^
 ||bechtle01.webtrekk.net^
 ||bechtlemicrosite01.webtrekk.net^
 ||beciki.pl^
@@ -13741,6 +13753,7 @@
 ||beiwanda01.webtrekk.net^
 ||beka.pl^
 ||bekbgandrmbx.com^
+||bekindretail.com^
 ||beklear.net^
 ||belambra-be.eulerian.net^
 ||belambra-com.eulerian.net^
@@ -14214,6 +14227,7 @@
 ||bigtus.com^
 ||biixda.gatoskilo.gr^
 ||bijouxaccessories.com^
+||bijoybangla.news^
 ||bik-alert.com^
 ||bike.affex.org^
 ||bike.euleriancdn.net^
@@ -14247,6 +14261,7 @@
 ||billing.affex.org^
 ||billingcisco-capwap-controller.net.daraz.com^
 ||billing.euleriancdn.net^
+||billing.rahitechnosoft.com^
 ||billingr-is-1-2.net.daraz.com^
 ||billing-r-oa-2.net.daraz.com^
 ||billinspain.postaffiliatepro.com^
@@ -14425,6 +14440,7 @@
 ||bitgamez.com^
 ||bitgenises.com^
 ||bit.ly^
+||bitmex-trade.com^
 ||bitrix.affex.org^
 ||bitrix.euleriancdn.net^
 ||bits.affex.org^
@@ -15231,6 +15247,7 @@
 ||bottegaverde.pt.102.122.2o7.net^
 ||boucou.fr^
 ||bougn.at^
+||bouhertmaoutdoors.tn^
 ||boulevardcapivari.com^
 ||boulevardcaravanpark.com.au^
 ||bounce.affex.org^
@@ -15443,6 +15460,7 @@
 ||bricksandstonesgossip.us.intellitxt.com^
 ||bricopetvzla.com^
 ||bride1.com^
+||brideofmessiah.com^
 ||brides.com.102.112.2o7.net^
 ||bridge.affex.org^
 ||bridge.dplfp.com^
@@ -15777,7 +15795,6 @@
 ||bugtrack.euleriancdn.net^
 ||bugzilla.affex.org^
 ||bugzilla.euleriancdn.net^
-||buigiaphat.com.vn^
 ||buiglh.habitat.fr^
 ||build.affex.org^
 ||buildasign.com.102.112.2o7.net^
@@ -15849,7 +15866,6 @@
 ||bundle-geoip.herokuapp.com^
 ||bunemas.com^
 ||bungalowsentertainment.com^
-||bunge.skybitvest.com^
 ||bunny.affex.org^
 ||bunny.euleriancdn.net^
 ||bunnyland.cc^
@@ -16878,7 +16894,6 @@
 ||car-stuff.us.intellitxt.com^
 ||cart.affex.org^
 ||cartecarburant.leclerc.eulerian.net^
-||carte-deuil.com^
 ||carter.affex.org^
 ||carter.euleriancdn.net^
 ||cart.euleriancdn.net^
@@ -17037,7 +17052,6 @@
 ||cat.laravel-news.com^
 ||cat.lasalturasresort.com^
 ||cat.learnssg.com^
-||cat.maletasoriginales.eu^
 ||cat.mattr.global^
 ||catnip.pl^
 ||cat.par.vip.prod.criteo.com^
@@ -17460,6 +17474,7 @@
 ||cdn.demdex.net^
 ||cdn.dmpcounter.com^
 ||cdn.download.sweetpacks.com^
+||cdn.doxbin.org^
 ||cdn-dz-jumia-com.affex.org^
 ||cdn.earnify.com^
 ||cdn.easy-ads.com^
@@ -17675,7 +17690,6 @@
 ||celio.eulerian.net^
 ||celio-it.eulerian.net^
 ||cell.affex.org^
-||cellas.sk^
 ||cellcept.com.102.122.2o7.net^
 ||cell.euleriancdn.net^
 ||cellfun.mobi^
@@ -18142,6 +18156,7 @@
 ||chewie.euleriancdn.net^
 ||cheyenne.affex.org^
 ||cheyenne.euleriancdn.net^
+||chezalice.co.za^
 ||chezh1.popmarker.com^
 ||chez-lai.com^
 ||chghowardjohnson.112.2o7.net^
@@ -18249,6 +18264,7 @@
 ||chitchat.euleriancdn.net^
 ||chithra629.site^
 ||chkgdb.trendhim.com^
+||chkto.com^
 ||chlcotrk.com^
 ||chl.goepson.com^
 ||chloe.affex.org^
@@ -18338,6 +18354,7 @@
 ||chubclub.chubbiesshorts.com^
 ||chuckfaganco.com^
 ||chuknu.sokrati.com^
+||chukouneee.com^
 ||chum.affex.org^
 ||chum.euleriancdn.net^
 ||chupacabras100kms.com^
@@ -19152,6 +19169,7 @@
 ||cmail.affex.org^
 ||cmail.euleriancdn.net^
 ||cm.ambientdsp.com^
+||cm-arquitetos.com^
 ||cmc.affex.org^
 ||cmcc.affex.org^
 ||cmcc.euleriancdn.net^
@@ -19723,8 +19741,10 @@
 ||cointoon.net.daraz.com^
 ||coke.affex.org^
 ||coke.euleriancdn.net^
+||cokhithienan.vn^
 ||colderking.com^
 ||coldwellbanker.net^
+||colegioguadalupenasca.com^
 ||colehaanpolska.com^
 ||coleman.affex.org^
 ||colemanco.com.au^
@@ -19734,7 +19754,6 @@
 ||col.goepson.com^
 ||colibri.affex.org^
 ||colibri.euleriancdn.net^
-||colinde.pricesne.com^
 ||collab9.actonservice.com^
 ||collab.affex.org^
 ||collab.euleriancdn.net^
@@ -20290,7 +20309,6 @@
 ||conf.euleriancdn.net^
 ||confiaen.legalitas.com^
 ||config.affex.org^
-||config.cqhbkjzx.com^
 ||config.euleriancdn.net^
 ||configgle.com^
 ||config.ioam.de^
@@ -21516,6 +21534,8 @@
 ||console.euleriancdn.net^
 ||console.rtk.io^
 ||consoltech.actonservice.com^
+||consorciojoinville.com^
+||consorciorimpa.com^
 ||constantcontact.tt.omtrdc.net^
 ||constellation.com.102.112.2o7.net^
 ||constitutivelykalif.info^
@@ -22228,7 +22248,6 @@
 ||cougar.wzulfikar.com^
 ||couhome.112.2o7.net^
 ||couic.fr^
-||coulsongraphics.com^
 ||council.affex.org^
 ||council.euleriancdn.net^
 ||counselheal.us.intellitxt.com^
@@ -23208,6 +23227,7 @@
 ||culture-leclerc.eulerian.net^
 ||culturesforhealth.postaffiliatepro.com^
 ||cumbiaswive.com^
+||cumbreinterventores.com^
 ||cumnockchronicle-gb.cumnockchronicle.com^
 ||cumulus.affex.org^
 ||cumulus.euleriancdn.net^
@@ -25125,7 +25145,6 @@
 ||dach.getinge.com^
 ||dach.intersystems.de^
 ||dacobi.pl^
-||dacui.online^
 ||dada.affex.org^
 ||dada.euleriancdn.net^
 ||dadaminitiendabar.com^
@@ -25243,7 +25262,6 @@
 ||danger.euleriancdn.net^
 ||dani.affex.org^
 ||danialrazali.com^
-||daniel1.ottimosoft1.com^
 ||daniel2.tantawy.app^
 ||daniel.affex.org^
 ||danielb.tantawy.app^
@@ -25384,6 +25402,7 @@
 ||databoat.zenkube.com^
 ||datacapture.serving-sys.com^
 ||datacar40.net.daraz.com^
+||data.cdevelop.org^
 ||datacenter.affex.org^
 ||datacenter.euleriancdn.net^
 ||datacenters.salientsys.com^
@@ -25422,7 +25441,6 @@
 ||dataorigin.euleriancdn.net^
 ||data.pepephone.com^
 ||datapipe.com.102.122.2o7.net^
-||datapolish.com^
 ||dataprivacyinitiative.org^
 ||data-r-oa-2.net.daraz.com^
 ||datas.connectingthreads.com^
@@ -26037,7 +26055,6 @@
 ||demo.aptly.de^
 ||demo.b2bsolution.work^
 ||demobl.cityads.com^
-||demo.careacademyuk.com^
 ||demo.code.partners^
 ||democracy.affex.org^
 ||democracy.euleriancdn.net^
@@ -26049,6 +26066,7 @@
 ||demo.finn.ai^
 ||demo.fitnesshouse4u.shop^
 ||demo.fuseplatform.net^
+||demo.g-mart.in^
 ||demo.himaxwell.com^
 ||demo.klick.vn^
 ||demo.leadiro.com^
@@ -26429,6 +26447,7 @@
 ||devserver.affex.org^
 ||devserver.euleriancdn.net^
 ||devsite.affex.org^
+||devsite.analiseti.com.br^
 ||devsite.euleriancdn.net^
 ||devs.ns2.cl.bellsouth.net.daraz.com^
 ||devssummer.net.daraz.com^
@@ -26607,6 +26626,7 @@
 ||diamant.affex.org^
 ||diamante.affex.org^
 ||diamante.euleriancdn.net^
+||diamantes.network^
 ||diamant.euleriancdn.net^
 ||diamant-software.actonservice.com^
 ||diamant-unique-fr.eulerian.net^
@@ -27058,6 +27078,7 @@
 ||dixie.euleriancdn.net^
 ||dixonhomestead.com^
 ||dixonscouk.112.2o7.net^
+||dixtlan.com^
 ||diy.affex.org^
 ||diy.com.102.122.2o7.net^
 ||diy.euleriancdn.net^
@@ -27287,6 +27308,7 @@
 ||dn.affex.org^
 ||dnag.lgtinvesting.site^
 ||dnb.com.102.122.2o7.net^
+||dnbinsu.com^
 ||dnc.affex.org^
 ||dnc.euleriancdn.net^
 ||dndvms.24s.com^
@@ -27726,6 +27748,7 @@
 ||dora.euleriancdn.net^
 ||doris.affex.org^
 ||doris.euleriancdn.net^
+||dormcorp.viosoria-das.ml^
 ||dormouse.consentkit.com^
 ||dormouse.morningchorusrecords.com^
 ||dormouse.nektarium.de^
@@ -27871,7 +27894,6 @@
 ||download.messergroup.com^
 ||download.netcetera.com^
 ||downloadpc.co^
-||download.pdf00.cn^
 ||downloadprocodecs.affex.org^
 ||downloadprocodecs.euleriancdn.net^
 ||downloadprodm.affex.org^
@@ -27902,7 +27924,6 @@
 ||download.worldwatertechinnovation.com^
 ||download.worldwatertechnorthamerica.com^
 ||downloadz.us^
-||down.rxgif.cn^
 ||downtoearth.postaffiliatepro.com^
 ||downtown.affex.org^
 ||downtown.euleriancdn.net^
@@ -27930,6 +27951,7 @@
 ||d.pixiv.org^
 ||dpkb8wsd5bmct.cloudfront.net^
 ||dp-medien.eu^
+||d.powerofwish.com^
 ||dppn96depxyay.cloudfront.net^
 ||dppnv4z069tpc.cloudfront.net^
 ||dppublishinginc.actonservice.com^
@@ -28052,6 +28074,7 @@
 ||dreams-invest.info^
 ||dreamteam.euleriancdn.net^
 ||dreamtv.postaffiliatepro.com^
+||dreamvalley.cl^
 ||dreamwoman-finder1.com^
 ||dreamz.affex.org^
 ||dreamz.euleriancdn.net^
@@ -28350,6 +28373,7 @@
 ||duster.euleriancdn.net^
 ||dust.euleriancdn.net^
 ||dutahgye3t3hw.cloudfront.net^
+||dutapp.wisolve.co.za^
 ||dutchaparel.com^
 ||dutedan.com^
 ||duyil2vzot0h1.cloudfront.net^
@@ -28662,6 +28686,7 @@
 ||ea.handsenderplus.com^
 ||e.air1.com^
 ||e.air1daretodream.com^
+||eakademija.com^
 ||ea.lacoste.com^
 ||ea.laredoute.pt^
 ||ea.lepelican.fr^
@@ -29058,6 +29083,7 @@
 ||e-commerce.euleriancdn.net^
 ||ecommerce.euleriancdn.net^
 ||ecommerceplatform.kaliocommerce.com^
+||e-commerce.saleensuporte.com.br^
 ||ecommercetimes.us.intellitxt.com^
 ||ecomobilni.pl^
 ||econ.affex.org^
@@ -29546,6 +29572,7 @@
 ||eldertreecreative.com^
 ||eldorado.affex.org^
 ||eldorado.euleriancdn.net^
+||eldoretwagonhotel.co.ke^
 ||eleanor.affex.org^
 ||eleanor.euleriancdn.net^
 ||elearn.affex.org^
@@ -29809,7 +29836,6 @@
 ||em.acehelpfulemails.com^
 ||em.acelocalemails.com^
 ||em.affex.org^
-||emaids.co.za^
 ||email1.advisorycloud.com^
 ||email1.affex.org^
 ||email1.euleriancdn.net^
@@ -30691,7 +30717,6 @@
 ||en.netmind.net^
 ||en.nur7ure.com^
 ||enohcw.flyin.com^
-||en.palmilhadoboots.com.br^
 ||enpgnig.pl^
 ||enpsguinee.com^
 ||enq.affex.org^
@@ -31819,7 +31844,6 @@
 ||evp.affex.org^
 ||evp.euleriancdn.net^
 ||evupmg.olehenriksen.com^
-||evvcrisisfund.com^
 ||evxlkd.bottegaverde.ro^
 ||ev.yieldbuild.com^
 ||evyy.net^
@@ -31988,7 +32012,6 @@
 ||exp100.strangled.net^
 ||expadmin.riverisland.com^
 ||exp.affex.org^
-||expansion360.net^
 ||exp-api.delimano.cz^
 ||exp-api.delimano.hu^
 ||exp-api.delimano.pl^
@@ -32792,6 +32815,7 @@
 ||fcc.affex.org^
 ||fcc.euleriancdn.net^
 ||fcc-fac.ca.102.112.2o7.net^
+||fc.co.mz^
 ||fccontact.eat-and.jp^
 ||fc.euleriancdn.net^
 ||fc.eulerian.com^
@@ -34343,6 +34367,7 @@
 ||fortunecity.us.intellitxt.com^
 ||fortune.com.102.122.2o7.net^
 ||fortune.euleriancdn.net^
+||fortunelawturkey.com^
 ||fortuneo.api.eulerian.fr^
 ||foru.affex.org^
 ||foru.euleriancdn.net^
@@ -34406,7 +34431,6 @@
 ||fotoljilja.com^
 ||fotologaso.miss-web.es^
 ||fotolog.crwdcntrl.net^
-||fotoobjetivo.com^
 ||foto-office.pl^
 ||fotopegaz.pl^
 ||fotopisik24.net^
@@ -35389,7 +35413,6 @@
 ||gaspar.euleriancdn.net^
 ||gasp.postaffiliatepro.com^
 ||gassales.eversource.com^
-||gassantos.com.br^
 ||gas-sensing.spec-sensors.com^
 ||gaston.affex.org^
 ||gaston.euleriancdn.net^
@@ -35621,7 +35644,6 @@
 ||geeksquad.com.102.122.2o7.net^
 ||geekstogo.us.intellitxt.com^
 ||geek.us.intellitxt.com^
-||geetjewels.in^
 ||ge.euleriancdn.net^
 ||geid.wbtrk.net^
 ||gejzgq.gehaltsvergleich.com^
@@ -36324,6 +36346,7 @@
 ||global-trading.website^
 ||globalwiadomosci.site^
 ||globalwidemedia.actonservice.com^
+||globalwidesafaris.com^
 ||globe.affex.org^
 ||globe.euleriancdn.net^
 ||globereisburo.nl.102.112.2o7.net^
@@ -48711,6 +48734,7 @@
 ||greendog.euleriancdn.net^
 ||greendolarbag.com^
 ||green.euleriancdn.net^
+||greenfieldimmigration.com^
 ||greenfinanceinitiative.org^
 ||greenfox.affex.org^
 ||greenfox.euleriancdn.net^
@@ -48992,6 +49016,7 @@
 ||guitarforce.pl^
 ||guitartricks.postaffiliatepro.com^
 ||guj.122.2o7.net^
+||gujjubhai.co.in^
 ||gulf-industrial.com^
 ||gull.abilitiesinjobs.com^
 ||gull.ghostwebsites.com^
@@ -49024,6 +49049,7 @@
 ||guppy.setasign.com^
 ||guppy.surfpayapp.com^
 ||guppy.under2.agency^
+||gurdwaraaid.com^
 ||gurphil.com^
 ||guru3d.us.intellitxt.com^
 ||guru.affex.org^
@@ -49059,9 +49085,11 @@
 ||gw4.euleriancdn.net^
 ||gw.affex.org^
 ||gw.bnsc.affex.org^
+||gwcrresearch.org^
 ||g.websponsors.com^
 ||g.westword.com^
 ||gw.euleriancdn.net^
+||gwfindia.in^
 ||gwguyh.edreams.es^
 ||gwia.affex.org^
 ||gwia.euleriancdn.net^
@@ -50455,7 +50483,6 @@
 ||hood.euleriancdn.net^
 ||hook.affex.org^
 ||hookedmediagroup.com^
-||hookedupboatclub.com^
 ||hook.euleriancdn.net^
 ||hook.oncustomer.asia^
 ||hookworm.beyond-avatars.com^
@@ -50475,7 +50502,6 @@
 ||hopechestintfoundation.org^
 ||hope-education.co.uk.102.122.2o7.net^
 ||hope.euleriancdn.net^
-||hopefoundationindia.in^
 ||hopefulsweeper.blogspot.com^
 ||hope.khcfusa.org^
 ||hope-polska.live^
@@ -50666,6 +50692,7 @@
 ||hosting3.euleriancdn.net^
 ||hosting4.affex.org^
 ||hosting4.euleriancdn.net^
+||hostingbolivia.com^
 ||hosting.conduit.com^
 ||hosting.euleriancdn.net^
 ||hostingfreelife.com^
@@ -51020,7 +51047,6 @@
 ||human.euleriancdn.net^
 ||humanresources.affex.org^
 ||humanresources.euleriancdn.net^
-||humanresourceslifeline.com^
 ||humanverify.net^
 ||humbervalleycu.ca.102.112.2o7.net^
 ||hummer.affex.org^
@@ -51153,6 +51179,7 @@
 ||hyouon32.affex.org^
 ||hyouon32.euleriancdn.net^
 ||hypapa.com^
+||hypejamz.com^
 ||hyper.affex.org^
 ||hypercounter.com^
 ||hyperdisk.actonservice.com^
@@ -52087,7 +52114,6 @@
 ||imap.webtrekk-system.com^
 ||imaqdk.labombilla.fr^
 ||imbc.onthewifi.com^
-||imbueautoworx.co.za^
 ||imc2.122.2o7.net^
 ||imc.affex.org^
 ||imc.euleriancdn.net^
@@ -52358,6 +52384,7 @@
 ||in8.zog.link^
 ||ina.affex.org^
 ||inadestination.com^
+||inadeth.com^
 ||ina.euleriancdn.net^
 ||in.affex.org^
 ||inapi.flygame.io^
@@ -52411,6 +52438,7 @@
 ||indexuniverse.eu^
 ||indgvx.outdoorplay.com^
 ||india.affex.org^
+||indiabraids.com^
 ||india.euleriancdn.net^
 ||india-forums.us.intellitxt.com^
 ||india.mobil-asia.com^
@@ -56569,6 +56597,8 @@
 ||inipost.net^
 ||init.sh^
 ||inkcartridges.com.102.122.2o7.net^
+||inkedclicks.com^
+||ink-store.nl^
 ||inkubate.actonservice.com^
 ||inlcxg.nifeislife.com^
 ||inleadership.co.nz^
@@ -57033,6 +57063,7 @@
 ||intelliverse.actonservice.com^
 ||intelpartneralliance.intel.com^
 ||intel.sifted.com^
+||intentionalministry.com^
 ||interact.crmtechnologies.com^
 ||interaction.eigenherd.com^
 ||interactive.affex.org^
@@ -57497,7 +57528,6 @@
 ||iqrt.searchadvertising.it^
 ||iqtestuj.glt.pl^
 ||iqvhap.globalrose.com^
-||iqwasithealth.com^
 ||ir2i.campagne-audition.fr^
 ||ira.affex.org^
 ||ir.active2035.com^
@@ -58101,7 +58131,6 @@
 ||jay.andycroll.com^
 ||jay.brauerei-egg.at^
 ||jay.breakup.management^
-||jay.diamondrelationscrm.us^
 ||jay.euleriancdn.net^
 ||jay.howivscode.com^
 ||jay.plantainguy.com^
@@ -58193,6 +58222,7 @@
 ||jeffrey.hayzlett.com^
 ||jejodo.life^
 ||jejuskypension.com^
+||jelikob.ru^
 ||jelitto.pl^
 ||jelly.affex.org^
 ||jelly.euleriancdn.net^
@@ -58210,6 +58240,7 @@
 ||jennifer.affex.org^
 ||jennifer.euleriancdn.net^
 ||jennus.com^
+||jennwolfemtb.com^
 ||jenny.affex.org^
 ||jennycraig.112.2o7.net^
 ||jenny.euleriancdn.net^
@@ -58336,6 +58367,7 @@
 ||jilliancamwell.com^
 ||jillianmichaelsweightloss.com.102.112.2o7.net^
 ||jim.affex.org^
+||jimbaran-village.myitas.net^
 ||jimbo.affex.org^
 ||jimbo.euleriancdn.net^
 ||jim.euleriancdn.net^
@@ -58387,6 +58419,7 @@
 ||jkbklm.cbcrabcakes.com^
 ||jkbvdo.kaigojob.com^
 ||jk.euleriancdn.net^
+||jkfun.cn^
 ||jkh8.iberojet.es^
 ||jkontherun.us.intellitxt.com^
 ||jkonulov-com.preview-domain.com^
@@ -58447,6 +58480,7 @@
 ||jobs.mykindafuture.com^
 ||jobs.united-consult.hu^
 ||jobzdk.nuggad.net^
+||jochiexpress.com^
 ||joc.jpnoc.co.jp^
 ||jockey-de.affex.org^
 ||jocoly.esvnpe.com^
@@ -58935,6 +58969,7 @@
 ||jycfcx.perfectpen.ca^
 ||jydfwu.gastrodomus.it^
 ||jy.euleriancdn.net^
+||jyolympiadschool.com^
 ||jypyer.cutenutrition.com^
 ||jyrccx.audicus.com^
 ||jyrs9ygu4n.consistentme.com^
@@ -59467,6 +59502,7 @@
 ||kid.euleriancdn.net^
 ||kidiliz-com.eulerian.net^
 ||kids.affex.org^
+||kidsangelcards.com^
 ||kidsangel.com^
 ||kidsdeservethebest.childrenswi.org^
 ||kids.euleriancdn.net^
@@ -59499,6 +59535,7 @@
 ||kim.euleriancdn.net^
 ||kimoto.affex.org^
 ||kimoto.euleriancdn.net^
+||kimyen.net^
 ||kimzchefsuganda.com^
 ||kinder.affex.org^
 ||kindercare.com.102.112.2o7.net^
@@ -61045,6 +61082,7 @@
 ||legion.affex.org^
 ||legion.euleriancdn.net^
 ||legitreviews-uk.intellitxt.com^
+||legitwap.com^
 ||lego.affex.org^
 ||lego.com.102.112.2o7.net^
 ||lego.euleriancdn.net^
@@ -61219,7 +61257,6 @@
 ||lg.affex.org^
 ||lgbdxo.azazie.com^
 ||lgd8.olailhascanarias.com^
-||lgdmproperty.com^
 ||lgdnxx.stihldealer.net^
 ||lgelectronics.122.2o7.net^
 ||lg.euleriancdn.net^
@@ -61316,6 +61353,7 @@
 ||lichidarifirme.com^
 ||lichln.blingpainting.com^
 ||lick.my^
+||lidaxianren.com^
 ||lider.affex.org^
 ||lider.euleriancdn.net^
 ||lidia.affex.org^
@@ -61837,6 +61875,7 @@
 ||livestrong.us.intellitxt.com^
 ||livesupport.affex.org^
 ||livesupport.euleriancdn.net^
+||livetrack.in^
 ||livetus.com^
 ||live.verndale.com^
 ||livewell.net^
@@ -62024,6 +62063,7 @@
 ||locationdevoiture01.wt-eu02.net^
 ||location.leclerc.eulerian.net^
 ||locations.becn.com^
+||location-voitures.ma^
 ||locator.affex.org^
 ||locator.euleriancdn.net^
 ||loc.gov.102.122.2o7.net^
@@ -62685,7 +62725,6 @@
 ||lrspain.wolterskluwer.com^
 ||ls.affex.org^
 ||lsbeim.mediamart.vn^
-||ls-droid.com^
 ||lse.uk.intellitxt.com^
 ||ls.euleriancdn.net^
 ||lsg.affex.org^
@@ -62718,7 +62757,6 @@
 ||lt.affex.org^
 ||ltam2.secureforms.mcafee.com^
 ||ltcnetwork.mhainc.com^
-||ltc.typoten.com^
 ||lt.euleriancdn.net^
 ||lthbdc.become.co.jp^
 ||lthbdc.mechakaitai.com^
@@ -62822,7 +62860,6 @@
 ||lumiere.affex.org^
 ||lumiere.euleriancdn.net^
 ||luminarinsights.actonservice.com^
-||luminouspneuma.com^
 ||lumix.panasonic.eu^
 ||luna.affex.org^
 ||luna.euleriancdn.net^
@@ -63138,6 +63175,7 @@
 ||madeleineprod01.wt-eu02.net^
 ||mad.euleriancdn.net^
 ||madi.affex.org^
+||madicon.co.za^
 ||madieandme.com.au^
 ||madi.euleriancdn.net^
 ||madisenharper.com^
@@ -64582,7 +64620,6 @@
 ||maker.affex.org^
 ||maker.euleriancdn.net^
 ||mak.euleriancdn.net^
-||makeurocement.mn^
 ||makeushot.us.intellitxt.com^
 ||makeyourmoney.space^
 ||maki.affex.org^
@@ -64640,7 +64677,6 @@
 ||malotedigital.euleriancdn.net^
 ||malta.affex.org^
 ||malta.euleriancdn.net^
-||maltepecastajanslari.bykmedya.com^
 ||maltipoo883.site^
 ||ma.lumenradio.com^
 ||malverngazette-gb.malverngazette.co.uk^
@@ -64781,7 +64817,6 @@
 ||manvspixel.pl^
 ||manygoodnews.com^
 ||ma.okuri-mono.com^
-||maooutsourcing.com^
 ||mapa.affex.org^
 ||mapa.euleriancdn.net^
 ||map.affex.org^
@@ -64825,6 +64860,7 @@
 ||mapy.euleriancdn.net^
 ||mapz.affex.org^
 ||mapz.euleriancdn.net^
+||maquinadosgutierrez.com^
 ||mara.affex.org^
 ||marabu.xyz^
 ||mara.euleriancdn.net^
@@ -67649,6 +67685,7 @@
 ||marmot.theshootingcentre.com^
 ||maroc.affex.org^
 ||maroc.euleriancdn.net^
+||marquesvogt.com^
 ||marriage.affex.org^
 ||marriage.euleriancdn.net^
 ||marriageunblocked.com^
@@ -67999,7 +68036,6 @@
 ||m.bellwethercoffee.com^
 ||mbeoxt.perfumesclub.pt^
 ||mb.euleriancdn.net^
-||mbgrm.com^
 ||mbhs.hrm.healthgrades.com^
 ||mbkqtz.bestblanks.com^
 ||mb.logging.admicro.vn^
@@ -68025,6 +68061,7 @@
 ||mbs.affex.org^
 ||mbs.euleriancdn.net^
 ||mbs.modernbuilderssupply.com^
+||mbx.com.au^
 ||mb.zam.com^
 ||mc01.eulerian.net^
 ||mc02.eulerian.net^
@@ -68365,6 +68402,7 @@
 ||mediamond.nuggad.net^
 ||media.net.daraz.com^
 ||medianet.postaffiliatepro.com^
+||medianews.ge^
 ||media.og-affiliate.com^
 ||media.org.adtimaserver.vn^
 ||media.perial.info^
@@ -68493,6 +68531,7 @@
 ||meetings.awprx.com^
 ||meetings.euleriancdn.net^
 ||meetingsnet.com.102.122.2o7.net^
+||meetingwebinar.net^
 ||meetjennifer.com^
 ||meet.logoscreative.co^
 ||meet.maddyness.com^
@@ -68520,6 +68559,7 @@
 ||meg.affex.org^
 ||megagiganten.se^
 ||mega-gry.com^
+||megagynreformas.com.br^
 ||megalo.eulerian.net^
 ||megamediadm.affex.org^
 ||megamediadm.euleriancdn.net^
@@ -68697,6 +68737,7 @@
 ||meridianbanker.actonservice.com^
 ||meridian.euleriancdn.net^
 ||meriwest.actonservice.com^
+||merkantile-honeywell.com^
 ||merkatt.com^
 ||merkur.affex.org^
 ||merkur.euleriancdn.net^
@@ -69662,7 +69703,6 @@
 ||mimi.affex.org^
 ||mimi.euleriancdn.net^
 ||mimo.affex.org^
-||mimocestasepresentes.com.br^
 ||mimo.euleriancdn.net^
 ||mimosa.affex.org^
 ||mimosa.euleriancdn.net^
@@ -69686,6 +69726,7 @@
 ||minecraft.affex.org^
 ||minecraft.euleriancdn.net^
 ||mine.euleriancdn.net^
+||minelaan.com^
 ||mineral.affex.org^
 ||mineral.euleriancdn.net^
 ||minerswop.com^
@@ -70173,7 +70214,7 @@
 ||mmc.euleriancdn.net^
 ||mm.championenergyservices.com^
 ||mmc-ltd.actonservice.com^
-||mmd.cityhelpcall.com^
+||mmdx.com^
 ||mmdylo.missisleepy.pl^
 ||mmedia.affex.org^
 ||mmedia.euleriancdn.net^
@@ -70327,6 +70368,7 @@
 ||mobile.euleriancdn.net^
 ||mobilefineart.com^
 ||mobile-global-apps-storages.life^
+||mobilehomeebook.com^
 ||mobileiron.affex.org^
 ||mobileiron.euleriancdn.net^
 ||mobilejmp.com^
@@ -70934,6 +70976,7 @@
 ||mpal.ca^
 ||mpassde01.webtrekk.net^
 ||mpbio.com.102.112.2o7.net^
+||mpcbahamas.com^
 ||mpc-co.actonservice.com^
 ||mpcyzg.dogpre.com^
 ||mp.digital.wilhelmsen.com^
@@ -71112,6 +71155,7 @@
 ||msn-smtp-out.euleriancdn.net^
 ||msnsports.com^
 ||msntrademarketing.112.2o7.net^
+||msntv.in^
 ||msnwinonecare.112.2o7.net^
 ||ms.onscroll.com^
 ||msp.affex.org^
@@ -74479,6 +74523,7 @@
 ||nasa.affex.org^
 ||nasa.euleriancdn.net^
 ||nas.affex.org^
+||nasapaul.com^
 ||nasc.affex.org^
 ||nascar.affex.org^
 ||nascar.com.102.112.2o7.net^
@@ -74612,6 +74657,7 @@
 ||naturalvet.us^
 ||naturalwellbeing.com.102.112.2o7.net^
 ||nature.affex.org^
+||natureandart.it^
 ||natureasremedy.com^
 ||nature.euleriancdn.net^
 ||nature.org.102.112.2o7.net^
@@ -74804,6 +74850,7 @@
 ||neon81552.site^
 ||neon.affex.org^
 ||neon.euleriancdn.net^
+||neonluzz.com^
 ||neonmag-fr.neonmag.fr^
 ||neoseeker.us.intellitxt.com^
 ||neosllc.actonservice.com^
@@ -75453,7 +75500,6 @@
 ||nextauto.eulerian.net^
 ||nextcloud.eulerian.net^
 ||nextcname.getblueshift.com^
-||nextdigitalday.ru^
 ||next.euleriancdn.net^
 ||next.eulerian.com^
 ||next.eulerian.eu^
@@ -76064,6 +76110,7 @@
 ||nova.affex.org^
 ||novabase.actonservice.com^
 ||nova.euleriancdn.net^
+||novahcca.com^
 ||nova-healthcare.actonservice.com^
 ||novainvests.com^
 ||novartisoncology.com.102.122.2o7.net^
@@ -76356,6 +76403,7 @@
 ||ns1.net.daraz.com^
 ||ns1.ropescoursesinc.com^
 ||ns1.the-sinner.net^
+||ns1.the-widyantos.com^
 ||ns1.vicp.net^
 ||ns1.viviotech.net.daraz.com^
 ||ns1.wcohus.teradatadmc.com^
@@ -76723,6 +76771,7 @@
 ||nurflv.bureauxlocaux.com^
 ||nuri.affex.org^
 ||nuri.euleriancdn.net^
+||nurmarkaz.org^
 ||nurse.affex.org^
 ||nurse.euleriancdn.net^
 ||nurshazcadbury.blogspot.com^
@@ -78246,9 +78295,11 @@
 ||oleg.affex.org^
 ||oleg.euleriancdn.net^
 ||olegseno.pw^
+||oleholeh.memangbeda.website^
 ||olejzus.pl^
 ||oleksy.net.pl^
 ||olemissrebels.com^
+||oleoresins.a1oilindia.in^
 ||olflowdesign.at^
 ||olfrzo.webmotors.com.br^
 ||olga.affex.org^
@@ -81034,6 +81085,7 @@
 ||online.mazars.fr^
 ||onlinenewvibes.com^
 ||online.nl.102.122.2o7.net^
+||onlinenovoline.net^
 ||online-olx.com^
 ||online-payu2442311.pl^
 ||online.propakchina.com^
@@ -81202,6 +81254,7 @@
 ||opera.affex.org^
 ||opera.euleriancdn.net^
 ||oper.affex.org^
+||operapositano.com.ar^
 ||operations.affex.org^
 ||operations.euleriancdn.net^
 ||operator.affex.org^
@@ -81235,7 +81288,6 @@
 ||opodo.co.uk.102.122.2o7.net^
 ||opoffice.actonservice.com^
 ||opole24.xyz^
-||opolis.io^
 ||opossum.eyalgantz.com^
 ||opossum.roleup.com^
 ||opossum.stephanieharari.com^
@@ -81476,6 +81528,7 @@
 ||orionis.techradar.com^
 ||orionkeraily.fi^
 ||orionmarketing.actonservice.com^
+||orioto.com^
 ||ori-sfera.pl^
 ||ork.affex.org^
 ||ork.euleriancdn.net^
@@ -81791,6 +81844,7 @@
 ||ovh.affex.org^
 ||ovh.euleriancdn.net^
 ||ovident.com^
+||ovni.chat^
 ||ovomqo.e-menessaptieka.lv^
 ||ovpn.affex.org^
 ||ovpn.euleriancdn.net^
@@ -81934,7 +81988,6 @@
 ||pabgey.siepomaga.pl^
 ||pa.bigwave-pardot.ga^
 ||pablo.affex.org^
-||pablobrothel.com.ar^
 ||pablo.euleriancdn.net^
 ||pac12.hb-api.omtrdc.net^
 ||pac12.hb.omtrdc.net^
@@ -83743,6 +83796,7 @@
 ||perfecttools.pl^
 ||perfecturist.pl^
 ||perfekcyjnaforma.com^
+||perfexcrm.bangkokdev.co^
 ||perfil.affex.org^
 ||perfil.euleriancdn.net^
 ||performance360-de.affex.org^
@@ -83767,6 +83821,7 @@
 ||peridot.affex.org^
 ||peridot.euleriancdn.net^
 ||perimeter81.postaffiliatepro.com^
+||perimood.com^
 ||periodismo.affex.org^
 ||periodismo.euleriancdn.net^
 ||perjeta.com.102.112.2o7.net^
@@ -84050,6 +84105,7 @@
 ||pharm.affex.org^
 ||pharmahubgh.com^
 ||pharm.euleriancdn.net^
+||pharmrhy.in^
 ||pharnacat.postaffiliatepro.com^
 ||pharos.affex.org^
 ||pharos.euleriancdn.net^
@@ -84588,6 +84644,7 @@
 ||pjcontent.waterlogicaustralia.com.au^
 ||pjcontent.waterlogic.com^
 ||pjcontent.waterlogic.de^
+||pj-cut.com^
 ||pje.affex.org^
 ||pje.euleriancdn.net^
 ||pj.euleriancdn.net^
@@ -86251,6 +86308,7 @@
 ||prepaid.euleriancdn.net^
 ||prepaid-global.postaffiliatepro.com^
 ||preparationh.com.102.122.2o7.net^
+||preparekrok.com^
 ||prep.euleriancdn.net^
 ||preprod.affex.org^
 ||preprod.euleriancdn.net^
@@ -86380,6 +86438,7 @@
 ||primer.euleriancdn.net^
 ||primes-energie-leclerc.eulerian.net^
 ||primeshopee.com^
+||primesporthub.com^
 ||primestarmagazine.112.2o7.net^
 ||primetimesolutions.tt.omtrdc.net^
 ||primocake.ma^
@@ -86667,6 +86726,7 @@
 ||prog.prog-capital1.site^
 ||programacanguro.org^
 ||program.affex.org^
+||programapode.com^
 ||programas.affex.org^
 ||programas.euleriancdn.net^
 ||programdarmowy.pl^
@@ -86757,7 +86817,6 @@
 ||prolabs.actonservice.com^
 ||prolevelsignage.com^
 ||pro-lifemax.xyz^
-||promas.com^
 ||promeblemania.pl^
 ||promesa.moonfruit.com^
 ||prometheus.affex.org^
@@ -86868,7 +86927,6 @@
 ||properties.euleriancdn.net^
 ||properties.insiterealestate.com^
 ||property.affex.org^
-||property.doveinfotech.com^
 ||property.dyedurham.com.au^
 ||property.euleriancdn.net^
 ||propertyonion.postaffiliatepro.com^
@@ -87211,6 +87269,7 @@
 ||pub-dev.novaonx.com^
 ||pub.euleriancdn.net^
 ||pub.focus.de^
+||pubkom.sn^
 ||publica.affex.org^
 ||publica.euleriancdn.net^
 ||public.affex.org^
@@ -87227,6 +87286,7 @@
 ||publicidad.affex.org^
 ||publicidad.entelchile.net^
 ||publicidad.euleriancdn.net^
+||publicidadyireh.com^
 ||publicity.otherpress.com^
 ||publicopiniononline.com.102.112.2o7.net^
 ||publicschoolworks.actonservice.com^
@@ -87316,7 +87376,6 @@
 ||punany.com^
 ||puna.pl^
 ||punchjump.us.intellitxt.com^
-||punjabdevelopersassociation.com.pk^
 ||punjabi.affex.org^
 ||punjabi.euleriancdn.net^
 ||punk.affex.org^
@@ -87418,6 +87477,7 @@
 ||pvn.rewe.de^
 ||pvoheg.bubbleroom.se^
 ||pvsb.com.102.112.2o7.net^
+||pvtfans.com^
 ||pw2.ro^
 ||pw9.projektpl8.site^
 ||pwa.affex.org^
@@ -88213,7 +88273,6 @@
 ||rat.affex.org^
 ||rat.am5.vip.prod.criteo.com^
 ||ratemodels.net^
-||ratemyfenancialadvisor.com^
 ||rate.opinionlab.com^
 ||rates.affex.org^
 ||rates.euleriancdn.net^
@@ -88315,6 +88374,7 @@
 ||rc.i2i.jp^
 ||rcknr.io^
 ||rcm.affex.org^
+||rcmesilva.charbelsales.com.br^
 ||rcm.euleriancdn.net^
 ||rcn.com.102.112.2o7.net^
 ||rcntelecom.112.2o7.net^
@@ -88557,6 +88617,7 @@
 ||redaktion.affex.org^
 ||redaktion.euleriancdn.net^
 ||redapt.actonservice.com^
+||redbats.co.in^
 ||redbear.pl^
 ||redbooks.actonservice.com^
 ||redbox.affex.org^
@@ -89328,7 +89389,6 @@
 ||ren.affex.org^
 ||rencontres.valobat.fr^
 ||rendity.postaffiliatepro.com^
-||renehavis.com.ua^
 ||renesas.com.102.122.2o7.net^
 ||ren.euleriancdn.net^
 ||renewablenrgsystemslp.msgapp.com^
@@ -89744,6 +89804,7 @@
 ||results.affex.org^
 ||results.euleriancdn.net^
 ||resume.affex.org^
+||resumechakra.in^
 ||resume.euleriancdn.net^
 ||retail-adebis.aidemy.net^
 ||retail.affex.org^
@@ -90181,7 +90242,6 @@
 ||roberto.affex.org^
 ||roberto.euleriancdn.net^
 ||robertsguide.com^
-||robertsinclair.net^
 ||rob.euleriancdn.net^
 ||rob.extoleu.com^
 ||robin.affex.org^
@@ -91473,7 +91533,6 @@
 ||saffron.affex.org^
 ||saffron.euleriancdn.net^
 ||safirapp.postaffiliatepro.com^
-||saf-oil.ru^
 ||safoobody.info^
 ||sa.foodnetwork.com^
 ||saga.affex.org^
@@ -91496,6 +91555,7 @@
 ||sahil.euleriancdn.net^
 ||sa.hlserve.com^
 ||said.affex.org^
+||saidaikaraneswarartemple.com^
 ||saidatulasmiza.blogspot.com^
 ||said.euleriancdn.net^
 ||saigon.affex.org^
@@ -91930,6 +91990,7 @@
 ||sanfrancisco.affex.org^
 ||sanfrancisco.euleriancdn.net^
 ||sanfranciscousedcarsforsale.com^
+||sangramfoundation.com^
 ||sangsang.affex.org^
 ||sangsang.euleriancdn.net^
 ||sanisfeer.nl^
@@ -92071,6 +92132,7 @@
 ||sawfish.johnbraun.blog^
 ||sawfish.loqbooq.app^
 ||sawpih.bambystore.it^
+||sawtax.com^
 ||sawyer.affex.org^
 ||sawyer.euleriancdn.net^
 ||saxobank.com.102.112.2o7.net^
@@ -92099,6 +92161,7 @@
 ||sayac.euleriancdn.net^
 ||sayac.onlinewebstat.com^
 ||sayac.onlinewebstats.com^
+||sayegfinanceira.com.br^
 ||sayhello.popunder.ru^
 ||sayherbal.com^
 ||sb1.affex.org^
@@ -92224,7 +92287,6 @@
 ||science.euleriancdn.net^
 ||scienceworldreport.us.intellitxt.com^
 ||scientific.us.horiba.com^
-||scientisthub.online^
 ||scierka.icu^
 ||sci.euleriancdn.net^
 ||sci.intuit.co.uk^
@@ -92554,6 +92616,7 @@
 ||seavideo-ak.espn.go.com^
 ||seba.affex.org^
 ||seba.euleriancdn.net^
+||seba.sit.uproducts.in^
 ||sebastea.pl^
 ||sebastian.affex.org^
 ||sebastian.euleriancdn.net^
@@ -92591,7 +92654,6 @@
 ||se.cqcounter.com^
 ||secret.affex.org^
 ||secret.euleriancdn.net^
-||secretofsuccess.online^
 ||secrets.affex.org^
 ||secrets.euleriancdn.net^
 ||secretwish.pl^
@@ -93561,7 +93623,6 @@
 ||servicos.euleriancdn.net^
 ||servidor.affex.org^
 ||servidor.euleriancdn.net^
-||servidor.indommus.com^
 ||servieckartepayau.com^
 ||serving.xxxwebtraffic.com^
 ||servis.affex.org^
@@ -93829,7 +93890,6 @@
 ||sh.affex.org^
 ||shaggy.affex.org^
 ||shaggy.euleriancdn.net^
-||shahu66.com^
 ||shaka.affex.org^
 ||shaka.euleriancdn.net^
 ||shakira.affex.org^
@@ -94140,7 +94200,6 @@
 ||shiva.affex.org^
 ||shiva.euleriancdn.net^
 ||shivmax.com^
-||shizhi.co^
 ||shjwhv.falsepeti.com^
 ||shleep.it^
 ||shlinks.industrybrains.com^
@@ -94178,7 +94237,6 @@
 ||shop.euleriancdn.net^
 ||shophq.com.102.122.2o7.net^
 ||shopilgazzettinoitalia01.wt-eu02.net^
-||shopilyv.com^
 ||shoplexusdealer.com.102.112.2o7.net^
 ||shopmyexchange.com.102.122.2o7.net^
 ||shopnational.com.102.122.2o7.net^
@@ -94685,6 +94743,7 @@
 ||siusnl.anime-store.fr^
 ||siva.affex.org^
 ||siva.euleriancdn.net^
+||siwannews.in^
 ||six9e.canal.fr^
 ||six.affex.org^
 ||sixapart.112.2o7.net^
@@ -94745,6 +94804,7 @@
 ||skills.affex.org^
 ||skills.euleriancdn.net^
 ||skillshouse.actonservice.com^
+||skillsofknowledge.com^
 ||skillsoft.website^
 ||skimlinkscom.skimlinks.com^
 ||skin.affex.org^
@@ -100255,6 +100315,7 @@
 ||solving.ashland.com^
 ||solving.complex-care.com^
 ||solvusoft.com^
+||sol-wellness.com^
 ||som.a1vacations.com^
 ||soma.affex.org^
 ||somabreath.postaffiliatepro.com^
@@ -100632,7 +100693,6 @@
 ||sota.affex.org^
 ||sota.euleriancdn.net^
 ||sot.affex.org^
-||sota-france.fr^
 ||sote.affex.org^
 ||sote.euleriancdn.net^
 ||sotelsystems.actonservice.com^
@@ -100693,6 +100753,7 @@
 ||southwest.com.102.112.2o7.net^
 ||southwestfarmer-gb.southwestfarmer.co.uk^
 ||southwestfarmpress.com.102.122.2o7.net^
+||souzaircondicionado.com^
 ||sovage.com.102.112.2o7.net^
 ||sovlabs.postaffiliatepro.com^
 ||sow.affex.org^
@@ -100779,6 +100840,7 @@
 ||sparkcentral.actonservice.com^
 ||spark.co.nz.102.112.2o7.net^
 ||spark.euleriancdn.net^
+||sparkeventz.com^
 ||sparkle.affex.org^
 ||sparkle.euleriancdn.net^
 ||sparknetworks.112.2o7.net^
@@ -100998,7 +101060,6 @@
 ||spica.euleriancdn.net^
 ||spice.affex.org^
 ||spice.euleriancdn.net^
-||spiceoils.a1oilindia.in^
 ||spicesjustright.blogspot.com^
 ||spider.affex.org^
 ||spider.capricciocolumbus.org^
@@ -102303,6 +102364,7 @@
 ||staging2.zegalogue.com^
 ||staging.affex.org^
 ||staging.api.adtimaserver.vn^
+||staging.apparelpunch.com^
 ||staging-d.ants.vn^
 ||staging-d-tiki.ants.vn^
 ||staging-e.anthill.vn^
@@ -102343,6 +102405,7 @@
 ||standardpacifichomes.com.102.112.2o7.net^
 ||standby.affex.org^
 ||standby.euleriancdn.net^
+||standby.org^
 ||standingtotheend.org^
 ||stan.euleriancdn.net^
 ||stanion.actonservice.com^
@@ -102362,6 +102425,7 @@
 ||star9.euleriancdn.net^
 ||star-ad4mat-com.affex.org^
 ||star.affex.org^
+||staralbert.com^
 ||starbase.pro^
 ||starbase.tech^
 ||starcards.caltex.com.au^
@@ -104067,6 +104131,7 @@
 ||stocks.euleriancdn.net^
 ||stocksons.com^
 ||stocksons.live^
+||stoicguru.in^
 ||stolek.icu^
 ||stomatologia-w.lublin.lu^
 ||stone.affex.org^
@@ -104095,6 +104160,7 @@
 ||storagebox.ie^
 ||storage.com.102.122.2o7.net^
 ||storage.euleriancdn.net^
+||storage-list.com^
 ||storage.softdocs.com^
 ||store1.affex.org^
 ||store1.euleriancdn.net^
@@ -104859,6 +104925,7 @@
 ||survivors.euleriancdn.net^
 ||surya.affex.org^
 ||surya.euleriancdn.net^
+||suryatp.com^
 ||surys.ingroupe.community^
 ||sus.affex.org^
 ||susan.affex.org^
@@ -105589,6 +105656,7 @@
 ||talk.euleriancdn.net^
 ||talkincloud.com.102.122.2o7.net^
 ||talkline-de.affex.org^
+||talktalkchu.com^
 ||talkto.assurity.sg^
 ||talkto.comreal.com^
 ||tallahassee.affex.org^
@@ -105832,6 +105900,7 @@
 ||tavelscape.com^
 ||tavusn.yogaoutlet.com^
 ||tax.affex.org^
+||taxclubpk.com^
 ||tax.euleriancdn.net^
 ||taxi.affex.org^
 ||taxi.com.102.122.2o7.net^
@@ -106746,6 +106815,7 @@
 ||theaba.actonservice.com^
 ||theadvertiser.us.intellitxt.com^
 ||the.affex.org^
+||theamazingbuy.com^
 ||theangelblankets.co^
 ||theargus-gb.theargus.co.uk^
 ||theater.affex.org^
@@ -107181,6 +107251,7 @@
 ||tilt.da1.vip.prod.criteo.com^
 ||tilt.va1.vip.prod.criteo.com^
 ||tim.affex.org^
+||timamollo.co.za^
 ||timberland.com.102.112.2o7.net^
 ||timberland.es.102.112.2o7.net^
 ||timberland.fr.102.112.2o7.net^
@@ -107941,6 +108012,7 @@
 ||tp-heine-shop-nl.oghub.io^
 ||tp.helline.fr^
 ||tp-helline-fr.oghub.io^
+||tphouse.top^
 ||tpi.affex.org^
 ||t.pierreprinetti.com^
 ||tpi.euleriancdn.net^
@@ -110486,7 +110558,6 @@
 ||tux.affex.org^
 ||tux.euleriancdn.net^
 ||tuyendung.mediaz.vn^
-||tuzlacastajanslari.bykmedya.com^
 ||tuzynj.sacha.nl^
 ||tv1.affex.org^
 ||tv1.euleriancdn.net^
@@ -110849,6 +110920,7 @@
 ||uds.affex.org^
 ||uds.euleriancdn.net^
 ||udsgty.alkosto.com^
+||u-dstudio.com^
 ||udziele-pozyczki-prywatnie.pl^
 ||udzsgk.myclassico.com^
 ||ueb4.destinia.tw^
@@ -111001,6 +111073,7 @@
 ||ulsterbank.co.uk.102.122.2o7.net^
 ||ultima.affex.org^
 ||ultima.euleriancdn.net^
+||ultimate-24.de^
 ||ultimate.affex.org^
 ||ultimatebackstore.com.102.112.2o7.net^
 ||ultimatebundles.postaffiliatepro.com^
@@ -111132,6 +111205,7 @@
 ||united.affex.org^
 ||unitedautocredit.actonservice.com^
 ||unitedblades.co.jp^
+||unitedengineeringco.com^
 ||united.euleriancdn.net^
 ||unitedmedsshop.com^
 ||unitedproductsllc.net^
@@ -111235,6 +111309,7 @@
 ||upcomingengineer.com^
 ||up-coop.eulerian.net^
 ||upcqgl.idrive.com^
+||upcsincensuras.info^
 ||upcty2.wixsite.com^
 ||upd.affex.org^
 ||updat124.blogspot.com^
@@ -111663,6 +111738,7 @@
 ||vagabondbuty.com^
 ||vagabondpolska.com^
 ||vagansafety.org^
+||vagaspet.com^
 ||vaillant02.webtrekk.net^
 ||vailresorts.hb.omtrdc.net^
 ||vaime.net.popunder.ru^
@@ -111902,6 +111978,7 @@
 ||vejapolska.pl^
 ||vejawarszawa.com^
 ||vekekc.nissanblainville.com^
+||vektro.asia^
 ||vela.affex.org^
 ||vela.euleriancdn.net^
 ||velce.pw^
@@ -112075,7 +112152,6 @@
 ||vfdeprod.amobee.com^
 ||vfdiye.daskeyboard.com^
 ||vf.euleriancdn.net^
-||vfocus.net^
 ||vfraiv.phlov.com^
 ||vfspriority.com^
 ||vfspriority.pw^
@@ -112530,10 +112606,12 @@
 ||vivaldi.affex.org^
 ||vivaldi.euleriancdn.net^
 ||vivatechnology.com.eulerian.net^
+||vivationdesign.com^
 ||vive.affex.org^
 ||vive.euleriancdn.net^
 ||vivekkiclass.com^
 ||vivereeviaggiare.it.102.122.2o7.net^
+||viverosvila.es^
 ||vivi.affex.org^
 ||vivian.affex.org^
 ||vivian.euleriancdn.net^
@@ -113025,7 +113103,6 @@
 ||vote.affex.org^
 ||vote.euleriancdn.net^
 ||vote.sparklit.com^
-||vote.yixuecup.com^
 ||voting.affex.org^
 ||voting.euleriancdn.net^
 ||vouzpu.tokyolife.co.jp^
@@ -113309,7 +113386,6 @@
 ||vulkanvegas-24.com^
 ||vulkanvegasbonus.helpinghandimmigration.com^
 ||vulkan-vegas.cc^
-||vulkanvegas.go-sell.com.co^
 ||vulkanvegas-offers.com^
 ||vulkan-vegas.pl^
 ||vulkanvegas-pl.com^
@@ -123716,6 +123792,7 @@
 ||weber.euleriancdn.net^
 ||webestreams.postaffiliatepro.com^
 ||web.euleriancdn.net^
+||web.excelinstitutions.com^
 ||webform.aossms.com^
 ||webform.incircle.jp^
 ||webform.polleverywhere.com^
@@ -124540,6 +124617,7 @@
 ||wild.euleriancdn.net^
 ||wildfowl.dualascent.com^
 ||wildfowl.getmoneyoff.com^
+||wildnights.co.uk^
 ||wildwolf.minter.io^
 ||wileypublishing.112.2o7.net^
 ||wiljekoffie.365werk.nl^
@@ -130991,7 +131069,7 @@
 ||xj.affex.org^
 ||xj.euleriancdn.net^
 ||xjkugh.waterdropfilter.com^
-||xk1.996is.com^
+||xk.996is.com^
 ||xk.affex.org^
 ||xkarasogi.blogspot.com^
 ||xk.euleriancdn.net^
@@ -131105,7 +131183,6 @@
 ||xn--nskeseddelen-ujb.com^
 ||xn--os-g7s.com^
 ||xn--pasaer-spb.pl^
-||xn--polimerbizmimarlk-rvc.com^
 ||xn--polonex-ffb.com^
 ||xn--poyczaj-xwb.online.pl^
 ||xn--shpeshift-11a.com^
@@ -131161,6 +131238,7 @@
 ||xray.affex.org^
 ||xray.euleriancdn.net^
 ||xrdcyg.ellementry.com^
+||xre.popmonster.ru^
 ||xrgkir.distance.ro^
 ||xrhrrk.steepandcheap.com^
 ||xrijtp.wineenthusiast.com^
@@ -131418,6 +131496,7 @@
 ||yedek.affex.org^
 ||yedek.euleriancdn.net^
 ||yeeeah.us.intellitxt.com^
+||yeichner.com^
 ||yeimisecheverry.com^
 ||yeisonchacon.ottimosoft1.com^
 ||yellauctions.com.102.122.2o7.net^
@@ -131664,7 +131743,6 @@
 ||ysaaks.mobiauto.com.br^
 ||ysafcv.auto-platinium.com^
 ||ys.affex.org^
-||ysbaojia.com^
 ||ysear.ch^
 ||ysekcv.voyage-prive.co.uk^
 ||ys.euleriancdn.net^
@@ -131683,7 +131761,6 @@
 ||ytouvy.arezzo.com.br^
 ||ytpnlr.plusshop.se^
 ||ytuy45fxs.appspot.com^
-||ytvnews.info^
 ||ytwtxi.beautybio.com^
 ||ytxpnx.shokunosoyokaze.com^
 ||ytzzfs.mynamenecklace.com^

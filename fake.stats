@@ -13,9 +13,8 @@ Config:
 
    ../../data/dead.list
 
--- Whitelists - 5:
+-- Whitelists - 4:
 
-   ../../data/exclude.list
    ../../data/exclude.list
    ../../data/white.list.apple
    ../../data/white.list.microsoft
@@ -32,7 +31,7 @@ Initialize ...
   Nr |   Count | Format  | Source | Status  | File      | URL/File
    1 |    2197 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
-   3 |   16625 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+   3 |   16627 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
    4 |    1483 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
    5 |      45 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
    6 |    5650 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
@@ -44,14 +43,14 @@ Initialize ...
 
 Stats fake:
 
-** Source (raw):    29655
-== Source (unique): 27150 (-2505)
--- White:           27062 (-88)
--- White(*):        27062 (-0)
--- Unblock:         27062 (-0)
--- Dead:            23167 (-3895)
-++ FLD:             23302 (+135)
-++ WWW:             45615 (+22313)
+** Source (raw):    29657
+== Source (unique): 27152 (-2505)
+-- White:           27064 (-88)
+-- White(*):        27064 (-0)
+-- Unblock:         27064 (-0)
+-- Dead:            23169 (-3895)
+++ FLD:             23304 (+135)
+++ WWW:             45618 (+22314)
 
 # Convert fake to Hostlist ... 
 
@@ -74,10 +73,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling fake.adblock.raw
-ℹ Original length is 23134
-ℹ Length after applying transformations is 23134
-ℹ The list was compressed from 23137 to 23118
-ℹ Final length of the list is 23124
+ℹ Original length is 23136
+ℹ Length after applying transformations is 23136
+ℹ The list was compressed from 23139 to 23120
+ℹ Final length of the list is 23126
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/fake/out/fake.adblock
 ℹ Finished compiling
 
