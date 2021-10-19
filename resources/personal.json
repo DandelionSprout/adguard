@@ -1,0 +1,13 @@
+{
+  "name": "Personal",
+  "sources": [
+    {
+      "source": "https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/personal.txt",
+      "type": "hosts",
+      "transformations": [
+        "RemoveComments",
+        "Compress"
+      ]
+    }
+  ]
+}

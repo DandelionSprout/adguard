@@ -1,0 +1,12 @@
+{
+    "name": "StevenBlack",
+    "sources": [
+        {
+            "source": "/media/nas/tmp/work/sb.txt",
+            "type": "hosts"
+        }
+    ],
+    "transformations": [
+        "Compress"
+    ]
+}

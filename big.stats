@@ -1,0 +1,101 @@
+### Compile big Blocklist ###
+
+Config:
+
+** Build - 4:
+
+   hosts
+   adblock
+   no_adblock_convert
+   localpush
+
+Initialize ...
+
+# Download and convert Sourcelists ...
+
+  Nr |   Count | Format  | Source | Status  | File      | URL/File
+   1 |  471799 | domains | local  | online  | changed   | multi.txt
+   2 |   45615 | domains | local  | online  | unchanged | fake.txt
+   3 |  107915 | domains | local  | online  | changed   | big_extension.domains
+   4 | 1012670 | domains | http   | online  | unchanged | https://dbl.oisd.nl
+
+# Build big Domainlist ...
+
+Stats big:
+
+** Source (raw):    1637999
+== Source (unique): 1354733 (-283266)
+
+# Convert big to Hostlist ... 
+
+# Convert big to AdBlocklist ...
+
+ℹ Starting @adguard/hostlist-compiler v1.0.12
+ℹ Starting the compiler
+ℹ Configuration: {
+    "name": "Big",
+    "sources": [
+        {
+            "source": "/media/nas/git/adguard/multi.adblock",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments",
+                "Validate"
+            ]
+        },
+        {
+            "source": "/media/nas/git/adguard/fake.adblock",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments",
+                "Validate"
+            ]
+        },
+        {
+            "source": "../../big_extension/out/big_extension.adblock",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments",
+                "Validate"
+            ]
+        },
+        {
+            "source": "https://abp.oisd.nl/",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments",
+                "Validate"
+            ]
+        }
+    ],
+    "transformations": [
+        "RemoveComments",
+        "Compress"
+    ]
+}
+ℹ Start compiling /media/nas/git/adguard/multi.adblock
+ℹ Original length is 258897
+ℹ Removed 122 comments
+ℹ Length after applying transformations is 258773
+ℹ Start compiling /media/nas/git/adguard/fake.adblock
+ℹ Original length is 23156
+ℹ Removed 41 comments
+ℹ Length after applying transformations is 23115
+ℹ Start compiling ../../big_extension/out/big_extension.adblock
+ℹ Original length is 102942
+ℹ Removed 0 comments
+ℹ Length after applying transformations is 102942
+ℹ Start compiling https://abp.oisd.nl/
+ℹ Original length is 389342
+ℹ Removed 13 comments
+ℹ Length after applying transformations is 389328
+ℹ Removed 12 comments
+ℹ The list was compressed from 774158 to 591810
+ℹ Final length of the list is 591816
+ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/big/out/big.adblock
+ℹ Finished compiling
+
+# Attach header to big Domainlist ...
+
+# Push big to local Repositories ...
+

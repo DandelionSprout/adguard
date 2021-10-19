@@ -1,0 +1,95 @@
+### Compile affiliatetracking Blocklist ###
+
+Config:
+
+** Build - 4:
+
+   extendWWWFLD
+   hosts
+   adblock
+   localpush
+
+++ Prioritized Blocklists - 2:
+
+   ../../data/black.list.block
+   ../../data/white.list.referral
+
+-- Excludelists - 2:
+
+   ../../light.txt
+   ../../fake.txt
+
+-- Deadlists - 1:
+
+   ../../data/dead.list
+
+-- Whitelists - 1:
+
+   ../../data/exclude.list
+
+-- Unblocklists - 1:
+
+   ../../data/white.list.important
+
+Initialize ...
+
+# Download and convert Sourcelists ...
+
+  Nr |   Count | Format  | Source | Status  | File      | URL/File
+   1 |  122574 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+   2 |   93459 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+   3 |     225 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
+   4 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
+   5 |   40473 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+   6 |     429 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
+   7 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
+   8 |   14242 | domains | local  | online  | unchanged | black.list
+   9 |      24 | domains | local  | online  | unchanged | black.list.threat-intelligence
+
+# Build affiliatetracking Domainlist ...
+
+Stats affiliatetracking:
+
+** Source (raw):    273162
+== Source (unique): 252577 (-20585)
+-- Exclude:         179169 (-73408)
+-- White:           176875 (-2294)
+-- White(*):        176728 (-147)
+++ Block:           178192 (+1464)
+-- Unblock:         178189 (-3)
+-- Dead:            152442 (-25747)
+++ FLD:             153004 (+562)
+++ WWW:             155259 (+2255)
+
+# Convert affiliatetracking to Hostlist ... 
+
+# Convert affiliatetracking to AdBlocklist ...
+
+Prepare domain list for compiling ... done.
+
+ℹ Starting @adguard/hostlist-compiler v1.0.12
+ℹ Starting the compiler
+ℹ Configuration: {
+    "name": "affiliatetracking",
+    "sources": [
+        {
+            "source": "affiliatetracking.adblock.raw",
+            "type": "adblock"
+        }
+    ],
+    "transformations": [
+        "Compress"
+    ]
+}
+ℹ Start compiling affiliatetracking.adblock.raw
+ℹ Original length is 136200
+ℹ Length after applying transformations is 136200
+ℹ The list was compressed from 136203 to 132496
+ℹ Final length of the list is 132502
+ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/affiliatetracking/out/affiliatetracking.adblock
+ℹ Finished compiling
+
+# Attach header to affiliatetracking Domainlist ...
+
+# Push affiliatetracking to local Repositories ...
+

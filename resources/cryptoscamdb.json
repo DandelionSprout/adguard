@@ -1,0 +1,13 @@
+{
+  "name": "CryptoscamDB",
+  "sources": [
+    {
+      "source": "https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/cryptoscamdb.txt",
+      "type": "hosts",
+      "transformations": [
+        "RemoveComments",
+        "Compress"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "StevenBlack",
+    "sources": [
+        {
+            "source": "/media/nas/tmp/work/d3.txt",
+            "type": "hosts"
+        }
+    ],
+    "transformations": [
+        "Compress"
+    ]
+}

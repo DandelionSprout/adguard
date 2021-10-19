@@ -1,0 +1,31 @@
+{
+    "name": "Big",
+    "sources": [
+        {
+            "source": "https://raw.githubusercontent.com/Zelo72/adguard/main/multi.adblock",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "source": "https://raw.githubusercontent.com/Zelo72/adguard/main/fake.adblock",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "source": "https://abp.oisd.nl/",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
+        }
+    ],
+    "transformations": [
+        "RemoveComments",
+        "Compress",
+        "Deduplicate"
+    ]
+}

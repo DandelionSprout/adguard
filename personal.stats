@@ -1,0 +1,86 @@
+### Compile personal Blocklist ###
+
+Config:
+
+** Build - 4:
+
+   extendWWWFLD
+   hosts
+   adblock
+   localpush
+
+++ Prioritized Blocklists - 1:
+
+   ../../data/black.list.block
+
+-- Deadlists - 1:
+
+   ../../data/dead.list
+
+-- Whitelists - 1:
+
+   ../../data/exclude.list
+
+-- Unblocklists - 1:
+
+   ../../data/white.list.important
+
+Initialize ...
+
+# Download and convert Sourcelists ...
+
+  Nr |   Count | Format  | Source | Status  | File      | URL/File
+   1 |   14242 | domains | local  | online  | unchanged | black.list
+   2 |      24 | domains | local  | online  | unchanged | black.list.threat-intelligence
+   3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
+   4 |    3674 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+   5 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
+   6 |    2016 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
+   7 |    4923 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
+
+# Build personal Domainlist ...
+
+Stats personal:
+
+** Source (raw):    26615
+== Source (unique): 22785 (-3830)
+-- White:           21584 (-1201)
+-- White(*):        21578 (-6)
+++ Block:           21632 (+54)
+-- Unblock:         21632 (-0)
+-- Dead:            20807 (-825)
+++ FLD:             20937 (+130)
+++ WWW:             27620 (+6683)
+
+# Convert personal to Hostlist ... 
+
+# Convert personal to AdBlocklist ...
+
+Prepare domain list for compiling ... done.
+
+ℹ Starting @adguard/hostlist-compiler v1.0.12
+ℹ Starting the compiler
+ℹ Configuration: {
+    "name": "personal",
+    "sources": [
+        {
+            "source": "personal.adblock.raw",
+            "type": "adblock"
+        }
+    ],
+    "transformations": [
+        "Compress"
+    ]
+}
+ℹ Start compiling personal.adblock.raw
+ℹ Original length is 20621
+ℹ Length after applying transformations is 20621
+ℹ The list was compressed from 20624 to 13403
+ℹ Final length of the list is 13409
+ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/personal/out/personal.adblock
+ℹ Finished compiling
+
+# Attach header to personal Domainlist ...
+
+# Push personal to local Repositories ...
+
