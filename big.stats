@@ -14,20 +14,20 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |  470990 | domains | local  | online  | changed   | multi.txt
+   1 |  472090 | domains | local  | online  | changed   | multi.txt
    2 |   45620 | domains | local  | online  | unchanged | fake.txt
-   3 |  109524 | domains | local  | online  | unchanged | big_extension.domains
-   4 |  974591 | domains | http   | online  | unchanged | https://dbl.oisd.nl
+   3 |  109335 | domains | local  | online  | changed   | big_extension.domains
+   4 |  973312 | domains | http   | online  | changed   | https://dbl.oisd.nl
 
 # Build big Domainlist ...
 
 Stats big:
 
-** Source (raw):    1600725
-== Source (unique): 1330222 (-270503)
+** Source (raw):    1600357
+== Source (unique): 1329530 (-270827)
 
-1330222 unique Domains - Version 2021.1020.142250
-MD5: 75472a3d941631724044b1c5f2178909
+1329530 unique Domains - Version 2021.1020.181329
+MD5 Domains RAW: f9a6ac3f18a24d9d3e81d66792fefe76
 
 # Convert big to Hostlist ... 
 
@@ -77,24 +77,24 @@ MD5: 75472a3d941631724044b1c5f2178909
     ]
 }
 ℹ Start compiling /media/nas/git/adguard/multi.adblock
-ℹ Original length is 257355
+ℹ Original length is 258123
 ℹ Removed 127 comments
-ℹ Length after applying transformations is 257226
+ℹ Length after applying transformations is 257994
 ℹ Start compiling /media/nas/git/adguard/fake.adblock
 ℹ Original length is 23159
 ℹ Removed 41 comments
 ℹ Length after applying transformations is 23118
 ℹ Start compiling ../../big_extension/out/big_extension.adblock
-ℹ Original length is 104528
+ℹ Original length is 104345
 ℹ Removed 0 comments
-ℹ Length after applying transformations is 104528
+ℹ Length after applying transformations is 104345
 ℹ Start compiling https://abp.oisd.nl/
-ℹ Original length is 369448
+ℹ Original length is 369313
 ℹ Removed 13 comments
-ℹ Length after applying transformations is 369434
+ℹ Length after applying transformations is 369299
 ℹ Removed 12 comments
-ℹ The list was compressed from 754306 to 579445
-ℹ Final length of the list is 579451
+ℹ The list was compressed from 754756 to 579593
+ℹ Final length of the list is 579599
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/big/out/big.adblock
 ℹ Finished compiling
 
