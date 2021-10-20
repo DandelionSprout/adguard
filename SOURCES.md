@@ -17,74 +17,73 @@ Build stats: https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/multi.s
 13. domains - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
 14. domains - https://phishing.army/download/phishing_army_blocklist.txt
 15. domains - https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/domains.txt
-16. domains - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
-17. hosts - https://adaway.org/hosts.txt
-18. hosts - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-19. hosts - https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt
-20. hosts - https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
-21. hosts - https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
-22. hosts - https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
-23. hosts - https://raw.githubusercontent.com/tiuxo/hosts/master/ads
-24. hosts - https://raw.githubusercontent.com/velesila/yhosts/master/hosts
-25. hosts - https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Main-Blocklist/Ad-Block-HOSTS.txt
-26. hosts - https://someonewhocares.org/hosts/
-27. hosts - https://winhelp2002.mvps.org/hosts.txt
-28. hosts - https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts_browser
-29. hosts - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-30. hosts - https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/AdditionalSupplementaryHosts.txt
-31. hosts - https://raw.githubusercontent.com/guardicore/labs_campaigns/master/Autodiscover/autodiscover-tlds.txt
-32. hosts - https://urlhaus.abuse.ch/downloads/hostfile/
-33. hosts - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-34. adblock - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-35. adblock - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-36. adblock - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
-37. adblock - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_16_French/filter.txt
-38. adblock - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
-39. adblock - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
-40. adblock - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_English/filter.txt
-41. adblock - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-42. adblock - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt
-43. adblock - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_6_German/filter.txt
-44. adblock - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt
-45. adblock - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_8_Dutch/filter.txt
-46. adblock - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_9_Spanish/filter.txt
-47. adblock - https://adblock.gardar.net/is.abp.txt
-48. adblock - https://easylist-downloads.adblockplus.org/Liste_AR.txt
-49. adblock - https://easylist-downloads.adblockplus.org/advblock.txt
-50. adblock - https://easylist-downloads.adblockplus.org/easylistchina.txt
-51. adblock - https://easylist-downloads.adblockplus.org/easylistdutch.txt
-52. adblock - https://easylist-downloads.adblockplus.org/easylistgermany.txt
-53. adblock - https://easylist-downloads.adblockplus.org/easylistitaly.txt
-54. adblock - https://easylist-downloads.adblockplus.org/easylistpolish.txt
-55. adblock - https://easylist-downloads.adblockplus.org/easylistportuguese.txt
-56. adblock - https://easylist-downloads.adblockplus.org/easylistspanish.txt
-57. adblock - https://easylist-downloads.adblockplus.org/indianlist.txt
-58. adblock - https://easylist-downloads.adblockplus.org/koreanlist.txt
-59. adblock - https://easylist-downloads.adblockplus.org/liste_fr.txt
-60. adblock - https://easylist.to/easylist/easylist.txt
-61. adblock - https://easylist.to/easylist/easyprivacy.txt
-62. adblock - https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt
-63. adblock - https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt
-64. adblock - https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
-65. adblock - https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt
-66. adblock - https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
-67. adblock - https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/easylist-thailand.txt
-68. adblock - https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt
-69. adblock - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
-70. adblock - https://raw.githubusercontent.com/yecarrillo/adblock-colombia/master/adblock_co.txt
-71. adblock - https://stanev.org/abp/adblock_bg.txt
-72. adblock - https://www.void.gr/kargig/void-gr-filters.txt
-73. adblock - https://www.zoso.ro/pages/rolist.txt
-74. adblock - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
-75. adblock - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
-76. adblock - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
-77. adblock - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
-78. adblock - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
-79. adblock - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
-80. adblock - https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
-81. adblock - https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
-82. domains - ../../data/black.list
-83. domains - ../../data/black.list.threat-intelligence
+16. hosts - https://adaway.org/hosts.txt
+17. hosts - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+18. hosts - https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt
+19. hosts - https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
+20. hosts - https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+21. hosts - https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
+22. hosts - https://raw.githubusercontent.com/tiuxo/hosts/master/ads
+23. hosts - https://raw.githubusercontent.com/velesila/yhosts/master/hosts
+24. hosts - https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Main-Blocklist/Ad-Block-HOSTS.txt
+25. hosts - https://someonewhocares.org/hosts/
+26. hosts - https://winhelp2002.mvps.org/hosts.txt
+27. hosts - https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts_browser
+28. hosts - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+29. hosts - https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/AdditionalSupplementaryHosts.txt
+30. hosts - https://raw.githubusercontent.com/guardicore/labs_campaigns/master/Autodiscover/autodiscover-tlds.txt
+31. hosts - https://urlhaus.abuse.ch/downloads/hostfile/
+32. hosts - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
+33. adblock - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+34. adblock - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
+35. adblock - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
+36. adblock - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_16_French/filter.txt
+37. adblock - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
+38. adblock - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
+39. adblock - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_English/filter.txt
+40. adblock - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
+41. adblock - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt
+42. adblock - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_6_German/filter.txt
+43. adblock - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt
+44. adblock - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_8_Dutch/filter.txt
+45. adblock - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_9_Spanish/filter.txt
+46. adblock - https://adblock.gardar.net/is.abp.txt
+47. adblock - https://easylist-downloads.adblockplus.org/Liste_AR.txt
+48. adblock - https://easylist-downloads.adblockplus.org/advblock.txt
+49. adblock - https://easylist-downloads.adblockplus.org/easylistchina.txt
+50. adblock - https://easylist-downloads.adblockplus.org/easylistdutch.txt
+51. adblock - https://easylist-downloads.adblockplus.org/easylistgermany.txt
+52. adblock - https://easylist-downloads.adblockplus.org/easylistitaly.txt
+53. adblock - https://easylist-downloads.adblockplus.org/easylistpolish.txt
+54. adblock - https://easylist-downloads.adblockplus.org/easylistportuguese.txt
+55. adblock - https://easylist-downloads.adblockplus.org/easylistspanish.txt
+56. adblock - https://easylist-downloads.adblockplus.org/indianlist.txt
+57. adblock - https://easylist-downloads.adblockplus.org/koreanlist.txt
+58. adblock - https://easylist-downloads.adblockplus.org/liste_fr.txt
+59. adblock - https://easylist.to/easylist/easylist.txt
+60. adblock - https://easylist.to/easylist/easyprivacy.txt
+61. adblock - https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt
+62. adblock - https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt
+63. adblock - https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
+64. adblock - https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt
+65. adblock - https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
+66. adblock - https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/easylist-thailand.txt
+67. adblock - https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt
+68. adblock - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
+69. adblock - https://raw.githubusercontent.com/yecarrillo/adblock-colombia/master/adblock_co.txt
+70. adblock - https://stanev.org/abp/adblock_bg.txt
+71. adblock - https://www.void.gr/kargig/void-gr-filters.txt
+72. adblock - https://www.zoso.ro/pages/rolist.txt
+73. adblock - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
+74. adblock - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
+75. adblock - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
+76. adblock - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
+77. adblock - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
+78. adblock - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
+79. adblock - https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
+80. adblock - https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
+81. domains - ../../data/black.list
+82. domains - ../../data/black.list.threat-intelligence
 
 #### Light blocklist:
 
@@ -117,14 +116,15 @@ Build stats: https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/light.s
 
 Build stats: https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/fake.stats
 
-1. hosts - https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
-2. domains - https://assets.windscribe.com/custom_blocklists/clickbait.txt
-3. domains - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-4. domains - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
-5. domains - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-6. domains - ../../data/black.list.fake
-7. domains - ../../data/fake.ts.black.list
-8. domains - ../../data/fake.vzni.black.list
+! https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
+https://assets.windscribe.com/custom_blocklists/clickbait.txt
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
+https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
+https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
+../../data/black.list.fake
+../../data/fake.ts.black.list
+../../data/fake.vzni.black.list
 
 #### Big blocklist:
 
@@ -141,19 +141,15 @@ Build stats: https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/affilia
 
 Domains that are already on the light and fake blocklist have been removed from the affiliate & tracking blocklist.
 
-1. hosts - https://adaway.org/hosts.txt
-2. hosts - https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
-3. hosts - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-4. hosts - https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
-5. hosts - https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
-6. hosts - https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
-7. adblock - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-8. adblock - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdGuard%20Home%20Compilation%20List/AdGuardHomeCompilationList-Notifications.txt
-9. adblock - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdGuard%20Home%20Compilation%20List/AdGuardHomeCompilationList.txt
-10. domains - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
-11. domains - ../../data/black.list.affiliatetracking
-12. domains - ../../data/black.list
-13. domains - ../../data/black.list.threat-intelligence
+1. hosts - https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+2. hosts - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+3. hosts - https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
+4. hosts - https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
+5. adblock - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+6. domains - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
+7. domains - ../../data/black.list.affiliatetracking
+8. domains - ../../data/black.list
+9. domains - ../../data/black.list.threat-intelligence
 
 #### Personal blocklist:
 
@@ -187,13 +183,13 @@ Build stats: https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/threat-
 14. hosts - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 15. hosts - https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts
 16. hosts - https://urlhaus.abuse.ch/downloads/hostfile/
-17. domains - https://azorult-tracker.net/api/list/domain?format=plain
-18. domains - https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
-19. domains - https://feeds.alphasoc.net/ryuk.txt
-20. domains - https://gitlab.com/KevinThomas0/cryptoscamdb-lists/-/raw/master/cryptoscamdb-blocklist.txt
-21. domains - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
-22. domains - https://hole.cert.pl/domains/domains.txt
-23. domains - https://infosec.cert-pa.it/analyze/listdomains.txt
+17. adblock - https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist
+18. domains - https://azorult-tracker.net/api/list/domain?format=plain
+19. domains - https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
+20. domains - https://feeds.alphasoc.net/ryuk.txt
+21. domains - https://gitlab.com/KevinThomas0/cryptoscamdb-lists/-/raw/master/cryptoscamdb-blocklist.txt
+22. domains - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+23. domains - https://hole.cert.pl/domains/domains.txt
 24. domains - https://joewein.net/dl/bl/dom-bl-base.txt
 25. domains - https://joewein.net/dl/bl/dom-bl.txt
 26. domains - https://kriskintel.com/feeds/ktip_covid_domains.txt
@@ -209,14 +205,14 @@ Build stats: https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/threat-
 36. domains - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Cryptocurrency
 37. domains - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware
 38. domains - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
-39. domains - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
-40. domains - https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/MD-ID-Fork.txt
-41. domains - https://raw.githubusercontent.com/cbuijs/shallalist/master/spyware/domains
-42. domains - https://raw.githubusercontent.com/cbuijs/ut1/master/cryptojacking/domains
-43. domains - https://raw.githubusercontent.com/cbuijs/ut1/master/malware/domains
-44. domains - https://raw.githubusercontent.com/hpthreatresearch/iocs/main/CryptBot/domains.txt
-45. domains - https://raw.githubusercontent.com/hpthreatresearch/iocs/main/IcedID/domains.txt
-46. domains - https://raw.githubusercontent.com/hpthreatresearch/iocs/main/TA551/domains.txt
+39. domains - https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/MD-ID-Fork.txt
+40. domains - https://raw.githubusercontent.com/cbuijs/shallalist/master/spyware/domains
+41. domains - https://raw.githubusercontent.com/cbuijs/ut1/master/cryptojacking/domains
+42. domains - https://raw.githubusercontent.com/cbuijs/ut1/master/malware/domains
+43. domains - https://raw.githubusercontent.com/hpthreatresearch/iocs/main/CryptBot/domains.txt
+44. domains - https://raw.githubusercontent.com/hpthreatresearch/iocs/main/IcedID/domains.txt
+45. domains - https://raw.githubusercontent.com/hpthreatresearch/iocs/main/TA551/domains.txt
+46. domains - https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt
 47. domains - https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
 48. domains - https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
 49. domains - https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-NEW-today.txt
