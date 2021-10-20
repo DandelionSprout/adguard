@@ -49,26 +49,26 @@ Initialize ...
    5 |   40548 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
    6 |     429 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
    7 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
-   8 |   14242 | domains | local  | online  | unchanged | black.list
+   8 |   14241 | domains | local  | online  | unchanged | black.list
    9 |      24 | domains | local  | online  | unchanged | black.list.threat-intelligence
 
 # Build affiliatetracking Domainlist ...
 
 Stats affiliatetracking:
 
-** Source (raw):    273511
-== Source (unique): 252820 (-20691)
--- Exclude:         178515 (-74305)
--- White:           178211 (-304)
--- White(*):        178042 (-169)
-++ Block:           179231 (+1189)
--- Unblock:         179228 (-3)
--- Dead:            153418 (-25810)
-++ FLD:             153996 (+578)
-++ WWW:             156339 (+2343)
+** Source (raw):    273510
+== Source (unique): 252819 (-20691)
+-- Exclude:         178519 (-74300)
+-- White:           178214 (-305)
+-- White(*):        178045 (-169)
+++ Block:           179248 (+1203)
+-- Unblock:         179245 (-3)
+-- Dead:            153435 (-25810)
+++ FLD:             154013 (+578)
+++ WWW:             156356 (+2343)
 
-156339 unique Domains - Version 2021.1020.210906
-MD5 Domains RAW: 75d3b161dfa95c2d7946e3619c4b1d4c
+156356 unique Domains - Version 2021.1021.001128
+MD5 Domains RAW: d2dd050a647d995f6e9b0e222ca549c4
 
 # Convert affiliatetracking to Hostlist ... 
 
@@ -91,10 +91,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling affiliatetracking.adblock.raw
-ℹ Original length is 136690
-ℹ Length after applying transformations is 136690
-ℹ The list was compressed from 136693 to 104655
-ℹ Final length of the list is 104661
+ℹ Original length is 136708
+ℹ Length after applying transformations is 136708
+ℹ The list was compressed from 136711 to 104673
+ℹ Final length of the list is 104679
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/affiliatetracking/out/affiliatetracking.adblock
 ℹ Finished compiling
 
