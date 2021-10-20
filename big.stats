@@ -14,7 +14,7 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |  468521 | domains | local  | online  | changed   | multi.txt
+   1 |  468974 | domains | local  | online  | changed   | multi.txt
    2 |   45616 | domains | local  | online  | unchanged | fake.txt
    3 |  109524 | domains | local  | online  | unchanged | big_extension.domains
    4 |  974591 | domains | http   | online  | unchanged | https://dbl.oisd.nl
@@ -23,8 +23,10 @@ Initialize ...
 
 Stats big:
 
-** Source (raw):    1598252
-== Source (unique): 1327749 (-270503)
+** Source (raw):    1598705
+== Source (unique): 1328208 (-270497)
+
+# 1328208 unique Domains - Version 2021.1020.083010
 
 # Convert big to Hostlist ... 
 
@@ -74,9 +76,9 @@ Stats big:
     ]
 }
 ℹ Start compiling /media/nas/git/adguard/multi.adblock
-ℹ Original length is 256534
+ℹ Original length is 256830
 ℹ Removed 125 comments
-ℹ Length after applying transformations is 256407
+ℹ Length after applying transformations is 256703
 ℹ Start compiling /media/nas/git/adguard/fake.adblock
 ℹ Original length is 23157
 ℹ Removed 41 comments
@@ -90,8 +92,8 @@ Stats big:
 ℹ Removed 13 comments
 ℹ Length after applying transformations is 369434
 ℹ Removed 12 comments
-ℹ The list was compressed from 753485 to 578716
-ℹ Final length of the list is 578722
+ℹ The list was compressed from 753781 to 579018
+ℹ Final length of the list is 579024
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/big/out/big.adblock
 ℹ Finished compiling
 
