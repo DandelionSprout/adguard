@@ -36,21 +36,24 @@ Initialize ...
    5 |      45 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
    6 |    5650 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
    7 |    1499 | domains | local  | online  | unchanged | black.list.fake
-   8 |    1415 | domains | local  | online  | unchanged | fake.ts.black.list
-   9 |     489 | domains | local  | online  | unchanged | fake.vzni.black.list
+   8 |    1416 | domains | local  | online  | changed   | fake.ts.black.list
+   9 |     491 | domains | local  | online  | changed   | fake.vzni.black.list
 
 # Build fake Domainlist ...
 
 Stats fake:
 
-** Source (raw):    29657
-== Source (unique): 27152 (-2505)
--- White:           27064 (-88)
--- White(*):        27064 (-0)
--- Unblock:         27064 (-0)
--- Dead:            23168 (-3896)
-++ FLD:             23303 (+135)
-++ WWW:             45616 (+22313)
+** Source (raw):    29660
+== Source (unique): 27154 (-2506)
+-- White:           27066 (-88)
+-- White(*):        27066 (-0)
+-- Unblock:         27066 (-0)
+-- Dead:            23170 (-3896)
+++ FLD:             23305 (+135)
+++ WWW:             45620 (+22315)
+
+45620 unique Domains - Version 2021.1020.120606
+MD5: 2d3e6b84d5a5bb13ea93c1f8f5d9b59e
 
 # Convert fake to Hostlist ... 
 
@@ -73,10 +76,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling fake.adblock.raw
-ℹ Original length is 23135
-ℹ Length after applying transformations is 23135
-ℹ The list was compressed from 23138 to 23119
-ℹ Final length of the list is 23125
+ℹ Original length is 23137
+ℹ Length after applying transformations is 23137
+ℹ The list was compressed from 23140 to 23121
+ℹ Final length of the list is 23127
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/fake/out/fake.adblock
 ℹ Finished compiling
 

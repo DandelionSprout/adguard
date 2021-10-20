@@ -34,10 +34,10 @@
 !    5 |      45 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
 !    6 |    5650 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 !    7 |    1499 | domains | local  | online  | unchanged | black.list.fake
-!    8 |    1415 | domains | local  | online  | unchanged | fake.ts.black.list
-!    9 |     489 | domains | local  | online  | unchanged | fake.vzni.black.list
+!    8 |    1416 | domains | local  | online  | changed   | fake.ts.black.list
+!    9 |     491 | domains | local  | online  | changed   | fake.vzni.black.list
 !
-! 23115 unique Domains - Version 2021.1020.075453
+! 23117 unique Domains - Version 2021.1020.120606
 !
 ||000relationships.com^
 ||007cryptooption.com^
@@ -9419,6 +9419,7 @@
 ||gruene-spende.de^
 ||grundyguide.com^
 ||grundyreporter.com^
+||grungabau.com^
 ||grupovertente.com^
 ||grusskarten-versand.com^
 ||grzegorzmalewski.com^
@@ -20274,6 +20275,7 @@
 ||teazze.me^
 ||tech1234.com^
 ||tech61.ecwid.com^
+||techexpert24.com^
 ||techfisch-elektro.com^
 ||tech-fox.de^
 ||techgiants.news^
