@@ -1,5 +1,5 @@
 ! ---------------------------------------------
-! Zelo*s Whitelist - V2021.10.19-1318
+! Zelo*s Whitelist - V2021.10.20-2259
 ! ---------------------------------------------
 ! GitHub:  https://github.com/Zelo72
 ! Discord: Zelo72#7513
@@ -433,6 +433,7 @@
 @@|vz-cdn.trafficjunky.net^
 @@|vz-cdn2.adtng.com^
 @@|vz-cdn2.trafficjunky.net^
+@@|yrg6yks9.ab1n.net^
 
 ! Twitch
 @@||ext-twitch.tv^
@@ -771,6 +772,7 @@
 @@|clickhouse.com^
 @@|cloudfront.net^
 @@|demdex.net^
+@@|esd.icloseli.com^
 @@|glitch.me^
 @@|glomex.com^
 @@|go-mpulse.net^
