@@ -52,16 +52,17 @@ Stats affiliatetracking:
 
 ** Source (raw):    273463
 == Source (unique): 252779 (-20684)
--- Exclude:         178483 (-74296)
--- White:           176188 (-2295)
--- White(*):        176041 (-147)
-++ Block:           177505 (+1464)
--- Unblock:         177502 (-3)
--- Dead:            151727 (-25775)
-++ FLD:             152271 (+544)
-++ WWW:             154186 (+1915)
+-- Exclude:         178481 (-74298)
+-- White:           176186 (-2295)
+-- White(*):        176039 (-147)
+++ Block:           177503 (+1464)
+-- Unblock:         177500 (-3)
+-- Dead:            151725 (-25775)
+++ FLD:             152273 (+548)
+++ WWW:             154178 (+1905)
 
-# 154186 unique Domains - Version 2021.1020.082811
+154178 unique Domains - Version 2021.1020.121104
+MD5: 36e054c13b31da26f6b122f2f10d91c6
 
 # Convert affiliatetracking to Hostlist ... 
 
