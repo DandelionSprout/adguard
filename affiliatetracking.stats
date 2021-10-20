@@ -36,7 +36,7 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |  122575 | hosts   | http   | online  | changed   | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+   1 |  122575 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
    2 |   93712 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
    3 |     225 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
    4 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
@@ -52,14 +52,14 @@ Stats affiliatetracking:
 
 ** Source (raw):    273446
 == Source (unique): 252762 (-20684)
--- Exclude:         178468 (-74294)
--- White:           176173 (-2295)
--- White(*):        176026 (-147)
-++ Block:           177490 (+1464)
--- Unblock:         177487 (-3)
--- Dead:            151713 (-25774)
-++ FLD:             152260 (+547)
-++ WWW:             154169 (+1909)
+-- Exclude:         178475 (-74287)
+-- White:           176180 (-2295)
+-- White(*):        176033 (-147)
+++ Block:           177497 (+1464)
+-- Unblock:         177494 (-3)
+-- Dead:            151719 (-25775)
+++ FLD:             152271 (+552)
+++ WWW:             154183 (+1912)
 
 # Convert affiliatetracking to Hostlist ... 
 
@@ -67,6 +67,27 @@ Stats affiliatetracking:
 
 Prepare domain list for compiling ... done.
 
+ℹ Starting @adguard/hostlist-compiler v1.0.12
+ℹ Starting the compiler
+ℹ Configuration: {
+    "name": "affiliatetracking",
+    "sources": [
+        {
+            "source": "affiliatetracking.adblock.raw",
+            "type": "adblock"
+        }
+    ],
+    "transformations": [
+        "Compress"
+    ]
+}
+ℹ Start compiling affiliatetracking.adblock.raw
+ℹ Original length is 135095
+ℹ Length after applying transformations is 135095
+ℹ The list was compressed from 135098 to 131475
+ℹ Final length of the list is 131481
+ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/affiliatetracking/out/affiliatetracking.adblock
+ℹ Finished compiling
 
 # Attach header to affiliatetracking Domainlist ...
 
