@@ -43,7 +43,7 @@ Initialize ...
   13 |    1072 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/metamask/eth-phishing-detect/master/src/hosts.txt
   14 |    1386 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
   15 |   13465 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts
-  16 |    1471 | hosts   | http   | online  | changed   | https://urlhaus.abuse.ch/downloads/hostfile/
+  16 |    1500 | hosts   | http   | online  | changed   | https://urlhaus.abuse.ch/downloads/hostfile/
   17 |     883 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist
   18 |     914 | domains | http   | online  | changed   | https://azorult-tracker.net/api/list/domain?format=plain
   19 |  122584 | domains | http   | online  | unchanged | https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
@@ -58,8 +58,8 @@ Initialize ...
   28 |     397 | domains | http   | online  | unchanged | https://kriskintel.com/feeds/ktip_ransomware_feeds.txt
   29 |    2245 | domains | http   | online  | unchanged | https://orca.pet/notonmyshift/domains.txt
   30 |      54 | domains | http   | online  | unchanged | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
-  31 |   45285 | domains | http   | online  | unchanged | https://phishing.army/download/phishing_army_blocklist.txt
-  32 |   55190 | domains | http   | online  | unchanged | https://phishing.army/download/phishing_army_blocklist_extended.txt
+  31 |   44518 | domains | http   | online  | changed   | https://phishing.army/download/phishing_army_blocklist.txt
+  32 |   54153 | domains | http   | online  | changed   | https://phishing.army/download/phishing_army_blocklist_extended.txt
   33 |    1406 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/domains.txt
   34 |      27 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/fake-domains.txt
   35 |   35354 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADomains.txt
@@ -103,19 +103,21 @@ Initialize ...
   73 |      77 | domains | http   | online  | unchanged | https://www.botvrij.eu/data/ioclist.domain.raw
   74 |      29 | domains | http   | online  | unchanged | https://www.botvrij.eu/data/ioclist.hostname.raw
   75 |   35049 | domains | http   | online  | unchanged | https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
-  76 |  101161 | domains | http   | online  | unchanged | https://www.usom.gov.tr/url-list.txt
+  76 |  101163 | domains | http   | online  | changed   | https://www.usom.gov.tr/url-list.txt
   77 |      24 | domains | local  | online  | unchanged | black.list.threat-intelligence
 
 # Build threat-intelligence Domainlist ...
 
 Stats threat-intelligence:
 
-** Source (raw):    1183891
-== Source (unique): 857097 (-326794)
--- White:           856347 (-750)
--- White(*):        854957 (-1390)
--- Unblock:         854957 (-0)
--- Dead:            364561 (-490396)
+** Source (raw):    1182118
+== Source (unique): 855888 (-326230)
+-- White:           855140 (-748)
+-- White(*):        853750 (-1390)
+-- Unblock:         853750 (-0)
+-- Dead:            363359 (-490391)
+
+# 363359 unique Domains - Version 2021.1020.081841
 
 # Convert threat-intelligence to Hostlist ... 
 
@@ -138,10 +140,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling threat-intelligence.adblock.raw
-ℹ Original length is 345284
-ℹ Length after applying transformations is 345284
-ℹ The list was compressed from 345287 to 317083
-ℹ Final length of the list is 317089
+ℹ Original length is 344136
+ℹ Length after applying transformations is 344136
+ℹ The list was compressed from 344139 to 316497
+ℹ Final length of the list is 316503
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/threat-intelligence/out/threat-intelligence.adblock
 ℹ Finished compiling
 
