@@ -52,14 +52,14 @@ Stats affiliatetracking:
 
 ** Source (raw):    273446
 == Source (unique): 252762 (-20684)
--- Exclude:         178475 (-74287)
--- White:           176180 (-2295)
--- White(*):        176033 (-147)
-++ Block:           177497 (+1464)
--- Unblock:         177494 (-3)
--- Dead:            151719 (-25775)
-++ FLD:             152271 (+552)
-++ WWW:             154183 (+1912)
+-- Exclude:         178488 (-74274)
+-- White:           176193 (-2295)
+-- White(*):        176046 (-147)
+++ Block:           177510 (+1464)
+-- Unblock:         177507 (-3)
+-- Dead:            151732 (-25775)
+++ FLD:             152277 (+545)
+++ WWW:             154191 (+1914)
 
 # Convert affiliatetracking to Hostlist ... 
 
@@ -67,27 +67,6 @@ Stats affiliatetracking:
 
 Prepare domain list for compiling ... done.
 
-ℹ Starting @adguard/hostlist-compiler v1.0.12
-ℹ Starting the compiler
-ℹ Configuration: {
-    "name": "affiliatetracking",
-    "sources": [
-        {
-            "source": "affiliatetracking.adblock.raw",
-            "type": "adblock"
-        }
-    ],
-    "transformations": [
-        "Compress"
-    ]
-}
-ℹ Start compiling affiliatetracking.adblock.raw
-ℹ Original length is 135095
-ℹ Length after applying transformations is 135095
-ℹ The list was compressed from 135098 to 131475
-ℹ Final length of the list is 131481
-ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/affiliatetracking/out/affiliatetracking.adblock
-ℹ Finished compiling
 
 # Attach header to affiliatetracking Domainlist ...
 
