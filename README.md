@@ -100,3 +100,8 @@ Test results of around 6000 website views from [WhoTracks.Me website list](https
 
 ![grafik](https://user-images.githubusercontent.com/62211544/137098766-08427ada-623c-4590-a689-03a4c1159cd4.png)
 
+#### **Tools to test your AdBlock:**
+
+- [D3 Ward Ad Blocker Test](https://d3ward.github.io/toolz/adblock.html)
+- [Block Ads! Test](https://blockads.fivefilters.org)
+- [Cover Your Tracks - Tracker/Fingerprinting Test](https://coveryourtracks.eff.org/)
