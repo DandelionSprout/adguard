@@ -45,7 +45,7 @@
 !    8 |   14242 | domains | local  | online  | unchanged | black.list
 !    9 |      24 | domains | local  | online  | unchanged | black.list.threat-intelligence
 !
-! 104576 unique Domains - Version 2021.1020.202334
+! 104651 unique Domains - Version 2021.1020.210906
 !
 ||0.0.0.0.beeglivesex.com^
 ||0.0.0.0.hpyrdr.com^
@@ -3850,6 +3850,7 @@
 ||ads.amakings.com^
 ||adsances.ero-advertising.com^
 ||ads.ants.vn^
+||ads-api.twitter.com^
 ||ads.appota.com^
 ||adsatt.familyfun.starwave.com^
 ||adsatt.movies.starwave.com^
@@ -3894,6 +3895,7 @@
 ||ads.databrainz.com^
 ||ads.desktopscans.com^
 ||ads.devicebondage.com^
+||ads-dev.pinterest.com^
 ||ads.dichtbij.adhese.com^
 ||ads.digitalalchemy.tv^
 ||ads.digitalthrottle.com^
@@ -3951,6 +3953,7 @@
 ||adserverus.info^
 ||adserver.veruta.com^
 ||adserver-voice-online.co.uk^
+||adserver.yahoo.com^
 ||adserv.euleriancdn.net^
 ||adservice.aliexpress.com^
 ||adservice.google.ac^
@@ -4199,6 +4202,7 @@
 ||ads.evidon.com^
 ||ads.exactseek.com^
 ||ads.exdynsrv.com^
+||ads.facebook.com^
 ||adsfeed3.brabys.co.za^
 ||ads.feedly.com^
 ||ads.fiat-bg.org^
@@ -4206,6 +4210,7 @@
 ||ads.focus-news.net^
 ||ads.fooyoh.com^
 ||ads.freeonlinegames.com^
+||adsfs.oppomobile.com^
 ||ads.fuelo.net^
 ||ads.fulltiltpoker.com^
 ||ads.gameservers.com^
@@ -4262,6 +4267,7 @@
 ||adsl2.euleriancdn.net^
 ||ads.lanistaads.com^
 ||adsl.euleriancdn.net^
+||ads.linkedin.com^
 ||ads.listingware.com^
 ||ads.livepromotools.com^
 ||adslnat-curridabat-128.euleriancdn.net^
@@ -4311,6 +4317,7 @@
 ||ads-pebblemedia.adhese.com^
 ||ads.pebblemedia.adhese.com^
 ||ads.pe.com^
+||adspecs.yahoo.com^
 ||ads.people-group.net^
 ||ads.peoplespharmacy.com^
 ||ads.persgroep.adhese.com^
@@ -4319,6 +4326,7 @@
 ||adsp.i2idata.com^
 ||ads.pictela.net^
 ||ads.pimdesign.org^
+||ads.pinterest.com^
 ||ads.playboy.com^
 ||ad.sp.mbga.jp^
 ||ads.popfolkstars.com^
@@ -4352,6 +4360,7 @@
 ||adsservices.urekamedia.com^
 ||ads.sexandsubmission.com^
 ||ads.sfomedia.com^
+||ads-sg.tiktok.com^
 ||ads.singlescash.com^
 ||ads.skupe.net^
 ||ads.sladur.com^
@@ -4375,11 +4384,13 @@
 ||adstara.postaffiliatepro.com^
 ||ads.tarrobads.com^
 ||ads.thetrainingofo.com^
+||ads.tiktok.com^
 ||adstore.jp^
 ||ads.tracking202.com^
 ||ads-tr.bigmining.com^
 ||ads.tripican.com^
 ||ads.tunein.com^
+||ads-twitter.com^
 ||ads.twitter.com^
 ||adsuite.adsparc.net^
 ||ads.usercash.com^
@@ -4410,14 +4421,18 @@
 ||ads.worthplaying.com^
 ||ads.xtargeting.com^
 ||ads.yadro.ru^
+||ads.yahoo.com^
 ||ads.yam.com^
 ||ads.yankscash.com^
+||ads.yap.yahoo.com^
 ||ads.yeshanews.com^
+||ads.youtube.com^
 ||adsys.adk2x.com^
 ||ads.zedo.com^
 ||ads.zeusclicks.com^
 ||adszooks.com^
 ||adtactics.com^
+||adtago.s3.amazonaws.com^
 ||adtd.douglas.it^
 ||adtech.de^
 ||adtekmedia.com^
@@ -4520,6 +4535,7 @@
 ||advertising.thediabetesnetwork.com^
 ||advertising.twitter.com^
 ||advertising.valuedrugco.com^
+||advertising.yahoo.com^
 ||advertising.yandex.ru^
 ||advert.livesportmedia.eu^
 ||advert.puzzles.mkjigsaw.com^
@@ -4594,6 +4610,7 @@
 ||adworks.rediff.com^
 ||adwpaces.ero-advertising.com^
 ||ad.wretch.cc^
+||adx.ads.oppomobile.com^
 ||adx.ants.vn^
 ||adx.dable.io^
 ||ad.xdomain.ne.jp^
@@ -4613,7 +4630,6 @@
 ||ae03.eulerian.fr^
 ||ae04.eulerian.com^
 ||ae04.eulerian.fr^
-||ae.adserver.yahoo.com^
 ||ae.amgdgt.com^
 ||aeasy.info^
 ||ae.cobweb.com^
@@ -5832,6 +5848,7 @@
 ||analytics-api.musicmagpie.co.uk^
 ||analytics-api.mutumutu.cz^
 ||analytics-api-samples.googlecode.com^
+||analytics-api.samsunghealthcn.com^
 ||analytics-api.upliftmoney.com^
 ||analytics.asml.com^
 ||analytics.astrianzheng.cn^
@@ -5887,6 +5904,7 @@
 ||analytics.ero-advertising.com^
 ||analytics.esporteinterativo.com.br^
 ||analytics.euleriancdn.net^
+||analytics.facebook.com^
 ||analytics.fishtrack.com^
 ||analytics.fnbfremont.com^
 ||analytics.focusfive.org^
@@ -5977,6 +5995,7 @@
 ||analytics.nordea.se^
 ||analytics.nordicfire.co.uk^
 ||analytics.novanet.vn^
+||analytics.oneplus.cn^
 ||analytics.onfluencer.net^
 ||analytics.openly.com.au^
 ||analytics.otto-diversity-cube.de^
@@ -5986,12 +6005,15 @@
 ||analytics.phn.com^
 ||analytics.pilatesworksstudio.com^
 ||analytics.pimproll.com^
+||analytics.pinterest.com^
 ||analytics.planetearthsprotector.com^
 ||analytics.playfullyautomated.com^
 ||analytics.pogo.tv^
+||analytics.pointdrive.linkedin.com^
 ||analytics.prism.openly.com.au^
 ||analytics.pyctor.com^
 ||analytics.qualityquestions.co^
+||analytics.query.yahoo.com^
 ||analytics.rafalkukla.com^
 ||analytics.ratemymeeting.co^
 ||analytics.ratioform.it^
@@ -6003,8 +6025,10 @@
 ||analytics.robertjelenic.de^
 ||analytics.robinhood.com^
 ||analytics.rozetka.com.ua^
+||analytics.samsungknox.com^
 ||analytics.scandinaviantrading.co.uk^
 ||analytics-secure.dollargeneral.com^
+||analytics-sg.tiktok.com^
 ||analytics.sideprojectsoftware.com^
 ||analytics.simplyhealth.co.uk^
 ||analytics.sixtcarsales.de^
@@ -6065,6 +6089,7 @@
 ||analytics.wojas.pl^
 ||analytics.wpsermons.com^
 ||analytics.xiloc.net^
+||analytics.yahoo.com^
 ||analytics.yeshou.run^
 ||analytics.zagg.com^
 ||analytics.zdbb.net^
@@ -6144,6 +6169,7 @@
 ||anews.co.uk^
 ||anewyoufitness.com^
 ||anexld.lumingo.com^
+||an.facebook.com^
 ||ange.euleriancdn.net^
 ||angela.euleriancdn.net^
 ||angelalittle.net^
@@ -6917,7 +6943,6 @@
 ||ar.2.cqcounter.com^
 ||arab.euleriancdn.net^
 ||arabic.euleriancdn.net^
-||ar.adserver.yahoo.com^
 ||ara.euleriancdn.net^
 ||ar.agencyrevolution.com^
 ||aragon.im^
@@ -7309,6 +7334,7 @@
 ||assistenza.euleriancdn.net^
 ||assist.euleriancdn.net^
 ||assoc-amazon.ca^
+||assoc-amazon.com^
 ||assoc-amazon.co.uk^
 ||assoc-amazon.de^
 ||assoc-amazon.fr^
@@ -8325,6 +8351,7 @@
 ||batoncorp.com^
 ||bat.planificador.de^
 ||bat.storyplay.no^
+||bats.video.yahoo.com^
 ||battle.euleriancdn.net^
 ||bauer.euleriancdn.net^
 ||bauhaus.euleriancdn.net^
@@ -8404,6 +8431,8 @@
 ||bcxupq.hotpick.asia^
 ||bcytwb.student.com^
 ||bcznrf.paprcuts.de^
+||bdapi.ads.oppomobile.com^
+||bdapi-in-ads.realmemobile.com^
 ||bdc.euleriancdn.net^
 ||bde3d.com^
 ||bde.beformance.com^
@@ -8440,7 +8469,6 @@
 ||beaconlearningseries.com^
 ||beacon.lijit.com^
 ||beacon.searchlinks.com^
-||be.adserver.yahoo.com^
 ||beads.sx.atl.publicus.com^
 ||bea.euleriancdn.net^
 ||beagle.euleriancdn.net^
@@ -9532,6 +9560,8 @@
 ||bookowa.pl^
 ||bookplanet.pl^
 ||books.acspubs.org^
+||books-analytics-events.apple.com^
+||books-analytics-events.news.apple-dns.net^
 ||books-ch02.webtrekk.net^
 ||books.euleriancdn.net^
 ||bookshop.euleriancdn.net^
@@ -10090,6 +10120,7 @@
 ||business-projecct.site^
 ||business-protection.website^
 ||business.royal-cars.com^
+||business.samsungusa.com^
 ||businessshorka.info^
 ||business.southwest.com^
 ||business.spark.co.nz^
@@ -11958,6 +11989,7 @@
 ||cjxy.euleriancdn.net^
 ||cjy.euleriancdn.net^
 ||cjz3.hejkanariskeoer.com^
+||ck.ads.oppomobile.com^
 ||ckarea.euleriancdn.net^
 ||ck.euleriancdn.net^
 ||ckpxtt.justfly.com^
@@ -12692,7 +12724,6 @@
 ||cmttvv.bonprix.se^
 ||c.musicradio.com^
 ||cmxmarket.com^
-||cn2.adserver.yahoo.com^
 ||cn86.org^
 ||cnabwk.originalam.net^
 ||cname2021.hokkaigo.love^
@@ -17820,6 +17851,7 @@
 ||data2.euleriancdn.net^
 ||data3.euleriancdn.net^
 ||data.abg-communications.com^
+||data.ads.oppomobile.com^
 ||data.aik.in^
 ||data.alloystore.dev^
 ||data-api.csob.cz^
@@ -17861,6 +17893,7 @@
 ||data.main-ding.de^
 ||data.mistat.india.xiaomi.com^
 ||data.mistat.intl.xiaomi.com^
+||data.mistat.rus.xiaomi.com^
 ||data.mistat.xiaomi.com^
 ||data.motionloft.com^
 ||data.nocibe.fr^
@@ -22314,7 +22347,6 @@
 ||e.unchealthcare.org^
 ||eu.nextah.com^
 ||eu.pardot.com^
-||eu-pn2.adserver.yahoo.com^
 ||eupornstar.info^
 ||eu-power.mtu-solutions.com^
 ||eureka.euleriancdn.net^
@@ -22495,6 +22527,7 @@
 ||events.photosat.ca^
 ||events.pollinate.co.uk^
 ||events.popinfo.jp^
+||events.redditmedia.com^
 ||events.regis.edu^
 ||events.ricoh.ch^
 ||events.ricoh.co.uk^
@@ -23229,6 +23262,8 @@
 ||fastcash4vehicles.com^
 ||fastcash.euleriancdn.net^
 ||fast.cbsi.demdex.net^
+||fastclick.com^
+||fastclick.net^
 ||fastcomet.postaffiliatepro.com^
 ||fastdigitalcodecs.euleriancdn.net^
 ||fastdigitaldm.euleriancdn.net^
@@ -24704,6 +24739,7 @@
 ||freshestate.com.pl^
 ||fresh.euleriancdn.net^
 ||freshiuz.com^
+||freshmarketer.com^
 ||fresh-tv.biz^
 ||fresh.ygto.com^
 ||fres-news.com^
@@ -24997,6 +25033,7 @@
 ||g0o.cc^
 ||g0o.me^
 ||g0oo.me^
+||g1.ads.oppomobile.com^
 ||g1.euleriancdn.net^
 ||g1revistanoticias.com^
 ||g1.v.fwmrm.net^
@@ -25126,6 +25163,7 @@
 ||ganges.euleriancdn.net^
 ||gannettwisconsin.us.intellitxt.com^
 ||ganoderma-peru.com^
+||ganon.yahoo.com^
 ||ganymede.euleriancdn.net^
 ||gap.euleriancdn.net^
 ||gapi.euleriancdn.net^
@@ -25348,6 +25386,7 @@
 ||gem.euleriancdn.net^
 ||gemini.euleriancdn.net^
 ||geminioption.com^
+||gemini.yahoo.com^
 ||gems.euleriancdn.net^
 ||gemverify.com^
 ||gen2server.com^
@@ -25438,6 +25477,7 @@
 ||geoproxy.hk5.vip.prod.criteo.net^
 ||geoproxy.va1.vip.prod.criteo.net^
 ||geo.qualaroo.com^
+||geo.query.yahoo.com^
 ||george-co.com^
 ||george.euleriancdn.net^
 ||georges.euleriancdn.net^
@@ -25451,6 +25491,7 @@
 ||geoxsklep.com^
 ||geoxskleponlinepolska.com^
 ||geo.xxxblackbook.com^
+||geo.yahoo.com^
 ||gepard.cyou^
 ||gepard-mobilian.pl^
 ||gepyel.rexhomes.com^
@@ -33664,6 +33705,7 @@
 ||googleadservices.com^
 ||googleailesi.com^
 ||google-analytics.com^
+||google.analytics.com^
 ||googlecommerce.com^
 ||google-deckoffice.ml^
 ||google-docs.org^
@@ -38013,7 +38055,6 @@
 ||gradinfo.eng.ufl.edu^
 ||grado.ufv.es^
 ||gradprograms.cals.cornell.edu^
-||gr.adserver.yahoo.com^
 ||graduate.euleriancdn.net^
 ||graduation.euleriancdn.net^
 ||gra.euleriancdn.net^
@@ -39509,6 +39550,7 @@
 ||hotgirl4you.com^
 ||hotgirlforyou.com^
 ||hoth.euleriancdn.net^
+||hotjar-analytics.com^
 ||hotjar.com^
 ||hotkeys.com^
 ||hotline.euleriancdn.net^
@@ -48989,6 +49031,7 @@
 ||log.aebn.net^
 ||loga.hit-parade.com^
 ||logan.euleriancdn.net^
+||logbak.hicloud.com^
 ||logbook.euleriancdn.net^
 ||log.byteoversea.com^
 ||logc11.xiti.com^
@@ -49020,6 +49063,7 @@
 ||logcft.emuaid.com^
 ||log.eclick.vn^
 ||log.euleriancdn.net^
+||log.fc.yahoo.com^
 ||logger.euleriancdn.net^
 ||log.getdropbox.com^
 ||logging.euleriancdn.net^
@@ -49081,6 +49125,7 @@
 ||logowanie-facebook.mcjust.pl^
 ||logp2.xiti.com^
 ||logp.hit-parade.com^
+||log.pinterest.com^
 ||log.pv1.eclick.vn^
 ||log.pv.eclick.vn^
 ||logp.xiti.com^
@@ -49092,6 +49137,8 @@
 ||logs1257.at.pagesjaunes.fr^
 ||logs.amap.com^
 ||logserver.euleriancdn.net^
+||logservice1.hicloud.com^
+||logservice.hicloud.com^
 ||logs.euleriancdn.net^
 ||logs.juspay.in^
 ||logs.loggly.com^
@@ -49554,6 +49601,7 @@
 ||lucky-invest.com^
 ||lucky-iproject.site^
 ||luckyorange.com^
+||luckyorange.net^
 ||lucky-prof.com^
 ||lucy.euleriancdn.net^
 ||lucyfeed.com^
@@ -53351,6 +53399,7 @@
 ||marketing.soloprotect.com^
 ||marketing.solucionesplasticas.com^
 ||marketing.solutionsfirstgroup.com^
+||marketingsolutions.yahoo.com^
 ||marketing.somero.com^
 ||marketing.sommet-elevage.fr^
 ||marketing.sonasoft.com^
@@ -54436,6 +54485,7 @@
 ||mediamister.postaffiliatepro.com^
 ||media.mjbizdaily.com^
 ||mediamond.nuggad.net^
+||media.net^
 ||medianet.postaffiliatepro.com^
 ||media.og-affiliate.com^
 ||media.org.adtimaserver.vn^
@@ -54778,7 +54828,12 @@
 ||metric.nissan.se^
 ||metric.nissan.sk^
 ||metric.regal.es^
+||metrics1.data.hicloud.com^
 ||metrics.1degree.com.au^
+||metrics2.data.hicloud.com^
+||metrics3.data.hicloud.com^
+||metrics4.data.hicloud.com^
+||metrics5.data.hicloud.com^
 ||metrics.6sicuro.it^
 ||metrics.aa.com.br^
 ||metrics.aa.com.do^
@@ -54826,6 +54881,7 @@
 ||metrics.animalnetwork.com^
 ||metrics.anixter.com^
 ||metrics.aplus.net^
+||metrics.apple.com^
 ||metrics.armstrong.com^
 ||metrics.assurances-bnc.ca^
 ||metrics.assuranthealth.com^
@@ -54900,10 +54956,12 @@
 ||metrics.creit.tech^
 ||metrics.cshgreenwich.org^
 ||metrics.damartsport.com^
+||metrics.data.hicloud.com^
 ||metrics.datapipe.com^
 ||metrics.discovery.com^
 ||metrics.dishnetwork.com^
 ||metrics.divinecaroline.com^
+||metrics-dra.dt.hicloud.com^
 ||metrics.duckclean.com^
 ||metrics.earrieta.dev^
 ||metrics.eastcentral.aaa.com^
@@ -60554,6 +60612,7 @@
 ||notification.pond.co.nz^
 ||notifications.autozonepro.com^
 ||notifications.euleriancdn.net^
+||notify.bugsnag.com^
 ||notify.euleriancdn.net^
 ||notify.nuviad.com^
 ||notify-service.admicro.vn^
@@ -61053,7 +61112,6 @@
 ||nytopu.dm-progress.ru^
 ||nyx.euleriancdn.net^
 ||nz.2.cqcounter.com^
-||nz.adserver.yahoo.com^
 ||nzbusiness.vodafone.co.nz^
 ||nz-cdn.effectivemeasure.net^
 ||nz.engage.novozymes.com^
@@ -62989,6 +63047,7 @@
 ||onepiece.euleriancdn.net^
 ||oneprojektperfect.info^
 ||onepub.com^
+||onepush.query.yahoo.com^
 ||one.quotewizard.com^
 ||onesafe-software.com^
 ||oneseventeensouth.blogspot.com^
@@ -66624,6 +66683,7 @@
 ||partner2.euleriancdn.net^
 ||partner.4crownscasino.com^
 ||partner-ads.com^
+||partnerads.ysm.yahoo.com^
 ||partneralior.pl^
 ||partner-ao.yourmystar.jp^
 ||partnerapi.euleriancdn.net^
@@ -66985,6 +67045,7 @@
 ||p.circaworks.com^
 ||pclab.euleriancdn.net^
 ||pclandrmbx.com^
+||pclick.yahoo.com^
 ||p.climalife.dehon.com^
 ||p.clubgraph.com^
 ||pcmax.jp^
@@ -67838,6 +67899,7 @@
 ||pixel.crosspixel.net^
 ||pixeldrain.com^
 ||pixel.euleriancdn.net^
+||pixel.facebook.com^
 ||pixelgame.pl^
 ||pixelgarden.postaffiliatepro.com^
 ||pixel.indieclick.com^
@@ -68480,7 +68542,6 @@
 ||pmu.etr.im^
 ||pmutbu.poplubu.com^
 ||pmx.euleriancdn.net^
-||pn1.adserver.yahoo.com^
 ||pn.ac.th^
 ||pnd.euleriancdn.net^
 ||pn.euleriancdn.net^
@@ -71775,6 +71836,7 @@
 ||request.euleriancdn.net^
 ||request.iagcargo.com^
 ||request.lowrysolutions.com^
+||rereddit.com^
 ||re.revolvermaps.com^
 ||res1.euleriancdn.net^
 ||res2.euleriancdn.net^
@@ -73336,6 +73398,7 @@
 ||sams.manager-lounge.de^
 ||samson.euleriancdn.net^
 ||samsungadhub.com^
+||samsungads.com^
 ||samsung.euleriancdn.net^
 ||samsungotn.net^
 ||samt.zkb.ch^
@@ -73855,6 +73918,8 @@
 ||sdk.adflex.vn^
 ||sdk.ad.smaato.net^
 ||sdk.adsplay.xyz^
+||sdkconfig.ad.intl.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^
 ||sdk-controller.widespace.com^
 ||sdk.iad-02.braze.com^
 ||sdk.pushdi.com^
@@ -74838,6 +74903,7 @@
 ||ses.euleriancdn.net^
 ||sesori.space^
 ||sessioncam.com^
+||sessions.bugsnag.com^
 ||sessionstack.com^
 ||setedasorte.com.br^
 ||set.euleriancdn.net^
@@ -77605,6 +77671,7 @@
 ||smetrics.saks.com^
 ||smetrics.saleonflights.com^
 ||smetrics.samsca.com^
+||smetrics.samsung.com^
 ||smetrics.samsunglife.com^
 ||smetrics.samsungwa.com^
 ||smetrics.sanagate.ch^
@@ -84088,6 +84155,7 @@
 ||stats.wordvested.org^
 ||stats.workflow.co.za^
 ||stats.woundedhealers.ca^
+||stats.wp.com^
 ||stats.wymanmobilenotary.com^
 ||stats.xactcode.com^
 ||stats-xavie.mirmon.co.uk^
@@ -87465,9 +87533,11 @@
 ||tracking.hitinfrastructure.com^
 ||tracking.home.by.me^
 ||tracking.i2w.io^
+||tracking.india.miui.com^
 ||tracking.inexchange.com^
 ||tracking.inexchange.fi^
 ||tracking.inexchange.se^
+||tracking.intl.miui.com^
 ||tracking.janssenmed.cz^
 ||tracking.janssenmed.hr^
 ||tracking.janssenmed.hu^
@@ -87517,6 +87587,7 @@
 ||tracking.mediazeen.com^
 ||tracking.medpagetoday.com^
 ||tracking.mhealthintelligence.com^
+||tracking.miui.com^
 ||tracking.m.premier.info.shutterstock.com^
 ||tracking.my.bizdojo.com^
 ||tracking.mycisi.com^
@@ -87574,6 +87645,7 @@
 ||tracking.revcycleintelligence.com^
 ||tracking.revimedia.com^
 ||tracking.rollouki.com^
+||tracking.rus.miui.com^
 ||tracking.s24.com^
 ||tracking.siriusdecisions.com^
 ||tracking.speltips.se^
@@ -88466,6 +88538,7 @@
 ||tr.jkcd.espmp-pofr.net^
 ||tr.julieguerlande.info^
 ||trk01.knect365.com^
+||trk2.pinterest.com^
 ||trk.advisory.com^
 ||trk.ambientdsp.com^
 ||tr.kang.espmp-cufr.net^
@@ -90129,7 +90202,6 @@
 ||usdbbx.mmartan.com.br^
 ||usdm.122.2o7.net^
 ||usdsy.com^
-||us-east-1.dc.ads.linkedin.com^
 ||use.convertglobal.com^
 ||usedcars.euleriancdn.net^
 ||used.euleriancdn.net^
@@ -90846,6 +90918,7 @@
 ||visit.sogosurvey.com^
 ||visits.pise-notes.tk^
 ||visit.urbanairship.com^
+||visit.webhosting.yahoo.com^
 ||visit.wnj.com^
 ||visit.yorkrisk.com^
 ||visma.e-conomic.com^
@@ -97279,6 +97352,7 @@
 ||widgets.euleriancdn.net^
 ||widgets.getpocket.com^
 ||widgets.kiosked.com^
+||widgets.pinterest.com^
 ||widget.subiz.com^
 ||widget.subiz.net^
 ||widget.subiz.xyz^
@@ -103928,6 +104002,7 @@
 ||youssef.euleriancdn.net^
 ||youth.euleriancdn.net^
 ||youtu.be^
+||youtube.cleverads.vn^
 ||youtube-com.waw.pl^
 ||youtube.euleriancdn.net^
 ||youtube.tm.pl^
