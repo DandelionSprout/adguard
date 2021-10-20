@@ -37,15 +37,15 @@
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |  122575 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 !    2 |   93712 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-!    3 |     225 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
+!    3 |     245 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 !    4 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
 !    5 |   40541 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 !    6 |     429 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 !    7 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
-!    8 |   14242 | domains | local  | online  | unchanged | black.list
+!    8 |   14249 | domains | local  | online  | changed   | black.list
 !    9 |      24 | domains | local  | online  | unchanged | black.list.threat-intelligence
 !
-! 131490 unique Domains - Version 2021.1020.181122
+! 131509 unique Domains - Version 2021.1020.195628
 !
 ||0.0.0.0.beeglivesex.com^
 ||0.0.0.0.hpyrdr.com^
@@ -7971,6 +7971,7 @@
 ||ads.glasove.com^
 ||ads.gofuckyourself.com^
 ||ads.goodreads.com^
+||ads.google.com^
 ||ads.gravytrainproductions.com^
 ||ads.groupcommerce.com^
 ||ads.gumgum.com^
@@ -8280,6 +8281,7 @@
 ||advertisers.euleriancdn.net^
 ||advertising.admedia.co.uk^
 ||advertising.affex.org^
+||advertising-api-eu.amazon.com^
 ||advertisingbait.postaffiliatepro.com^
 ||advertising.bayoubuzz.com^
 ||advertisingcom.122.2o7.net^
@@ -8291,6 +8293,7 @@
 ||advertising.goldseek.com^
 ||advertising.jp.msn.com^
 ||advertising.thediabetesnetwork.com^
+||advertising.twitter.com^
 ||advertising.valuedrugco.com^
 ||advertising.yandex.ru^
 ||advert.livesportmedia.eu^
@@ -8636,6 +8639,7 @@
 ||affiliate.vpn.express^
 ||affiliate.wishtrend.com^
 ||affiliati.ionoleggioauto.com^
+||affiliationjs.s3.amazonaws.com^
 ||affiliazioni.linkappeal.it^
 ||affilroi.com^
 ||affilroi.postaffiliatepro.com^
@@ -9597,6 +9601,7 @@
 ||amazing.affex.org^
 ||amazing.euleriancdn.net^
 ||amazing.postaffiliatepro.com^
+||amazonaax.com^
 ||amazon-adsystem.com^
 ||amazon.affex.org^
 ||amazon-brand-registry.com^
@@ -9606,6 +9611,7 @@
 ||amazonbusiness.eu^
 ||amazonbusiness.jp^
 ||amazon-ck.heteml.net^
+||amazonclix.com^
 ||amazonco.uk^
 ||amazone.affex.org^
 ||amazone.euleriancdn.net^
@@ -10021,6 +10027,7 @@
 ||analytics.eikko.ai^
 ||analytics.eleague.com^
 ||analytics.electricbee.co^
+||analyticsengine.s3.amazonaws.com^
 ||analytics.ericafischerphotography.com^
 ||analytics.ero-advertising.com^
 ||analytics.esporteinterativo.com.br^
@@ -10854,6 +10861,7 @@
 ||api.bigmobileads.com^
 ||api.bongdadem.net^
 ||api.boomtrain.com^
+||api.bugsnag.com^
 ||api.cheatsheet.me^
 ||api.circularhub.com^
 ||api.cityads.com^
@@ -10909,6 +10917,7 @@
 ||apigateway.am5.vip.prod.criteo.com^
 ||apigateway.par.vip.prod.criteo.com^
 ||apihommie.blogspot.com^
+||api-hotjar.com^
 ||api-internal-dev.oncustomer.asia^
 ||api-internal.oncustomer.asia^
 ||api.iris.tv^
@@ -11034,6 +11043,7 @@
 ||app.beanstalkdata.com^
 ||appbears.com^
 ||app.brand.zing.vn^
+||app.bugsnag.com^
 ||appcaptcha.com^
 ||appcdn.tvpage.com^
 ||app.cdp.asia^
@@ -11062,6 +11072,7 @@
 ||app.gammaplatform.com^
 ||appgax.optica-optima.com^
 ||app.getresponse.com^
+||app.getsentry.com^
 ||app.giraffeclick.com^
 ||appguruspot.online^
 ||app.harafunnel.com^
@@ -15343,6 +15354,7 @@
 ||browseraccelerator.com^
 ||browser.affex.org^
 ||browser.euleriancdn.net^
+||browser.sentry-cdn.com^
 ||browserservice.zzux.com^
 ||br.plsystem5.xyz^
 ||br.prog-capital1.site^
@@ -25050,6 +25062,7 @@
 ||data-leipzig.wt-eu02.net^
 ||data.main-ding.de^
 ||datamark.actonsoftware.com^
+||data.mistat.intl.xiaomi.com^
 ||data.motionloft.com^
 ||data.nocibe.fr^
 ||data.obermain.de^
@@ -27598,6 +27611,7 @@
 ||dreamwoman-finder1.com^
 ||dreamz.affex.org^
 ||dreamz.euleriancdn.net^
+||d.reddit.com^
 ||dr.euleriancdn.net^
 ||dr.eulerian.com^
 ||dr.eulerian.eu^
@@ -43684,6 +43698,7 @@
 ||google1.affex.org^
 ||google1.euleriancdn.net^
 ||google-account-team.com^
+||google-adservices.com^
 ||googleadservices.com^
 ||google.affex.org^
 ||googleailesi.com^
@@ -43693,6 +43708,8 @@
 ||google.euleriancdn.net^
 ||google.pluto7.com^
 ||googlesyndication.com^
+||googletagmanager.com^
+||googletagservices.com^
 ||googlus.com^
 ||googlwe.com^
 ||go.ogulo.com^
@@ -101620,6 +101637,7 @@
 ||static.crakbanner.com^
 ||staticd.cdn.industrybrains.com^
 ||staticdemo.criteo.com^
+||static-doubleclick.com^
 ||static.dynad.net^
 ||static.euleriancdn.net^
 ||static.fleshlight.com^
@@ -129463,6 +129481,7 @@
 ||www-google-analytics.l.google.com^
 ||www-google.nl^
 ||wwwgoogles.com^
+||www-googletagmanager.l.google.commetrics.apple.com^
 ||www-hold.affex.org^
 ||www-hold.euleriancdn.net^
 ||wwwhost-ox001.affex.org^
