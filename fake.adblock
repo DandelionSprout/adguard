@@ -29,15 +29,15 @@
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |    2197 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
 !    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
-!    3 |   16627 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+!    3 |   16654 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 !    4 |    1483 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 !    5 |      45 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
 !    6 |    5650 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 !    7 |    1499 | domains | local  | online  | unchanged | black.list.fake
-!    8 |    1416 | domains | local  | online  | changed   | fake.ts.black.list
-!    9 |     491 | domains | local  | online  | changed   | fake.vzni.black.list
+!    8 |    1416 | domains | local  | online  | unchanged | fake.ts.black.list
+!    9 |     491 | domains | local  | online  | unchanged | fake.vzni.black.list
 !
-! 23117 unique Domains - Version 2021.1020.120606
+! 23144 unique Domains - Version 2021.1021.000623
 !
 ||000relationships.com^
 ||007cryptooption.com^
@@ -1533,6 +1533,7 @@
 ||apple-russia-mobile.com^
 ||apple-russia-support.com^
 ||applesharpiepuppies.com^
+||applestee.com^
 ||applestoregiftcard.com^
 ||apple-support247.com^
 ||applesupport247.com^
@@ -2483,6 +2484,7 @@
 ||bestwoof.de^
 ||bestximpression.com^
 ||bestybikes.de^
+||bestyorkieforsale.com^
 ||bestyorkiesforsale.com^
 ||bestyorkiesupply.com^
 ||beta-elec.store^
@@ -2747,6 +2749,7 @@
 ||bloomcroop.com^
 ||bloomingtonleader.com^
 ||bloomsocks.ca^
+||bloomstee.com^
 ||blossomcavapoopuppyhome.com^
 ||blossomflowerdelivery.com^
 ||blossomkingcharles.com^
@@ -2861,6 +2864,7 @@
 ||bombayonlinepharma.com^
 ||bomplay.de^
 ||bonance.top^
+||bondstee.com^
 ||bondstreetgeneraltrading.com^
 ||boneakitas.com^
 ||bonfabrics.com^
@@ -5108,6 +5112,7 @@
 ||cutiebeagleshome.com^
 ||cutiegoldenretrieverpups.com^
 ||cutiepawspomeranian.com^
+||cutiestyorkie.com^
 ||cutieyorkshireterrierpups.com^
 ||cutterfarm.de^
 ||cuttieschihuahuateacuppups.com^
@@ -5200,6 +5205,7 @@
 ||daintiness.xyz^
 ||dairyagroexportersgroup.com^
 ||daisyblueheelerhome.com^
+||daisytee.com^
 ||daivantagrico.com^
 ||dakotatimes.com^
 ||dalaline.com^
@@ -11209,6 +11215,7 @@
 ||jordancavapoopuppies.com^
 ||jordanius.com^
 ||jorgemasvidal.net^
+||josebostonfamily.com^
 ||josef-elektronik.com^
 ||josemonkeysforhomes.com^
 ||josephchihuahuapups.com^
@@ -11362,6 +11369,7 @@
 ||kareenchihuahua.com^
 ||karenfrenchies.com^
 ||karenmiss.com^
+||karenshihtzuhome.com^
 ||karimovesa.com^
 ||karinalabradorpuppies.com^
 ||karl-buchheister.de^
@@ -11525,6 +11533,7 @@
 ||khululivestockandpoultryfarm.co.za^
 ||kiarapuppies.com^
 ||kiatajhizd.com^
+||kicad-centrum.pl^
 ||kickoutracism.de^
 ||kickvee.com^
 ||kiddiesstarkmachen.de^
@@ -13148,6 +13157,7 @@
 ||maxcrox.de^
 ||maxedeliverys.com^
 ||maxexpressdelivery.com^
+||maxfieldpuppiesforsale.com^
 ||maxgoldendoodles.com^
 ||maxgoldenretrieverpuppies.com^
 ||maxgreatdane.com^
@@ -13469,6 +13479,7 @@
 ||meredithkimcavapoo.com^
 ||merialcossbullies.com^
 ||meridianfamilycattery.com^
+||merielkelenbullies.com^
 ||meriohorse.net^
 ||meriragdollcattery.com^
 ||meritenglishbulldogpuppiesbreeders.club^
@@ -14237,6 +14248,7 @@
 ||mymainecoongift.com^
 ||mymasterdeal.com^
 ||mymasterworld.com^
+||mymoontee.com^
 ||my-movie.club^
 ||mymovingchanges.com^
 ||mynecklace.de^
@@ -14323,6 +14335,7 @@
 ||naidoocanine.co.za^
 ||naikompetshome.com^
 ||naketanounique.com^
+||naketee.com^
 ||namen-los.at^
 ||namicloth.com^
 ||namthipsetthaplc.com^
@@ -14789,6 +14802,7 @@
 ||nodisinfo.com^
 ||noelamomspug.com^
 ||noeldachshundpuppies.com^
+||noelfashion.com^
 ||nofatsurvey.com^
 ||nofotballshop.com^
 ||nofotballstore.com^
@@ -15097,6 +15111,7 @@
 ||oceanparkfunding.com^
 ||oceansideshibainupuppies.com^
 ||oceanstatetoday.com^
+||oceanstee.com^
 ||ocelotfamily.com^
 ||ocenkingexportltd.com^
 ||ochen-strannie-dela.online^
@@ -15355,6 +15370,7 @@
 ||opesdbv.com^
 ||opioidsalg.com^
 ||opioids.news^
+||opkennel.com^
 ||optekhackers.net^
 ||optic-dias.ru^
 ||opticsfast.com^
@@ -15482,6 +15498,7 @@
 ||outstandinghavanesepuppies.com^
 ||outstanding-huskypuppies.com^
 ||outstandingmaltipoos.com^
+||outstandingminpin.com^
 ||outstandingpitbullpuppies.com^
 ||outstandingpitbullpups.com^
 ||outstandingpitbulls.com^
@@ -15494,6 +15511,7 @@
 ||oversexy.com^
 ||owaqoopj.com^
 ||owlala.com^
+||owltee.com^
 ||oxfordmaltesehome.com^
 ||oxfordmetoday.com^
 ||oxfordreporter.com^
@@ -15686,6 +15704,7 @@
 ||passports-for-sale.net^
 ||passportsservices.com^
 ||passthevote.com^
+||pasteltee.com^
 ||pastillasfarmacia.net^
 ||pastol.de^
 ||patagoniaseuonline.com^
@@ -15808,6 +15827,7 @@
 ||pentacroft.com^
 ||pentobarbitalfrance.com^
 ||pentobarbitalgroup.com^
+||peonytee.com^
 ||peoplesearchusa.org^
 ||peoriastandard.com^
 ||peppesbutik.se^
@@ -16234,6 +16254,7 @@
 ||pomeranianparadise.com^
 ||pomeranianpetsale.com^
 ||pomeranianpetshops.com^
+||pomeranianpuppies-4sale.com^
 ||pomeranianpuppiesforsales.com^
 ||pomeranianpuppiesshop.com^
 ||pomeranianpuppiesup-4sale.com^
@@ -17263,6 +17284,7 @@
 ||ralphpomeranian.com^
 ||ramonlabrador.de^
 ||ramospurebredpuppies.com^
+||rampage-firearms.com^
 ||randallholdingbv.nl^
 ||randki-lokalne.com^
 ||randki-lokalne.pl^
@@ -17336,6 +17358,7 @@
 ||rbuad.com^
 ||rbux88go.com^
 ||rbxboost.org^
+||rbx-claim.com^
 ||rbx.fun^
 ||rbxgifts.me^
 ||rbxgods.com^
@@ -19568,6 +19591,7 @@
 ||starelax.com^
 ||stareusa.com^
 ||starexoticanimals.com^
+||starfishtee.com^
 ||stargamesshop.com^
 ||stargatev.com^
 ||stargatexpress.com^
@@ -20837,6 +20861,7 @@
 ||tobiasliegl.de^
 ||tobiflix.de^
 ||toceanswide.com^
+||tocotee.com^
 ||todaypuppy.com^
 ||todaysshihtzupuppies.com^
 ||todos-lala.com^
@@ -21745,6 +21770,7 @@
 ||valarstore.com^
 ||valentina-laurence.de^
 ||valentinalaurence.de^
+||valentinotee.com^
 ||valepina.de^
 ||validandrealdocuments.com^
 ||validdocs247.com^
@@ -21794,6 +21820,7 @@
 ||variationonlinepharmacy.com^
 ||varibel.de^
 ||vaschoen.com^
+||vasetee.com^
 ||vassv.com^
 ||vastinvest.info^
 ||vast-spedition.com^
