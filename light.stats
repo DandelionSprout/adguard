@@ -47,7 +47,7 @@ Initialize ...
   11 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
   12 |     335 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
   13 |   16961 | hosts   | http   | online  | unchanged | https://someonewhocares.org/hosts/
-  14 |    1486 | hosts   | http   | online  | changed   | https://urlhaus.abuse.ch/downloads/hostfile/
+  14 |    1478 | hosts   | http   | online  | changed   | https://urlhaus.abuse.ch/downloads/hostfile/
   15 |   40503 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
   16 |   18493 | adblock | http   | online  | unchanged | https://easylist.to/easylist/easylist.txt
   17 |   16168 | adblock | http   | online  | unchanged | https://easylist.to/easylist/easyprivacy.txt
@@ -61,16 +61,16 @@ Initialize ...
 
 Stats light:
 
-** Source (raw):    172258
-== Source (unique): 104134 (-68124)
--- Exclude:         104080 (-54)
--- White:           101880 (-2200)
--- White(*):        101717 (-163)
-++ Block:           101761 (+44)
--- Unblock:         101761 (-0)
--- Dead:            84389 (-17372)
-++ FLD:             85110 (+721)
-++ WWW:             123625 (+38515)
+** Source (raw):    172250
+== Source (unique): 104126 (-68124)
+-- Exclude:         104073 (-53)
+-- White:           101873 (-2200)
+-- White(*):        101710 (-163)
+++ Block:           101754 (+44)
+-- Unblock:         101754 (-0)
+-- Dead:            84382 (-17372)
+++ FLD:             85097 (+715)
+++ WWW:             123614 (+38517)
 
 # Convert light to Hostlist ... 
 
@@ -78,6 +78,27 @@ Stats light:
 
 Prepare domain list for compiling ... done.
 
+ℹ Starting @adguard/hostlist-compiler v1.0.12
+ℹ Starting the compiler
+ℹ Configuration: {
+    "name": "light",
+    "sources": [
+        {
+            "source": "light.adblock.raw",
+            "type": "adblock"
+        }
+    ],
+    "transformations": [
+        "Compress"
+    ]
+}
+ℹ Start compiling light.adblock.raw
+ℹ Original length is 82938
+ℹ Length after applying transformations is 82938
+ℹ The list was compressed from 82941 to 69689
+ℹ Final length of the list is 69695
+ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/light/out/light.adblock
+ℹ Finished compiling
 
 # Attach header to light Domainlist ...
 
