@@ -43,10 +43,10 @@
 !    6 |   13720 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 !    7 |     429 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 !    8 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
-!    9 |   14391 | domains | local  | online  | unchanged | black.list
-!   10 |      24 | domains | local  | online  | unchanged | black.list.threat-intelligence
+!    9 |   14403 | domains | local  | online  | unchanged | black.list
+!   10 |      27 | domains | local  | online  | unchanged | black.list.threat-intelligence
 !
-! 104869 unique Domains - Version 2021.1021.223319
+! 104854 unique Domains - Version 2021.1022.001247
 !
 ||0.0.0.0.beeglivesex.com^
 ||0.0.0.0.hpyrdr.com^
@@ -878,6 +878,7 @@
 ||464.allegrolokolnie.com^
 ||469816027576686.mateti.net^
 ||46.euleriancdn.net^
+||476km.com^
 ||47.euleriancdn.net^
 ||480.zaloapp.ads.zdn.vn^
 ||48.euleriancdn.net^
@@ -1171,6 +1172,7 @@
 ||913nd.dieti-natura.es^
 ||915616854953982.mateti.net^
 ||91.euleriancdn.net^
+||91yudao.com^
 ||922.hittail.com^
 ||925.lt^
 ||929408468507536.mateti.net^
@@ -3653,7 +3655,6 @@
 ||admin.eulerian.eu^
 ||admin.eulerian.fr^
 ||admin.genieessp.com^
-||admin.gentbcn.org^
 ||adming.net^
 ||adminhelp1deskunit.moonfruit.com^
 ||adminhelpdeskunit.moonfruit.com^
@@ -3802,6 +3803,7 @@
 ||adresult.jp^
 ||ad.retargeter.com^
 ||adriana.euleriancdn.net^
+||adrianaosorio.ottimosoft1.com^
 ||adrian.euleriancdn.net^
 ||adrianzajewicz.blogspot.com^
 ||adrms.euleriancdn.net^
@@ -4903,7 +4905,6 @@
 ||af-mark.jp^
 ||afm.euleriancdn.net^
 ||af.moshimo.com^
-||afnan-amc.com^
 ||a.fox.com^
 ||a.foxsports.com^
 ||afp.euleriancdn.net^
@@ -5024,6 +5025,7 @@
 ||ai-colab-research.com^
 ||aida.euleriancdn.net^
 ||aiddut.particleformen.com^
+||aiecons.com^
 ||ai.euleriancdn.net^
 ||aigachu.com^
 ||aiglesklep.com^
@@ -5056,7 +5058,6 @@
 ||aionfoundation.com^
 ||airbnb.room410819.online^
 ||aire.euleriancdn.net^
-||airelp.com^
 ||airestech.postaffiliatepro.com^
 ||air.euleriancdn.net^
 ||airevalleyadvertiser-gb.airevalleyadvertiser.co.uk^
@@ -5228,7 +5229,6 @@
 ||albert.euleriancdn.net^
 ||albertodionigi.it^
 ||alberto.euleriancdn.net^
-||albertoleather.com^
 ||albiondrugs.com^
 ||albion.euleriancdn.net^
 ||alblux.com^
@@ -5437,6 +5437,7 @@
 ||allinhauling.com^
 ||allinsurance.allinsure.ca^
 ||all-internet-security.com^
+||allisunswim.com^
 ||allmp3.hostil.pl^
 ||allmusic.c0.pl^
 ||allneuro.com.ua^
@@ -6508,7 +6509,6 @@
 ||apac.zendesk.com^
 ||ap.adflex.vn^
 ||apaman.sunhome-okayama.co.jp^
-||aparav.com^
 ||a.parfumsclub.de^
 ||apartamentydeluxe24.pl^
 ||apartamentypoleska.pl^
@@ -6559,6 +6559,7 @@
 ||ape.saadsvoterguide.org^
 ||ape.smartplanschema.se^
 ||ap.euleriancdn.net^
+||apexdesigns.co.in^
 ||apex.euleriancdn.net^
 ||apex-rents.com^
 ||apexstats.com^
@@ -6627,7 +6628,6 @@
 ||api.comm.miui.com^
 ||api.conduit.com^
 ||api-consumer365.desigual.com^
-||api.cstdevs.com^
 ||apicultoresurbanos.cl^
 ||api.curation.ameba.jp^
 ||api.cxloyalty-mcc.com^
@@ -6907,6 +6907,7 @@
 ||apps.nastydollars.com^
 ||apps.nexus.bazaarvoice.com^
 ||app.solutions.wholesale.bell.ca^
+||apps.saintsoporte.com^
 ||app.storage.yunvm.com^
 ||appstore.cdn.pandora.xiaomi.com^
 ||appstore.euleriancdn.net^
@@ -6944,7 +6945,6 @@
 ||apu.euleriancdn.net^
 ||apunts2.euleriancdn.net^
 ||apus.euleriancdn.net^
-||aqarb.com^
 ||aqdawf.ccm.net^
 ||aq.euleriancdn.net^
 ||aqsati.com^
@@ -7021,7 +7021,6 @@
 ||a.remy.world^
 ||arena.altitude-arena.com^
 ||arena.euleriancdn.net^
-||arendakisloroda.ru^
 ||ares.euleriancdn.net^
 ||ares.tl^
 ||arete.postaffiliatepro.com^
@@ -7047,7 +7046,6 @@
 ||ariana.euleriancdn.net^
 ||ariane.euleriancdn.net^
 ||ariboo.com^
-||aricc.sg^
 ||aridtestlahjak.com^
 ||arie.euleriancdn.net^
 ||ariel.euleriancdn.net^
@@ -7477,7 +7475,6 @@
 ||atom.euleriancdn.net^
 ||atomic.euleriancdn.net^
 ||atomictime.net^
-||at-o.net^
 ||at.ontargetjobs.com^
 ||atousoft.com^
 ||atq.gentrad.xyz^
@@ -7553,7 +7550,6 @@
 ||aukrux.forum.com.br^
 ||aula.euleriancdn.net^
 ||aulavirtual.euleriancdn.net^
-||aulist.com^
 ||aumarketing.sedgwick.com^
 ||au.ms^
 ||a.union.mi.com^
@@ -7661,6 +7657,7 @@
 ||aux.lansator.ro^
 ||av1.euleriancdn.net^
 ||av8d.euleriancdn.net^
+||avadhanagames.com^
 ||ava.euleriancdn.net^
 ||avalanche.euleriancdn.net^
 ||avalon.euleriancdn.net^
@@ -7714,7 +7711,6 @@
 ||avs.euleriancdn.net^
 ||avskype.com^
 ||avto.euleriancdn.net^
-||avtoremprof.ru^
 ||a-vtp-audi-com.eulerian.com^
 ||a-vtp-audi-com.eulerian.fr^
 ||avvfqs.nubia.com.tr^
@@ -7990,7 +7986,6 @@
 ||backoffice.euleriancdn.net^
 ||backofficellc.com^
 ||backpack.euleriancdn.net^
-||backpackumbrella.com^
 ||backpaininstantrelief.com^
 ||backseatcuddler.us.intellitxt.com^
 ||backstage.euleriancdn.net^
@@ -8119,10 +8114,8 @@
 ||banex.bikers-engine.com^
 ||bangbang.euleriancdn.net^
 ||bangbros.euleriancdn.net^
-||bangeroo-nutrition.de^
 ||bang.euleriancdn.net^
 ||bangkok.euleriancdn.net^
-||bangkok-orchids.com^
 ||bangladeshsx.com^
 ||banjers.ero-advertising.com^
 ||bank01.ads.dt.mydas.mobi^
@@ -8603,6 +8596,7 @@
 ||beiwanda01.webtrekk.net^
 ||beka.pl^
 ||bekbgandrmbx.com^
+||bekindretail.com^
 ||beklear.net^
 ||belarus.euleriancdn.net^
 ||beldiplomcom.75.com1.ru^
@@ -8616,7 +8610,6 @@
 ||bella.euleriancdn.net^
 ||bella-khusairi.blogspot.com^
 ||bellatexballoon.com^
-||bellatop.com.br^
 ||bellatrix.euleriancdn.net^
 ||bellaveiskincare.com^
 ||bellbird.biz^
@@ -8630,6 +8623,7 @@
 ||belopeixe.com.br^
 ||bel.pg.com^
 ||belstaffpolska.com^
+||beltmexico.com^
 ||bemanly.com^
 ||be-me.pl^
 ||bem.euleriancdn.net^
@@ -8938,7 +8932,6 @@
 ||bighop.com^
 ||bigmac.euleriancdn.net^
 ||bigmart.com.np^
-||bigmikesupplies.co.za^
 ||bigmoviesz.com^
 ||bignamestanfree.wixsite.com^
 ||bigpenisguide.com^
@@ -9112,7 +9105,6 @@
 ||bitgamez.com^
 ||bitgenises.com^
 ||bit.ly^
-||bitmex-trade.com^
 ||bit-pl.web.app^
 ||bitrix.euleriancdn.net^
 ||bitsdigit.com^
@@ -9246,6 +9238,7 @@
 ||blackcat.euleriancdn.net^
 ||blackchek.popunder.ru^
 ||black-diamond.asia^
+||blackdiamondstock.com^
 ||black.euleriancdn.net^
 ||blackhole.euleriancdn.net^
 ||black-jack-chewingkon.blogspot.com^
@@ -9895,7 +9888,6 @@
 ||brqsxv.bergdorfgoodman.com^
 ||brs.euleriancdn.net^
 ||br-stone.online^
-||brstow.com^
 ||bruce.euleriancdn.net^
 ||brudne-tajemnice.eu^
 ||brudne-tajemnice.pl^
@@ -10123,7 +10115,6 @@
 ||burytimes-gb.burytimes.co.uk^
 ||buscador.euleriancdn.net^
 ||buscarjeep.com^
-||buscascolegios.diit.cl^
 ||busdev.go.synergy-hp.com^
 ||bus.euleriancdn.net^
 ||business.adelmantravel.com^
@@ -10181,6 +10172,7 @@
 ||bustcream-pro.com^
 ||bustedcoverage.us.intellitxt.com^
 ||busyserviceinc.com^
+||butlerautos.net^
 ||butler.euleriancdn.net^
 ||butshesagirl.usesfathom.com^
 ||butterflyadmin.postaffiliatepro.com^
@@ -10707,6 +10699,7 @@
 ||canary.euleriancdn.net^
 ||canbangkiemhoa.com^
 ||cancel.euleriancdn.net^
+||cancer.educandome.co^
 ||cancer.euleriancdn.net^
 ||cancertreatmente.tt.omtrdc.net^
 ||candidates.bettsrecruiting.com^
@@ -10866,6 +10859,7 @@
 ||carsfreaks.pl^
 ||cars.ign.us.intellitxt.com^
 ||car-stuff.us.intellitxt.com^
+||carte-deuil.com^
 ||carter.euleriancdn.net^
 ||cart.euleriancdn.net^
 ||cartman.euleriancdn.net^
@@ -10938,6 +10932,7 @@
 ||cat.chainotate.com^
 ||cat.doebankdesigns.com^
 ||catering.euleriancdn.net^
+||cateringluciayjoaquin.com^
 ||catering.movingvenue.com^
 ||catering.smarthospitality.co.uk^
 ||caterpilla.ibon.live^
@@ -11279,7 +11274,6 @@
 ||cdn.exp.pandora.net^
 ||cdn.firstlook.com^
 ||cdn.fivecdm.com^
-||cdn-g0962.int-onedrive.com^
 ||cdn.gameads.io^
 ||cdn.gigya.com^
 ||cdn.googletoolservices.com^
@@ -11565,7 +11559,6 @@
 ||cf.effectivemeasure.net^
 ||cf.euleriancdn.net^
 ||cfg.euleriancdn.net^
-||cfihoa.com^
 ||cf.ly^
 ||cfrnyp.kars4kids.org^
 ||cfsaze.retailmenot.ca^
@@ -11596,6 +11589,7 @@
 ||cgwebmetrics.capgroup.com^
 ||cgxqcf.liftfoils.com^
 ||ch0p.darty.com^
+||ch1.spacermodem.com^
 ||cha2.chantelle.com^
 ||chacha.euleriancdn.net^
 ||chacomedia.com^
@@ -12256,7 +12250,6 @@
 ||clicks.wpp-open.com^
 ||clicks.yellowpageschat.co.za^
 ||clicks.zwaar.org^
-||clicktale.net^
 ||clicktale.net.edgekey.net^
 ||clickteam.postaffiliatepro.com^
 ||click.tech4exec.fr^
@@ -12463,6 +12456,7 @@
 ||cma.euleriancdn.net^
 ||cmail.euleriancdn.net^
 ||cm.ambientdsp.com^
+||cm-arquitetos.com^
 ||cmcc.euleriancdn.net^
 ||cmc.euleriancdn.net^
 ||cm.c-m.co.jp^
@@ -15221,6 +15215,7 @@
 ||count.freett.com^
 ||count.gothaer-digital.de^
 ||count.ing-diba.at^
+||count.mail.163.com.impactmedfoundation.com^
 ||countmypage.com^
 ||count.orca-pass.net^
 ||count.pcpop.com^
@@ -15270,6 +15265,7 @@
 ||cowboy.euleriancdn.net^
 ||cowcotland.fr.intellitxt.com^
 ||cow.euleriancdn.net^
+||cowin.sriher.com^
 ||cowpolsce.xyz^
 ||coxcommunications.hb-api.omtrdc.net^
 ||cox.euleriancdn.net^
@@ -15987,6 +15983,7 @@
 ||custom.safewayhyd.com^
 ||custom.smccontractmfg.com^
 ||custom.specialtymfg.com^
+||customtrackbatons.com^
 ||custom.twpcpa.com^
 ||custvpn.cainus.teradatadmc.com^
 ||custvpn.wcohus.teradatadmc.com^
@@ -17827,6 +17824,7 @@
 ||dangan.euleriancdn.net^
 ||danger.euleriancdn.net^
 ||danialrazali.com^
+||daniel1.ottimosoft1.com^
 ||daniel2.tantawy.app^
 ||danielb.tantawy.app^
 ||danielebaise.adv.br^
@@ -17893,7 +17891,6 @@
 ||dascoin.prowly.com^
 ||das.euleriancdn.net^
 ||dashboard-01.braze.com^
-||dashboard.coinlibrary.io^
 ||dashboard.euleriancdn.net^
 ||dashboard.miprofile.org^
 ||dash.euleriancdn.net^
@@ -17943,6 +17940,7 @@
 ||datafirst.wingarc.com^
 ||data.fittestfreakest.com^
 ||dataforce.net^
+||data.green-iraq.com^
 ||data.human-automation.de^
 ||data.iberojet.es^
 ||data.iberojet.pt^
@@ -17958,7 +17956,6 @@
 ||data.obermain.de^
 ||dataorigin.euleriancdn.net^
 ||data.pepephone.com^
-||datapolish.com^
 ||dataprivacyinitiative.org^
 ||datar-es-1.net.daraz.com^
 ||datas.connectingthreads.com^
@@ -18269,7 +18266,6 @@
 ||defender.euleriancdn.net^
 ||defensewall.biz^
 ||defiant.euleriancdn.net^
-||definingdetail.ca^
 ||deflorationvirgins.com^
 ||defrost.pl^
 ||defshop01.webtrekk.net^
@@ -18496,6 +18492,7 @@
 ||desarrollo.euleriancdn.net^
 ||descargas.euleriancdn.net^
 ||de.schroders.email^
+||deseo.torreblancamusica.com^
 ||deseretdigitalmedia.tt.omtrdc.net^
 ||desert.euleriancdn.net^
 ||des.euleriancdn.net^
@@ -18525,7 +18522,6 @@
 ||destgrena.at^
 ||destiny.euleriancdn.net^
 ||destinyintenationaluniversity.com^
-||destinymc.co.za^
 ||destructoid.us.intellitxt.com^
 ||desv383oqqc0.cloudfront.net^
 ||deszczowka24.pl^
@@ -18612,12 +18608,14 @@
 ||dev.thesecretdesigncollective.com^
 ||devtracking.risk.lexisnexis.com^
 ||dev.trafficforce.com^
+||dev.watch-store.eu^
 ||dev-www.euleriancdn.net^
 ||dev.www.euleriancdn.net^
 ||devwww.euleriancdn.net^
 ||dewey.euleriancdn.net^
 ||dex.euleriancdn.net^
 ||dexter.euleriancdn.net^
+||dezcom.com^
 ||de.zettle.com^
 ||dezinfikuj.se^
 ||dezlbgu7bnlhf.cloudfront.net^
@@ -18665,7 +18663,6 @@
 ||dgiads.com^
 ||dgjdla9k827sl.cloudfront.net^
 ||d.g.mi.com^
-||dgmpak.com^
 ||dgpftb.limelush.com^
 ||dgpot.com^
 ||dgpq8b.webwave.dev^
@@ -19018,6 +19015,7 @@
 ||dis.euleriancdn.net^
 ||dishpurchasingcorporation.hb.omtrdc.net^
 ||dishpurchasingcorporation-stage.hb-api.omtrdc.net^
+||disinfectiontunnel.emergemetal.com^
 ||disk.euleriancdn.net^
 ||diskord.ru.com^
 ||disneyembroiderycards.com^
@@ -19497,6 +19495,7 @@
 ||domino.euleriancdn.net^
 ||domki-kopalino.com.pl^
 ||domniespodzianek.com^
+||domo4.com^
 ||domodi-sklep.pl^
 ||domowe-kino.pl^
 ||domreg.euleriancdn.net^
@@ -19636,6 +19635,7 @@
 ||download32.us.intellitxt.com^
 ||download3.euleriancdn.net^
 ||download4.euleriancdn.net^
+||download.5866.com^
 ||download.agrifoodinnovation.com^
 ||download.animalagtech.com^
 ||download.animalagtecheurope.com^
@@ -19692,6 +19692,7 @@
 ||download.worldwatertechinnovation.com^
 ||download.worldwatertechnorthamerica.com^
 ||downloadz.us^
+||down.pcclear.com^
 ||downtoearth.postaffiliatepro.com^
 ||downtown.euleriancdn.net^
 ||downundermeatpie.com^
@@ -19775,7 +19776,6 @@
 ||dragonnew.euleriancdn.net^
 ||dragons.euleriancdn.net^
 ||dragon.sh2.com^
-||dragonsknot.com^
 ||dragontechs.com^
 ||drainage.marleypd.co.uk^
 ||drake.euleriancdn.net^
@@ -19957,7 +19957,6 @@
 ||d.thesecretdesigncollective.com^
 ||dtk.euleriancdn.net^
 ||dtmx.pl^
-||d.torreblancamusica.com^
 ||dt.polyad.net^
 ||dtqcpx.eskor.se^
 ||d-track.send.microadinc.com^
@@ -19984,6 +19983,7 @@
 ||duck.koshinan.com^
 ||duck.mypcspecs.io^
 ||dude.euleriancdn.net^
+||dudhanipoly.com^
 ||dudleynews-gb.dudleynews.co.uk^
 ||duidefenseattorneyssandiego.com^
 ||duiwcg72w56ze.cloudfront.net^
@@ -20021,6 +20021,7 @@
 ||duster.euleriancdn.net^
 ||dust.euleriancdn.net^
 ||dutahgye3t3hw.cloudfront.net^
+||dutapp.wisolve.co.za^
 ||dutchaparel.com^
 ||dutedan.com^
 ||duyil2vzot0h1.cloudfront.net^
@@ -20565,6 +20566,7 @@
 ||e-commerce.euleriancdn.net^
 ||ecommerce.euleriancdn.net^
 ||ecommerceplatform.kaliocommerce.com^
+||e-commerce.saleensuporte.com.br^
 ||ecommercetimes.us.intellitxt.com^
 ||ecomobilni.pl^
 ||econdevforumjax.net^
@@ -20900,7 +20902,6 @@
 ||elaskalar.com^
 ||elastic.euleriancdn.net^
 ||elastx.net^
-||elbauldenora.com^
 ||elbravocomputer.com^
 ||elbroder.com^
 ||elcap.pl^
@@ -21026,6 +21027,7 @@
 ||eloqua.vr-intelligence.com^
 ||elpaso.euleriancdn.net^
 ||el.popcart.com^
+||elprincipedepaz.com^
 ||elq.adp.nl^
 ||elq.analog.com^
 ||elqapp.timewarnercable.com^
@@ -21096,7 +21098,6 @@
 ||eluhep.bosco.ru^
 ||eluniversalmx.sc.omtrdc.net^
 ||elv3-tslogging.touchcommerce.com^
-||elveza.org^
 ||elvis.euleriancdn.net^
 ||elvox.pl^
 ||e.lyfttidricksettlement.com^
@@ -21285,7 +21286,6 @@
 ||email-klaviyo.branch.rocks^
 ||email.komen.org^
 ||email.kurrajong.com.au^
-||email.lhccontabil.cnt.br^
 ||email-link.mg-staging.surkus.com^
 ||email-listrak.branch.rocks^
 ||email.lynnimaging.com^
@@ -22492,6 +22492,7 @@
 ||eveningtimes-gb.eveningtimes.co.uk^
 ||event1.thermoscientific.com^
 ||event.adpia.vn^
+||eventastic.co.in^
 ||event.bcon.jp^
 ||event.boozallen.com^
 ||eventbright.work^
@@ -22685,6 +22686,7 @@
 ||evolutiontravel.postaffiliatepro.com^
 ||evp.euleriancdn.net^
 ||evupmg.olehenriksen.com^
+||evvcrisisfund.com^
 ||evxlkd.bottegaverde.ro^
 ||ev.yieldbuild.com^
 ||evyy.net^
@@ -23391,7 +23393,6 @@
 ||faust.euleriancdn.net^
 ||fauzxn.hairlavie.com^
 ||favecover.com^
-||faveraprojects.com^
 ||favicon.com^
 ||favykui9.com^
 ||fax.euleriancdn.net^
@@ -24148,7 +24149,6 @@
 ||flyers.marketing.hiperbaric.com^
 ||fly.euleriancdn.net^
 ||fly.foggybottomfarm.org^
-||flyingbuddhadesign.com^
 ||flyingcroc.com^
 ||flyingfish.agilehedges.com^
 ||flyingfish.cloudqigong.com^
@@ -24547,7 +24547,6 @@
 ||forskolanlustgarden.se^
 ||forstriko.com^
 ||forte.euleriancdn.net^
-||forter.com^
 ||forthekids.rileykids.org^
 ||fortisbank01.webtrekk.net^
 ||fortis.hb.omtrdc.net^
@@ -24618,7 +24617,6 @@
 ||foty.cleverapps.io^
 ||foundation.alfred.org.au^
 ||foundation.euleriancdn.net^
-||foundationrepairhoustontx.net^
 ||foundations.promedica.org^
 ||foundation.ustaf.usta.com^
 ||found.ee^
@@ -24928,7 +24926,6 @@
 ||ftllrldv.fotoallerlei.com^
 ||ftmsyy.jbl.com.br^
 ||ftnnce.autodoc.dk^
-||f-tonegroup.com^
 ||ftonykol-xyz.preview-domain.com^
 ||ftp01.euleriancdn.net^
 ||ftp01.ru.teradatadmc.com^
@@ -25090,7 +25087,6 @@
 ||fx.gtop.ro^
 ||fxj6.aireuropa.com^
 ||fxlayer.net^
-||fxliquiditymarkets.com^
 ||fxlpux.nakedcashmere.com^
 ||fxn.ws^
 ||fxpoint.co^
@@ -25477,6 +25473,7 @@
 ||gems.euleriancdn.net^
 ||gemverify.com^
 ||gen2server.com^
+||genaikerr.com^
 ||genealogy.euleriancdn.net^
 ||gene.euleriancdn.net^
 ||generaleducation.graduateprogram.org^
@@ -25858,7 +25855,6 @@
 ||gif.eulerian.eu^
 ||gif.eulerian.fr^
 ||gift.euleriancdn.net^
-||giftforgirls.net^
 ||giftinguru.com^
 ||giftplanning.westmont.edu^
 ||giftprizewinner.com^
@@ -25897,6 +25893,7 @@
 ||giovanni.euleriancdn.net^
 ||gip.euleriancdn.net^
 ||giporigin.euleriancdn.net^
+||gipsdizajn.mk^
 ||giraffe.0xtracker.com^
 ||giraffe.bkmhorten.no^
 ||giraffe.feuerwasser.de^
@@ -38223,7 +38220,6 @@
 ||greenapple.euleriancdn.net^
 ||greenbarleyplus.pl^
 ||green-bloc9.com^
-||greencodeteam.top^
 ||greendog.euleriancdn.net^
 ||greendolarbag.com^
 ||green.euleriancdn.net^
@@ -38321,6 +38317,7 @@
 ||grupoteficon.com^
 ||gruppoespresso01.webtrekk.net^
 ||gruppofinelco01.webtrekk.net^
+||gruzof.by^
 ||grvspn.com^
 ||grwwzq.perfectorigins.com^
 ||grxftt.oogarden.com^
@@ -38798,6 +38795,7 @@
 ||hbsnordic.postaffiliatepro.com^
 ||hcc.euleriancdn.net^
 ||hc.euleriancdn.net^
+||hchfug.org^
 ||hcj3.halconviajes.com^
 ||hcjpbc.lifeandstylemag.com^
 ||hcjpbc.surfer.com^
@@ -38893,6 +38891,7 @@
 ||hefral.pierimport.fr^
 ||hehe.euleriancdn.net^
 ||hehreerh.001www.com^
+||heikafei.net^
 ||heimdall.euleriancdn.net^
 ||heineken.euleriancdn.net^
 ||heise01.webtrekk.net^
@@ -39041,7 +39040,6 @@
 ||hentaidatabase.com^
 ||hentai.euleriancdn.net^
 ||heobnd.mir-vozduha.ru^
-||hepbizden.com^
 ||hep.euleriancdn.net^
 ||heqomw.reporteryoung.pl^
 ||heracles.euleriancdn.net^
@@ -39119,6 +39117,7 @@
 ||hgqmsq.weine.de^
 ||hgssa.browla.com^
 ||hgtzz.com^
+||hhaward.org^
 ||hhbxcs.tylko.com^
 ||hh.euleriancdn.net^
 ||hhirhz.nagaba.pl^
@@ -39311,7 +39310,6 @@
 ||hn.euleriancdn.net^
 ||hngn.com.us.intellitxt.com^
 ||hnmm.cdmon.com^
-||hnmpj.com^
 ||hnoukl.alsaifgallery.com^
 ||hnpljm.planet-sports.de^
 ||hnrqwj.pkwteile.at^
@@ -39448,7 +39446,6 @@
 ||hontydumpy.com^
 ||hood.euleriancdn.net^
 ||hookedmediagroup.com^
-||hookedupboatclub.com^
 ||hook.euleriancdn.net^
 ||hook.oncustomer.asia^
 ||hookworm.beyond-avatars.com^
@@ -39596,7 +39593,6 @@
 ||hosting.3dtrekprinting.com^
 ||hosting3.euleriancdn.net^
 ||hosting4.euleriancdn.net^
-||hostingbolivia.com^
 ||hosting.conduit.com^
 ||hosting.euleriancdn.net^
 ||hostingfreelife.com^
@@ -39759,6 +39755,7 @@
 ||hsaxca.americatv.com.pe^
 ||hsbc.euleriancdn.net^
 ||hsbc-international.com^
+||hsecaravans.co.uk^
 ||hs.eloqua.com^
 ||hs.euleriancdn.net^
 ||hs.healthstream.com^
@@ -39987,7 +39984,6 @@
 ||hy-tec.com^
 ||hyundai.euleriancdn.net^
 ||hyut.000webhostapp.com^
-||hyvision.ir^
 ||hzdjfb.polskikoszyk.pl^
 ||hzdoctor.com^
 ||h.zedo.com^
@@ -40848,7 +40844,7 @@
 ||incoming.euleriancdn.net^
 ||incoming.telemetry.mozilla.org^
 ||incorp-budim.info^
-||incrediblepixels.com^
+||incredicole.com^
 ||incruises.com^
 ||incs.get-go.com^
 ||incs.gianteagle.com^
@@ -42184,6 +42180,7 @@
 ||info.formalifesciencemarketing.com^
 ||info.formiik.com^
 ||info.forstrong.com^
+||info.forter.com^
 ||info.forterra.co.uk^
 ||info.forumbenefits.aleragroup.com^
 ||info.fosterslaw.ca^
@@ -43946,6 +43943,7 @@
 ||inform.alturalearningacademy.com.au^
 ||inform.alturalearningacademy.edu.au^
 ||inform.alturalearning.com^
+||informasi.akuroptikjogja.com^
 ||informatica.euleriancdn.net^
 ||informatika.euleriancdn.net^
 ||information.bluespringwealth.com^
@@ -44702,6 +44700,7 @@
 ||info.vantiq.com^
 ||info.vaporstream.com^
 ||info.vastitservices.com^
+||infovator.com^
 ||info.vbest.jp^
 ||info.vbest-tax.jp^
 ||info.vcsolutions.com^
@@ -44965,7 +44964,6 @@
 ||ininnoetofe.ml^
 ||inipost.net^
 ||init.sh^
-||ink-store.nl^
 ||inlcxg.nifeislife.com^
 ||inleadership.co.nz^
 ||inline.admedia.com^
@@ -45754,7 +45752,6 @@
 ||ipzdiw.akson.ru^
 ||ipzd.pl^
 ||iqchaikinetfs.com^
-||iqdigitalmarket.com^
 ||iqera.news^
 ||iq.euleriancdn.net^
 ||iq.intellicyt.com^
@@ -45832,6 +45829,7 @@
 ||isaca.tt.omtrdc.net^
 ||isa.euleriancdn.net^
 ||isatap.euleriancdn.net^
+||isatechnology.com^
 ||isc.euleriancdn.net^
 ||isdiprofesionesdigitales.com^
 ||isee.euleriancdn.net^
@@ -46176,7 +46174,6 @@
 ||jay.andycroll.com^
 ||jay.brauerei-egg.at^
 ||jay.breakup.management^
-||jay.diamondrelationscrm.us^
 ||jay.euleriancdn.net^
 ||jay.howivscode.com^
 ||jay.plantainguy.com^
@@ -46243,7 +46240,6 @@
 ||jeetaffiliates.com^
 ||jeetplay.postaffiliatepro.com^
 ||je.euleriancdn.net^
-||jeferson.ottimosoft1.com^
 ||jefferson.euleriancdn.net^
 ||jeff.euleriancdn.net^
 ||jeffrey.hayzlett.com^
@@ -46329,7 +46325,6 @@
 ||jg.revolvermaps.com^
 ||j.gs^
 ||jgxy.euleriancdn.net^
-||jhayesconsulting.com^
 ||jhbqhp.domicad.com.ua^
 ||jhdhav.cflou.com^
 ||jhebgq.xlmoto.ie^
@@ -46383,7 +46378,6 @@
 ||jj.euleriancdn.net^
 ||jjicck.cosmeticsnow.com.au^
 ||jjmhnt.catawiki.it^
-||jjove.com^
 ||jkbklm.cbcrabcakes.com^
 ||jkbvdo.kaigojob.com^
 ||jk.euleriancdn.net^
@@ -46861,7 +46855,6 @@
 ||kallerupstone.viessmann.dk^
 ||k.allsecur.fr^
 ||kalmiaaxonic.info^
-||kalogirosfinance.com^
 ||kaloszehunterdamskie.com^
 ||kalosze-hunter.pl^
 ||kaltive.com^
@@ -46944,7 +46937,6 @@
 ||kart.euleriancdn.net^
 ||kartliew.com^
 ||karty-biedronkowe.24.eu^
-||kasabella.eu^
 ||kasandz.postaffiliatepro.com^
 ||kasa-sms.pl^
 ||kas.euleriancdn.net^
@@ -47175,6 +47167,7 @@
 ||kiddbs.baby-calendar.jp^
 ||kidderminstershuttle-gb.kidderminstershuttle.co.uk^
 ||kid.euleriancdn.net^
+||kidsangelcards.com^
 ||kidsangel.com^
 ||kidsdeservethebest.childrenswi.org^
 ||kids.euleriancdn.net^
@@ -47658,6 +47651,7 @@
 ||ksaikeerthi.com^
 ||ksamarketing.sedgwick.com^
 ||ksb01.webtrekk.net^
+||ks.cn^
 ||ksero-krosno.pl^
 ||kserwis.pl^
 ||ks.euleriancdn.net^
@@ -47676,7 +47670,6 @@
 ||ktai.pw^
 ||ktc.euleriancdn.net^
 ||ktdcoy.lyst.it^
-||ktechnetwork.com^
 ||kt.euleriancdn.net^
 ||ktge.postaffiliatepro.com^
 ||kthjuw.lyst.com.au^
@@ -48032,7 +48025,6 @@
 ||lascana01.webtrekk.net^
 ||laser.euleriancdn.net^
 ||laserpoz.com.pl^
-||lashpets.com^
 ||lasportivapolska.com^
 ||lasportivasklep.com^
 ||lastampa01.webtrekk.net^
@@ -48347,6 +48339,7 @@
 ||le.euleriancdn.net^
 ||leeu.pl^
 ||leffler.pl^
+||lefilsdepub.com^
 ||lefix.com.mx^
 ||lefkvi.sanpou-s.net^
 ||leflix.us^
@@ -48429,7 +48422,6 @@
 ||les.euleriancdn.net^
 ||leslie.euleriancdn.net^
 ||lesmalou.com^
-||lestesteux.ca^
 ||let4all.postaffiliatepro.com^
 ||letconj.info^
 ||lethe.co^
@@ -48636,7 +48628,6 @@
 ||lincoln-groupbenefits.lfg.com^
 ||linconpark.com^
 ||linda.euleriancdn.net^
-||lindnerelektroanlagen.de^
 ||lineage2.euleriancdn.net^
 ||lineage.euleriancdn.net^
 ||linebox.in^
@@ -49031,7 +49022,6 @@
 ||lmpadebis.gala-series.com^
 ||lms.euleriancdn.net^
 ||lms.login2.in^
-||lm.stagingarea.co.za^
 ||lmwmm.com^
 ||lnaff.pl^
 ||lndg.autosoftdms.com^
@@ -49040,7 +49030,6 @@
 ||lnfo.web-chat.eu^
 ||lng-business-start.com^
 ||lngbusiness-start.com^
-||lngdzc.love^
 ||lng-start-business.com^
 ||lngstart-business.com^
 ||lng-start.com^
@@ -49386,7 +49375,6 @@
 ||lorete.pl^
 ||lori.euleriancdn.net^
 ||lorksbackend.com^
-||los3don.com^
 ||losangeles.euleriancdn.net^
 ||losca3.wixsite.com^
 ||los.polss.xyz^
@@ -50934,6 +50922,7 @@
 ||mailer.smallbiz.hulu.com^
 ||mailer.smallbusinessmiracles.com^
 ||mailer.smud.org^
+||mailer.srkcommunication.biz^
 ||mailer.stationcasinos.com^
 ||mailer.stay-rlhc.com^
 ||mailers.unitedadlabel.com^
@@ -51206,7 +51195,6 @@
 ||makemytrip.tt.omtrdc.net^
 ||maker.euleriancdn.net^
 ||mak.euleriancdn.net^
-||makeurocement.mn^
 ||makeushot.us.intellitxt.com^
 ||makeyourmoney.space^
 ||maki.euleriancdn.net^
@@ -51272,7 +51260,6 @@
 ||mammoth.euleriancdn.net^
 ||mammutpolska.net^
 ||mammutwarszawa.com^
-||mamnonbanmai.work^
 ||ma.moblrn.com^
 ||ma.m-standard.co.jp^
 ||ma.mvr.se^
@@ -51349,7 +51336,6 @@
 ||manvspixel.pl^
 ||manygoodnews.com^
 ||ma.okuri-mono.com^
-||maooutsourcing.com^
 ||mapa.euleriancdn.net^
 ||ma.paradigm-shift.co.jp^
 ||mapas.euleriancdn.net^
@@ -51458,7 +51444,6 @@
 ||marinoderosas.com^
 ||marino.euleriancdn.net^
 ||marinsm.com^
-||mariobrown.net^
 ||mario.euleriancdn.net^
 ||marion.euleriancdn.net^
 ||ma.ri.se^
@@ -53146,6 +53131,7 @@
 ||marketing.onetomarket.nl^
 ||marketing.oni.co.uk^
 ||marketing.onkyousa.com^
+||marketingonline.com^
 ||marketing.onlineimage.com^
 ||marketing.onterrasystems.com^
 ||marketing.onug.net^
@@ -54067,6 +54053,7 @@
 ||markowyperfum.pl^
 ||marksandspencer.122.2o7.net^
 ||marks.euleriancdn.net^
+||marksidfgs.ug^
 ||marktwain.euleriancdn.net^
 ||markus.euleriancdn.net^
 ||marlboro.euleriancdn.net^
@@ -54077,7 +54064,6 @@
 ||marlin.mecv.xyz^
 ||marlin.ozjour.com^
 ||marly.euleriancdn.net^
-||marmariscastajanslari.bykmedya.com^
 ||marmoset.acboforegon.org^
 ||marmoset.deistermusikanten.de^
 ||marmoset.easycolour.app^
@@ -54100,7 +54086,6 @@
 ||mars.euleriancdn.net^
 ||marshall.euleriancdn.net^
 ||marshnow.com^
-||marsofficials.com^
 ||marsupial.dbcontractingltd.ca^
 ||marsupial.kymellis.co^
 ||marsupial.roleup.com^
@@ -54626,6 +54611,7 @@
 ||mediamond.nuggad.net^
 ||media.net^
 ||medianet.postaffiliatepro.com^
+||medianews.ge^
 ||media.og-affiliate.com^
 ||media.org.adtimaserver.vn^
 ||media.perial.info^
@@ -54748,6 +54734,7 @@
 ||mega.euleriancdn.net^
 ||megagiganten.se^
 ||mega-gry.com^
+||megagynreformas.com.br^
 ||megamediadm.euleriancdn.net^
 ||megamediadownloads.euleriancdn.net^
 ||megamediamanager.euleriancdn.net^
@@ -54762,6 +54749,7 @@
 ||megatron.euleriancdn.net^
 ||mega-wpadki.m44m.cloud^
 ||meg.euleriancdn.net^
+||meghamockup.dev.megha-industries.com^
 ||mehainteriors.com^
 ||mehdi.euleriancdn.net^
 ||meierweb.com^
@@ -54849,6 +54837,7 @@
 ||mercadeo.esri.co^
 ||mercator.euleriancdn.net^
 ||mercedes.euleriancdn.net^
+||merchantbli.myitas.net^
 ||merchant.euleriancdn.net^
 ||merciawu.com^
 ||merci.euleriancdn.net^
@@ -55634,7 +55623,6 @@
 ||mind.opin.ca^
 ||mindskillsbox.com^
 ||mindtake.com^
-||mindworksfoundation.com.au^
 ||minecraft.euleriancdn.net^
 ||mine.euleriancdn.net^
 ||mineral.euleriancdn.net^
@@ -55795,7 +55783,6 @@
 ||mk.maverickdental.com^
 ||mkm.postaffiliatepro.com^
 ||mk.neo.co.jp^
-||mkontakt.az^
 ||mkp-ecom.com^
 ||mks.euleriancdn.net^
 ||mk.sios.com^
@@ -56018,6 +56005,7 @@
 ||mmc.122.2o7.net^
 ||mmc.euleriancdn.net^
 ||mm.championenergyservices.com^
+||mmdx.com^
 ||mmdylo.missisleepy.pl^
 ||mmedia.euleriancdn.net^
 ||mm.euleriancdn.net^
@@ -56126,6 +56114,7 @@
 ||mobile.euleriancdn.net^
 ||mobilefineart.com^
 ||mobile-global-apps-storages.life^
+||mobile.illumetechnology.com^
 ||mobileiron.euleriancdn.net^
 ||mobilejmp.com^
 ||mobile.launchdarkly.com^
@@ -58626,6 +58615,7 @@
 ||muzic.euleriancdn.net^
 ||muzika.euleriancdn.net^
 ||muzik.euleriancdn.net^
+||muzimbiti.xigubo.co.mz^
 ||muzyka.euleriancdn.net^
 ||muzyka.icu^
 ||m.vartek.com^
@@ -59249,7 +59239,6 @@
 ||my.connexuscu.org^
 ||my.coolestmobi.com^
 ||mycpvlife.com^
-||myctyh.com^
 ||mydailymoment.us.intellitxt.com^
 ||mydates.com^
 ||mydati.com^
@@ -59510,7 +59499,6 @@
 ||my.xtremelashes.com^
 ||myxyzplatforma.com^
 ||my-zaprasza.online^
-||my-zolushka.ru^
 ||mz8gg5.webwave.dev^
 ||mzenug.z-dama.ru^
 ||mzenze.linio.com.co^
@@ -59559,6 +59547,7 @@
 ||nadya.euleriancdn.net^
 ||nadziejjaniegasnie.seohost.com.pl^
 ||nadzorbudowa.pl^
+||naeemacademy.com^
 ||na.euleriancdn.net^
 ||na-faktach112.waw.pl^
 ||n.afnet.jp^
@@ -59659,7 +59648,6 @@
 ||nas2.euleriancdn.net^
 ||nas3.euleriancdn.net^
 ||nasa.euleriancdn.net^
-||nasapaul.com^
 ||nascardigitalsap.d2.sc.omtrdc.net^
 ||nascardigitalsap.hb.omtrdc.net^
 ||nascar.euleriancdn.net^
@@ -59742,8 +59730,8 @@
 ||natural.pl^
 ||naturalvet.postaffiliatepro.com^
 ||naturalvet.us^
-||naturearterium.com.br^
 ||natureasremedy.com^
+||naturebyteddiesafrique.com^
 ||nature.euleriancdn.net^
 ||natureprimejournalz.com^
 ||naturesunshine.com^
@@ -60116,6 +60104,7 @@
 ||newhaven.euleriancdn.net^
 ||newhdcodecs.euleriancdn.net^
 ||newhost.euleriancdn.net^
+||newhpx.com^
 ||newiberia.attorney^
 ||newimagitasinc.hb.omtrdc.net^
 ||newjobs.d1.sc.omtrdc.net^
@@ -60141,7 +60130,6 @@
 ||newprodownloads.euleriancdn.net^
 ||newpromanager.euleriancdn.net^
 ||newrelic.com^
-||new-riconquistarelitalia.it^
 ||new.ropescoursesinc.com^
 ||news01.euleriancdn.net^
 ||news1.euleriancdn.net^
@@ -60376,6 +60364,7 @@
 ||newt.oldfriends.studio^
 ||newton.euleriancdn.net^
 ||newtontool.ca^
+||newtreedesign.co.uk^
 ||newt.sportmateclub.com^
 ||newt.turtle.network^
 ||newt.wilcoweb.team^
@@ -61219,6 +61208,7 @@
 ||nuyibu.pieper.de^
 ||nuyujp.barstoolsports.com^
 ||nvbzaw.istitutovolta.eu^
+||nvcnet.cn^
 ||nv.euleriancdn.net^
 ||nvfjvtntt.cf^
 ||nvhlzr.kosmetikfuchs.de^
@@ -62236,7 +62226,6 @@
 ||ocsweb.euleriancdn.net^
 ||ocs.websponsors.com^
 ||octans.euleriancdn.net^
-||octoil.net^
 ||octools.us.intellitxt.com^
 ||octopus.clarify.us^
 ||octopus.couragetrainingcentre.com^
@@ -62464,7 +62453,6 @@
 ||ohmymag-uk-v2.ohmymag.co.uk^
 ||ohnow.postaffiliatepro.com^
 ||ohrdit.kfzteile24.de^
-||ohsewgorgeous.co.uk^
 ||ohshmx.eightcap.com^
 ||ohx.euleriancdn.net^
 ||ohyes.euleriancdn.net^
@@ -63056,11 +63044,9 @@
 ||om.craftsman.com^
 ||omcshw.pharmasi.it^
 ||omdlenie.icu^
-||omega.az^
 ||omega.best^
 ||omega.euleriancdn.net^
 ||omegaone.co^
-||omegstudio.com^
 ||omer.euleriancdn.net^
 ||ometrics.ameds.com^
 ||ometrics.claflinequip.com^
@@ -63069,6 +63055,7 @@
 ||om.eulerian.eu^
 ||om.eulerian.fr^
 ||omfoom.thepoolfactory.com^
+||omgenglish.com^
 ||omg.euleriancdn.net^
 ||om.goarmy.com^
 ||omicron.euleriancdn.net^
@@ -65298,6 +65285,7 @@
 ||onpoint.iasa.org^
 ||onrunningbuty.com^
 ||ons.euleriancdn.net^
+||on-sights.com^
 ||onsitegold.com^
 ||ontario.euleriancdn.net^
 ||ontariyom.com^
@@ -65499,6 +65487,7 @@
 ||oranzadaklub.pl^
 ||orb.euleriancdn.net^
 ||orbital.euleriancdn.net^
+||orbitcall.co.uk^
 ||orbitcluster.com^
 ||orbit.euleriancdn.net^
 ||orbiyz.com^
@@ -65673,7 +65662,6 @@
 ||osiris.euleriancdn.net^
 ||os.j2.com^
 ||os.j2global.com^
-||osler.ottimosoft1.com^
 ||oslo.euleriancdn.net^
 ||oslony-okienne.pl^
 ||os.mbox.com.au^
@@ -65994,7 +65982,6 @@
 ||page.divphl.com^
 ||page.euleriancdn.net^
 ||page.evisions.com^
-||pagefair.com^
 ||page.fingertip.fi^
 ||page.franchisebusiness.com.au^
 ||page.hpcspecialtypharmacy.com^
@@ -66983,8 +66970,6 @@
 ||pata.ero-advertising.com^
 ||patagonia.122.2o7.net^
 ||patagoniaskleppolska.com^
-||patch2.51lg.com^
-||patch2.99ddd.com^
 ||patch.euleriancdn.net^
 ||patel.euleriancdn.net^
 ||paterps.pl^
@@ -67106,6 +67091,7 @@
 ||pay81-olx.pl^
 ||payback-aplikacja.biz^
 ||paydashboardinfo.com^
+||payerrealty.com^
 ||pay.euleriancdn.net^
 ||paygate.euleriancdn.net^
 ||payhome-pl-1ae3907f.arw-rohstoffhandel.com^
@@ -67185,7 +67171,6 @@
 ||p.campaigncal.com^
 ||pcash.globalmailer5.com^
 ||pcash.wildmatch.com^
-||pcbases.com^
 ||pcb.euleriancdn.net^
 ||pcbutts1.ourtoolbar.com^
 ||pcbutts1.software.informer.com^
@@ -67980,7 +67965,6 @@
 ||pio.wir-sehen-uns-im-juni.de^
 ||pi.pardot.com^
 ||pipeaota.com^
-||pipe.aria.microsoft.com^
 ||pipe.euleriancdn.net^
 ||pipeline.euleriancdn.net^
 ||pipenv.org^
@@ -68620,6 +68604,7 @@
 ||plt.trevlig-life.com^
 ||pl.tvplusnewtab.com^
 ||plug1luge.com^
+||plug2field.com^
 ||plug.euleriancdn.net^
 ||plugin.euleriancdn.net^
 ||plugins.euleriancdn.net^
@@ -69535,6 +69520,7 @@
 ||presta.euleriancdn.net^
 ||prestashop.euleriancdn.net^
 ||prestige.euleriancdn.net^
+||prestigehomeautomation.net^
 ||presto.euleriancdn.net^
 ||preston.euleriancdn.net^
 ||prestwichandwhitefieldguide-gb.prestwichandwhitefieldguide.co.uk^
@@ -69966,6 +69952,7 @@
 ||proof.euleriancdn.net^
 ||proof.mediaz.vn^
 ||pro-oh.euleriancdn.net^
+||propanla.com^
 ||proparm.jp^
 ||propattuern.xyz^
 ||propawin.postaffiliatepro.com^
@@ -69989,7 +69976,6 @@
 ||pros.intrasipa.fr^
 ||pro.smu.edu^
 ||pros.nationalnail.com^
-||prosoc.nl^
 ||pro-soft1.site^
 ||prospect.euleriancdn.net^
 ||prospect.gamaxlabsol.com^
@@ -70616,7 +70602,6 @@
 ||qrtag.fr^
 ||qrwmgz.bettysbeauty.jp^
 ||qsarab.vevano.com^
-||qsbinternational.com^
 ||qs.euleriancdn.net^
 ||qsfllclp.msgapp.com^
 ||qsfllc.msgapp.com^
@@ -70942,7 +70927,6 @@
 ||rapidleech.euleriancdn.net^
 ||rapido.idraetsmusik.dk^
 ||rapids.euleriancdn.net^
-||rapor.autotam.com.tr^
 ||rappid.host^
 ||rapsubs.popunder.ru^
 ||raptor.euleriancdn.net^
@@ -70956,7 +70940,6 @@
 ||rasta.euleriancdn.net^
 ||rata.ero-advertising.com^
 ||ratemodels.net^
-||ratemyfenancialadvisor.com^
 ||rates.euleriancdn.net^
 ||rates.gardenstateloans.com^
 ||rat.euleriancdn.net^
@@ -71817,6 +71800,7 @@
 ||relaxdom.com.pl^
 ||relax.euleriancdn.net^
 ||relax.greenbits.com^
+||relaxindulge.co.nz^
 ||relaxsearch.uphero.com^
 ||relay01.euleriancdn.net^
 ||relay02.euleriancdn.net^
@@ -72390,6 +72374,7 @@
 ||rimraphael.com^
 ||ri.ms^
 ||rinad.jp^
+||rinaefoundation.org.za^
 ||rina.euleriancdn.net^
 ||ringcentral.tt.omtrdc.net^
 ||ring.euleriancdn.net^
@@ -72434,7 +72419,6 @@
 ||river.euleriancdn.net^
 ||rivermarketcyclery.com^
 ||riverside.euleriancdn.net^
-||rixoxeu9.top^
 ||riza.euleriancdn.net^
 ||riz.cz^
 ||rizsho.rearviewsafety.com^
@@ -72560,6 +72544,7 @@
 ||rod.euleriancdn.net^
 ||rod.gs^
 ||rodrigo.euleriancdn.net^
+||rodrigonaranjo.ottimosoft1.com^
 ||rodzinnemiassteczkkotv.cyou^
 ||rodzinne-tragediie.pl^
 ||roeder.euleriancdn.net^
@@ -72642,6 +72627,7 @@
 ||roseiiy.com^
 ||rosemary.euleriancdn.net^
 ||rosetta.euleriancdn.net^
+||roshnijewellery.com^
 ||rosie.euleriancdn.net^
 ||roskos1.eu-dep.club^
 ||roskos2.bestdep.online^
@@ -72908,7 +72894,6 @@
 ||russian.euleriancdn.net^
 ||russia.promo.skf.com^
 ||rusty.euleriancdn.net^
-||rusyacastajanslari.bykmedya.com^
 ||rutorc6mqdinc4cz.onion.pet^
 ||rutrk.org^
 ||ruw82qpzxas.appspot.com^
@@ -73262,6 +73247,7 @@
 ||sacral.com.ua^
 ||sacramento.euleriancdn.net^
 ||sacredphoenix.com^
+||sacredscentsonline.com^
 ||sacs.euleriancdn.net^
 ||s.acxiom.com^
 ||sadb.chibabank.co.jp^
@@ -73433,6 +73419,7 @@
 ||sa.industrialsupplies.com^
 ||saint.euleriancdn.net^
 ||saintmarys.smumn.edu^
+||sainzim.co.za^
 ||sajan.euleriancdn.net^
 ||sakai.euleriancdn.net^
 ||sake.koshinokanbai.co.jp^
@@ -73886,7 +73873,6 @@
 ||sayac.euleriancdn.net^
 ||sayac.onlinewebstat.com^
 ||sayac.onlinewebstats.com^
-||sayegfinanceira.com.br^
 ||sayhello.popunder.ru^
 ||sayherbal.com^
 ||sb1.euleriancdn.net^
@@ -73939,7 +73925,6 @@
 ||sc.echoice.com^
 ||sce.euleriancdn.net^
 ||sc.euleriancdn.net^
-||scffirm.com^
 ||scheducall.com^
 ||schedule.euleriancdn.net^
 ||scheduler.euleriancdn.net^
@@ -73954,7 +73939,6 @@
 ||sc.holtsmilitarybank.co.uk^
 ||school.euleriancdn.net^
 ||schoolies.postaffiliatepro.com^
-||schoolonlinereg.co.za^
 ||schools.euleriancdn.net^
 ||schoolspecialtynews.com^
 ||schooltubeprime.com^
@@ -74598,7 +74582,6 @@
 ||sen02.younetmedia.com^
 ||senator.euleriancdn.net^
 ||senator.icu^
-||senbiaojita.com^
 ||send1.alsearsmd.com^
 ||send2.alsearsmd.com^
 ||send.confidentialcures.com^
@@ -75052,7 +75035,6 @@
 ||servicing.unitedautocredit.net^
 ||servicios.euleriancdn.net^
 ||servicios.tci.net.pe^
-||serviciovirtual.com.ar^
 ||servicos.euleriancdn.net^
 ||servidor.euleriancdn.net^
 ||servieckartepayau.com^
@@ -75250,6 +75232,7 @@
 ||shael.org^
 ||sha.euleriancdn.net^
 ||shaggy.euleriancdn.net^
+||shahikhana.cstdevs.com^
 ||shaka.euleriancdn.net^
 ||shakira.euleriancdn.net^
 ||shallownation.us.intellitxt.com^
@@ -75260,6 +75243,7 @@
 ||shanayashoppy.com^
 ||shane.euleriancdn.net^
 ||shanghai.euleriancdn.net^
+||shanshuoups.com^
 ||shanti.euleriancdn.net^
 ||shapeshift.pro^
 ||shapeshlft.com^
@@ -75531,7 +75515,6 @@
 ||shopapi.ranking.rakuten.co.jp^
 ||shopathome.com^
 ||shop.euleriancdn.net^
-||shopilyv.com^
 ||shopolo.pl^
 ||shopp180.com^
 ||shopperapproved.com^
@@ -75600,7 +75583,6 @@
 ||sh-staging-cdn.younetmedia.com^
 ||sh-staging.younetmedia.com^
 ||shtptt.cupshe.com^
-||shuangxilou.com^
 ||s.hueman.vision^
 ||shu.euleriancdn.net^
 ||shunvola.com^
@@ -75774,6 +75756,7 @@
 ||sina.euleriancdn.net^
 ||sina.lt^
 ||sindirella.pl^
+||sindpol.tiejuris.com.br^
 ||sin.ero-advertising.com^
 ||sinettrk.com^
 ||singapore.euleriancdn.net^
@@ -76032,6 +76015,8 @@
 ||skype-online0345.web.app^
 ||skyperec.com^
 ||skype.tt.omtrdc.net^
+||skyscan.com^
+||skytoland1.com^
 ||skywalker.euleriancdn.net^
 ||skyway.capital^
 ||skzsxq.linio.com.ar^
@@ -76183,7 +76168,6 @@
 ||small.euleriancdn.net^
 ||smallholder-gb.smallholder.co.uk^
 ||smaltspc.ru^
-||sman1paguyaman.sch.id^
 ||s-mania.com^
 ||smart1.euleriancdn.net^
 ||smart2.euleriancdn.net^
@@ -80946,7 +80930,6 @@
 ||soar.d3security.com^
 ||sobek.euleriancdn.net^
 ||soberone.postaffiliatepro.com^
-||soccer-assist.co.uk^
 ||soccer.euleriancdn.net^
 ||soccergaming.us.intellitxt.com^
 ||soc.euleriancdn.net^
@@ -80989,7 +80972,6 @@
 ||sofeminine.uk.intellitxt.com^
 ||sof.euleriancdn.net^
 ||sofia.euleriancdn.net^
-||soft.110route.com^
 ||soft4click.com^
 ||soft4update.forfreeupgrades.org^
 ||softagesolution.com^
@@ -81539,7 +81521,6 @@
 ||spa.admissions.ucdenver.edu^
 ||spacebridemag.com^
 ||space.euleriancdn.net^
-||spaceframe.mobi.space-frame.co.za^
 ||spaces.ero-advertising.com^
 ||spaces.euleriancdn.net^
 ||spaces.martela.com^
@@ -83024,7 +83005,6 @@
 ||start.xxxcounter.com^
 ||starwars.euleriancdn.net^
 ||starweb.euleriancdn.net^
-||starwt.com^
 ||staryspichrz.pl^
 ||starz.122.2o7.net^
 ||starzmemorabilia.com^
@@ -84414,7 +84394,6 @@
 ||st.core.polyad.net^
 ||st.db-fernverkehr.com^
 ||std.euleriancdn.net^
-||st.devcodin.com^
 ||std.o.nytimes.com^
 ||std.sc.amc.devk.de^
 ||st.dynamicyield.com^
@@ -85170,7 +85149,6 @@
 ||suttonguardian-gb.suttonguardian.co.uk^
 ||suunta.visma.fi^
 ||sux.cz^
-||suyashhospitalraipur.com^
 ||suzuki.euleriancdn.net^
 ||sv01.euleriancdn.net^
 ||sv10.euleriancdn.net^
@@ -85639,6 +85617,7 @@
 ||tacticalrepublic.com^
 ||tacticaltrainingdatabase.com^
 ||t.acxiom-online.com^
+||tadbeerzaina.ae^
 ||tadbut.pl^
 ||tad.euleriancdn.net^
 ||t.adk2.com^
@@ -85928,6 +85907,7 @@
 ||taurus.euleriancdn.net^
 ||tavelscape.com^
 ||tavusn.yogaoutlet.com^
+||taxclubpk.com^
 ||tax.euleriancdn.net^
 ||taxi.euleriancdn.net^
 ||taxinsider.taxsystems.com^
@@ -85991,7 +85971,6 @@
 ||t.cozone.com^
 ||tcpgrb.ogic.fr^
 ||tcs.euleriancdn.net^
-||tc.snpsresidential.com^
 ||tc.tradetracker.com^
 ||tcxrdt.trendhim.be^
 ||tc.zionsbank.com^
@@ -86061,6 +86040,7 @@
 ||tech.flexport.com^
 ||techgadgets.in.intellitxt.com^
 ||techgage.us.intellitxt.com^
+||techgms.com^
 ||techguy.us.intellitxt.com^
 ||techimo.us.intellitxt.com^
 ||tech.infinityworks.com^
@@ -86079,7 +86059,6 @@
 ||technologyguide.us.intellitxt.com^
 ||technologymanaged.efex.com.au^
 ||technology.unico.com.au^
-||technoratimedia.com^
 ||tech.opengear.com^
 ||techplnew.siyeas33.xyz^
 ||techpowerup.us.intellitxt.com^
@@ -86333,7 +86312,6 @@
 ||test23.euleriancdn.net^
 ||test2.euleriancdn.net^
 ||test2.glickon.com^
-||test2.marrenconstruction.ie^
 ||test2.scheduling-diet.info^
 ||test333.euleriancdn.net^
 ||test3.commerce5.com^
@@ -86392,7 +86370,6 @@
 ||testing2.euleriancdn.net^
 ||testing.acspubs.org^
 ||testing.euleriancdn.net^
-||testing-istudiophoto.davaohorizon.com^
 ||testinteligencji.bo.pl^
 ||test.kess.tech^
 ||testlink.euleriancdn.net^
@@ -86540,6 +86517,7 @@
 ||tg.sv^
 ||tgtgzo.otelz.com^
 ||th.2.cqcounter.com^
+||thaayagam.com^
 ||thai.euleriancdn.net^
 ||thailand.euleriancdn.net^
 ||thailand.promo.skf.com^
@@ -86812,7 +86790,6 @@
 ||tiago.euleriancdn.net^
 ||tiamat.euleriancdn.net^
 ||tiamo.euleriancdn.net^
-||tianangdep.com^
 ||tiapedia.com^
 ||tiberius.gamesradar.com^
 ||tibiaboards.com^
@@ -87355,7 +87332,6 @@
 ||torrenty--org.pl^
 ||torrenty-org.pl^
 ||torrentzwealmisr.onion.pet^
-||torresquinterocorp.com^
 ||tortoise.allyinteractive.com^
 ||tortoise.cult.st^
 ||tortoise.launchandland.com^
@@ -87630,6 +87606,7 @@
 ||tracker.mozo.com.au^
 ||tracker.noandt.com^
 ||tracker.nuclearenergyinsider.com^
+||tracker-one.com.au^
 ||tracker.pagero.com^
 ||tracker-pardot.akros.ch^
 ||tracker.petchem-update.com^
@@ -88065,7 +88042,6 @@
 ||trafflds.com^
 ||trafic.euleriancdn.net^
 ||trafic.ro^
-||trafikkskoleapp.no^
 ||trafisz.com^
 ||tr.afpa.espmp-cufr.net^
 ||tr.ag2rlamondiale.fr^
@@ -88631,6 +88607,7 @@
 ||tribunemirror.com^
 ||tricalmusic.com^
 ||tricitiesguardian.com^
+||trickedouttrains.com^
 ||trick.ly^
 ||trident.euleriancdn.net^
 ||tri.euleriancdn.net^
@@ -89620,7 +89597,6 @@
 ||tura-informacyjna.eu^
 ||turan.euleriancdn.net^
 ||turbo.euleriancdn.net^
-||turbo-gto.com^
 ||turbologo.postaffiliatepro.com^
 ||turbo-tax.us^
 ||turf.euleriancdn.net^
@@ -89916,7 +89892,6 @@
 ||ubezpieczenie4you.pl^
 ||ublfkm.trendhim.no^
 ||ublock.org^
-||ublretailerdemo.cstdevs.com^
 ||ubmnyu.grancursosonline.com.br^
 ||ubm.tt.omtrdc.net^
 ||ubmwua.maisonsetappartements.fr^
@@ -90410,6 +90385,7 @@
 ||usdbbx.mmartan.com.br^
 ||usdm.122.2o7.net^
 ||usdsy.com^
+||usecatoutlet.com.br^
 ||use.convertglobal.com^
 ||usedcars.euleriancdn.net^
 ||used.euleriancdn.net^
@@ -90647,7 +90623,6 @@
 ||vanlai.com^
 ||vanligavanor.se^
 ||vannes776.com^
-||vannguyen.work^
 ||vanqrf.pcrichard.com^
 ||van.redlightcenter.com^
 ||vanscheers.com^
@@ -90656,6 +90631,7 @@
 ||vansoldschool.pl^
 ||vanspolskapl.com^
 ||van.sync-logi.com^
+||vapeplace.jackvapestore.com^
 ||vaporfiuk.postaffiliatepro.com^
 ||vapormax.pl^
 ||vaqhfi.jetcost.de^
@@ -90778,6 +90754,7 @@
 ||venues.evolutionlondon.com^
 ||venues.smartvenues.co.uk^
 ||venus.euleriancdn.net^
+||vepakum.com.br^
 ||veqvek.bardown.com^
 ||veqvek.cp24.com^
 ||veqvek.ctv.ca^
@@ -91429,6 +91406,7 @@
 ||vol.euleriancdn.net^
 ||volga.euleriancdn.net^
 ||volgograd.euleriancdn.net^
+||volkscantonalbank.com^
 ||volkswagen.122.2o7.net^
 ||volleyball.euleriancdn.net^
 ||volleyclub.pl^
@@ -91611,6 +91589,7 @@
 ||vulkanvegasbonus.helpinghandimmigration.com^
 ||vulkan-vegas.cc^
 ||vulkanvegas-offers.com^
+||vulkanvegasonline.katchpurcity.com^
 ||vulkan-vegas.pl^
 ||vulkanvegas-pl.com^
 ||vulture.bettershore.com^
@@ -96972,7 +96951,6 @@
 ||web.euleriancdn.net^
 ||web.excelinstitutions.com^
 ||webfirstseo.com^
-||web.flortom.eu^
 ||webform.aossms.com^
 ||webform.incircle.jp^
 ||webform.polleverywhere.com^
@@ -97163,7 +97141,6 @@
 ||websearch.euleriancdn.net^
 ||web.secureworks.com^
 ||web.secureworks.com.au^
-||websecurity.norton.com^
 ||web.septentrio.com^
 ||webserver01.euleriancdn.net^
 ||webserver1.euleriancdn.net^
@@ -97256,7 +97233,6 @@
 ||webview.website^
 ||web.vindicosuite.com^
 ||web.vonazon.com^
-||web.vortex.data.microsoft.com^
 ||webvpn.euleriancdn.net^
 ||web.wcohus.teradatadmc.com^
 ||web.weinig.com^
@@ -97287,6 +97263,7 @@
 ||weightlossforall.us.intellitxt.com^
 ||weiljw.redshiftwatersports.com^
 ||weiloffers.com^
+||weinsteincounseling.com^
 ||welcome.catalyze-group.com^
 ||welcome.enfusion.com^
 ||welcome.enfusionsystems.com^
@@ -97624,7 +97601,6 @@
 ||wiki.eulerian.eu^
 ||wiki.eulerian.fr^
 ||wikileaks.euleriancdn.net^
-||wiki.nethc.cn^
 ||wiki.ropescoursesinc.com^
 ||wikis.euleriancdn.net^
 ||wikitest.euleriancdn.net^
@@ -97652,6 +97628,7 @@
 ||wild.euleriancdn.net^
 ||wildfowl.dualascent.com^
 ||wildfowl.getmoneyoff.com^
+||wildtrust.mediadevstaging.com^
 ||wildwolf.minter.io^
 ||wiljekoffie.365werk.nl^
 ||wilkiewicz.pl^
@@ -97744,6 +97721,7 @@
 ||win.shipleywins.com^
 ||win-spy.com^
 ||winston.euleriancdn.net^
+||winsuncustomclothing.com^
 ||winterencourage.com^
 ||winter.euleriancdn.net^
 ||winter-fillow.blogspot.com^
@@ -97885,6 +97863,7 @@
 ||wolf.novel.io^
 ||wolf.oliverspryn.com^
 ||wolf.quantumfire.io^
+||wolfram-electric.com^
 ||wolf.samarasousa.com^
 ||wolf.springbokcoffee.com^
 ||wolgangph.xyz^
@@ -98641,6 +98620,7 @@
 ||www08.kentaku.co.jp^
 ||www0.centrilogic.com^
 ||www0.euleriancdn.net^
+||www0jd.com^
 ||www-105.aig.com^
 ||www-107.aig.com^
 ||www10.a8.net^
@@ -103372,7 +103352,6 @@
 ||wysylka-olx.me^
 ||wysylka-olx.pl^
 ||wytxpe.zarpo.com.br^
-||wywy.com^
 ||wyx.euleriancdn.net^
 ||wyznaniefaktyczne.casa^
 ||wyzqiy.pnet.co.za^
@@ -103947,6 +103926,7 @@
 ||xz.euleriancdn.net^
 ||xzgysc.nectarsleep.co.uk^
 ||xz.jave.xyz^
+||xz.juzirl.com^
 ||xzlxgo.bestofsigns.com^
 ||xztongneng.com^
 ||y1jobs-gb.y1jobs.com^
@@ -104005,6 +103985,7 @@
 ||yaroec.plytki-lazienki.pl^
 ||yaroslavl.euleriancdn.net^
 ||yasin.euleriancdn.net^
+||yasminkozmetik.com^
 ||ya.sv^
 ||yatrk.xyz^
 ||yau.sh^
@@ -104060,6 +104041,7 @@
 ||yellcom.122.2o7.net^
 ||yello01.webtrekk.net^
 ||yello-de01.webtrekk.net^
+||yellowbo.cn^
 ||yellowcat.site^
 ||yellow.euleriancdn.net^
 ||yellownet.pl^
@@ -104184,8 +104166,8 @@
 ||younglustforum.pw^
 ||youraccount.euleriancdn.net^
 ||yourcare.pennstatehealth.org^
+||yourcontour.com^
 ||your-datingspot-here.com^
-||yourdog.cc^
 ||your.euleriancdn.net^
 ||yourfitway.com^
 ||yourflix.pl^
@@ -104249,6 +104231,7 @@
 ||yryxcn.e-ohaka.com^
 ||ysaaks.mobiauto.com.br^
 ||ysafcv.auto-platinium.com^
+||ysbaojia.com^
 ||ysear.ch^
 ||ysekcv.voyage-prive.co.uk^
 ||ys.euleriancdn.net^
@@ -104279,10 +104262,12 @@
 ||yuinys.kosas.com^
 ||yujmyt.theiconic.co.nz^
 ||yuki.euleriancdn.net^
+||yukina.vn^
 ||yukon.euleriancdn.net^
 ||yume.euleriancdn.net^
 ||yum.euleriancdn.net^
 ||yumi.euleriancdn.net^
+||yuminqiang.com^
 ||yummy.euleriancdn.net^
 ||yummymobile.pl^
 ||yun.euleriancdn.net^
