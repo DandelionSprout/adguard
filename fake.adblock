@@ -29,7 +29,7 @@
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |    2197 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
 !    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
-!    3 |   16654 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+!    3 |   16794 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 !    4 |    1483 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 !    5 |      45 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
 !    6 |    5650 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
@@ -37,7 +37,7 @@
 !    8 |    1416 | domains | local  | online  | unchanged | fake.ts.black.list
 !    9 |     491 | domains | local  | online  | unchanged | fake.vzni.black.list
 !
-! 23144 unique Domains - Version 2021.1021.000623
+! 23283 unique Domains - Version 2021.1021.060652
 !
 ||000relationships.com^
 ||007cryptooption.com^
@@ -277,6 +277,7 @@
 ||420marijuanabuds.com^
 ||420marijuanaderivatives.com^
 ||420medicalgreenstore.com^
+||420medicalstore.com^
 ||420medishop.com^
 ||420medsbank.com^
 ||420meds.net^
@@ -363,6 +364,7 @@
 ||aanirfan.blogspot.com^
 ||aarenclaudetta.ru^
 ||aaronchihuahuapuppies.com^
+||aayangermanrottweilerpuppies.com^
 ||abaherhat.com^
 ||abarqi.com^
 ||abbeclarinda.ru^
@@ -440,6 +442,7 @@
 ||accountwizy.com^
 ||accreditedpharmacy4all.com^
 ||accservej.com^
+||accuratefillersupply.com^
 ||acechows.com^
 ||aceeventsplanner.com^
 ||acefirearmsshop.com^
@@ -577,6 +580,7 @@
 ||adorablebassetpuppieshome.com^
 ||adorablebcbulldogs.com^
 ||adorablebeaglespuppies.com^
+||adorablebichonfrisepuppies.com^
 ||adorablebostonterrierpuppies.com^
 ||adorableboxerpups.com^
 ||adorablebreederspups.com^
@@ -658,6 +662,7 @@
 ||adorablespaniels.com^
 ||adorablesphynxhome.com^
 ||adorableteacupchihuahuababies.com^
+||adorableteacuppoodles.com^
 ||adorableteacuppuppiez.com^
 ||adorableteacuppuppyhome.com^
 ||adoreenglishbulldog.com^
@@ -744,6 +749,7 @@
 ||africaminersgroup.com^
 ||africanbasenjipups.com^
 ||africangreyparrots4home.com^
+||africangreyparrotsbreeder.com^
 ||africannewsupdates.com^
 ||africanreefercontainers.com^
 ||africapuregoldmining.com^
@@ -963,6 +969,7 @@
 ||aliftrustbnk.com^
 ||alimentos-generalsa.com^
 ||alinascanecorsopuppies.com^
+||alinorottweilers.club^
 ||alinosamoyedpuppies.com^
 ||alisamadresources.com^
 ||aliseshop.com^
@@ -1010,6 +1017,7 @@
 ||alleszuschonen.com^
 ||alleycatbreeders.co.za^
 ||alleygh.co^
+||allfrenchieshome.com^
 ||allgeneralmerchandise.com^
 ||allgermancertificates.com^
 ||allg.info^
@@ -1054,6 +1062,7 @@
 ||alltogether.shop^
 ||alltvb.com^
 ||allunias.com^
+||allurepugpuppies.com^
 ||alluringelitepuppies.com^
 ||alluringlabradoodlepups.com^
 ||alluringminigoldendoodlepuppies.com^
@@ -1193,6 +1202,7 @@
 ||amazingjackrussell.com^
 ||amazing-labradorretriever.com^
 ||amazingmaltesepups.com^
+||amazingmaltesepupsforsale.com^
 ||amazingonlineweed.com^
 ||amazingpapillonpuppies.com^
 ||amazingpapillonpupsbreedinghome.com^
@@ -1237,6 +1247,7 @@
 ||americanbullyclub.com^
 ||americancatholictribune.com^
 ||american-cocker-spaniel-dogs.com^
+||americancockerspanielpuppies.com^
 ||americancurlcatlovers.com^
 ||americanflightsupport.com^
 ||americanforgivenreliefs.com^
@@ -1779,12 +1790,14 @@
 ||aussichihuahuahome.com^
 ||aussie4me.com^
 ||aussiebreedinghome.com^
+||aussiecavoodlehome.com^
 ||aussiedoodlepuppieshome.com^
 ||aussiepharmaceuticals.com^
 ||aussiepuppiesbreed.com.au^
 ||aussiesdachshundpuppy.com^
 ||aussiesgarden.com^
 ||aussieshepherdcutties.com^
+||aussieshepherdlovers.com^
 ||aussieshihtzupuppies.com^
 ||aussiespomeranianpuppies.com^
 ||aussiesportfashion.com^
@@ -1846,6 +1859,7 @@
 ||authenticfastdocumentation.com^
 ||authenticglobaldocuments.com^
 ||authenticgunsales.com^
+||authenticlicence.com^
 ||authenticonlinedocs.com^
 ||authenticounterfeit.com^
 ||authenticregistereddocuments.com^
@@ -2282,6 +2296,7 @@
 ||berlusconifirearms.com^
 ||bernardpomeranian.com^
 ||bernd-werner-weiye.de^
+||bernedoodlehome.com^
 ||bernedoodlepopshome.com^
 ||bernedoodlepuppyspot.com^
 ||bernedoodlesoftherockies.com^
@@ -2337,6 +2352,7 @@
 ||bestchemsupplies.com^
 ||bestchihuahuapuppyhome.com^
 ||bestchooes.com^
+||bestchowchow.com^
 ||bestchrispuppies.co.za^
 ||bestcockerspanielpuppies.com^
 ||bestcoininv.com^
@@ -2765,6 +2781,7 @@
 ||bluecourierstracking.site^
 ||bluediamondshelties.com^
 ||bluedreambluekush.com^
+||bluedreampuppies.com^
 ||blueenglishstaffypups.com^
 ||blueeyesspomsky.com^
 ||bluefanc.com^
@@ -2777,6 +2794,7 @@
 ||bluegrassfrenchies.com^
 ||bluegrasstimes.com^
 ||bluegreatdane.com^
+||bluehailpupshome.com^
 ||bluehousebmdpuppies.com^
 ||blue-immo.com^
 ||bluejetpharmashop.com^
@@ -2900,6 +2918,7 @@
 ||bootsdeutschland.com^
 ||bootsgoldenretreiverpups.com^
 ||bootycall-nextdoor.com^
+||boozycockapoo.com^
 ||borakmeds.com^
 ||borderaussiecottage.com^
 ||bordercollie4home.com^
@@ -3148,6 +3167,7 @@
 ||brtechi.com^
 ||brucknermuehl.de^
 ||brunettmeds.com^
+||brunopug.com^
 ||brunoservalcaracalexotichome.com^
 ||brunosminiatureschnauzer.com^
 ||brushprox.com^
@@ -3196,6 +3216,7 @@
 ||buddispensary247.com^
 ||budgethotel.at^
 ||budgreenexpressshop.com^
+||buds4u.org^
 ||budschemicals.com^
 ||budshopsonline.com^
 ||budshouseexotics.com^
@@ -3210,6 +3231,7 @@
 ||buffy.ch^
 ||bugout.news^
 ||buildmyincomedaily.com^
+||buleco-supply.com^
 ||bulkammosupplies.com^
 ||bulkammunitionshop.com^
 ||bulkammunitionsupply.com^
@@ -3285,6 +3307,7 @@
 ||buyadocument.com^
 ||buyadorableyorkiepuppies.com^
 ||buy-affablefrenchies.com^
+||buyallcannabisonline.com^
 ||buyallmarijuanaonline.com^
 ||buyallweedonline.com^
 ||buyantiviralwp.com^
@@ -3292,10 +3315,13 @@
 ||buyaussiesonline.com^
 ||buyauthenticbills.com^
 ||buyauthenticcurrency.store^
+||buyauthenticdermalfillers.com^
 ||buybengalsphynx.com^
 ||buybestssdchemicalsolution.com^
 ||buybolivianonline.com^
+||buybostonterrierforsale.com^
 ||buybostonterrierpuppies.company.com^
+||buybotoxdermalfillers.com^
 ||buybotoxonline.net^
 ||buyboxerpuppies.com^
 ||buybreezemaxx.com^
@@ -3304,6 +3330,7 @@
 ||buybulldogsonline.com^
 ||buycalikushonline.com^
 ||buycalitinsonline.com^
+||buycaliweedonline.com^
 ||buycancermedicine.com^
 ||buycannabinoidsonline.net^
 ||buycannabiscarts.com^
@@ -3335,6 +3362,7 @@
 ||buydriverlicenseonline.com^
 ||buydriverslicense247.com^
 ||buydriverslicenses.com^
+||buydrivinglicence.com^
 ||buy-drivinglicense.com^
 ||buydrugshoponline.com^
 ||buydrugsonlinestore.com^
@@ -3578,6 +3606,7 @@
 ||cambuyg.top^
 ||camcharme.com^
 ||camelandhorsesupplies.com^
+||camelswiftexpressline.com^
 ||camilabernesemountainpuppies.com^
 ||camilabernesemountainpups.com^
 ||camilapetshome.com^
@@ -3595,6 +3624,7 @@
 ||canabis420.com^
 ||canabisdispensaryhome.com^
 ||canabisfarmer.com^
+||canabudstore.com^
 ||canadacarhistory.com^
 ||canadacis.org^
 ||canadafreepress.com^
@@ -3653,6 +3683,7 @@
 ||cannabismillsdispensary.com^
 ||cannabisoilsale.net^
 ||cannabisonlinebuy.com^
+||cannabispluguniverse.com^
 ||cannabisshopdispensary.com^
 ||cannabistillsaluonline.com^
 ||cannabistralia.com^
@@ -4085,6 +4116,7 @@
 ||charmingpugpuppies.com^
 ||charmingpuppieshome.com^
 ||charmingshibainuhome.com^
+||charmingshihtzupuppystore.com^
 ||charoitbordercollie.com^
 ||charteredcreditunion.com^
 ||charterlink-service.com^
@@ -4218,6 +4250,7 @@
 ||chipstee.com^
 ||chiseahuskyhomes.com^
 ||chittababy.com^
+||chloechihuahuahome.com^
 ||chloesyorkiefarm.com^
 ||chloroquine1st.com^
 ||choatenglishbulldogbreeders.com^
@@ -4253,6 +4286,7 @@
 ||christies-realestate.com^
 ||christifrenchbulldogpupshome.com^
 ||christinapugshome.net^
+||christinasminiteacupchihuahuahome.com^
 ||christine-bongert.de^
 ||christineyorkies.com^
 ||christinmarit.de^
@@ -4331,6 +4365,7 @@
 ||claritypuppieshome.co.za^
 ||clarkecavalierpupps.com^
 ||clarkesfrenchies.com^
+||clarkesminischnauzers.com^
 ||clarkgreatdane.com^
 ||clarkscavapoopuppies.com^
 ||clarksonfrenchbulldoghome.com^
@@ -4381,6 +4416,7 @@
 ||claudepomeranian.com^
 ||claudssdchemicals.com^
 ||clauspuppieshome.co.za^
+||claybornfrenchies.com^
 ||claycotimes.com^
 ||clayreporter.com^
 ||cleancounterfeitbills.com^
@@ -5104,6 +5140,7 @@
 ||cutetonkinesekittenshome.com^
 ||cutevizslapuppies.com^
 ||cutewelshcorgi.com^
+||cutewhitemaltesepuppieshome.com^
 ||cuteyorkiepuppieshome.com^
 ||cuteyorkiepups.com^
 ||cuteyorkiesale.com^
@@ -5607,6 +5644,7 @@
 ||deutschebarbituratapotheke.com^
 ||deutschegarantie.com^
 ||deutscherfhrerschein.com^
+||deutscherfhrerscheinonlinekaufen.com^
 ||deutscherfuehrerschein.com^
 ||deutscher-fuhrerschein.net^
 ||deutscherfuhrerschein.org^
@@ -5658,6 +5696,7 @@
 ||diamond-genetics.net^
 ||diamondgoldenretrievers.com^
 ||diamondhb.com^
+||diamondkcpuppies.com^
 ||diamondlogistics.world^
 ||diamondmainecoons.com^
 ||diamondpaintinglovers.com^
@@ -5788,6 +5827,7 @@
 ||dkfodboldstore.com^
 ||dkirmizu.com^
 ||dk-trans.net^
+||dmallemfarmings.com^
 ||dmg-support.com^
 ||dmmltdb.com^
 ||dmotruth.com^
@@ -5923,6 +5963,7 @@
 ||dorat.de^
 ||dorateacups.com^
 ||dorchestertoday.com^
+||doremihair.com^
 ||doriandocs.com^
 ||doriefrenchbulldogpups.com^
 ||dorindo.store^
@@ -5981,6 +6022,7 @@
 ||dreambulldoghomes.store^
 ||dreambulldogshome.com^
 ||dreamdalmatianpups.com^
+||dreamdogoargentinopuppies.dog^
 ||dreamfrenchbulldog.net^
 ||dreamhomefrenchbull.com^
 ||dreamjackrussell.com^
@@ -5990,6 +6032,7 @@
 ||dreamlandlabradoodlepups.com^
 ||dreamlandmarket.net^
 ||dreamlandparrots.com^
+||dreamlandpomeranians.com^
 ||dreamlandpuppies.co.za^
 ||dreamlandschnauzerhome.com^
 ||dreamlandsheepadoodles.com^
@@ -6157,6 +6200,7 @@
 ||dynamicbondofs.com^
 ||dynamicdobermanpinscher.com^
 ||dynamicenglishbulldogshome.com^
+||dynamicfrenchbulldog.com^
 ||dynamickush.com^
 ||dynamicpawshome.co.za^
 ||dynamicpuppieshome.com^
@@ -6404,6 +6448,7 @@
 ||elagancedachshundpuppies.com^
 ||elainepomeranianhome.com^
 ||elbacom.com^
+||elcdachshundpupshome.com^
 ||eldond.club^
 ||eldridgefamilyfrenchies.com^
 ||eleanorcattery.com^
@@ -6553,6 +6598,7 @@
 ||elliesdobermanpinscherpuppies.com^
 ||ellisonpoodlepuppieshome.com^
 ||ellmauplus.at^
+||ellyscavoodlepuppies.com^
 ||elmapugpups.com^
 ||elmara-englishbulldog.com^
 ||elmco.co.uk^
@@ -6693,6 +6739,7 @@
 ||encuentros-gay.com^
 ||endearingaustralianshepherdpuppies.com^
 ||endearingmaltesepups.com^
+||endearingyorkshire.com^
 ||endingthefed.com^
 ||endoftheamericandream.com^
 ||endtime.com^
@@ -6877,7 +6924,9 @@
 ||eudlv.com^
 ||eudobs.com^
 ||eudriverlicense.com^
+||eudrivinglicenseconsultants.com^
 ||eu-europefuhrerscheinkaufen.com^
+||eu-expresslicenses.com^
 ||eu-first.com^
 ||eu-fuehrerschein-agentur.com^
 ||eu-fuhrerscheineskaufen.com^
@@ -7054,6 +7103,7 @@
 ||exoticmunchkinkittens.com^
 ||exoticparrotsbirds.com^
 ||exoticparrotstore.com^
+||exoticpaws-sa.com^
 ||exoticpetsbay.com^
 ||exoticpitbullpuppies.com^
 ||exotics420.com^
@@ -7095,6 +7145,7 @@
 ||expressdocumentscenter.com^
 ||expressdocumentsonline.com^
 ||expressdoorpostcourier.com^
+||expressdriverslicense.com^
 ||expresseudocs.com^
 ||expressfocuslogistics.com^
 ||expressfreightdeliveryprotonmail.com^
@@ -7174,6 +7225,7 @@
 ||fabulousdocs.com^
 ||fabulousfrenchbulldog.com^
 ||fabulous-k.com^
+||fabulouspoodles.com^
 ||faburabrandworld.com^
 ||facebeur.com^
 ||facebookadvertisingclacton.co.uk^
@@ -7292,6 +7344,7 @@
 ||familymaltipoopuppies.com^
 ||familyminiaturedoodleshome.com^
 ||familyminidachshunds.com^
+||familyofpoodlepuppies.com^
 ||familypets4homes.com^
 ||familypetscentre.co.za^
 ||familypetshomeluv.com^
@@ -7644,7 +7697,9 @@
 ||firspeacu.com^
 ||firstaid-medicalsupply.co.za^
 ||firstbernedoodles.com^
+||firstchoiceboxerpuppies.com^
 ||firstchoicefarmers.co.za^
+||firstchoicehavanesepuppies.com^
 ||firstcitycapitals.com^
 ||firstcitycredits.com^
 ||firstclasscavoodlepuppies.com^
@@ -7745,6 +7800,7 @@
 ||florapuppies.com^
 ||florday.com^
 ||florencepetshome.com^
+||florencewelshcorgipuppies.com^
 ||floridagunbook.com^
 ||floridaparishnews.com^
 ||floridasunpost.com^
@@ -7766,6 +7822,7 @@
 ||fluffylabradorretrieverpuppies.com^
 ||fluffymainecooncatsandkittens.com^
 ||fluffyminiaturepinschers.com^
+||fluffynewfoundlandpuppies.com^
 ||fluffypoodleshome.com^
 ||fluffyshihtzupuppies.com^
 ||fluffyteacuppomeranianpuppies.com^
@@ -7829,6 +7886,7 @@
 ||foreverbulldoghome.com^
 ||forevercharmingcorgihomes.com^
 ||forevercosmetics.us^
+||foreverfrenchbulldogshome.com^
 ||forevergreatdanepuppies.com^
 ||forevergreendobermans.com^
 ||forevergreenhuskygarden.com^
@@ -8178,6 +8236,7 @@
 ||furanna.de^
 ||furbabiespetsstore.com^
 ||fur-everfrenchbulldogs.com^
+||furevergoldendoodle.com^
 ||fur-express.com^
 ||furfuhrerschein.com^
 ||furlabradohomes.com^
@@ -8478,6 +8537,7 @@
 ||geosmartcargo.com^
 ||gepures.com^
 ||geraldboxerpuppies.com^
+||geraldnewfiedogs.com^
 ||geratedeal-markt.com^
 ||geratemarkt.com^
 ||gerdamiran.ru^
@@ -8494,6 +8554,7 @@
 ||germanshepherdfamily.info^
 ||germanshepherdhome.info^
 ||germanshepherdhomes.com^
+||germanshepherdpupies.com^
 ||germanshepherdpuppieshome.com^
 ||germanshepherdpupz.com^
 ||germanshepherdspuppiesspot.com^
@@ -9002,6 +9063,7 @@
 ||goldenretrieversco.com^
 ||goldenretrieverscorral.com^
 ||goldenretrieverspuppy.com^
+||goldenretrieverspuppystore.com^
 ||goldenretrievers-purebred.com^
 ||goldenretrieversshopping.com^
 ||goldenretriever-welpen.com^
@@ -9173,6 +9235,7 @@
 ||gotnews.com^
 ||gotransllc.com^
 ||goulandrisbikeclub.com^
+||government-grant-money-money-transfer-service.business.site^
 ||govtslaves.com^
 ||govtslaves.info^
 ||goxplay.de^
@@ -9218,6 +9281,7 @@
 ||gradlyn-petshipping.com^
 ||graemepuppieshome.com^
 ||grafik-archiv.com^
+||grahmanfrenchies.com^
 ||graidachshund.com^
 ||grainvest.net^
 ||grandado.com^
@@ -9266,6 +9330,7 @@
 ||greatdanepuppiessale.com^
 ||greatdanepuppies.xyz^
 ||greatdaneslover.com^
+||greatdaneterritory.com^
 ||greatdobermanhome.com^
 ||greatertexan.com^
 ||greatfrenchbulldogpuppies.com^
@@ -9322,6 +9387,7 @@
 ||greenhillpaws.com^
 ||greenhillsreporter.com^
 ||greenhomelabrador.us^
+||greenhomepups.com^
 ||greenhoodlabpuppies.com^
 ||greenhousebudstore.com^
 ||greenhouseweedstore.com^
@@ -9678,6 +9744,7 @@
 ||harmanwelshorgis.com^
 ||harmonygoldenretriever.com^
 ||harmonymaltipoo.com^
+||harmonypetworld.co.za^
 ||harmonypharm.com^
 ||harmonyretrieverpuppies.com^
 ||harmonyrottweilers.com^
@@ -9688,6 +9755,7 @@
 ||harrypugpuppies.com^
 ||harryskennel.com^
 ||hartbulldogs.com^
+||hartdobermanpuppies.store^
 ||hartfordreporter.com^
 ||hartmannmedicalltd.com^
 ||hartmann-versand.de^
@@ -10024,6 +10092,7 @@
 ||hightimemarijuana.com^
 ||hightimes-420.com^
 ||hightimesales.com^
+||hightimesculture.com^
 ||hightimesweedshop.com^
 ||hightopshelf.com^
 ||highty.co^
@@ -10042,6 +10111,7 @@
 ||hillsidemaltesepuppies.com^
 ||hillsidepetshome.com^
 ||hillsidepomeranianpuppies.com^
+||hillsidepoodlepups.com^
 ||hillsidepupsconner.com^
 ||hillsidesu.de^
 ||hillskennel.com^
@@ -10110,11 +10180,13 @@
 ||holycrossmoravianchurch.com^
 ||holyhomeshihtzu.com^
 ||holylandnutrition.com^
+||holylandpuppies.com^
 ||holysaintbernards.com^
 ||holyshihtzuhome.com^
 ||holyshitzupuppies.com^
 ||holzpflegewachs.com^
 ||holzti.com^
+||home4bullies.com^
 ||home4teacuppuppies.com^
 ||homebasepets.com^
 ||homebredamericanbullypuppies.com^
@@ -10994,6 +11066,7 @@
 ||japanmarinengine.com^
 ||jaredscavapoohome.site^
 ||jasadoty.com^
+||jasminemollyfrenchiepups.com^
 ||jasminepuppies.com^
 ||jasminwelpenzuhause.com^
 ||jasongreatdane.com^
@@ -11061,6 +11134,7 @@
 ||jellybeanpoms.com^
 ||jellylight.at^
 ||jenelssiamesekittens.com^
+||jeniferpetshome.com^
 ||jennabassethoundpuppies.com^
 ||jennadoodleyard.com^
 ||jenniferalbabassethoundhome.com^
@@ -11285,6 +11359,7 @@
 ||juliansdobermanhome.com^
 ||julianssaintbernardhome.com^
 ||juliensamericanbullies.com^
+||jumatibullies.com^
 ||jumpingbostonspups.com^
 ||jumpmanual.com^
 ||jungle420medsdispensary.com^
@@ -11405,6 +11480,7 @@
 ||katherinescockapoopuppies.com^
 ||kathypuppieshome.com^
 ||katinayorkies.com^
+||katlynlabradorpuppies.com^
 ||kattysdalmatianpuppies.com^
 ||kattysharpeipuppies.com^
 ||kattyshavanesepuppies.com^
@@ -11445,6 +11521,7 @@
 ||kcharlescavalierpups.com^
 ||kcpetshome-au.com^
 ||kcpugsbabies.com^
+||kcregisteredbeaglepups.com^
 ||kcreporter.com^
 ||kcschnauzerpups.com^
 ||kdoubleh.com^
@@ -11549,6 +11626,7 @@
 ||kikichoices.myshopify.com^
 ||kikigermanshepherd.com^
 ||kikimaltesehome.com^
+||kikuyupups.com^
 ||kikydachshundhub.com^
 ||kimberlyhuskyhome.com^
 ||kimberlyrottweilerpuppies.com^
@@ -11918,6 +11996,7 @@
 ||labradorretrieverspot.com^
 ||labradorretrieverspuppy.com^
 ||labrador-retriverpuppiesforsale.com^
+||labradorsbreed.com^
 ||labradorteam.com^
 ||labretrieverclub.com^
 ||labretrieverpuppies.com^
@@ -12019,6 +12098,7 @@
 ||larryheartscorgipuppies.com^
 ||larrykingchowchow.com^
 ||larrymaltese.com^
+||larryreallicenseagency.com^
 ||larryshichonfamily.com^
 ||larryteacuppoodles.com^
 ||larsenrottweilerhome.com^
@@ -12101,6 +12181,7 @@
 ||legalbudtraders.com^
 ||legalbulldogs.com^
 ||legalcannabisbudshop.com^
+||legalcartsstores.com^
 ||legaldeutscherfuhrerschein.online^
 ||legaldocsandcurrenc.store^
 ||legaldrugsstore.com^
@@ -12238,6 +12319,7 @@
 ||lexflix.de^
 ||lexiestbernardpuppies.com^
 ||lexshibainu.com^
+||leyastaffordshirebullterrierhome.com^
 ||leymartrans.net^
 ||lezbicne-zmenke.com^
 ||lfidsor.com^
@@ -12271,6 +12353,7 @@
 ||libertyxcryptomining.com^
 ||libertyxsecurity.com^
 ||libertyxtg.com^
+||licenceanddocumentscenter.com^
 ||licenciadeconducir-es.com^
 ||licenzarapida.com^
 ||lichtkontraste.at^
@@ -12556,6 +12639,7 @@
 ||lovelypugpuppiesforsale.com^
 ||lovelypugpuppyfamily.com^
 ||lovelypuppies4home.com^
+||lovelypuppies4you.com^
 ||lovelypuppiesgadern.com^
 ||lovelypupshome.com^
 ||lovelyrottweiler.com^
@@ -12639,6 +12723,7 @@
 ||luckyhome4pet.com^
 ||luckyhome4pets.com^
 ||luckypoodlepuppies.com^
+||lucky-tin.com^
 ||luckywinerz.com^
 ||lucyaussielovers.com^
 ||lucybreeze.com^
@@ -12667,6 +12752,7 @@
 ||lunavelvets.com^
 ||lunestedter-gewerbeverein.de^
 ||lunion.ch^
+||lunnycockapoo.com^
 ||lunomine.com^
 ||lunotrade.co.za^
 ||luovu.de^
@@ -12909,6 +12995,7 @@
 ||maltesepuppyfarm.com^
 ||maltesepupsparadise.com^
 ||maltesepupz.com^
+||maltesesweethome.com^
 ||malticavapuppies.net^
 ||maltipoobreedershomes.com^
 ||maltipoofamilies.com^
@@ -12980,6 +13067,7 @@
 ||marcuswellspitbullhome.com^
 ||marcyseurogreatdanes.com^
 ||marcysyorkshires.com^
+||mardipuppies.com^
 ||marekboxerhome.com^
 ||margaretpuppieshome.com^
 ||mariagoldenretriever.com^
@@ -13013,8 +13101,10 @@
 ||marijuanaplugdispensary.com^
 ||marijuanaportclub420.com^
 ||marijuanapotstrains.com^
+||marijuanapowerstore.com^
 ||marijuanashopdirect.com^
 ||marijuanaskiesdispensary.com^
+||marijuanasupplynow.com^
 ||marijuanatopshelfstore.com^
 ||marijuana-us.com^
 ||marijuanawarehouse.org^
@@ -13067,6 +13157,7 @@
 ||marshallspuppies.store^
 ||marstees.com^
 ||martens-elektro.de^
+||marthawelshcorgi.com^
 ||marti-bosom.de^
 ||marti-bosom.net^
 ||martine-ammunitions.com^
@@ -13149,6 +13240,7 @@
 ||mavukoltd.com^
 ||mavundlalivestockfarm.co.za^
 ||mawaagrosuppliers.co.za^
+||mawafrenchbulldog-sa.com^
 ||maxadogadoption.com^
 ||maxchemsolutions.com^
 ||max-cointrade.com^
@@ -13207,6 +13299,7 @@
 ||mboyoshihtzupuppies.com^
 ||mbtaustria.at^
 ||mb-training.net^
+||mbuibichonfrisehome.com^
 ||mbujiminingandrefinery.com^
 ||mbynews.com^
 ||mc2containers.co.za^
@@ -13320,6 +13413,7 @@
 ||medicmegalab.com^
 ||mediendeals.de^
 ||medikamente-kaufen-24.net^
+||medikamenteonlinebestellen.com^
 ||medikamenteonlinekaufen.com^
 ||medikamente-rezeptfrei.shop^
 ||medimox.net^
@@ -13440,6 +13534,7 @@
 ||melharcopugpups.com^
 ||melingpugs.site^
 ||melissapetshome.co.za^
+||melissapugpuppies.com^
 ||melkberg.de^
 ||mellowfrenchies.com^
 ||mellowhusky.com^
@@ -13589,6 +13684,7 @@
 ||midmassnews.com^
 ||midnightpitbullkennels.com^
 ||midpremiersavings.com^
+||midrandpuppies.com^
 ||midtecoilgas.com^
 ||midvalleyreporter.com^
 ||midwaylogisticouriers.com^
@@ -13981,6 +14077,7 @@
 ||montplay.de^
 ||montschnauzers.site^
 ||montyhomeofrottweilers.com^
+||montypoodlehome.com^
 ||monumentalgreatdanepuppies.com^
 ||mooi365.nl^
 ||moolahlaboratory.com^
@@ -14405,6 +14502,7 @@
 ||naturalstatenews.com^
 ||naturecoasttimes.com^
 ||naturemarket24.com^
+||naturesglobalpharmacy.com^
 ||naturfreunde-neufeld.at^
 ||naturistgirl-nextdoor.com^
 ||naturkraut.at^
@@ -14734,6 +14832,7 @@
 ||nicole-trenker.at^
 ||niebullfahrschule.com^
 ||niedrige-preise.com^
+||niftyfrenchbullies.com^
 ||nigeljeffers.com^
 ||nigeriandewarsandpygmygoatsfarm.com^
 ||nightcokesupplies.com^
@@ -14748,6 +14847,7 @@
 ||nimaweb.de^
 ||nimekssirket.com^
 ||nimes-sexe.com^
+||ninacanine.co.za^
 ||ninacloak.com^
 ||ninacutes.co.za^
 ||ninaldst.com^
@@ -15172,6 +15272,7 @@
 ||ogogear.com^
 ||ohbusinessdaily.com^
 ||ohiovalleytimes.com^
+||ohlovelybeagle4home.com^
 ||ohnegrenze.com^
 ||ohne-rezept-kaufen.biz^
 ||ohne-rezept.org^
@@ -15623,6 +15724,7 @@
 ||panzer-industriebedarf.de^
 ||paperbk.com^
 ||papershelp.org^
+||papillonpuppiesforeverhome.com^
 ||papillonpuppieshome.com^
 ||papillonpuppyhome.com^
 ||papillon-rescue.com^
@@ -15790,6 +15892,7 @@
 ||pearlyo.de^
 ||pearstee.com^
 ||pebasic.com^
+||pedigreeenglishbullies.com^
 ||pedigreefrenchieshome.com^
 ||pedoar.top^
 ||pedronicolasmendozalawfirm.com^
@@ -15903,6 +16006,7 @@
 ||petersonscockapoopups.com^
 ||petety.top^
 ||pet-express.net^
+||petfaregroodlepuppies.com^
 ||petfoodwarning.com^
 ||petforcompanion.com^
 ||petfor-homes.com^
@@ -16120,7 +16224,9 @@
 ||plateau-dortmund.de^
 ||platedgoldhearts.com^
 ||platiniumteacupmaltesepuppies.net^
+||platinumbordercollies.online^
 ||platinumcan.com^
+||platinumdachshunds.com^
 ||platinumgreatdaneworld.com^
 ||platinumlivestock.co.za^
 ||platinumroyal-ca.com^
@@ -16354,6 +16460,7 @@
 ||pots420.com^
 ||pots420shop.com^
 ||pottyadorablefrenchies.com^
+||pottybestmaltese.com^
 ||pottybostonterrierhomes.com^
 ||pottycutemaltese.com^
 ||pottylabrador.com^
@@ -16361,6 +16468,7 @@
 ||pottytraincockerspanielhome.com^
 ||pottytrainedaussiepups.com^
 ||pottytrainedbordercolliepups.com^
+||pottytrainedpuppies4sale.com^
 ||pottytrainedpuppieshome.com^
 ||pottytrainfrenchies.com^
 ||pouffyshop.com^
@@ -16514,6 +16622,7 @@
 ||premiumtradeoptions.net^
 ||premium-united-card.com^
 ||premiumvapecarts.co.uk^
+||premiumyorkie.com^
 ||premiumyorkiepoofamily.site^
 ||premiumyorkiesfarm.com^
 ||premuimpsychedelics.com^
@@ -16572,6 +16681,7 @@
 ||primedisgmbh.com^
 ||primedocsolutions.com^
 ||primedrugsstore.org^
+||primefexcourierservice.com^
 ||primefillers.com^
 ||primehuskypups.com^
 ||primehyp.de^
@@ -16839,6 +16949,7 @@
 ||publidya.com^
 ||pueblaseminuevos.com^
 ||pug-au.com^
+||pugbreeddogz.com^
 ||pughomedelivery.com^
 ||pugnwise.top^
 ||pugpetshub.com^
@@ -16884,11 +16995,13 @@
 ||puppiesforhomeshop.com^
 ||puppiesfor.me^
 ||puppiesfornewhomes.com^
+||puppiesforsale.services^
 ||puppiesforsaletoday.com^
 ||puppiesforsellonline.com^
 ||puppiesgaloreadoption.com^
 ||puppiesgoldendoodle.com^
 ||puppiesgoldenretriever.com^
+||puppieshappiness.com^
 ||puppieshome4you.com^
 ||puppieshomeboxers.com^
 ||puppieshome.net^
@@ -17086,6 +17199,7 @@
 ||qualityamericanbully.com^
 ||qualitybernesemountainpuppies.com^
 ||qualitybotulinum.com^
+||qualitybudsofficial.com^
 ||qualitybullterrierpup.com^
 ||qualitycannabistore.com^
 ||quality-carts.com^
@@ -17343,6 +17457,7 @@
 ||raysbernesemountain.com^
 ||rayscanecorsopups.com^
 ||rayscorgihome.com^
+||raysgoldendoodle.com^
 ||rayshibainu.com^
 ||raysrottweilers.com^
 ||razbogatey.com^
@@ -17483,6 +17598,7 @@
 ||refugeanimaux.com^
 ||refurbishelectronics.com^
 ||refurbishlaptopandphones.com^
+||regalfrenchbulldogs.com^
 ||regalgermanshorthairedpointer.com^
 ||regalhuskies.com^
 ||regalos-cuba.com^
@@ -17524,6 +17640,7 @@
 ||reisen-engler.de^
 ||reiseweltat6.wixsite.com^
 ||rejanholdingbv.com^
+||rejuvenatefillers.com^
 ||relastenlyfrenchbullies.com^
 ||related-dating.com^
 ||relation-adultere.com^
@@ -17753,6 +17870,7 @@
 ||rickycmarderossianenergy-au.com^
 ||rickycmarderossianenergy-us.com^
 ||rickyfellergoldendoodles.com^
+||rickysdachshundpuppieshome.com^
 ||ricuspuppies.com^
 ||ride-a-bike.club^
 ||ridero-bikes.uk^
@@ -17936,6 +18054,7 @@
 ||rosedoris.com^
 ||roseflowerfrenchies.org^
 ||rosegal.com^
+||rosegoldendoodles.com^
 ||roselinlin.com^
 ||rosemariepuppies.com^
 ||rosemarybeaglepuppies.com^
@@ -18063,6 +18182,7 @@
 ||royaloxcredit.com^
 ||royalpetss.com^
 ||royalphamarcy.org^
+||royalpharmaceuticalstore.com^
 ||royalpharrmacy.com^
 ||royalpitbulls.com^
 ||royalpompups.com^
@@ -18074,6 +18194,7 @@
 ||royalpuppystore.com^
 ||royalpupsmalshies.com^
 ||royalretrieverbreeders.com^
+||royalsafety.net^
 ||royalsamoyedbreeders.com^
 ||royalsamoyedshome.com^
 ||royalsexpresslogistic.com^
@@ -18089,6 +18210,7 @@
 ||royalteddybearpups.com^
 ||royalthomelabradors.com^
 ||royaltibetanmstiffhome.com^
+||royaltoypoodles.com^
 ||royaltrainedhome.com^
 ||royaltrustassociatesusa.org^
 ||royaltycavalierkingcharlespups.com^
@@ -18284,6 +18406,7 @@
 ||samoyedpuppyforsale.com^
 ||samoyedpuppyhome.com^
 ||samoyedpuppyspot.com^
+||samsaussieshome.com^
 ||samsfoon.eu^
 ||samsungdriver.cc^
 ||samsung-driver.org^
@@ -18376,6 +18499,7 @@
 ||sbcargo.ru^
 ||scalaskanews.com^
 ||scandiccargo.com^
+||scandinaviaapotek.com^
 ||scandinavialines.com^
 ||scandinaviandelivery.com^
 ||scan-shipping.tk^
@@ -18740,6 +18864,7 @@
 ||shetlandsheepdogpuppies4sale.com^
 ||shetoyschowchow.com^
 ||shevaenglishbullies.com^
+||shfarms.co^
 ||shhtnan.com^
 ||shiawasseetimes.com^
 ||shibainbreed.com^
@@ -18886,6 +19011,7 @@
 ||siggysparadise.com^
 ||signpify.com^
 ||signupsystem.com^
+||sigsauerpistol.com^
 ||sihche.com^
 ||silentmajoritypatriots.com^
 ||silicondrugsales.com^
@@ -19021,6 +19147,7 @@
 ||slutmedtandlaegeskraek.dk^
 ||smail.love^
 ||smainecoonkitten.com^
+||smalldachshundpuppies.com^
 ||smallyorkshire.com^
 ||smarkminimall.com^
 ||smartaustralianshepherds.com^
@@ -19045,6 +19172,7 @@
 ||smart-dachshundpuppies.com^
 ||smartdobermanpinscherpups.com^
 ||smartdobermanpuppieshome.store^
+||smartdoodlepup4hom.com^
 ||smartdutchshepherdpups.store^
 ||smartexoticflavors.com^
 ||smartfit-pro.de^
@@ -19145,6 +19273,7 @@
 ||snowcreekfrenchies.com^
 ||snowgear.com^
 ||snowhillspuppies.com^
+||snowpomsky.com^
 ||snowpowderonlinestore.com^
 ||snowwhitepowderstore.com^
 ||snowwhitesamoyed.com^
@@ -19577,6 +19706,7 @@
 ||standardtoygoldendoodlecoats.com^
 ||standardweedshop.com^
 ||standardweedsonline.com^
+||standoodleshome.com^
 ||stanislausnews.com^
 ||staplay.de^
 ||staramericanbullyfarm.com^
@@ -19877,6 +20007,7 @@
 ||sunandolls.com^
 ||sunantakasanuchltd.com^
 ||sunbeatz.de^
+||sundownpuppies.com^
 ||sundridgepersianskittenhome.com^
 ||sunflowerstatenews.com^
 ||sunilpharmaceuticals.com^
@@ -20251,6 +20382,7 @@
 ||teacupbreedershome.com^
 ||teacupbreedershome.net^
 ||teacupbreedr.com^
+||teacupcavalierpuppies.com^
 ||teacupcavapoopuppies.com^
 ||teacupchihuahuafind.com^
 ||teacupchihuahuapups.com^
@@ -20917,6 +21049,7 @@
 ||topbotoxonline.com^
 ||topbullmastiffpupshome.com^
 ||topcanecorsopuppies.com^
+||topcannabismall.com^
 ||topcannabisonlinestore.com^
 ||topcannadispensary.com^
 ||topcanvasdistributors.com^
@@ -22006,6 +22139,7 @@
 ||vioseabay.com^
 ||vip-coach.us^
 ||vipdeliverycarrier.com^
+||vipdocservice.com^
 ||vipfrenchbulldogpupshome.com^
 ||vipgermanshepherd.com^
 ||vipgoldenroyalhoney.com^
@@ -22635,6 +22769,7 @@
 ||willowpoodles.com^
 ||willowtonsuppliersptyltd.com^
 ||willsmaltese.com^
+||willysbernesepups.com^
 ||wilsoncutepitbullpuppies.com^
 ||wilsongreatdanepuppies.com^
 ||wilsonguide.com^
@@ -22862,7 +22997,9 @@
 ||xmasbabyteacupyorkiepuppies.com^
 ||xn--80awro.xn--p1ai^
 ||xnanmugncm.com^
+||xn--cocanaenlneashop-csbf.com^
 ||xn--deinvergngen-llb.com^
+||xn--deutscherfhrerscheinzumverkauf-efd.com^
 ||xn--e-gerteundhaus-9hb.com^
 ||xn--eu-registrierterfhrerschein-y3c.com^
 ||xn--g1acaefjdem4al8l.xn--p1ai^
@@ -22885,6 +23022,7 @@
 ||xpertammo.com^
 ||xpressdisp.com^
 ||xpressdocsonline.com^
+||xpressservicedelivery.cyou^
 ||xsalesport.online^
 ||xsmartlogisticservices.com^
 ||xterabank.us^
@@ -22964,6 +23102,7 @@
 ||yorkieloversclassified.com^
 ||yorkiemorkiehaven.com^
 ||yorkieparadies.com^
+||yorkiepuppiesforlife.com^
 ||yorkie-puppies-home.myfreesites.net^
 ||yorkiepuppy4homes.com^
 ||yorkiepuppyhome.com^
