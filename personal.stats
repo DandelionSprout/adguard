@@ -30,7 +30,7 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |   14241 | domains | local  | online  | unchanged | black.list
+   1 |   14240 | domains | local  | online  | changed   | black.list
    2 |      24 | domains | local  | online  | unchanged | black.list.threat-intelligence
    3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
    4 |    3675 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -42,18 +42,18 @@ Initialize ...
 
 Stats personal:
 
-** Source (raw):    26616
-== Source (unique): 22787 (-3829)
--- White:           21585 (-1202)
--- White(*):        21579 (-6)
-++ Block:           21633 (+54)
--- Unblock:         21633 (-0)
--- Dead:            20808 (-825)
-++ FLD:             20939 (+131)
-++ WWW:             27622 (+6683)
+** Source (raw):    26615
+== Source (unique): 22786 (-3829)
+-- White:           21584 (-1202)
+-- White(*):        21578 (-6)
+++ Block:           21632 (+54)
+-- Unblock:         21632 (-0)
+-- Dead:            20807 (-825)
+++ FLD:             20938 (+131)
+++ WWW:             27621 (+6683)
 
-27622 unique Domains - Version 2021.1021.060620
-MD5 Domains RAW: 42628c80a2bb4cd54bd4304f19b3308d
+27621 unique Domains - Version 2021.1021.180539
+MD5 Domains RAW: 743f8e27c788a48dca6601b721d3101b
 
 # Convert personal to Hostlist ... 
 
@@ -76,10 +76,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling personal.adblock.raw
-ℹ Original length is 20622
-ℹ Length after applying transformations is 20622
-ℹ The list was compressed from 20625 to 13404
-ℹ Final length of the list is 13410
+ℹ Original length is 20621
+ℹ Length after applying transformations is 20621
+ℹ The list was compressed from 20624 to 13403
+ℹ Final length of the list is 13409
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/personal/out/personal.adblock
 ℹ Finished compiling
 
