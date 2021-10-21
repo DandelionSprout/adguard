@@ -1,5 +1,5 @@
 ! ---------------------------------------------
-! Zelo*s Whitelist - V2021.10.21-1323
+! Zelo*s Whitelist - V2021.10.21-1725
 ! ---------------------------------------------
 ! GitHub:  https://github.com/Zelo72
 ! Discord: Zelo72#7513
@@ -242,6 +242,8 @@
 @@||office.com^
 @@||onedrive.com^
 @@||teams.microsoft.com^
+@@||trafficmanager.net^
+@@|activity.windows.com^
 @@|arc.msn.com^
 @@|browser.events.data.microsoft.com^
 @@|browser.pipe.aria.microsoft.com^
@@ -273,6 +275,7 @@
 @@|self-events-data.trafficmanager.net^
 @@|self.events.data.microsoft.com^
 @@|settings-win.data.microsoft.com^
+@@|settingsfd-geo.trafficmanager.net^
 @@|target.microsoft.com^
 @@|teams-events-data.trafficmanager.net^
 @@|teams.events.data.microsoft.com^
