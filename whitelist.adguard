@@ -1,5 +1,5 @@
 ! ---------------------------------------------
-! Zelo*s Whitelist - V2021.10.21-1725
+! Zelo*s Whitelist
 ! ---------------------------------------------
 ! GitHub:  https://github.com/Zelo72
 ! Discord: Zelo72#7513
@@ -237,16 +237,13 @@
 @@|static.apester.com^
 
 ! Microsoft
-@@||data.microsoft.com^
 @@||msedge.net^
 @@||office.com^
 @@||onedrive.com^
 @@||teams.microsoft.com^
-@@||trafficmanager.net^
 @@|activity.windows.com^
 @@|arc.msn.com^
 @@|browser.events.data.microsoft.com^
-@@|browser.pipe.aria.microsoft.com^
 @@|click.email.microsoftrewards.com^
 @@|click.engage.windows.com^
 @@|click.mail.onedrive.com^
@@ -266,7 +263,6 @@
 @@|image.engage.surface.com^
 @@|image.engage.windows.com^
 @@|image.mail.onedrive.com^
-@@|mobile.pipe.aria.microsoft.com^
 @@|nexus.officeapps.live.com^
 @@|nexusrules.officeapps.live.com^
 @@|prod.nexusrules.live.com.akadns.net^
@@ -279,11 +275,8 @@
 @@|target.microsoft.com^
 @@|teams-events-data.trafficmanager.net^
 @@|teams.events.data.microsoft.com^
-@@|umwatson.events.data.microsoft.com^
 @@|v10.events.data.microsoft.com^
 @@|v20.events.data.microsoft.com^
-@@|vortex.data.microsoft.com^
-@@|web.vortex.data.microsoft.com^
 @@|www.msftconnecttest.com^
 
 ! Netflix
