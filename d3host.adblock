@@ -5,7 +5,7 @@
 ! License: CC BY-NC-SA
 ! Source: https://github.com/d3ward/toolz/blob/master/src/d3host.txt
 
-! This list cover all the tests on https://d3ward.github.io/toolz/src/adblock
+! This list cover all the tests on https://d3ward.github.io/toolz/adblock
 !
 ! Type : Stable
 ! Updated On: 20-10-2021
@@ -20,16 +20,14 @@
 
 ! Google Ads
 ||pagead2.googlesyndication.com^
-||pagead2.googleadservices.com^
 ||ads.google.com^
 ||adservice.google.com^
-||google-adservices.com^
+||googleadservices.com^
 
 !Media.net
 ||media.net^
 
 !Doubleclick.net
-||static-doubleclick.com^
 ||doubleclick.net^
 
 !FastClick
@@ -44,7 +42,6 @@
 ||advertising-api-eu.amazon.com^
 ||amazonaax.com^
 ||amazonclix.com^
-||amazon-adsystem.com^
 ||assoc-amazon.com^
 
 !#Analytics ====================
@@ -99,7 +96,6 @@
 
 !Google Analytics
 ||google-analytics.com^
-||google.analytics.com^
 
 !Hotjar
 ||api-hotjar.com^
