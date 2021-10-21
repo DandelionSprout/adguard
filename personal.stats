@@ -9,9 +9,10 @@ Config:
    adblock
    localpush
 
-++ Prioritized Blocklists - 1:
+++ Prioritized Blocklists - 2:
 
    ../../data/black.list.block
+   ../../data/black.list.extension
 
 -- Deadlists - 1:
 
@@ -30,8 +31,8 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |   14391 | domains | local  | online  | changed   | black.list
-   2 |      24 | domains | local  | online  | unchanged | black.list.threat-intelligence
+   1 |   14403 | domains | local  | online  | changed   | black.list
+   2 |      27 | domains | local  | online  | unchanged | black.list.threat-intelligence
    3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
    4 |    3675 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
    5 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
@@ -42,18 +43,18 @@ Initialize ...
 
 Stats personal:
 
-** Source (raw):    26766
-== Source (unique): 22935 (-3831)
--- White:           21729 (-1206)
--- White(*):        21723 (-6)
--- Dead:            20894 (-829)
-++ Block:           20949 (+55)
--- Unblock:         20949 (-0)
-++ FLD:             21081 (+132)
-++ WWW:             27767 (+6686)
+** Source (raw):    26781
+== Source (unique): 22944 (-3837)
+-- White:           21737 (-1207)
+-- White(*):        21731 (-6)
+-- Dead:            20902 (-829)
+++ Block:           21020 (+118)
+-- Unblock:         21020 (-0)
+++ FLD:             21152 (+132)
+++ WWW:             27828 (+6676)
 
-27767 unique Domains - Version 2021.1021.222747
-MD5 Domains RAW: ddbc94c53df7552f95714f1321487213
+27828 unique Domains - Version 2021.1022.000713
+MD5 Domains RAW: 8cb3d48bb7895aca540c2acdbde51157
 
 # Convert personal to Hostlist ... 
 
@@ -76,10 +77,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling personal.adblock.raw
-ℹ Original length is 20761
-ℹ Length after applying transformations is 20761
-ℹ The list was compressed from 20764 to 13500
-ℹ Final length of the list is 13506
+ℹ Original length is 20808
+ℹ Length after applying transformations is 20808
+ℹ The list was compressed from 20811 to 13296
+ℹ Final length of the list is 13302
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/personal/out/personal.adblock
 ℹ Finished compiling
 
