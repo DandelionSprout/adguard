@@ -9,14 +9,11 @@ Config:
    adblock
    localpush
 
- + Prioritized Block - 3:
-
-   affiliatetracking.block
-
-++ Prioritized Blocklists - 3:
+++ Prioritized Blocklists - 4:
 
    ../../data/black.list.block
-   ../../data/white.list.referral
+   ../../data/rules.list.block
+   ../../data/black.list.extension
    ../d3host/out/d3host.domains
 
 -- Excludelists - 2:
@@ -42,34 +39,37 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |  122580 | hosts   | http   | online  | changed   | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+   1 |  122580 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
    2 |   93712 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
    3 |     244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
    4 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
-   5 |   40566 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+   5 |   40570 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
    6 |   13720 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
    7 |     429 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
-   8 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
-   9 |   14403 | domains | local  | online  | unchanged | black.list
-  10 |      27 | domains | local  | online  | unchanged | black.list.threat-intelligence
+   8 |      22 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
+   9 |       5 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
+  10 |     892 | domains | local  | online  | unchanged | white.list.referral
+  11 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
+  12 |   14531 | domains | local  | online  | unchanged | black.list
+  13 |      27 | domains | local  | online  | unchanged | black.list.threat-intelligence
 
 # Build affiliatetracking Domainlist ...
 
 Stats affiliatetracking:
 
-** Source (raw):    287417
-== Source (unique): 252942 (-34475)
--- Exclude:         178859 (-74083)
--- White:           178564 (-295)
--- White(*):        178396 (-168)
--- Dead:            152593 (-25803)
-++ Block:           153801 (+1208)
--- Unblock:         153797 (-4)
-++ FLD:             154390 (+593)
-++ WWW:             156998 (+2608)
+** Source (raw):    288468
+== Source (unique): 253492 (-34976)
+-- Exclude:         179793 (-73699)
+-- White:           179494 (-299)
+-- White(*):        177971 (-1523)
+-- Dead:            152555 (-25416)
+++ Block:           153638 (+1083)
+-- Unblock:         153638 (-0)
+++ FLD:             154229 (+591)
+++ WWW:             157247 (+3018)
 
-156998 unique Domains - Version 2021.1022.061151
-MD5 Domains RAW: c36dba4c2ece68131e60ec9ea8330743
+157247 unique Domains - Version 2021.1022.120902
+MD5 Domains RAW: 324a4ed93e6f3dc424fbbd05676bcb1d
 
 # Convert affiliatetracking to Hostlist ... 
 
@@ -84,6 +84,40 @@ Prepare domain list for compiling ... done.
     "sources": [
         {
             "source": "affiliatetracking.adblock.raw",
+            "type": "adblock",
+            "exclusions_sources": [
+                "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt"
+            ],
+            "transformations": [
+                "Validate"
+            ]
+        },
+        {
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt",
+            "transformations": [
+                "Validate"
+            ],
+            "type": "adblock"
+        },
+        {
+            "source": "../rules.txt",
+            "transformations": [
+                "Validate"
+            ],
+            "type": "adblock"
+        },
+        {
+            "source": "../../d3host/out/d3host.domains",
+            "transformations": [
+                "Validate"
+            ],
+            "type": "adblock"
+        },
+        {
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt",
+            "transformations": [
+                "Validate"
+            ],
             "type": "adblock"
         }
     ],
@@ -92,10 +126,24 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling affiliatetracking.adblock.raw
-ℹ Original length is 137058
-ℹ Length after applying transformations is 137058
-ℹ The list was compressed from 137061 to 105019
-ℹ Final length of the list is 105025
+ℹ Original length is 137266
+ℹ Filtering the list of rules using 325 exclusion rules
+ℹ Excluded 10 rules. 137256 rules left.
+ℹ Length after applying transformations is 137255
+ℹ Start compiling https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt
+ℹ Original length is 576
+ℹ Length after applying transformations is 570
+ℹ Start compiling ../rules.txt
+ℹ Original length is 4
+ℹ Length after applying transformations is 4
+ℹ Start compiling ../../d3host/out/d3host.domains
+ℹ Original length is 201
+ℹ Length after applying transformations is 201
+ℹ Start compiling https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt
+ℹ Original length is 179
+ℹ Length after applying transformations is 179
+ℹ The list was compressed from 138224 to 105290
+ℹ Final length of the list is 105296
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/affiliatetracking/out/affiliatetracking.adblock
 ℹ Finished compiling
 

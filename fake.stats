@@ -31,7 +31,7 @@ Initialize ...
   Nr |   Count | Format  | Source | Status  | File      | URL/File
    1 |    2197 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
-   3 |   16796 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+   3 |   16799 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
    4 |    1483 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
    5 |      45 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
    6 |    5650 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
@@ -43,17 +43,17 @@ Initialize ...
 
 Stats fake:
 
-** Source (raw):    29829
-== Source (unique): 27322 (-2507)
--- White:           27234 (-88)
--- White(*):        27234 (-0)
--- Dead:            23336 (-3898)
--- Unblock:         23336 (-0)
-++ FLD:             23471 (+135)
-++ WWW:             45949 (+22478)
+** Source (raw):    29832
+== Source (unique): 27325 (-2507)
+-- White:           27237 (-88)
+-- White(*):        27237 (-0)
+-- Dead:            23339 (-3898)
+-- Unblock:         23339 (-0)
+++ FLD:             23474 (+135)
+++ WWW:             45955 (+22481)
 
-45949 unique Domains - Version 2021.1022.060644
-MD5 Domains RAW: 0e0f1197609d8fcec4af04e8f0045b44
+45955 unique Domains - Version 2021.1022.123650
+MD5 Domains RAW: e5fcee9908d4d7f757d74e0ccea80de6
 
 # Convert fake to Hostlist ... 
 
@@ -68,7 +68,13 @@ Prepare domain list for compiling ... done.
     "sources": [
         {
             "source": "fake.adblock.raw",
-            "type": "adblock"
+            "type": "adblock",
+            "exclusions_sources": [
+                "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt"
+            ],
+            "transformations": [
+                "Validate"
+            ]
         }
     ],
     "transformations": [
@@ -76,10 +82,12 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling fake.adblock.raw
-ℹ Original length is 23303
-ℹ Length after applying transformations is 23303
-ℹ The list was compressed from 23306 to 23287
-ℹ Final length of the list is 23293
+ℹ Original length is 23306
+ℹ Filtering the list of rules using 325 exclusion rules
+ℹ Excluded 0 rules. 23306 rules left.
+ℹ Length after applying transformations is 23306
+ℹ The list was compressed from 23309 to 23290
+ℹ Final length of the list is 23296
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/fake/out/fake.adblock
 ℹ Finished compiling
 

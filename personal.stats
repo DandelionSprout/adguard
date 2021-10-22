@@ -9,9 +9,10 @@ Config:
    adblock
    localpush
 
-++ Prioritized Blocklists - 2:
+++ Prioritized Blocklists - 3:
 
    ../../data/black.list.block
+   ../../data/rules.list.block
    ../../data/black.list.extension
 
 -- Deadlists - 1:
@@ -31,7 +32,7 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |   14403 | domains | local  | online  | unchanged | black.list
+   1 |   14531 | domains | local  | online  | unchanged | black.list
    2 |      27 | domains | local  | online  | unchanged | black.list.threat-intelligence
    3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
    4 |    3675 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -43,18 +44,18 @@ Initialize ...
 
 Stats personal:
 
-** Source (raw):    26781
-== Source (unique): 22944 (-3837)
--- White:           21738 (-1206)
--- White(*):        21732 (-6)
--- Dead:            20903 (-829)
-++ Block:           21021 (+118)
--- Unblock:         21021 (-0)
-++ FLD:             21153 (+132)
-++ WWW:             27829 (+6676)
+** Source (raw):    26909
+== Source (unique): 23065 (-3844)
+-- White:           21851 (-1214)
+-- White(*):        21323 (-528)
+-- Dead:            20495 (-828)
+++ Block:           21193 (+698)
+-- Unblock:         21193 (-0)
+++ FLD:             21332 (+139)
+++ WWW:             28015 (+6683)
 
-27829 unique Domains - Version 2021.1022.060606
-MD5 Domains RAW: 8b6b77944783af74b4e61715afd0bf26
+28015 unique Domains - Version 2021.1022.125543
+MD5 Domains RAW: a956972b4366b0ac6afd4312e8ed47a5
 
 # Convert personal to Hostlist ... 
 
@@ -69,6 +70,26 @@ Prepare domain list for compiling ... done.
     "sources": [
         {
             "source": "personal.adblock.raw",
+            "type": "adblock",
+            "exclusions_sources": [
+                "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt"
+            ],
+            "transformations": [
+                "Validate"
+            ]
+        },
+        {
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt",
+            "transformations": [
+                "Validate"
+            ],
+            "type": "adblock"
+        },
+        {
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt",
+            "transformations": [
+                "Validate"
+            ],
             "type": "adblock"
         }
     ],
@@ -77,10 +98,18 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling personal.adblock.raw
-ℹ Original length is 20809
-ℹ Length after applying transformations is 20809
-ℹ The list was compressed from 20812 to 13297
-ℹ Final length of the list is 13303
+ℹ Original length is 20919
+ℹ Filtering the list of rules using 325 exclusion rules
+ℹ Excluded 9 rules. 20910 rules left.
+ℹ Length after applying transformations is 20909
+ℹ Start compiling https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt
+ℹ Original length is 576
+ℹ Length after applying transformations is 570
+ℹ Start compiling https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt
+ℹ Original length is 179
+ℹ Length after applying transformations is 179
+ℹ The list was compressed from 21667 to 12535
+ℹ Final length of the list is 12541
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/personal/out/personal.adblock
 ℹ Finished compiling
 
