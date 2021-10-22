@@ -48,28 +48,28 @@ Initialize ...
    7 |     429 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
    8 |      22 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
    9 |       5 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
-  10 |     892 | domains | local  | online  | unchanged | white.list.referral
+  10 |     892 | domains | local  | online  | changed   | white.list.referral
   11 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
-  12 |   14531 | domains | local  | online  | unchanged | black.list
+  12 |   14000 | domains | local  | online  | unchanged | black.list
   13 |      27 | domains | local  | online  | unchanged | black.list.threat-intelligence
 
 # Build affiliatetracking Domainlist ...
 
 Stats affiliatetracking:
 
-** Source (raw):    288468
-== Source (unique): 253492 (-34976)
--- Exclude:         179793 (-73699)
--- White:           179494 (-299)
--- White(*):        177971 (-1523)
--- Dead:            152555 (-25416)
-++ Block:           153638 (+1083)
--- Unblock:         153638 (-0)
-++ FLD:             154229 (+591)
-++ WWW:             157247 (+3018)
+** Source (raw):    287937
+== Source (unique): 253114 (-34823)
+-- Exclude:         179481 (-73633)
+-- White:           179172 (-309)
+-- White(*):        178015 (-1157)
+-- Dead:            152599 (-25416)
+++ Block:           153674 (+1075)
+-- Unblock:         153674 (-0)
+++ FLD:             154267 (+593)
+++ WWW:             157313 (+3046)
 
-157247 unique Domains - Version 2021.1022.120902
-MD5 Domains RAW: 324a4ed93e6f3dc424fbbd05676bcb1d
+157313 unique Domains - Version 2021.1022.133749
+MD5 Domains RAW: ba2a3b7e772295f1c8b6ff6736a4227e
 
 # Convert affiliatetracking to Hostlist ... 
 
@@ -126,10 +126,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling affiliatetracking.adblock.raw
-ℹ Original length is 137266
+ℹ Original length is 137298
 ℹ Filtering the list of rules using 325 exclusion rules
-ℹ Excluded 10 rules. 137256 rules left.
-ℹ Length after applying transformations is 137255
+ℹ Excluded 10 rules. 137288 rules left.
+ℹ Length after applying transformations is 137287
 ℹ Start compiling https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt
 ℹ Original length is 576
 ℹ Length after applying transformations is 570
@@ -142,8 +142,8 @@ Prepare domain list for compiling ... done.
 ℹ Start compiling https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt
 ℹ Original length is 179
 ℹ Length after applying transformations is 179
-ℹ The list was compressed from 138224 to 105290
-ℹ Final length of the list is 105296
+ℹ The list was compressed from 138256 to 105322
+ℹ Final length of the list is 105328
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/affiliatetracking/out/affiliatetracking.adblock
 ℹ Finished compiling
 
