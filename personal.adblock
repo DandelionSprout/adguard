@@ -36,7 +36,7 @@
 ! ---------------------------------------------------
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
-!    1 |   14403 | domains | local  | online  | changed   | black.list
+!    1 |   14403 | domains | local  | online  | unchanged | black.list
 !    2 |      27 | domains | local  | online  | unchanged | black.list.threat-intelligence
 !    3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
 !    4 |    3675 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -44,7 +44,7 @@
 !    6 |    2016 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
 !    7 |    4924 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
 !
-! 13292 unique Domains - Version 2021.1022.000713
+! 13293 unique Domains - Version 2021.1022.060606
 !
 ||000000000.fls.doubleclick.net^
 ||000000.fls.doubleclick.net^
@@ -12354,6 +12354,7 @@
 ||ultraoranges.com^
 ||umbel.com^
 ||umlazada.alibaba.com^
+||umwatson.events.data.microsoft.com^
 ||unanimis.co.uk^
 ||unarmedindustry.com^
 ||unavailablebackedwaved.com^

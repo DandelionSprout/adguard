@@ -31,7 +31,7 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |   14403 | domains | local  | online  | changed   | black.list
+   1 |   14403 | domains | local  | online  | unchanged | black.list
    2 |      27 | domains | local  | online  | unchanged | black.list.threat-intelligence
    3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
    4 |    3675 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -45,16 +45,16 @@ Stats personal:
 
 ** Source (raw):    26781
 == Source (unique): 22944 (-3837)
--- White:           21737 (-1207)
--- White(*):        21731 (-6)
--- Dead:            20902 (-829)
-++ Block:           21020 (+118)
--- Unblock:         21020 (-0)
-++ FLD:             21152 (+132)
-++ WWW:             27828 (+6676)
+-- White:           21738 (-1206)
+-- White(*):        21732 (-6)
+-- Dead:            20903 (-829)
+++ Block:           21021 (+118)
+-- Unblock:         21021 (-0)
+++ FLD:             21153 (+132)
+++ WWW:             27829 (+6676)
 
-27828 unique Domains - Version 2021.1022.000713
-MD5 Domains RAW: 8cb3d48bb7895aca540c2acdbde51157
+27829 unique Domains - Version 2021.1022.060606
+MD5 Domains RAW: 8b6b77944783af74b4e61715afd0bf26
 
 # Convert personal to Hostlist ... 
 
@@ -77,10 +77,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling personal.adblock.raw
-ℹ Original length is 20808
-ℹ Length after applying transformations is 20808
-ℹ The list was compressed from 20811 to 13296
-ℹ Final length of the list is 13302
+ℹ Original length is 20809
+ℹ Length after applying transformations is 20809
+ℹ The list was compressed from 20812 to 13297
+ℹ Final length of the list is 13303
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/personal/out/personal.adblock
 ℹ Finished compiling
 
