@@ -38,6 +38,8 @@
 @@|fls-eu.amazon.nl^|
 @@|fls-eu.amazon.sa^|
 @@|fls-eu.amazon.se^|
+@@|fls-na.amazon.com.br^|
+@@|fls-na.amazon.com.mx^|
 @@|global.safebrowsing.service.amazonsilk.com^|
 @@|kinesis.us-east-1.amazonaws.com^|
 @@|mads-eu.amazon.com^|
@@ -741,6 +743,9 @@
 
 ! False positive
 @@||00110.citi.com^|
+@@||cxense.com.edgekey.net^|
+@@||optimizely.com.edgekey.net^|
+@@||scorecardresearch.com.edgekey.net^|
 @@||static-webarchive.org^|
 @@|ad.nl^|
 @@|bitmovin.com^|
