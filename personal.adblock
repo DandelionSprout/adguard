@@ -36,15 +36,15 @@
 ! ---------------------------------------------------
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
-!    1 |   14531 | domains | local  | online  | unchanged | black.list
+!    1 |   14000 | domains | local  | online  | changed   | black.list
 !    2 |      27 | domains | local  | online  | unchanged | black.list.threat-intelligence
 !    3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
-!    4 |    3675 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+!    4 |    3672 | hosts   | http   | online  | changed   | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 !    5 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
 !    6 |    2016 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
 !    7 |    4924 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
 !
-! 12426 unique Domains - Version 2021.1022.125543
+! 12425 unique Domains - Version 2021.1022.133113
 !
 ||0emm.com^
 ||0i0i0i0.com^
@@ -1745,7 +1745,6 @@
 ||analytics.mobile.yandex.net^
 ||analytics.msnbc.msn.com^
 ||analytics.myfinance.com^
-||analytics.mytvzion.pro^
 ||analytics.navyfederal.org^
 ||analyticsnew.overwolf.com^
 ||analytics.newsinc.com^
