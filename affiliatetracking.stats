@@ -39,32 +39,31 @@ Initialize ...
    1 |  123255 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
    2 |     244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
    3 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
-   4 |   40653 | adblock | http   | OFFLINE | unchanged | USE LOCAL COPY: adguardteam.github.io_adguardsdnsfilter_filters_filter.txt
-   5 |    9314 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
-   6 |   13720 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/adguardteam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-   7 |      22 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
-   8 |     429 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
-   9 |       5 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
-  10 |     892 | domains | local  | online  | changed   | white.list.referral
-  11 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
+   4 |    9314 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
+   5 |   13720 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/adguardteam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
+   6 |      22 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
+   7 |     429 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
+   8 |       5 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
+   9 |     892 | domains | local  | online  | changed   | white.list.referral
+  10 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
 
 # Build affiliatetracking Domainlist ...
 
 Stats affiliatetracking:
 
-** Source (raw):    190270
-== Source (unique): 168641 (-21629)
--- Exclude:         118788 (-49853)
--- White:           118652 (-136)
--- White(*):        118353 (-299)
--- Dead:            111749 (-6604)
-++ Block:           111934 (+185)
--- Unblock:         111934 (-0)
-++ FLD:             112219 (+285)
-++ WWW:             113027 (+808)
+** Source (raw):    149617
+== Source (unique): 128364 (-21253)
+-- Exclude:         113536 (-14828)
+-- White:           113461 (-75)
+-- White(*):        113182 (-279)
+-- Dead:            111235 (-1947)
+++ Block:           111420 (+185)
+-- Unblock:         111420 (-0)
+++ FLD:             111706 (+286)
+++ WWW:             112186 (+480)
 
-113027 unique Domains - Version 2021.1023.174544
-MD5 Domains RAW: f5d91e058f532c58f725b1337d9281a2
+112186 unique Domains - Version 2021.1023.192030
+MD5 Domains RAW: 0917ef94a7aab0fbb8d48e9506c58237
 
 # Convert affiliatetracking to Hostlist ... 
 
@@ -90,10 +89,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling affiliatetracking.adblock.raw
-ℹ Original length is 109093
-ℹ Length after applying transformations is 109092
-ℹ The list was compressed from 109095 to 81253
-ℹ Final length of the list is 81259
+ℹ Original length is 108580
+ℹ Length after applying transformations is 108579
+ℹ The list was compressed from 108582 to 80789
+ℹ Final length of the list is 80795
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/affiliatetracking/out/affiliatetracking.adblock
 ℹ Finished compiling
 
