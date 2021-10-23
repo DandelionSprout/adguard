@@ -39,37 +39,37 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |  122580 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+   1 |  123255 | hosts   | http   | online  | changed   | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
    2 |   93712 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
    3 |     244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
    4 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
-   5 |   40570 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+   5 |   40621 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
    6 |   13720 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
    7 |     429 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
    8 |      22 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
    9 |       5 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
   10 |     892 | domains | local  | online  | changed   | white.list.referral
   11 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
-  12 |   14000 | domains | local  | online  | unchanged | black.list
-  13 |      27 | domains | local  | online  | unchanged | black.list.threat-intelligence
+  12 |   13999 | domains | local  | online  | unchanged | black.list
+  13 |      29 | domains | local  | online  | unchanged | black.list.threat-intelligence
 
 # Build affiliatetracking Domainlist ...
 
 Stats affiliatetracking:
 
-** Source (raw):    287937
-== Source (unique): 253114 (-34823)
--- Exclude:         179481 (-73633)
--- White:           179172 (-309)
--- White(*):        178015 (-1157)
--- Dead:            152599 (-25416)
-++ Block:           153674 (+1075)
--- Unblock:         153674 (-0)
-++ FLD:             154267 (+593)
-++ WWW:             157313 (+3046)
+** Source (raw):    288664
+== Source (unique): 253731 (-34933)
+-- Exclude:         180011 (-73720)
+-- White:           179700 (-311)
+-- White(*):        178543 (-1157)
+-- Dead:            153049 (-25494)
+++ Block:           154121 (+1072)
+-- Unblock:         154121 (-0)
+++ FLD:             154723 (+602)
+++ WWW:             157749 (+3026)
 
-157313 unique Domains - Version 2021.1022.133749
-MD5 Domains RAW: ba2a3b7e772295f1c8b6ff6736a4227e
+157749 unique Domains - Version 2021.1023.070351
+MD5 Domains RAW: 12b2a230ab359d2279b5fddbf4e27b3d
 
 # Convert affiliatetracking to Hostlist ... 
 
@@ -126,10 +126,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling affiliatetracking.adblock.raw
-ℹ Original length is 137298
+ℹ Original length is 137744
 ℹ Filtering the list of rules using 325 exclusion rules
-ℹ Excluded 10 rules. 137288 rules left.
-ℹ Length after applying transformations is 137287
+ℹ Excluded 10 rules. 137734 rules left.
+ℹ Length after applying transformations is 137733
 ℹ Start compiling https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt
 ℹ Original length is 576
 ℹ Length after applying transformations is 570
@@ -142,8 +142,8 @@ Prepare domain list for compiling ... done.
 ℹ Start compiling https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt
 ℹ Original length is 179
 ℹ Length after applying transformations is 179
-ℹ The list was compressed from 138256 to 105322
-ℹ Final length of the list is 105328
+ℹ The list was compressed from 138702 to 105741
+ℹ Final length of the list is 105747
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/affiliatetracking/out/affiliatetracking.adblock
 ℹ Finished compiling
 
