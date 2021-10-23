@@ -11,11 +11,9 @@ Config:
    no_adblock_convert
    localpush
 
-++ Prioritized Blocklists - 3:
+++ Prioritized Blocklists - 1:
 
-   ../../data/black.list.block
    ../../data/rules.list.block
-   ../../data/black.list.extension
 
  - White - 29:
 
@@ -23,7 +21,12 @@ Config:
 
 -- Whitelists - 2:
 
+   ../../data/white.list
    ../../data/white.list.adguard
+
+-- Unblocklists - 2:
+
+   ../../data/white.list.important
    ../../data/white.list.referral
 
 Initialize ...
@@ -31,25 +34,26 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |  471394 | domains | local  | online  | changed   | multi.txt
-   2 |   46559 | domains | local  | online  | changed   | fake.txt
+   1 |  471394 | domains | local  | online  | unchanged | multi.txt
+   2 |   46559 | domains | local  | online  | unchanged | fake.txt
    3 |  971568 | domains | http   | online  | unchanged | https://dbl.oisd.nl
-   4 |   40640 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+   4 |   40653 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
 # Build big Domainlist ...
 
 Stats big:
 
-** Source (raw):    1530161
-== Source (unique): 1242025 (-288136)
--- White:           1241729 (-296)
--- White(*):        1239957 (-1772)
-++ Block:           1239972 (+15)
-++ FLD:             1240188 (+216)
-++ WWW:             1252237 (+12049)
+** Source (raw):    1530174
+== Source (unique): 1242025 (-288149)
+-- White:           1241752 (-273)
+-- White(*):        1239829 (-1923)
+++ Block:           1239848 (+19)
+-- Unblock:         1239795 (-53)
+++ FLD:             1240011 (+216)
+++ WWW:             1252053 (+12042)
 
-1252237 unique Domains - Version 2021.1023.124200
-MD5 Domains RAW: e704d9a12ac1b8c6771d1e6bf4d588b9
+1252053 unique Domains - Version 2021.1023.172350
+MD5 Domains RAW: ab71765bd24797864d830893590a330b
 
 # Convert big to Hostlist ... 
 
@@ -79,7 +83,9 @@ MD5 Domains RAW: e704d9a12ac1b8c6771d1e6bf4d588b9
             "type": "adblock",
             "exclusions_sources": [
                 "../exclusions.txt",
-                "../../../data/exclusions.referral",
+                "../../../data/adblock.exclusions.referral",
+                "../../../data/adblock.exclusions.list",
+                "../../../data/adblock.exclusions.important",
                 "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt"
             ],
             "transformations": [
@@ -91,7 +97,9 @@ MD5 Domains RAW: e704d9a12ac1b8c6771d1e6bf4d588b9
             "type": "adblock",
             "exclusions_sources": [
                 "../exclusions.txt",
-                "../../../data/exclusions.referral"
+                "../../../data/adblock.exclusions.referral",
+                "../../../data/adblock.exclusions.list",
+                "../../../data/adblock.exclusions.important"
             ],
             "transformations": [
                 "Validate"
@@ -99,6 +107,11 @@ MD5 Domains RAW: e704d9a12ac1b8c6771d1e6bf4d588b9
         },
         {
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt",
+            "exclusions_sources": [
+                "../exclusions.txt",
+                "../../../data/adblock.exclusions.referral",
+                "../../../data/adblock.exclusions.important"
+            ],
             "transformations": [
                 "Validate"
             ],
@@ -106,6 +119,11 @@ MD5 Domains RAW: e704d9a12ac1b8c6771d1e6bf4d588b9
         },
         {
             "source": "../rules.txt",
+            "exclusions_sources": [
+                "../exclusions.txt",
+                "../../../data/adblock.exclusions.referral",
+                "../../../data/adblock.exclusions.important"
+            ],
             "transformations": [
                 "Validate"
             ],
@@ -138,19 +156,23 @@ MD5 Domains RAW: e704d9a12ac1b8c6771d1e6bf4d588b9
 ℹ Length after applying transformations is 23682
 ℹ Start compiling https://abp.oisd.nl/
 ℹ Original length is 368342
-ℹ Filtering the list of rules using 1218 exclusion rules
+ℹ Filtering the list of rules using 1867 exclusion rules
 ℹ Excluded 318 rules. 368024 rules left.
 ℹ Length after applying transformations is 368023
 ℹ Start compiling https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-ℹ Original length is 41711
-ℹ Filtering the list of rules using 893 exclusion rules
-ℹ Excluded 36 rules. 41675 rules left.
-ℹ Length after applying transformations is 41675
+ℹ Original length is 41724
+ℹ Filtering the list of rules using 1542 exclusion rules
+ℹ Excluded 59 rules. 41665 rules left.
+ℹ Length after applying transformations is 41665
 ℹ Start compiling https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt
 ℹ Original length is 576
-ℹ Length after applying transformations is 570
+ℹ Filtering the list of rules using 906 exclusion rules
+ℹ Excluded 1 rules. 575 rules left.
+ℹ Length after applying transformations is 569
 ℹ Start compiling ../rules.txt
 ℹ Original length is 2
+ℹ Filtering the list of rules using 906 exclusion rules
+ℹ Excluded 0 rules. 2 rules left.
 ℹ Length after applying transformations is 2
 ℹ Start compiling https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt
 ℹ Original length is 179
@@ -158,8 +180,8 @@ MD5 Domains RAW: e704d9a12ac1b8c6771d1e6bf4d588b9
 ℹ Start compiling ../exceptions.txt
 ℹ Original length is 30
 ℹ Length after applying transformations is 30
-ℹ The list was compressed from 685391 to 490521
-ℹ Final length of the list is 490527
+ℹ The list was compressed from 685380 to 490529
+ℹ Final length of the list is 490535
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/big/out/big.adblock
 ℹ Finished compiling
 
