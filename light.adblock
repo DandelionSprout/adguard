@@ -38,7 +38,7 @@
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |    1013 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
-!    2 |   15698 | domains | http   | online  | changed   | https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
+!    2 |   15699 | domains | http   | online  | changed   | https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
 !    3 |     700 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt
 !    4 |    9922 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains
 !    5 |    1486 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains
@@ -51,9 +51,9 @@
 !   12 |     335 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
 !   13 |   16963 | hosts   | http   | online  | unchanged | https://someonewhocares.org/hosts/
 !   14 |    1555 | hosts   | http   | OFFLINE | unchanged | USE LOCAL COPY: urlhaus.abuse.ch_downloads_hostfile_.txt
-!   15 |   40640 | adblock | http   | online  | changed   | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+!   15 |   40640 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 !   16 |   13720 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/adguardteam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-!   17 |   18555 | adblock | http   | online  | changed   | https://easylist.to/easylist/easylist.txt
+!   17 |   18555 | adblock | http   | online  | unchanged | https://easylist.to/easylist/easylist.txt
 !   18 |   16183 | adblock | http   | online  | unchanged | https://easylist.to/easylist/easyprivacy.txt
 !   19 |    9314 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
 !   20 |    2016 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
@@ -61,7 +61,7 @@
 !   22 |   14607 | domains | local  | online  | unchanged | black.list
 !   23 |      29 | domains | local  | online  | unchanged | black.list.threat-intelligence
 !
-! 71421 unique Domains - Version 2021.1023.103656
+! 71422 unique Domains - Version 2021.1023.123019
 !
 ||000123456789.online^
 ||0001.best^
@@ -30894,6 +30894,7 @@
 ||hearthcoronation.com^
 ||hearthorn.com^
 ||heat6have.com^
+||heathenpedestal.com^
 ||heatical-upleview.icu^
 ||heatmap-events-collector.instapage.com^
 ||heatmap.it^
