@@ -120,26 +120,27 @@ Initialize ...
   82 |       4 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
   83 |    2016 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
   84 |    4924 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
-  85 |   14666 | domains | local  | online  | unchanged | black.list
+  85 |   14646 | domains | local  | online  | unchanged | black.list
   86 |      29 | domains | local  | online  | unchanged | black.list.threat-intelligence
 
 # Build multi Domainlist ...
 
 Stats multi:
 
-** Source (raw):    946245
-== Source (unique): 459055 (-487190)
+** Source (raw):    946225
+== Source (unique): 459055 (-487170)
 -- Exclude:         455015 (-4040)
--- White:           451561 (-3454)
--- White(*):        449096 (-2465)
--- Dead:            350813 (-98283)
-++ Block:           350983 (+170)
--- Unblock:         350981 (-2)
-++ FLD:             351656 (+675)
-++ WWW:             470910 (+119254)
+-- White:           451560 (-3455)
+-- White(*):        449095 (-2465)
+-- Dead:            350812 (-98283)
+++ Block:           350982 (+170)
+-- Unblock:         350980 (-2)
+-- Unblock(*):      350980 (-0)
+++ FLD:             351655 (+675)
+++ WWW:             470908 (+119253)
 
-470910 unique Domains - Version 2021.1023.213827
-MD5 Domains RAW: babeaf5ece8e4a6da6d10bce7ff55190
+470908 unique Domains - Version 2021.1023.215929
+MD5 Domains RAW: fd81abfe944299cb865b9f5380337f3a
 
 # Convert multi to Hostlist ... 
 
@@ -165,10 +166,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling multi.adblock.raw
-ℹ Original length is 307114
-ℹ Length after applying transformations is 307112
-ℹ The list was compressed from 307115 to 256414
-ℹ Final length of the list is 256420
+ℹ Original length is 307113
+ℹ Length after applying transformations is 307111
+ℹ The list was compressed from 307114 to 256413
+ℹ Final length of the list is 256419
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/multi/out/multi.adblock
 ℹ Finished compiling
 
