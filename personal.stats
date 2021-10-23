@@ -23,20 +23,21 @@ Config:
 
    ../../data/exclude.list
 
--- Unblocklists - 1:
+-- Unblocklists - 2:
 
    ../../data/white.list.important
+   ../../data/white.list.referral
 
 Initialize ...
 
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |   13999 | domains | local  | online  | changed   | black.list
+   1 |   14599 | domains | local  | online  | changed   | black.list
    2 |      29 | domains | local  | online  | unchanged | black.list.threat-intelligence
    3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
    4 |    3672 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-   5 |    1734 | hosts   | http   | online  | changed   | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
+   5 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
    6 |    2016 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
    7 |    4924 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
 
@@ -44,18 +45,18 @@ Initialize ...
 
 Stats personal:
 
-** Source (raw):    26376
-== Source (unique): 22536 (-3840)
--- White:           21336 (-1200)
--- White(*):        21319 (-17)
--- Dead:            20492 (-827)
-++ Block:           21188 (+696)
--- Unblock:         21188 (-0)
-++ FLD:             21327 (+139)
-++ WWW:             28011 (+6684)
+** Source (raw):    26976
+== Source (unique): 23120 (-3856)
+-- White:           21872 (-1248)
+-- White(*):        21849 (-23)
+-- Dead:            20912 (-937)
+++ Block:           21188 (+276)
+-- Unblock:         21180 (-8)
+++ FLD:             21319 (+139)
+++ WWW:             28003 (+6684)
 
-28011 unique Domains - Version 2021.1023.065652
-MD5 Domains RAW: af10d7957d5323df10b44a6c6b124597
+28003 unique Domains - Version 2021.1023.173948
+MD5 Domains RAW: e5ead06a17c0bec7773e365ef52696b3
 
 # Convert personal to Hostlist ... 
 
@@ -71,26 +72,9 @@ Prepare domain list for compiling ... done.
         {
             "source": "personal.adblock.raw",
             "type": "adblock",
-            "exclusions_sources": [
-                "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt"
-            ],
             "transformations": [
                 "Validate"
             ]
-        },
-        {
-            "source": "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt",
-            "transformations": [
-                "Validate"
-            ],
-            "type": "adblock"
-        },
-        {
-            "source": "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt",
-            "transformations": [
-                "Validate"
-            ],
-            "type": "adblock"
         }
     ],
     "transformations": [
@@ -98,18 +82,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling personal.adblock.raw
-ℹ Original length is 20914
-ℹ Filtering the list of rules using 325 exclusion rules
-ℹ Excluded 7 rules. 20907 rules left.
-ℹ Length after applying transformations is 20906
-ℹ Start compiling https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt
-ℹ Original length is 576
-ℹ Length after applying transformations is 570
-ℹ Start compiling https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt
-ℹ Original length is 179
-ℹ Length after applying transformations is 179
-ℹ The list was compressed from 21664 to 12531
-ℹ Final length of the list is 12537
+ℹ Original length is 20910
+ℹ Length after applying transformations is 20909
+ℹ The list was compressed from 20912 to 13334
+ℹ Final length of the list is 13340
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/personal/out/personal.adblock
 ℹ Finished compiling
 
