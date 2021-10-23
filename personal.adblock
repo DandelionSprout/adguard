@@ -38,13 +38,13 @@
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |   14666 | domains | local  | online  | unchanged | black.list
 !    2 |      29 | domains | local  | online  | unchanged | black.list.threat-intelligence
-!    3 |       2 | domains | local  | online  | changed   | black.list.affiliatetracking
+!    3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
 !    4 |    3672 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 !    5 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
 !    6 |    2016 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
 !    7 |    4924 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
 !
-! 13601 unique Domains - Version 2021.1023.191528
+! 13578 unique Domains - Version 2021.1023.213543
 !
 ||000000000.fls.doubleclick.net^
 ||000000.fls.doubleclick.net^
@@ -1110,8 +1110,6 @@
 ||aaxads.com^
 ||aaxdetect.com^
 ||aax-eu-dub.amazon.com^
-||aax-fe.amazon-adsystem.com^
-||aax-fe-sin.amazon-adsystem.com^
 ||abacho.net^
 ||abackchain.com^
 ||abandonedaction.com^
@@ -1792,7 +1790,6 @@
 ||ads.casumoaffiliates.com^
 ||ads.cbc.ca^
 ||ads.cc^
-||ads.cc-dt.com^
 ||ads.centraliprom.com^
 ||ads.channel4.com^
 ||ads.cheabit.com^
@@ -3319,7 +3316,6 @@
 ||barbarousnerve.com^
 ||barilliance.com^
 ||barilliance.net^
-||barnesandnoble.bfast.com^
 ||barometric.com^
 ||barscreative1.com^
 ||barstool-d.openx.net^
@@ -3591,7 +3587,6 @@
 ||bmmetrix.com^
 ||bmofinancial.demdex.net^
 ||bn.adultempire.com^
-||bn.bfast.com^
 ||bnc2m.com^
 ||bnc3m.com^
 ||bnc4m.com^
@@ -3783,7 +3778,6 @@
 ||calmcactus.com^
 ||caltagironeeditore01.wt-eu02.net^
 ||cam4.fr^
-||camaieufr.commander1.com^
 ||cam.demdex.net^
 ||campaign.bharatmatrimony.com^
 ||campaigncog.com^
@@ -4580,7 +4574,6 @@
 ||crcdn01.adnxs.com^
 ||creativecdn.com^
 ||creative.doubleclick.net^
-||creative.prf.hn^
 ||creative.rutarget.ru^
 ||creatives-cdn.appsflyer.com^
 ||creatives.doubleclick.net^
@@ -5486,7 +5479,6 @@
 ||energeticladybug.com^
 ||engagebdr.com^
 ||engageclick.com^
-||engage.commander1.com^
 ||engage.dnsfilter.com^
 ||engagefront.meteomedia.com^
 ||engagefront.theweathernetwork.com^
@@ -5886,7 +5878,6 @@
 ||fls.de.doubleclick.net^
 ||fls-eu.amazon.eg^
 ||fls-fe.amazon.com.au^
-||fls-na.amazon-adsystem.com^
 ||fls.uk.doubleclick.net^
 ||fluctuo.com^
 ||fluencymedia.com^
@@ -6415,7 +6406,6 @@
 ||gweini.com^
 ||gwmtracking.com^
 ||gxgydnhz.com^
-||h0.t.hubspotemail.net^
 ||h4k5.com^
 ||h5v.eu^
 ||h78xb.pw^
@@ -6586,7 +6576,6 @@
 ||hopefulserversnecklace.com^
 ||hopla.online^
 ||horizon.globo.com^
-||horizon.sailthru.com^
 ||horizon-track.globo.com^
 ||horyzon-media.com^
 ||horzrb.com^
@@ -7043,7 +7032,6 @@
 ||iqdigital.demdex.net^
 ||iqfp1.com^
 ||iqm.com^
-||ir-de.amazon-adsystem.com^
 ||ird.govt.nz^
 ||ir.doubleclick.net^
 ||ireklama.cz^
@@ -7051,8 +7039,6 @@
 ||irg.ioam.de^
 ||ir-ing-district.clicktale.net^
 ||iriscoremetadataprod.blob.core.windows.net^
-||ir-jp.amazon-adsystem.com^
-||ir-na.amazon-adsystem.com^
 ||irqs2.ioam.de^
 ||irqs.ioam.de^
 ||irregularhumilityoptical.com^
@@ -8972,7 +8958,6 @@
 ||overconfidentfood.com^
 ||overnumeler.com^
 ||overstat.com^
-||ovh.commander1.com^
 ||ovp.iris.tv^
 ||owbihynrz.com^
 ||owebanalytics.com^
@@ -9841,9 +9826,6 @@
 ||rb.adnxs.com^
 ||r.bbci.co.uk^
 ||rcci.demdex.net^
-||rcm-eu.amazon-adsystem.com^
-||rcm-fe.amazon-adsystem.com^
-||rcm-na.amazon-adsystem.com^
 ||rcontent.services.tvn.pl^
 ||rc.rlcdn.com^
 ||rcsmetrics.it^
@@ -13338,7 +13320,6 @@
 ||wrating.com^
 ||wryfinger.com^
 ||ws2.bitcoin.de^
-||ws-eu.amazon-adsystem.com^
 ||ws-eu.assoc-amazon.com^
 ||ws-fe.assoc-amazon.com^
 ||w.sharethis.com^
@@ -13528,7 +13509,6 @@
 ||yogyn.com^
 ||yoochoose.net^
 ||yoose.com^
-||yoox.commander1.com^
 ||yoptima.com^
 ||yottlyscript.com^
 ||youborafds01.com^
@@ -13595,7 +13575,6 @@
 ||zesep.com^
 ||zestad.com^
 ||zetaglobal.com^
-||z-eu.amazon-adsystem.com^
 ||zeus.ad.xiaomi.com^
 ||zeusclicks.com^
 ||zeus.developershed.com^
@@ -13607,7 +13586,6 @@
 ||zicf.inven.co.kr^
 ||ziffdavis-d.openx.net^
 ||zimg.jp^
-||z-in.amazon-adsystem.com^
 ||zincx.com^
 ||zintext.com^
 ||zion-telemetry.api.cnn.io^
@@ -13618,7 +13596,6 @@
 ||zlp6s.pw^
 ||zm232.com^
 ||zmedia.com^
-||z-na.amazon-adsystem.com^
 ||znctrack.net^
 ||zoekhelden.nl^
 ||zol.com.cn^
