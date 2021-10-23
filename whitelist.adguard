@@ -53,9 +53,9 @@
 @@|s3.amazonaws.com^|
 
 ! Amazon Devices (Alexa, Kindle, ...)
-!d3p8zr0ffa9t17.cloudfront.net
-!device-metrics-us-2.amazon.com
-!device-metrics-us.amazon.com
+@@|d3p8zr0ffa9t17.cloudfront.net^|
+@@|device-metrics-us-2.amazon.com^|
+@@|device-metrics-us.amazon.com^|
 @@|dxz5jxhrrzigf.cloudfront.net^|
 @@|msh.amazon.co.uk^|
 @@|msh.amazon.com^|
