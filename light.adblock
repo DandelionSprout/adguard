@@ -38,7 +38,7 @@
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |    1013 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
-!    2 |   15702 | domains | http   | online  | changed   | https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
+!    2 |   15712 | domains | http   | online  | changed   | https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
 !    3 |     701 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt
 !    4 |    9922 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains
 !    5 |    1486 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains
@@ -49,19 +49,19 @@
 !   10 |     244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 !   11 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
 !   12 |     335 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
-!   13 |   16963 | hosts   | http   | online  | unchanged | https://someonewhocares.org/hosts/
+!   13 |   16962 | hosts   | http   | online  | unchanged | https://someonewhocares.org/hosts/
 !   14 |    1555 | hosts   | http   | OFFLINE | unchanged | USE LOCAL COPY: urlhaus.abuse.ch_downloads_hostfile_.txt
-!   15 |   40653 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+!   15 |   40609 | adblock | http   | online  | changed   | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 !   16 |   13720 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/adguardteam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 !   17 |   18564 | adblock | http   | online  | unchanged | https://easylist.to/easylist/easylist.txt
-!   18 |   16183 | adblock | http   | online  | unchanged | https://easylist.to/easylist/easyprivacy.txt
+!   18 |   16184 | adblock | http   | online  | changed   | https://easylist.to/easylist/easyprivacy.txt
 !   19 |    9314 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
 !   20 |    2016 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
 !   21 |    4924 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
 !   22 |   14666 | domains | local  | online  | unchanged | black.list
 !   23 |      29 | domains | local  | online  | unchanged | black.list.threat-intelligence
 !
-! 73010 unique Domains - Version 2021.1023.191633
+! 72968 unique Domains - Version 2021.1023.213710
 !
 ||000000000.fls.doubleclick.net^
 ||000000.fls.doubleclick.net^
@@ -3388,15 +3388,9 @@
 ||aa.wowma.jp^
 ||aaxads.com^
 ||aaxads.com.edgekey.net^
-||aax-cpm.amazon-adsystem.com^
 ||aaxdetect.com^
 ||aax-eu-dub.amazon.com^
-||aax-fe.amazon-adsystem.com^
-||aax-fe-sin.amazon-adsystem.com^
 ||aa.xiangxiangmf.com^
-||aax-us.amazon-adsystem.com^
-||aax-us-pdx.amazon-adsystem.com^
-||aax-us-west.amazon-adsystem.com^
 ||aayushivfraipur.com^
 ||ab4tn.com^
 ||ab.5.p2l.info^
@@ -6777,7 +6771,6 @@
 ||ads.beeb.com^
 ||ads.beliefnet.com^
 ||ads.betfair.com^
-||ads.bfast.com^
 ||ads.bianca.com^
 ||ads.bianca.net^
 ||ads.bibliacatolica.com.br^
@@ -6851,7 +6844,6 @@
 ||ads.cavello.com^
 ||ads.cbc.ca^
 ||ads.cc^
-||ads.cc-dt.com^
 ||ads-cdn.fptplay.net^
 ||ads.cdn.live^
 ||ads.cdnow.com^
@@ -8011,7 +8003,6 @@
 ||ads.rondomondo.com^
 ||ads.rootzoo.com^
 ||adsroute.com^
-||adsroute.go2jump.org^
 ||ads-router-noneu.truecaller.com^
 ||ads.rtvslo.si^
 ||ads.ruralpress.com^
@@ -11335,7 +11326,6 @@
 ||api.rubic.com.tr^
 ||api-s2s.taboola.com^
 ||api.sail-personalize.com^
-||api.sailthru.com^
 ||api.salmonads.com^
 ||api.saypromo.net^
 ||apis.com.br^
@@ -11674,7 +11664,6 @@
 ||appsdt.com^
 ||appsecurezomation.carte-gr.total.fr^
 ||app.segment.com^
-||app.sephora.com^
 ||appserver-ap.com^
 ||appserver-cp.com^
 ||appservestar.com^
@@ -13403,7 +13392,6 @@
 ||banners.adnetmedia.lt^
 ||banners.adtractive.com^
 ||banners.advancewebhosting.com^
-||banners.affiliatefuture.com^
 ||banners.alt.com^
 ||banners.arachne.cz^
 ||banners.bol.com.br^
@@ -13588,7 +13576,6 @@
 ||barlo.xyz^
 ||barnabaslinger.com^
 ||barnacle.viewsource.io^
-||barnesandnoble.bfast.com^
 ||barometric.com^
 ||baronmathematics.com^
 ||baronsoffers.com^
@@ -14199,6 +14186,7 @@
 ||best-dates-here.life^
 ||best-datinghotties2.com^
 ||bestdatinglocal1.com^
+||best-dating-new.com^
 ||bestdatings-4you2.com^
 ||best-dating-spot-here4.com^
 ||bestdealfor1.life^
@@ -14253,6 +14241,7 @@
 ||bestway-appliancerepair.com^
 ||bestwebpillplace.com^
 ||bestwing.org^
+||bestyourcams.com^
 ||bestzba.com^
 ||best-zb.com^
 ||besucherstatistiken.de^
@@ -14988,7 +14977,6 @@
 ||b.myspace.com^
 ||bmzuyj.nifty.com^
 ||bn.adultempire.com^
-||bn.bfast.com^
 ||bnbxwdkxccxfsn.com^
 ||bnc1m.com^
 ||bnc2m.com^
@@ -16268,7 +16256,6 @@
 ||camadmin.ru^
 ||camads.net^
 ||camagess.carte-gr.total.fr^
-||camaieufr.commander1.com^
 ||camakaroda.com^
 ||camatasisal.com^
 ||cam-at.com^
@@ -16834,7 +16821,6 @@
 ||cdn.88-f.net^
 ||cdn.8digits.com^
 ||cdn9.forter.com^
-||cdn-a.amazon-adsystem.com^
 ||cdn.accengage.com^
 ||cdna.clicktale.net^
 ||cdn.admeira.ch^
@@ -16969,7 +16955,6 @@
 ||cdn.mediavoice.com^
 ||cdn.megadata.co.kr^
 ||cdn.metalocator.com^
-||cdn.mmtro.com^
 ||cdn.mobify.com^
 ||cdn.moengage.com^
 ||cdn.mondiad.net^
@@ -20185,7 +20170,6 @@
 ||creationskateboards.com^
 ||creationsrewards.net^
 ||creative-analytics.crossinstall.io^
-||creative.cc-dt.com^
 ||creative-cdn.appgrowth.com^
 ||creativecdn.com^
 ||creativecrabs.com^
@@ -20193,7 +20177,6 @@
 ||creative.doubleclick.net^
 ||creativeformatsnetwork.com^
 ||creative-platform.vrvm.com^
-||creative.prf.hn^
 ||creative.rutarget.ru^
 ||creatives-cdn.appsflyer.com^
 ||creatives.cliphunter.com^
@@ -21803,6 +21786,7 @@
 ||datefunclub.com^
 ||daten.union-investment.de^
 ||dateregionsmadman.com^
+||datesexfindlocal1.com^
 ||dates-here3.com^
 ||dateshotdates.com^
 ||dateszone.net^
@@ -22957,6 +22941,7 @@
 ||disparitypuppetfestivity.com^
 ||dispatcher.3g.qq.com^
 ||dispatcher.upmc.uc.cn^
+||dispatchunique.com^
 ||dispawsusva.inmoment.com^
 ||dispbaktun.com^
 ||dispensablestranger.com^
@@ -23591,7 +23576,6 @@
 ||d.r10.mopub.com^
 ||dr3k6qonw2kee.cloudfront.net^
 ||dr8pk6ovub897.cloudfront.net^
-||dra.amazon-adsystem.com^
 ||drabsize.com^
 ||draco-artgallery.wz.cz^
 ||draconiancurve.com^
@@ -25358,7 +25342,6 @@
 ||engage-cdn.schibsted.media^
 ||engageclick.com^
 ||engage.com^
-||engage.commander1.com^
 ||engagedhits.com^
 ||engage.dnsfilter.com^
 ||engage.dovetailinsurance.com^
@@ -27498,10 +27481,8 @@
 ||flroyqqswu.xyz^
 ||fls.de.doubleclick.net^
 ||fls-eu.amazon.eg^
-||fls-fe.amazon-adsystem.com^
 ||fls-fe.amazon.com.au^
 ||fls-fe.amazon.sg^
-||fls-na.amazon-adsystem.com^
 ||fls.uk.doubleclick.net^
 ||flu23.com^
 ||fluctuo.com^
@@ -28883,6 +28864,7 @@
 ||gdpr.privacymanager.io^
 ||gdpr-wrapper.privacymanager.io^
 ||gdrtgroyhtqsx.xyz^
+||gdrvwsqlikh.com^
 ||gdsngr.chainreactioncycles.com^
 ||gdsns1.mmstat.com^
 ||gdsoq.com^
@@ -29215,6 +29197,7 @@
 ||getyourbest-profit.life^
 ||getyourgiftnow2.blogspot.com^
 ||getyourgiftnow3.blogspot.com^
+||getyour-ladyshere.com^
 ||get-your-sexy-now4.com^
 ||getyoutothenext.com^
 ||get.ypulse.com^
@@ -29920,7 +29903,6 @@
 ||go.citinet.jp^
 ||go.citysprint.co.uk^
 ||go.ciudadceleste.com^
-||go.cj.com^
 ||go.clarifyhealth.com^
 ||go.clearcapital.com^
 ||go.clever.com^
@@ -31692,7 +31674,6 @@
 ||gzzena.com^
 ||gzzkjdam.cn^
 ||h00c.sfr.fr^
-||h0.t.hubspotemail.net^
 ||h12-media.com^
 ||h1.cfxinxi.cn^
 ||h1.iot-dns.com^
@@ -32883,7 +32864,6 @@
 ||horizonattendant.com^
 ||horizon.globo.com^
 ||horizononline.actonservice.com^
-||horizon.sailthru.com^
 ||horizon-track.globo.com^
 ||hormebets.info^
 ||hormorel.com^
@@ -35611,7 +35591,6 @@
 ||ir2aok.com^
 ||iradosgames.webs.com^
 ||iraithiz.com^
-||ir-de.amazon-adsystem.com^
 ||ird.govt.nz^
 ||ir.doubleclick.net^
 ||irduwhojas.ga^
@@ -35629,14 +35608,12 @@
 ||ir-ing-district.clicktale.net^
 ||iriscoremetadataprod.blob.core.windows.net^
 ||irisk-id-l.alipay.com^
-||ir-jp.amazon-adsystem.com^
 ||irkantyip.com^
 ||irkerecue.com^
 ||irkfunkyformer.com^
 ||irksomeshamefarrier.com^
 ||irleti.com^
 ||irmcjtqdzrp.com^
-||ir-na.amazon-adsystem.com^
 ||iroby.com^
 ||iron0walk.com^
 ||irondel.swisshost.by^
@@ -38216,7 +38193,6 @@
 ||lead.soperson.com^
 ||leadsrx.com^
 ||leads.su^
-||leadsynaptic.go2jump.org^
 ||leadtracking.plumvoice.com^
 ||leadvision.dotmailer.co.uk^
 ||leadxml.com^
@@ -38900,7 +38876,6 @@
 ||link.team.bnext.io^
 ||link.tempo.fit^
 ||link.thehoth.com^
-||linkto-ext-hp-com.ct.impactradius.com^
 ||linkto.org^
 ||link.touchtunes.com^
 ||link.touchtunesmail.com^
@@ -39229,6 +39204,7 @@
 ||local.api.health.comm.miui.com^
 ||localbeige.club^
 ||localbestdating1.com^
+||local-cheaters-dating1.com^
 ||localchicks1.com^
 ||localchicks3.com^
 ||local-city-chicks1.com^
@@ -40062,6 +40038,7 @@
 ||luvcash.com^
 ||luven.xyz^
 ||luvnrybocrcgl.com^
+||luwqklsrtzbpcd.com^
 ||lux39.club^
 ||luxadv.com^
 ||luxbetaffiliates.com.au^
@@ -44612,7 +44589,6 @@
 ||mysty.com.cn^
 ||mysumo.de^
 ||mysura.it^
-||mytheresa.commander1.com^
 ||mythings.com^
 ||mythingsmedia.com^
 ||mythysema.com^
@@ -46991,6 +46967,7 @@
 ||onclklnd.com^
 ||onctus.com^
 ||oncustomer.asia^
+||on-datings1.com^
 ||ondeerlingan.com^
 ||onderlea.info^
 ||ondermaat.nl^
@@ -47758,7 +47735,6 @@
 ||overzoruaon.com^
 ||ovgads.ovguide.com^
 ||ovgylabitru.biz^
-||ovh.commander1.com^
 ||ovibospeseta.com^
 ||oviparaatalan.com^
 ||ovlliiwtxgjlz.com^
@@ -48116,7 +48092,6 @@
 ||pand.cjb.com^
 ||pand.cjb.net^
 ||pandg.tapad.com^
-||pandoramedia-mkt-prod1-t.campaign.adobe.com^
 ||panea.it^
 ||panection.co^
 ||panel.24sender.co^
@@ -50504,7 +50479,6 @@
 ||pritesol.com^
 ||privacy-api.9gag.com^
 ||privacy.api.intl.miui.com^
-||privacy.commander1.com^
 ||privacycounter.com^
 ||privacyfriendly.netlify.app^
 ||privacyheelvest.com^
@@ -51057,7 +51031,6 @@
 ||psupaids.com^
 ||psuphuns.net^
 ||psurdoak.com^
-||ps-us.amazon-adsystem.com^
 ||psuzoxuma.com^
 ||psvgnczo.com^
 ||psxrkinfijefr.me^
@@ -52426,12 +52399,9 @@
 ||r.clicktale.net^
 ||rcm.amazon.com^
 ||rcmesilva.charbelsales.com.br^
-||rcm-eu.amazon-adsystem.com^
-||rcm-fe.amazon-adsystem.com^
 ||rcm-images.amazon.com^
 ||rcm-it.amazon.it^
 ||rcm-jp.amazon.co.jp^
-||rcm-na.amazon-adsystem.com^
 ||rcm.shinobi.jp^
 ||rcn.asapp.com^
 ||rcom-use.dynamicyield.com^
@@ -55224,7 +55194,6 @@
 ||scriptil.com^
 ||script.pm.ioam.de^
 ||scripts21.com^
-||scripts.affiliatefuture.com^
 ||scripts.bestprice.gr^
 ||scripts.demandbase.com^
 ||scriptsgratuits.com^
@@ -55742,7 +55711,6 @@
 ||segment.psg.nexstardigital.net^
 ||segment.quantserve.com^
 ||segmetrics.io^
-||seg.mmtro.com^
 ||segob.gob.mx^
 ||seg.sharethis.com^
 ||segs.jp^
@@ -55995,7 +55963,6 @@
 ||service-api.accesstrade.vn^
 ||service-api.kingsoft-office-service.com^
 ||service.avilen.co.jp^
-||service.bfast.com^
 ||service.bidlab.ai^
 ||service.cmp.oath.com^
 ||servicecut.meizu.com^
@@ -58543,7 +58510,6 @@
 ||snrtp-cdn.marketo.com^
 ||sn.simplenexus.com^
 ||s.nslookup.io^
-||snssdk1233.onelink.me^
 ||s.ntv.io^
 ||snuoen.com^
 ||snva.jp^
@@ -61876,7 +61842,6 @@
 ||synad.nuffnang.com.sg^
 ||sync.3g.qq.com^
 ||syncaccess.net^
-||sync.commander1.com^
 ||sync.cosmoshq.com^
 ||sync.crwdcntrl.net^
 ||syncdownload.com^
@@ -62118,7 +62083,6 @@
 ||tag.rutarget.ru^
 ||tags.acmeaom.com^
 ||tagsadvancenative-glb8iionio2cozc.netdna-ssl.com^
-||tags.affiliatefuture.com^
 ||tags.aljazeera.com^
 ||tags.aljazeera.net^
 ||tags.bluekai.com^
@@ -67382,7 +67346,6 @@
 ||vaebard.com^
 ||vaedan.top^
 ||va-endpoint.com^
-||vaes.amazon-adsystem.com^
 ||vafbmmsda.com^
 ||vafw.adsafeprotected.com^
 ||vagabondstudio.com^
@@ -68935,7 +68898,6 @@
 ||wdfl.co^
 ||wdig.vo.llnwd.net^
 ||wdm29.com^
-||wdpro-mkt-prod2-lb.campaign.adobe.com^
 ||wd.sharethis.com^
 ||wdsvc.net^
 ||wdswgjn.cn^
@@ -69909,8 +69871,6 @@
 ||wmrok.com^
 ||wmrok.net^
 ||wmruzfvtg.com^
-||wms-eu.amazon-adsystem.com^
-||wms-na.amazon-adsystem.com^
 ||wmsource.virtualave.net^
 ||wmspw.com^
 ||wm.szdushi.com.cn^
@@ -70188,7 +70148,6 @@
 ||wscn.site^
 ||wseqjbxn.com^
 ||wserver.vidazoo.com^
-||ws-eu.amazon-adsystem.com^
 ||ws-eu.assoc-amazon.com^
 ||ws-fe.assoc-amazon.com^
 ||ws-gateway.com^
@@ -71688,6 +71647,7 @@
 ||ydbeuq.superpharm.pl^
 ||ydbmligdloqmqi.com^
 ||ydfz.org^
+||ydgege.xyz^
 ||ydggvnh.cn^
 ||ydigitalmedia.com^
 ||yditweb.cn^
@@ -71999,7 +71959,6 @@
 ||yoomedia.de^
 ||yoose.com^
 ||yootui19999.com^
-||yoox.commander1.com^
 ||yoptaejrj2kkf8nj09.com^
 ||yoptima.com^
 ||yoqpnkhl.com^
@@ -72063,6 +72022,7 @@
 ||your-big-bonus.com^
 ||yourbigexplosivewin.life^
 ||yourblocksite.com^
+||your-cams-here2.com^
 ||your-casual-dating.com^
 ||yourclk.com^
 ||your.com^
@@ -72086,6 +72046,7 @@
 ||yourhealmyheal.com^
 ||yourhealth.nwh.org^
 ||yourhealth.promedica.org^
+||yourhotpleasure.com^
 ||yourinstaller.com^
 ||youripad4free.com^
 ||yourkadspunew.com^
@@ -72564,7 +72525,6 @@
 ||zeti.com^
 ||zetlegion.kozow.com^
 ||zettapetta.com^
-||z-eu.amazon-adsystem.com^
 ||zeus.ad.xiaomi.com^
 ||zeusclicks.com^
 ||zeus.developershed.com^
@@ -72709,7 +72669,6 @@
 ||zimg.jp^
 ||zimingdh.com^
 ||zim-zim-zam.com^
-||z-in.amazon-adsystem.com^
 ||zincdatawipe.com^
 ||zincx.com^
 ||zingtormanc.top^
@@ -72796,7 +72755,6 @@
 ||zmuphhlienv.com^
 ||zmxncb5.com^
 ||zmyuer.com^
-||z-na.amazon-adsystem.com^
 ||znaptag.com^
 ||znbdr.com^
 ||zncat.cn^
