@@ -36,15 +36,15 @@
 ! ---------------------------------------------------
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
-!    1 |   14000 | domains | local  | online  | changed   | black.list
-!    2 |      27 | domains | local  | online  | unchanged | black.list.threat-intelligence
+!    1 |   13999 | domains | local  | online  | changed   | black.list
+!    2 |      29 | domains | local  | online  | unchanged | black.list.threat-intelligence
 !    3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
-!    4 |    3672 | hosts   | http   | online  | changed   | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-!    5 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
+!    4 |    3672 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+!    5 |    1734 | hosts   | http   | online  | changed   | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
 !    6 |    2016 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
 !    7 |    4924 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
 !
-! 12425 unique Domains - Version 2021.1022.133113
+! 12422 unique Domains - Version 2021.1023.065652
 !
 ||0emm.com^
 ||0i0i0i0.com^
@@ -3433,6 +3433,7 @@
 ||cootlogix.com^
 ||copperchickens.com^
 ||copperegg.com^
+||coppersurfer.tk^
 ||copycarpenter.com^
 ||copyrightaccesscontrols.com^
 ||coralogix.com^
@@ -3807,7 +3808,6 @@
 ||d3mzokty951c5w.cloudfront.net^
 ||d3n6i6eorggdxk.cloudfront.net^
 ||d3ou4areduq72f.cloudfront.net^
-||d3p8zr0ffa9t17.cloudfront.net^
 ||d3q7vxy7usqoub.cloudfront.net^
 ||d3qxef4rp70elm.cloudfront.net^
 ||d3.sina.com.cn^
@@ -4058,8 +4058,6 @@
 ||device.clearsale.com.br^
 ||device.maxmind.com^
 ||devicemessaging.us-east-1.amazon.com^
-||device-metrics-us-2.amazon.com^
-||device-metrics-us.amazon.com^
 ||devisit-contsents.icu^
 ||dexpredict.com^
 ||dfbdfbnetprod.112.2o7.net^
@@ -8267,7 +8265,6 @@
 ||p.morps.xyz^
 ||pm.redbull.com^
 ||p.nag.ru^
-||pnapi.invoca.net^
 ||p-n.io^
 ||pnstat.com^
 ||pocitadlo.cz^
