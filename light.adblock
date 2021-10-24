@@ -38,7 +38,7 @@
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |    1013 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
-!    2 |   15717 | domains | http   | online  | changed   | https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
+!    2 |   15718 | domains | http   | online  | changed   | https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
 !    3 |     701 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt
 !    4 |    9922 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains
 !    5 |    1486 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains
@@ -51,17 +51,17 @@
 !   12 |     335 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
 !   13 |   16962 | hosts   | http   | online  | unchanged | https://someonewhocares.org/hosts/
 !   14 |    4432 | hosts   | http   | online  | unchanged | https://threatfox.abuse.ch/downloads/hostfile
-!   15 |   40610 | adblock | http   | online  | changed   | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+!   15 |   40611 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 !   16 |   13720 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/adguardteam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 !   17 |   18564 | adblock | http   | online  | unchanged | https://easylist.to/easylist/easylist.txt
-!   18 |   16184 | adblock | http   | online  | changed   | https://easylist.to/easylist/easyprivacy.txt
+!   18 |   16184 | adblock | http   | online  | unchanged | https://easylist.to/easylist/easyprivacy.txt
 !   19 |    9314 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
 !   20 |    2016 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
 !   21 |    4924 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
-!   22 |   14646 | domains | local  | online  | unchanged | black.list
+!   22 |   14639 | domains | local  | online  | unchanged | black.list
 !   23 |      29 | domains | local  | online  | unchanged | black.list.threat-intelligence
 !
-! 74431 unique Domains - Version 2021.1024.061027
+! 74477 unique Domains - Version 2021.1024.090858
 !
 ||000000000.fls.doubleclick.net^
 ||000000.fls.doubleclick.net^
@@ -11258,7 +11258,6 @@
 ||api.boxever.com^
 ||api.bugfender.com^
 ||api.bugsee.com^
-||api.bugsnag.com^
 ||api.carrottrack.io^
 ||api.chartbeat.com^
 ||apicit.net^
@@ -11575,7 +11574,6 @@
 ||appboycdn.com^
 ||app.bugfender.com^
 ||app.bugreplay.com^
-||app.bugsnag.com^
 ||app.business.westernunion.com^
 ||app.cdn.lookbookhq.com^
 ||appcenter-13.tclclouds.com^
@@ -11682,7 +11680,6 @@
 ||apply.usc.edu^
 ||app.mailjet.com^
 ||app.marketo.com^
-||app-measurement.com^
 ||app.meltwater.com^
 ||appmetr.com^
 ||appmetrica.yandex.net^
@@ -12887,6 +12884,7 @@
 ||ax21pics.org^
 ||ax47mp-xp-21.com^
 ||a.xanga.com^
+||axcdt.cn^
 ||axcdy.cn^
 ||axecash.com^
 ||axegicfertillizers.com^
@@ -18760,7 +18758,6 @@
 ||cmshospital.in^
 ||cms.lv^
 ||cmsmodnews.com^
-||c.msn.com^
 ||cms.quantserve.com^
 ||cms.sec.miui.com^
 ||cms-skin.com^
@@ -20423,8 +20420,6 @@
 ||crashfootwork.com^
 ||crashlogs.whatsapp.net^
 ||crashlytics.163.com^
-||crashlytics2.l.google.com^
-||crashlyticsreports-pa.googleapis.com^
 ||crash-reporting.yy.com^
 ||crateac.com^
 ||cratebarrel.demdex.net^
@@ -20711,6 +20706,7 @@
 ||cs.videowalldirect.com^
 ||csxsyp.cn^
 ||csxvsd.cn^
+||csync.smartadserver.com^
 ||cszz.ru^
 ||ct1985.com^
 ||ct1.addthis.com^
@@ -22971,10 +22967,15 @@
 ||dietfd.com^
 ||dietfooddelivery.org^
 ||diet-pills.hut1.ru^
+||diff1.smartadserver.com^
+||diff2.smartadserver.com^
+||diff3.smartadserver.com^
+||diff4.smartadserver.com^
 ||differencedecoration.com^
 ||difficerche.biz^
 ||difficultydilapidationsodium.com^
 ||diff.scloud.letv.com^
+||diff.smartadserver.com^
 ||diffusion-tracker.com^
 ||dificated-penched.icu^
 ||difusoft.com^
@@ -25937,6 +25938,9 @@
 ||equity.e2g.com^
 ||equivalentliked.com^
 ||eqworks.com^
+||eqx-secure.smartadserver.com^
+||eqx.smartadserver.com^
+||eqx-tmk-geoloc.smartadserver.com^
 ||er.5ykj.cn^
 ||er.5ykj.com^
 ||eraa21.adomininter.cloud^
@@ -27019,7 +27023,6 @@
 ||familyborn.com^
 ||family-joy.com^
 ||familyshouse.org^
-||famobi-01.firebaseio.com^
 ||famousquarter.com^
 ||fampin.com^
 ||famvir.1.p2l.info^
@@ -27689,7 +27692,6 @@
 ||firebanner.com^
 ||firebaselogging.googleapis.com^
 ||firebaselogging-pa.googleapis.com^
-||firebase-settings.crashlytics.com^
 ||firechicken.com^
 ||fireclick.com^
 ||firefeeder.com^
@@ -29462,6 +29464,7 @@
 ||geobid.vip^
 ||geo.bluedot.io^
 ||geobytes.com^
+||geoced.smartadserver.com^
 ||geocompteur.com^
 ||geocontatore.com^
 ||geocounter.net^
@@ -36452,6 +36455,10 @@
 ||itweedler.com^
 ||itweepinbelltor.com^
 ||itw.me^
+||itx4-secure.smartadserver.com^
+||itx4.smartadserver.com^
+||itx5-secure.smartadserver.com^
+||itx5.smartadserver.com^
 ||itxinrou.com^
 ||itzekromom.com^
 ||it.zettle.com^
@@ -40311,7 +40318,6 @@
 ||log.thevideo.me^
 ||log.tienphong.vn^
 ||log.tieudungthoinay.vn^
-||log.tiktokv.com^
 ||log.tiktokv.com.edgesuite.net^
 ||log.tinnhac.com^
 ||log.tinnhanhchungkhoan.vn^
@@ -43386,7 +43392,6 @@
 ||metrics.mysanantonio.com^
 ||metrics.mytributes.com.au^
 ||metrics.myturnstone.com^
-||metrics.mzstatic.com^
 ||metrics.n11.com^
 ||metrics.nabbroker.com.au^
 ||metrics.nab.com.au^
@@ -44006,6 +44011,7 @@
 ||mipsa.ciae.ac.cn^
 ||mipwm.com^
 ||miqsoft.hu^
+||miracslubs.com^
 ||miradvert.ru^
 ||mirafaren.pw^
 ||mirago.com^
@@ -44390,6 +44396,7 @@
 ||mobilerevenu.com^
 ||mobile-sdk-resources.jumio.com^
 ||mobilesexlocator2.com^
+||mobile.smartadserver.com^
 ||mobile-static.adsafeprotected.com^
 ||mobile-stats.socialquantum.com^
 ||mobilestorm.com^
@@ -44604,7 +44611,6 @@
 ||mon.musical.ly.edgesuite.net^
 ||monoconstructioncc.co.za^
 ||monoloop.com^
-||mononoteapp.firebaseio.com^
 ||monopolypenitentiarynegligence.com^
 ||monotep.xyz^
 ||monotonousincessant.com^
@@ -45608,6 +45614,7 @@
 ||na-sj14.marketo.com^
 ||na-sj23.marketo.com^
 ||na-sj24.marketo.com^
+||na.smartadserver.com^
 ||nasonex.1.p2l.info^
 ||nasrispit.com^
 ||nastydollars.com^
@@ -46764,7 +46771,6 @@
 ||notify6.com^
 ||notify-bugs-fra1.rtl.de^
 ||notify.bugsnag.appstore.a2z.com^
-||notify.bugsnag.com^
 ||notifyday.com^
 ||notify.eset.com^
 ||notify.firetv.bugsnag.appstore.a2z.com^
@@ -51401,6 +51407,11 @@
 ||prfriends.ru^
 ||prfuxl.xyz^
 ||prf.vagnt.com^
+||prg3429.smartadserver.com^
+||prg3431.smartadserver.com^
+||prg8.smartadserver.com^
+||prga.smartadserver.com^
+||prg.smartadserver.com^
 ||prheoxpdoqmjou.com^
 ||pri12mel.com^
 ||pricebundle.iclickdigishop.com^
@@ -52656,6 +52667,7 @@
 ||qcoldtui1999.com^
 ||q-counter.com^
 ||qcroag.com^
+||qc.smartadserver.com^
 ||qc-static.coccoc.com^
 ||qctop.com^
 ||qctt24h.24h.com.vn^
@@ -55067,6 +55079,11 @@
 ||rtbclick.net^
 ||r-tb.com^
 ||rtb.com.ru^
+||rtb-csync-eqx.smartadserver.com^
+||rtb-csync-itx4.smartadserver.com^
+||rtb-csync-itx5.smartadserver.com^
+||rtb-csync.smartadserver.com^
+||rtb-csync-tmk.smartadserver.com^
 ||rtbdemand-d.openx.net^
 ||rtb-europe-west1.openx.net^
 ||rtb-filter.meazy.co^
@@ -56668,7 +56685,6 @@
 ||secure.mean8sigh.com^
 ||secure.mediav.com^
 ||secure.medtronicinteract.com^
-||securemetrics.apple.com^
 ||securemetrics.apple.com.cn^
 ||securemetrics.blackrock.com^
 ||securemetrics.experience.apple^
@@ -57113,7 +57129,6 @@
 ||sessiond.consumentenbond.nl^
 ||session-expired-email-id-k1989498.fortscratchley.org.au^
 ||sessionm.com^
-||sessions.bugsnag.com^
 ||sessions.exchange^
 ||session.timecommerce.net^
 ||setattolif.ga^
@@ -57286,6 +57301,7 @@
 ||sgp-mobile-sec-heytapmobi-pubgw-1205822126.ap-southeast-1.elb.amazonaws.com^
 ||sgp-opush-heytapmobile-nlb2-bc73173f05f5fee9.elb.ap-southeast-1.amazonaws.com^
 ||sgp-opush-heytapmobile-pubgw-2070388785.ap-southeast-1.elb.amazonaws.com^
+||sgp.smartadserver.com^
 ||sgr1.com^
 ||sgs001.adtech.fr^
 ||sgsnssdk.com.edgekey.net^
@@ -58266,7 +58282,6 @@
 ||smartad.mercadolibre.cl^
 ||smartad.mercadolibre.com.ar^
 ||smartad.mercadolivre.com.br^
-||smartadserver.com^
 ||smartadserver.com.br^
 ||smartadserver.es^
 ||smartadserver.fr^
@@ -60695,6 +60710,13 @@
 ||s.save.ca^
 ||ssb.ah499.com^
 ||ssbanners.drgnetwork.com^
+||ssb-sgp.smartadserver.com^
+||ssbsync-geo.smartadserver.com^
+||ssbsync-global.smartadserver.com^
+||ssbsync-sgp.smartadserver.com^
+||ssbsync.smartadserver.com^
+||ssbsync-us.smartadserver.com^
+||ssb-us.smartadserver.com^
 ||ssc.api.bbc.com^
 ||ssc.bet.plus^
 ||ssc.cc.com^
@@ -60802,6 +60824,7 @@
 ||ssp.advertising.com^
 ||ssp-api.mobadvent.com^
 ||ssp.astraone.io^
+||ssp-csync.smartadserver.com^
 ||ssp.hinet.net^
 ||ssphwy.com^
 ||sspinc.io^
@@ -62158,7 +62181,6 @@
 ||stoat.death-to-ie11.com^
 ||stockbanners.com^
 ||stockbook-ads.firebaseapp.com^
-||stockbook-ads.firebaseio.com^
 ||stocker.bonnint.net^
 ||stockingsneeze.com^
 ||stocksbsc.com^
@@ -63053,6 +63075,7 @@
 ||sync-share.com^
 ||sync.sharethis.com^
 ||sync.shinobi.jp^
+||sync.smartadserver.com^
 ||sync-t1.taboola.com^
 ||sync.taboola.com^
 ||sync-tm.everesttech.net^
@@ -63264,6 +63287,7 @@
 ||tagmanager.alright.network^
 ||tagmanager.cn^
 ||tag-manager.playbuzz.com^
+||tagmanager.smartadserver.com^
 ||tagmanager.toast.com^
 ||tagman.britishairways.com^
 ||tagmans3.adsolutions.com^
@@ -64855,6 +64879,10 @@
 ||tmiscattlem.fun^
 ||tmjhdyghjm.com^
 ||tm.jsuol.com.br^
+||tmk-eqx-geoloc.smartadserver.com^
+||tmk-eqx-sgp-geoloc.smartadserver.com^
+||tmk-secure.smartadserver.com^
+||tmk.smartadserver.com^
 ||t.mktg.genesys.com^
 ||tmmp.io^
 ||tm.msgs.jp^
@@ -68167,7 +68195,6 @@
 ||update.aliyunsecurity.online^
 ||updateapps.net^
 ||updateauto.preparevideosafesystem4unow.space^
-||update.crashlytics.com^
 ||updatedheavesaid.com^
 ||updateffboruse.com^
 ||update.indexww.com^
@@ -68499,6 +68526,7 @@
 ||usurv.com^
 ||us-vid-events.taboola.com^
 ||us.vortex-win.data.microsoft.com^
+||usw1.smartadserver.com^
 ||usweb.dotomi.com^
 ||us-west-2.kinesis.hpanalytics.net^
 ||us-west-2.prod.pr.analytics.console.aws.a2z.com^
@@ -69142,6 +69170,7 @@
 ||video-ads-module.ad-tech.nbcuni.com^
 ||video-akp-cdn-spotify-com.akamaized.net^
 ||videoamp.com^
+||videoapi.smartadserver.com^
 ||videobaba.xyz^
 ||video-bazis.com^
 ||videobox.com^
@@ -71695,7 +71724,15 @@
 ||wvw.omnicable.com^
 ||wvw.swisseducation.com^
 ||wvw.unitedsiteservices.com^
+||ww13.smartadserver.com^
+||ww1510.smartadserver.com^
+||ww1772.smartadserver.com^
 ||ww1.flashx.net^
+||ww2060-sgp.smartadserver.com^
+||ww2060.smartadserver.com^
+||ww251.smartadserver.com^
+||ww2545.smartadserver.com^
+||ww2951.smartadserver.com^
 ||ww2.concordiadekeizer.nl^
 ||ww2.cyxtera.com^
 ||ww2.ecosio.com^
@@ -71719,6 +71756,8 @@
 ||ww2.verdict.co.uk^
 ||ww2.virtusa.com^
 ||ww2.zolawindows.com^
+||ww3050.smartadserver.com^
+||ww3232.smartadserver.com^
 ||ww3.business.vonage.com^
 ||ww3.cardinalhealth.com^
 ||ww3.nexmo.com^
@@ -71732,6 +71771,7 @@
 ||ww5.vonage.com.au^
 ||ww5.vonage.com.es^
 ||ww5.vonage.com.tw^
+||ww690.smartadserver.com^
 ||ww88club.com^
 ||ww8.kohls.com^
 ||ww9.kohls.com^
@@ -71766,6 +71806,7 @@
 ||www123.glam.com^
 ||www12.glam.com^
 ||www13.glam.com^
+||www14.smartadserver.com^
 ||www15.jtv.com^
 ||www-172.aig.com^
 ||www17.glam.com^
@@ -72127,6 +72168,7 @@
 ||www3.parqueexplora.org^
 ||www3.raspberrypi.org^
 ||www3s.ing.be^
+||www3.smartadserver.com^
 ||www3.telus.net^
 ||www3.webpt.com^
 ||www3.workvision.net^
@@ -72139,6 +72181,7 @@
 ||www4.neles.com^
 ||www4.orangecyberdefense.com^
 ||www4.plenainclusion.org^
+||www4.smartadserver.com^
 ||www5.gemalto.com^
 ||www5.scansource.com^
 ||www5.skyline.com^
@@ -72149,9 +72192,11 @@
 ||www69.byinter.net^
 ||www69.findhere.org^
 ||www6.ns1.name^
+||www6.smartadserver.com^
 ||www6.thalesgroup.com^
 ||www8.glam.com^
 ||www8.massmedian.net^
+||www8.smartadserver.com^
 ||www91.intel.co.jp^
 ||www91.intel.co.kr^
 ||www91.intel.com^
@@ -72173,6 +72218,7 @@
 ||www9.avg.com^
 ||www9.compblue.com^
 ||www9.servequake.com^
+||www9.smartadserver.com^
 ||wwwadcntr.com^
 ||www-banner.chat.ru^
 ||wwwban.trokers.net^
