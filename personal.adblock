@@ -36,15 +36,15 @@
 ! ---------------------------------------------------
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
-!    1 |   14639 | domains | local  | online  | changed   | black.list
-!    2 |      29 | domains | local  | online  | unchanged | black.list.threat-intelligence
+!    1 |   14639 | domains | local  | online  | unchanged | black.list
+!    2 |      49 | domains | local  | online  | unchanged | black.list.threat-intelligence
 !    3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
 !    4 |    3672 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 !    5 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
 !    6 |    2016 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
 !    7 |    4924 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
 !
-! 13586 unique Domains - Version 2021.1024.090720
+! 13606 unique Domains - Version 2021.1024.222231
 !
 ||000000000.fls.doubleclick.net^
 ||000000.fls.doubleclick.net^
@@ -3778,6 +3778,7 @@
 ||caltagironeeditore01.wt-eu02.net^
 ||cam4.fr^
 ||cam.demdex.net^
+||ca.minexmr.com^
 ||campaign.bharatmatrimony.com^
 ||campaigncog.com^
 ||campusmediaaward.de^
@@ -5029,6 +5030,7 @@
 ||delta.demdex.net^
 ||deltax.com^
 ||demand.supply^
+||de.minexmr.com^
 ||democraticunderground.com^
 ||denakop.com^
 ||denetsuk.com^
@@ -5978,6 +5980,7 @@
 ||freychang.fun^
 ||frightenedpotato.com^
 ||fringe81.com^
+||fr.minexmr.com^
 ||frogsex.com^
 ||frosmo.com^
 ||frtyj.com^
@@ -8150,6 +8153,7 @@
 ||milotree.com^
 ||mindlytix.com^
 ||mindmemobile.com^
+||mine.c3pool.com^
 ||minewhat.com^
 ||mini.cpc.sogou.com^
 ||mini.eastday.com^
@@ -9366,6 +9370,9 @@
 ||pool3.ioam.de^
 ||pool4.ioam.de^
 ||pool5.ioam.de^
+||pool.hashvault.pro^
+||pool.minexmr.com^
+||pool.supportxmr.com^
 ||poool.fr^
 ||pop5sjhspear.com^
 ||popadscdn.net^
@@ -10585,6 +10592,7 @@
 ||sf14g.com^
 ||sg-config-preproduction.sensic.net^
 ||sg-config.sensic.net^
+||sg.minexmr.com^
 ||sg.mmstat.com^
 ||s.go-mpulse.net^
 ||sgphctileh-a.akamaihd.net^
@@ -12772,6 +12780,7 @@
 ||us-u.openx.net^
 ||us.vortex-win.data.microsoft.com^
 ||us-west-2.kinesis.hpanalytics.net^
+||us-west.minexmr.com^
 ||utarget.ru^
 ||utenod.com^
 ||ut.iadsdk.apple.com^
@@ -13427,6 +13436,17 @@
 ||xml.affiliate.rakuten.co.jp^
 ||xml.ioam.de^
 ||xmllover.com^
+||xmr.2miners.com^
+||xmr-asia1.nanopool.org^
+||xmr-au1.nanopool.org^
+||xmr-eu1.nanopool.org^
+||xmr-eu2.nanopool.org^
+||xmr.f2pool.com^
+||xmr.hashcity.org^
+||xmr-jp1.nanopool.org^
+||xmrpool.eu^
+||xmr-us-east1.nanopool.org^
+||xmr-us-west1.nanopool.org^
 ||xn--bstabettingsidorna-ltb.se^
 ||xovq5nemr.com^
 ||xoxo5-eng.spankbang.com^
