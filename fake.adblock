@@ -33,11 +33,11 @@
 !    4 |    1483 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 !    5 |      45 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
 !    6 |    5650 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-!    7 |    6877 | domains | local  | online  | changed   | black.list.fake
-!    8 |    1421 | domains | local  | online  | changed   | fake.ts.black.list
+!    7 |    6877 | domains | local  | online  | unchanged | black.list.fake
+!    8 |    1421 | domains | local  | online  | unchanged | fake.ts.black.list
 !    9 |     491 | domains | local  | online  | unchanged | fake.vzni.black.list
 !
-! 23640 unique Domains - Version 2021.1023.122938
+! 23638 unique Domains - Version 2021.1024.060934
 !
 ||000relationships.com^
 ||007cryptooption.com^
@@ -6287,7 +6287,6 @@
 ||dynavexmedical.com^
 ||dynogreatdaneworld.com^
 ||dyson-store.eu^
-||dzgiftcards.com^
 ||e5cigars.com^
 ||e5shared.com^
 ||eacmholdings.com^
@@ -11901,7 +11900,6 @@
 ||kirrenpugs.com^
 ||kissen.goodusale.com^
 ||kissisteacupshop.co.za^
-||ki-storen.com^
 ||kitchenaid-mixer.com^
 ||kitchendecor.shop^
 ||kitchenmasters.net^
