@@ -37,8 +37,8 @@ Initialize ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
    1 |    1013 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
-   2 |   15718 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
-   3 |     708 | domains | http   | online  | changed   | https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt
+   2 |   15725 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
+   3 |     708 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt
    4 |    9922 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains
    5 |    1486 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains
    6 |    3670 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/ut1/master/ads/domains
@@ -49,8 +49,8 @@ Initialize ...
   11 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
   12 |     335 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
   13 |   16962 | hosts   | http   | online  | unchanged | https://someonewhocares.org/hosts/
-  14 |    4432 | hosts   | http   | online  | unchanged | https://threatfox.abuse.ch/downloads/hostfile
-  15 |   40611 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+  14 |    4431 | hosts   | http   | online  | unchanged | https://threatfox.abuse.ch/downloads/hostfile
+  15 |   40616 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
   16 |   13720 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/adguardteam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
   17 |   18564 | adblock | http   | online  | unchanged | https://easylist.to/easylist/easylist.txt
   18 |   16184 | adblock | http   | online  | unchanged | https://easylist.to/easylist/easyprivacy.txt
@@ -64,20 +64,20 @@ Initialize ...
 
 Stats light:
 
-** Source (raw):    189792
-== Source (unique): 110223 (-79569)
--- Exclude:         110161 (-62)
--- White:           107910 (-2251)
--- White(*):        106981 (-929)
--- Dead:            89361 (-17620)
-++ Block:           89523 (+162)
--- Unblock:         89521 (-2)
--- Unblock(*):      89521 (-0)
-++ FLD:             90288 (+767)
-++ WWW:             130184 (+39896)
+** Source (raw):    189803
+== Source (unique): 110234 (-79569)
+-- Exclude:         110172 (-62)
+-- White:           107921 (-2251)
+-- White(*):        106992 (-929)
+-- Dead:            89373 (-17619)
+++ Block:           89535 (+162)
+-- Unblock:         89533 (-2)
+-- Unblock(*):      89533 (-0)
+++ FLD:             90300 (+767)
+++ WWW:             130207 (+39907)
 
-130184 unique Domains - Version 2021.1024.093146
-MD5 Domains RAW: 689319004f709538ebde750a54b2c29a
+130207 unique Domains - Version 2021.1024.180823
+MD5 Domains RAW: 33c580723e84a7006af43fdbb2120881
 
 # Convert light to Hostlist ... 
 
@@ -103,10 +103,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling light.adblock.raw
-ℹ Original length is 87907
-ℹ Length after applying transformations is 87906
-ℹ The list was compressed from 87909 to 74480
-ℹ Final length of the list is 74486
+ℹ Original length is 87919
+ℹ Length after applying transformations is 87918
+ℹ The list was compressed from 87921 to 74492
+ℹ Final length of the list is 74498
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/light/out/light.adblock
 ℹ Finished compiling
 
