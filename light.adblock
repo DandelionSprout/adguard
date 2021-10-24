@@ -38,8 +38,8 @@
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |    1013 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
-!    2 |   15718 | domains | http   | online  | changed   | https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
-!    3 |     701 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt
+!    2 |   15718 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
+!    3 |     708 | domains | http   | online  | changed   | https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt
 !    4 |    9922 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains
 !    5 |    1486 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains
 !    6 |    3670 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/ut1/master/ads/domains
@@ -61,7 +61,7 @@
 !   22 |   14639 | domains | local  | online  | unchanged | black.list
 !   23 |      29 | domains | local  | online  | unchanged | black.list.threat-intelligence
 !
-! 74477 unique Domains - Version 2021.1024.090858
+! 74476 unique Domains - Version 2021.1024.093146
 !
 ||000000000.fls.doubleclick.net^
 ||000000.fls.doubleclick.net^
@@ -3486,7 +3486,6 @@
 ||abergently.club^
 ||a.bestcontentfacility.top^
 ||a.bestcontentitem.top^
-||a.bestcontentnetwork.top^
 ||a.bestcontentprogram.top^
 ||a.bestcontenttechnology.top^
 ||a.bestcontenttool.top^
@@ -14334,6 +14333,7 @@
 ||bestcontentfund.top^
 ||bestcontenthost.com^
 ||bestcontentjob.top^
+||bestcontentnetwork.top^
 ||bestcontentoperation.top^
 ||bestcontentplan.top^
 ||bestcontentproject.top^
@@ -34197,7 +34197,6 @@
 ||ibeat-analytics.com^
 ||ibeat.indiatimes.com^
 ||iberacon.com^
-||i.bestcontentnetwork.top^
 ||ibet889.com^
 ||ibexcacaoboy.com^
 ||ib-ibi.com^

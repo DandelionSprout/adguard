@@ -37,8 +37,8 @@ Initialize ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
    1 |    1013 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
-   2 |   15718 | domains | http   | online  | changed   | https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
-   3 |     701 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt
+   2 |   15718 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
+   3 |     708 | domains | http   | online  | changed   | https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt
    4 |    9922 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains
    5 |    1486 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains
    6 |    3670 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/ut1/master/ads/domains
@@ -64,20 +64,20 @@ Initialize ...
 
 Stats light:
 
-** Source (raw):    189785
-== Source (unique): 110222 (-79563)
--- Exclude:         110160 (-62)
--- White:           107910 (-2250)
+** Source (raw):    189792
+== Source (unique): 110223 (-79569)
+-- Exclude:         110161 (-62)
+-- White:           107910 (-2251)
 -- White(*):        106981 (-929)
 -- Dead:            89361 (-17620)
 ++ Block:           89523 (+162)
 -- Unblock:         89521 (-2)
 -- Unblock(*):      89521 (-0)
 ++ FLD:             90288 (+767)
-++ WWW:             130183 (+39895)
+++ WWW:             130184 (+39896)
 
-130183 unique Domains - Version 2021.1024.090858
-MD5 Domains RAW: b85ef3350940ef8e44abbb955ca17a6a
+130184 unique Domains - Version 2021.1024.093146
+MD5 Domains RAW: 689319004f709538ebde750a54b2c29a
 
 # Convert light to Hostlist ... 
 
@@ -105,8 +105,8 @@ Prepare domain list for compiling ... done.
 ℹ Start compiling light.adblock.raw
 ℹ Original length is 87907
 ℹ Length after applying transformations is 87906
-ℹ The list was compressed from 87909 to 74481
-ℹ Final length of the list is 74487
+ℹ The list was compressed from 87909 to 74480
+ℹ Final length of the list is 74486
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/light/out/light.adblock
 ℹ Finished compiling
 
