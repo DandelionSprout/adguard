@@ -51,7 +51,7 @@
 !   12 |     335 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
 !   13 |   16962 | hosts   | http   | online  | unchanged | https://someonewhocares.org/hosts/
 !   14 |    4431 | hosts   | http   | online  | unchanged | https://threatfox.abuse.ch/downloads/hostfile
-!   15 |   40616 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+!   15 |   40622 | adblock | http   | online  | changed   | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 !   16 |   13720 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/adguardteam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 !   17 |   18564 | adblock | http   | online  | unchanged | https://easylist.to/easylist/easylist.txt
 !   18 |   16184 | adblock | http   | online  | unchanged | https://easylist.to/easylist/easyprivacy.txt
@@ -61,7 +61,7 @@
 !   22 |   14639 | domains | local  | online  | unchanged | black.list
 !   23 |      29 | domains | local  | online  | unchanged | black.list.threat-intelligence
 !
-! 74488 unique Domains - Version 2021.1024.180823
+! 74493 unique Domains - Version 2021.1024.214217
 !
 ||000000000.fls.doubleclick.net^
 ||000000.fls.doubleclick.net^
@@ -33400,6 +33400,7 @@
 ||honghaotravel.com^
 ||hongjiaex.cn^
 ||hongjiujiaoyi.com^
+||hongruikt.com^
 ||hongshikai.com^
 ||hongtefm.com^
 ||hongwenge.com^
@@ -33776,6 +33777,7 @@
 ||huapuzs.com^
 ||huataisangao.cn^
 ||huavertion.bond^
+||huaxiaozhang.club^
 ||huayancn.cn^
 ||huayange.com^
 ||huayi65.com^
@@ -33936,6 +33938,7 @@
 ||hwzpgovt.nsupdate.info^
 ||hxadt.com^
 ||hxeier.adomininter.cloud^
+||hxf1688.xyz^
 ||hxfree.vip^
 ||hxiak.com^
 ||hxian.vip^
@@ -72615,6 +72618,7 @@
 ||xintengfeiyang.info^
 ||x.interia.pl^
 ||xinxbh.cn^
+||xinyansaas.com^
 ||xinyuanstudio.com^
 ||xiongdong.com^
 ||xiongzhangad.com^
@@ -74483,6 +74487,7 @@
 ||zxgroymagqu.com^
 ||zxhrq.cn^
 ||zxhymh.com^
+||z-xiao.xyz^
 ||zxin131.cn^
 ||zxjjzx.com^
 ||zxopen.tech^
