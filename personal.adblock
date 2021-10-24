@@ -36,7 +36,7 @@
 ! ---------------------------------------------------
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
-!    1 |   14646 | domains | local  | online  | changed   | black.list
+!    1 |   14639 | domains | local  | online  | changed   | black.list
 !    2 |      29 | domains | local  | online  | unchanged | black.list.threat-intelligence
 !    3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
 !    4 |    3672 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -44,7 +44,7 @@
 !    6 |    2016 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
 !    7 |    4924 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
 !
-! 13577 unique Domains - Version 2021.1023.215624
+! 13586 unique Domains - Version 2021.1024.090720
 !
 ||000000000.fls.doubleclick.net^
 ||000000.fls.doubleclick.net^
@@ -2906,7 +2906,6 @@
 ||applovin.com^
 ||applvn.com^
 ||app.mailjet.com^
-||app-measurement.com^
 ||appn.center^
 ||appnexus.com^
 ||appolicious.com^
@@ -4233,7 +4232,6 @@
 ||cmp.teads.mgr.consensu.org^
 ||cmp.tvspielfilm.de^
 ||cms.lv^
-||c.msn.com^
 ||cmstrendslog.indiatimes.com^
 ||cmstrendslog.timesnow.tv^
 ||cmvrclicks000.com^
@@ -4561,7 +4559,6 @@
 ||crash2.zhihu.com^
 ||crashfootwork.com^
 ||crashlogs.whatsapp.net^
-||crashlyticsreports-pa.googleapis.com^
 ||cratebarrel.demdex.net^
 ||cratecamera.com^
 ||craveandlamb.com^
@@ -5093,6 +5090,7 @@
 ||di-dtaectolog-us-prod-1.appspot.com^
 ||didtheyreadit.com^
 ||die-rankliste.com^
+||diff3.smartadserver.com^
 ||diff.scloud.letv.com^
 ||diffusion-tracker.com^
 ||digigladd.com^
@@ -5844,7 +5842,6 @@
 ||finn.demdex.net^
 ||firebaselogging.googleapis.com^
 ||firebaselogging-pa.googleapis.com^
-||firebase-settings.crashlytics.com^
 ||firstimpression.io^
 ||first.iovation.com^
 ||firstlightera.com^
@@ -7675,7 +7672,6 @@
 ||log-tb.isnssdk.com^
 ||log.thanhnien.vn^
 ||log.thevideo.me^
-||log.tiktokv.com^
 ||log.tiktokv.com.edgesuite.net^
 ||logtransform.hicloud.com^
 ||logua.com^
@@ -8093,7 +8089,6 @@
 ||metrics.icloud.com^
 ||metrics.ionos.com^
 ||metrics-logger.spot.im^
-||metrics.mzstatic.com^
 ||metrics.news.com.au^
 ||metrics.notebooksbilliger.de^
 ||metrics.n-tv.de^
@@ -8246,6 +8241,7 @@
 ||mobilefuse.com^
 ||mobile.mng-ads.com^
 ||mobileposse.com^
+||mobile.smartadserver.com^
 ||mobilestorm.com^
 ||mobiletheory.com^
 ||mobitrans.net^
@@ -8666,7 +8662,6 @@
 ||note.scloud.letv.com^
 ||notifpush.com^
 ||notify-bugs-fra1.rtl.de^
-||notify.bugsnag.com^
 ||notify.firetv.bugsnag.appstore.a2z.com^
 ||notify.hindustantimes.com^
 ||notify.indianexpress.com^
@@ -9451,6 +9446,9 @@
 ||previousplayground.com^
 ||previouspotato.com^
 ||prfct.co^
+||prg3431.smartadserver.com^
+||prg8.smartadserver.com^
+||prg.smartadserver.com^
 ||pricelib.ru^
 ||pricespider.com^
 ||pricklydebt.com^
@@ -10480,7 +10478,6 @@
 ||secureframe.doubleclick.net^
 ||secure.info.m.seek.com.au^
 ||secure.lomadee.com^
-||securemetrics.apple.com^
 ||securemetrics.blackrock.com^
 ||securemetrics.gapcanada.ca^
 ||securemetrics.gap.com^
@@ -10574,7 +10571,6 @@
 ||serv.vid-play.com^
 ||sessiond.consumentenbond.nl^
 ||sessionm.com^
-||sessions.bugsnag.com^
 ||sessions.exchange^
 ||setting.scloud.letv.com^
 ||settings-sandbox.data.microsoft.com^
@@ -10761,7 +10757,6 @@
 ||smallbeginner.com^
 ||smart2cnjuh34jb.com^
 ||smart4ads.com^
-||smartadserver.com^
 ||smart-bdash.com^
 ||smartcanvas.net^
 ||smartclick.net^
@@ -11280,6 +11275,8 @@
 ||ssa.eurosport.de^
 ||ssa.eurosport.fr^
 ||ssa.eurosport.ru^
+||ssbsync-global.smartadserver.com^
+||ssbsync.smartadserver.com^
 ||ssc.cvent.com^
 ||ssc.hl.co.uk^
 ||ssc.independent.co.uk^
@@ -11752,6 +11749,7 @@
 ||synchrobox.adswizz.com^
 ||sync.outbrain.com^
 ||sync.rambler.ru^
+||sync.smartadserver.com^
 ||sync.taboola.com^
 ||sync-tm.everesttech.net^
 ||synergy-e.com^
@@ -11794,6 +11792,7 @@
 ||tag.hariken.co^
 ||tag.links-analytics.com^
 ||taglocker.target.com^
+||tagmanager.smartadserver.com^
 ||tagman.britishairways.com^
 ||tag.marinsm.com^
 ||tag.md-nx.com^
@@ -12898,6 +12897,7 @@
 ||video.adaptv.advertising.com^
 ||videoadex.com^
 ||videoamp.com^
+||videoapi.smartadserver.com^
 ||video.browser.miui.com^
 ||videocdn.name^
 ||videoclientsservicescalls.outbrain.com^
@@ -13348,12 +13348,21 @@
 ||wunderloop.net^
 ||wurfl.io^
 ||w.usabilla.com^
+||ww13.smartadserver.com^
+||ww1510.smartadserver.com^
+||ww251.smartadserver.com^
+||ww2545.smartadserver.com^
 ||ww8.kohls.com^
 ||wwa.wipe.de^
 ||www10.gifi.fr^
+||www14.smartadserver.com^
 ||www2.doubleclick.net^
 ||www3.doubleclick.net^
+||www3.smartadserver.com^
+||www4.smartadserver.com^
+||www6.smartadserver.com^
 ||www8.glam.com^
+||www8.smartadserver.com^
 ||www91.intel.com^
 ||www-banner.chat.ru^
 ||www-google-analytics.l.google.com^
