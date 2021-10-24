@@ -125,6 +125,18 @@
 @@|test.quantcast.mgr.consensu.org^|
 @@|vendorlist.consensu.org^|
 
+! Crashreporting
+@@||apptrace.com^|
+@@||bugsnag.com^|
+@@||crashlytics.com^|
+@@||firebaseio.com^|
+@@||opentelemetry.io^|
+@@||sentry.io^|
+@@|bugly.qcloud.com^|
+@@|crashlytics2.l.google.com^|
+@@|crashlyticsreports-pa.googleapis.com^|
+@@|events.split.io^|
+
 ! Deutsche Bahn
 @@|st.bahn.de^|
 
@@ -197,6 +209,7 @@
 ! Google
 @@||cdn.ampproject.org^|
 @@|ampproject.org^|
+@@|app-measurement.com^|
 @@|cdn.ampproject.org^|
 @@|connectivitycheck.gstatic.com^|
 @@|fundingchoicesmessages.google.com^|
@@ -441,7 +454,6 @@
 @@|config.uca.cloud.unity3d.com^|
 
 ! Various
-@@||sentry.io^|
 @@|api-cf.affirm.com^|
 @@|api.rollbar.com^|
 @@|cdn-assets.affirm.com^|
