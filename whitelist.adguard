@@ -230,7 +230,6 @@
 ! Google
 @@||cdn.ampproject.org^
 @@|ampproject.org^
-!app-measurement.com
 @@|cdn.ampproject.org^
 @@|connectivitycheck.gstatic.com^
 @@|fundingchoicesmessages.google.com^
@@ -776,9 +775,6 @@
 
 ! False positive
 @@||00110.citi.com^
-@@||cxense.com.edgekey.net^
-@@||optimizely.com.edgekey.net^
-@@||scorecardresearch.com.edgekey.net^
 @@||static-webarchive.org^
 @@|ad.nl^
 @@|bitmovin.com^
@@ -804,3 +800,5 @@
 @@|wieistmeineip.de^
 @@|willhaben.at^
 @@|zomap.de^
+@@|mimecast.com^
+@@|mc-8c48dcd0-9dfd-4591-be7d-409340-headless-fd1.azurefd.net^
