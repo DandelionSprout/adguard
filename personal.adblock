@@ -36,7 +36,7 @@
 ! ---------------------------------------------------
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
-!    1 |   14642 | domains | local  | online  | changed   | black.list
+!    1 |   14643 | domains | local  | online  | changed   | black.list
 !    2 |      49 | domains | local  | online  | unchanged | black.list.threat-intelligence
 !    3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
 !    4 |    3672 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -44,7 +44,7 @@
 !    6 |    2016 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
 !    7 |    4924 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
 !
-! 12743 unique Domains - Version 2021.1025.120704
+! 12745 unique Domains - Version 2021.1025.180758
 !
 ||0emm.com^
 ||0i0i0i0.com^
@@ -94,6 +94,7 @@
 ||1pel.com^
 ||1redirb.com^
 ||1rx.io^
+||1-xredbet87963.top^
 ||200summit.com^
 ||204.scloud.letv.com^
 ||204st.us^
@@ -3577,7 +3578,6 @@
 ||copesa.demdex.net^
 ||copperchickens.com^
 ||copperegg.com^
-||coppersurfer.tk^
 ||copycarpenter.com^
 ||copyrightaccesscontrols.com^
 ||coralogix.com^
@@ -5373,6 +5373,7 @@
 ||gimbal.com^
 ||gim.co.il^
 ||giraff.io^
+||github.dihe.moe^
 ||gixmo.dk^
 ||g.jwpsrv.com^
 ||glancecdn.net^
@@ -8297,6 +8298,7 @@
 ||phluant.com^
 ||phoenix-adrunner.mycomputer.com^
 ||phoenix-widget.com^
+||phoenix.yizimg.com^
 ||phonalytics.com^
 ||phone-analytics.com^
 ||phonograph2.voxmedia.com^
