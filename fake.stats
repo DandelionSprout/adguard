@@ -46,13 +46,13 @@ Stats fake:
 == Source (unique): 27786 (-7563)
 -- White:           27697 (-89)
 -- White(*):        27697 (-0)
--- Dead:            23797 (-3900)
--- Unblock:         23797 (-0)
-++ FLD:             23932 (+135)
-++ WWW:             46559 (+22627)
+-- Dead:            23795 (-3902)
+-- Unblock:         23795 (-0)
+++ FLD:             23930 (+135)
+++ WWW:             46555 (+22625)
 
-46559 unique Domains - Version 2021.1024.180727
-MD5 Domains RAW: e5db6c6a6ed2a131081f27934d675316
+46555 unique Domains - Version 2021.1025.060906
+MD5 Domains RAW: 4ed0a05fb2fdbbcf26dc17028989227d
 
 # Convert fake to Hostlist ... 
 
@@ -78,10 +78,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling fake.adblock.raw
-ℹ Original length is 23764
-ℹ Length after applying transformations is 23764
-ℹ The list was compressed from 23767 to 23642
-ℹ Final length of the list is 23648
+ℹ Original length is 23762
+ℹ Length after applying transformations is 23762
+ℹ The list was compressed from 23765 to 23640
+ℹ Final length of the list is 23646
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/fake/out/fake.adblock
 ℹ Finished compiling
 
