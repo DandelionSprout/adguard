@@ -8,6 +8,10 @@ Config:
    adblock
    localpush
 
+-- Deadlists - 1:
+
+   ../../data/dead.list
+
  - White - 10:
 
    doh-vpn-proxy-bypass.white
@@ -29,9 +33,10 @@ Stats doh-vpn-proxy-bypass:
 == Source (unique): 750 (-405)
 ++ Black:           750 (+0)
 -- White:           740 (-10)
+-- Dead:            700 (-40)
 
-740 unique Domains - Version 2021.1025.200822
-MD5 Domains RAW: f295ef448baaf0e3def15cf33683327b
+700 unique Domains - Version 2021.1025.204324
+MD5 Domains RAW: 0ae644b14d449a030006c9f97e6392d9
 
 # Convert doh-vpn-proxy-bypass to Hostlist ... 
 
@@ -57,10 +62,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling doh-vpn-proxy-bypass.adblock.raw
-ℹ Original length is 741
-ℹ Length after applying transformations is 741
-ℹ The list was compressed from 744 to 713
-ℹ Final length of the list is 719
+ℹ Original length is 701
+ℹ Length after applying transformations is 701
+ℹ The list was compressed from 704 to 673
+ℹ Final length of the list is 679
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/doh-vpn-proxy-bypass/out/doh-vpn-proxy-bypass.adblock
 ℹ Finished compiling
 
