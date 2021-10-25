@@ -1,0 +1,70 @@
+### Compile doh-vpn-proxy-bypass Blocklist ###
+
+Config:
+
+** Build - 3:
+
+   hosts
+   adblock
+   localpush
+
+ - White - 10:
+
+   doh-vpn-proxy-bypass.white
+
+Initialize ...
+
+# Download and convert Sourcelists ...
+
+  Nr |   Count | Format  | Source | Status  | File      | URL/File
+   1 |     257 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/travisboss/TheGreatWall/master/doh.txt
+   2 |     288 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
+   3 |     610 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods
+
+# Build doh-vpn-proxy-bypass Domainlist ...
+
+Stats doh-vpn-proxy-bypass:
+
+** Source (raw):    1155
+== Source (unique): 750 (-405)
+++ Black:           750 (+0)
+-- White:           740 (-10)
+
+740 unique Domains - Version 2021.1025.200822
+MD5 Domains RAW: f295ef448baaf0e3def15cf33683327b
+
+# Convert doh-vpn-proxy-bypass to Hostlist ... 
+
+# Convert doh-vpn-proxy-bypass to AdBlocklist ...
+
+Prepare domain list for compiling ... done.
+
+ℹ Starting @adguard/hostlist-compiler v1.0.12
+ℹ Starting the compiler
+ℹ Configuration: {
+    "name": "doh-vpn-proxy-bypass",
+    "sources": [
+        {
+            "source": "doh-vpn-proxy-bypass.adblock.raw",
+            "type": "adblock",
+            "transformations": [
+                "Validate"
+            ]
+        }
+    ],
+    "transformations": [
+        "Compress"
+    ]
+}
+ℹ Start compiling doh-vpn-proxy-bypass.adblock.raw
+ℹ Original length is 741
+ℹ Length after applying transformations is 741
+ℹ The list was compressed from 744 to 713
+ℹ Final length of the list is 719
+ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/doh-vpn-proxy-bypass/out/doh-vpn-proxy-bypass.adblock
+ℹ Finished compiling
+
+# Attach header to doh-vpn-proxy-bypass Domainlist ...
+
+# Push doh-vpn-proxy-bypass to local Repositories ...
+
