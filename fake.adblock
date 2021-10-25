@@ -29,7 +29,7 @@
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |    2197 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
 !    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
-!    3 |   16800 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+!    3 |   16805 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 !    4 |    1483 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 !    5 |      45 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
 !    6 |    5783 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
@@ -37,7 +37,7 @@
 !    8 |    1421 | domains | local  | online  | unchanged | fake.ts.black.list
 !    9 |     491 | domains | local  | online  | unchanged | fake.vzni.black.list
 !
-! 23636 unique Domains - Version 2021.1025.060906
+! 23641 unique Domains - Version 2021.1025.180850
 !
 ||000relationships.com^
 ||007cryptooption.com^
@@ -5682,6 +5682,7 @@
 ||desmume.com^
 ||desplay.de^
 ||dessyaesthetics.com^
+||destidyll.com^
 ||destinycavapoopups.com^
 ||destinyhomelabradors.com^
 ||destinymaltipoopuppies.com^
@@ -7298,6 +7299,7 @@
 ||ezbillsupport.com^
 ||ezcareclinic.com^
 ||ezxcvbnm.com^
+||ezzed.com^
 ||f0xnews.us^
 ||f2fequinehauling.com^
 ||fabnetstudio.com^
@@ -7985,6 +7987,7 @@
 ||forioxglobal.online^
 ||formalmonth.icu^
 ||formidablepoodles.com^
+||formr.io^
 ||form-willhaben.at^
 ||forsaletoday2.com^
 ||forstundland.net^
@@ -10799,6 +10802,7 @@
 ||ilbusinessdaily.com^
 ||ill.deufiles.com^
 ||illico.at^
+||illimeet.com^
 ||illinoisvalleytimes.com^
 ||illlucky.com^
 ||illuminati666member.com^
@@ -11158,6 +11162,7 @@
 ||jacquieetmichel-cougars.com^
 ||jacquieetmichel-flirt.com^
 ||jacquieetmichel-messenger.com^
+||jacquieetmichel.net^
 ||jacquieetmichel-plancul.com^
 ||jadeangelgroupfarmers.co.za^
 ||jadecockapoo.com^
