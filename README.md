@@ -78,7 +78,7 @@
 
 ### ***Note***
 
-***The blocklists were created for purely personal, private use. They were designed to avoid false positive domains as much as possible and not to block any needed features. Maximum blocking with full functionality. They were [compiled](https://github.com/Zelo72/rpi/tree/master/pihole/blocklists/build) from [numerous sources](https://github.com/Zelo72/adguard/blob/main/SOURCES.md), my own [blacklists](https://github.com/Zelo72/rpi/tree/master/pihole/blocklists/data) and various [whitelists](https://github.com/Zelo72/adguard/blob/main/SOURCES.md#white--dead-list). To keep the lists as small as possible, [dead domains](https://github.com/Zelo72/adguard/blob/main/SOURCES.md#white--dead-list) are removed regularly.***
+***The blocklists were created for purely personal, private use. They were designed to avoid false positive domains as much as possible and not to block any needed features. Maximum blocking with full functionality. They were [compiled](https://github.com/Zelo72/rpi/tree/master/pihole/blocklists/build) from [numerous sources](https://github.com/Zelo72/rpi/blob/master/SOURCES.md), my own [blacklists](https://github.com/Zelo72/rpi/tree/master/pihole/blocklists/data) and various [whitelists](https://github.com/Zelo72/rpi/blob/master/SOURCES.md#white--dead-list). To keep the lists as small as possible, [dead domains](https://github.com/Zelo72/rpi/blob/master/SOURCES.md#white--dead-list) are removed regularly.***
 
 **The blocklists are updated daily.**
 
