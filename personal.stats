@@ -32,7 +32,7 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |   14639 | domains | local  | online  | unchanged | black.list
+   1 |   14642 | domains | local  | online  | changed   | black.list
    2 |      49 | domains | local  | online  | unchanged | black.list.threat-intelligence
    3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
    4 |    3672 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -44,19 +44,19 @@ Initialize ...
 
 Stats personal:
 
-** Source (raw):    27036
-== Source (unique): 23175 (-3861)
--- White:           21880 (-1295)
+** Source (raw):    27039
+== Source (unique): 23178 (-3861)
+-- White:           21880 (-1298)
 -- White(*):        21841 (-39)
 -- Dead:            20904 (-937)
-++ Block:           21066 (+162)
--- Unblock:         21064 (-2)
--- Unblock(*):      21064 (-0)
-++ FLD:             21204 (+140)
-++ WWW:             27888 (+6684)
+++ Block:           21069 (+165)
+-- Unblock:         21067 (-2)
+-- Unblock(*):      21067 (-0)
+++ FLD:             21207 (+140)
+++ WWW:             27891 (+6684)
 
-27888 unique Domains - Version 2021.1024.222231
-MD5 Domains RAW: cf139eddf84bba0fb0f82d8a2be53116
+27891 unique Domains - Version 2021.1025.120704
+MD5 Domains RAW: 2d1ede612db79f2f3b350778536dca73
 
 # Convert personal to Hostlist ... 
 
@@ -82,10 +82,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling personal.adblock.raw
-ℹ Original length is 20814
-ℹ Length after applying transformations is 20813
-ℹ The list was compressed from 20816 to 13610
-ℹ Final length of the list is 13616
+ℹ Original length is 20816
+ℹ Length after applying transformations is 20815
+ℹ The list was compressed from 20818 to 12747
+ℹ Final length of the list is 12753
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/personal/out/personal.adblock
 ℹ Finished compiling
 
