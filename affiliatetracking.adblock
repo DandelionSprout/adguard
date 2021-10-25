@@ -35,18 +35,17 @@
 ! --------------------------------------------
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
-!    1 |  122649 | hosts   | http   | online  | changed   | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+!    1 |  122653 | hosts   | http   | online  | changed   | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 !    2 |     244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 !    3 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
-!    4 |    9314 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
+!    4 |    9316 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
 !    5 |   13720 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/adguardteam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 !    6 |      22 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
 !    7 |     429 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 !    8 |       5 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
-!    9 |     887 | domains | local  | online  | changed   | white.list.referral
-!   10 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
+!    9 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
 !
-! 79994 unique Domains - Version 2021.1024.061610
+! 79980 unique Domains - Version 2021.1025.061529
 !
 ||000.euleriancdn.net^
 ||007.euleriancdn.net^
@@ -3956,7 +3955,6 @@
 ||annualreport.euleriancdn.net^
 ||annunci.euleriancdn.net^
 ||anon.euleriancdn.net^
-||a.nonstoppartner.net^
 ||anonymizer.com.102.122.2o7.net^
 ||anonymous.euleriancdn.net^
 ||a.notifywp.io^
@@ -7472,7 +7470,6 @@
 ||clicks.fwd.us^
 ||clicks.informedimmigrant.com^
 ||clicks.inmigranteinformado.com^
-||click.snapshat.com^
 ||click.sportology.io^
 ||click.stagezero.io^
 ||click-staging.food.mercato.com^
@@ -7508,7 +7505,6 @@
 ||clientes.euleriancdn.net^
 ||client.euleriancdn.net^
 ||clientftp.euleriancdn.net^
-||client.hooklogic.com^
 ||clienti.euleriancdn.net^
 ||clients.bettsrecruiting.com^
 ||clientservice.alphasimplex.com^
@@ -8034,6 +8030,7 @@
 ||columbus.shortest-route.com^
 ||columbus.support.mapp.com^
 ||columbustech.tcsg.edu^
+||com.102.122.207.net^
 ||combat.euleriancdn.net^
 ||combinedinsurance.com.102.122.2o7.net^
 ||combo.euleriancdn.net^
@@ -8231,6 +8228,7 @@
 ||compare.economybookings.com^
 ||compare.euleriancdn.net^
 ||compare.execstays.com^
+||compare.flightgorilla.com^
 ||compare.flighthub.com^
 ||compare.flightnetwork.com^
 ||compare.flightsearchdirect.com^
@@ -9868,7 +9866,6 @@
 ||control.utak.com^
 ||convention.euleriancdn.net^
 ||convergence.euleriancdn.net^
-||conversantmedia.com^
 ||conversations.agileframeworks.com^
 ||conversations.cardflight.com^
 ||converter.euleriancdn.net^
@@ -12959,7 +12956,6 @@
 ||email-moengage.branch.rocks^
 ||email.mris.net^
 ||email.mypopshop.app^
-||email.namebase.io^
 ||email.napster.com^
 ||email.nebenan.de^
 ||email.nl.pampers.com^
@@ -17416,7 +17412,6 @@
 ||go.bliscare.com^
 ||go.blog.deposco.com^
 ||go.blogwatcher.co.jp^
-||go.blokada.org^
 ||go.bloomberggovernment.com^
 ||go.bloomberglaw.com^
 ||go.bloombergtax.com^
@@ -25885,7 +25880,6 @@
 ||go.tnsi.com^
 ||go.tns-infratest.com^
 ||go.tntpteachingfellows.org^
-||goto.algolia.com^
 ||go.tobaccodocklondon.com^
 ||go.tobem.jp^
 ||goto.benchmarkuniverse.com^
@@ -25909,7 +25903,6 @@
 ||goto.infomarketingx.com^
 ||go-to.intersectretail.com^
 ||go.to.ip.com^
-||goto.jet.com^
 ||goto.jvmlending.com^
 ||go.tokiomarineam.com^
 ||go.toku-maru.co.jp^
@@ -27978,6 +27971,7 @@
 ||honor.omrf.org^
 ||hood.euleriancdn.net^
 ||hook.euleriancdn.net^
+||hooklogic.com^
 ||hookworm.beyond-avatars.com^
 ||hookworm.campaignzee.com^
 ||hookworm.commanddot.com^
@@ -34831,15 +34825,12 @@
 ||link.sunwardmedia.co.jp^
 ||links.visioncritical.com^
 ||links.wadhwawisecity.com^
-||link.swa.info^
 ||links.xmedius.com^
-||link.sylikes.com^
 ||link.ticket1.eu^
 ||link.tillfinancial.io^
 ||link.transaction.churchomeglobal.org^
 ||link.tranzcapture.org^
 ||link.updates.goodu.se^
-||link.wizzair.com^
 ||link.x.ai^
 ||linode.euleriancdn.net^
 ||linux1.euleriancdn.net^
@@ -51185,7 +51176,6 @@
 ||promo.martinelliluce.it^
 ||promo.matrixmedia.it^
 ||promo.menabocaraccessories.com^
-||promo.mobile.de^
 ||promo.realgroupsrl.it^
 ||promo.reborncabinets.com^
 ||promo.regis-motors.com^
@@ -53290,7 +53280,6 @@
 ||rsv.pairorder.jp^
 ||rsvp.euleriancdn.net^
 ||rsvshield.ca.102.112.2o7.net^
-||rsx.hooklogic.com^
 ||rsync1.euleriancdn.net^
 ||rsync2.euleriancdn.net^
 ||rsync.euleriancdn.net^
@@ -64292,6 +64281,7 @@
 ||t.azets.se^
 ||taz.euleriancdn.net^
 ||taznfx.renters.pl^
+||t.bahn.de^
 ||tbancs.icebreaker.com^
 ||tbaqje.zadig-et-voltaire.com^
 ||tbc.euleriancdn.net^
@@ -64447,7 +64437,6 @@
 ||telus.com.102.122.2o7.net^
 ||telusmobility.com.102.122.2o7.net^
 ||telxbr.pulsesmall.com^
-||t.emailing.monoprix.fr^
 ||temails.productnotice.thomsonreuters.com^
 ||te-mirapodo-de.oghub.io^
 ||temp01.euleriancdn.net^
@@ -65279,7 +65268,6 @@
 ||tp.creation-l.de^
 ||tp-creation-l-de.oghub.io^
 ||tpe.euleriancdn.net^
-||tp-emea.exactag.com^
 ||tpe.theparticipanteffect.com^
 ||tp.euleriancdn.net^
 ||tp-frankonia-at.oghub.io^
@@ -67998,7 +67986,6 @@
 ||view.bnp-solutions.com^
 ||view.cdp-integral.com^
 ||view.connect.herzing.edu^
-||view.email.nzz.ch^
 ||viewer.euleriancdn.net^
 ||view.euleriancdn.net^
 ||view.ever-rise.co.jp^
@@ -68696,7 +68683,6 @@
 ||wa.vodafone.pt^
 ||wawa.euleriancdn.net^
 ||way.euleriancdn.net^
-||wayfair.hooklogic.com^
 ||wbcygu.wardow.com^
 ||wb.euleriancdn.net^
 ||wbf.postaffiliatepro.com^
@@ -79001,7 +78987,6 @@
 ||www6.bimobject.com^
 ||www6.euleriancdn.net^
 ||www6.gemalto.com^
-||www6.hooklogic.com^
 ||www7.bimobject.com^
 ||www7.euleriancdn.net^
 ||www7.lairdtech.com^
