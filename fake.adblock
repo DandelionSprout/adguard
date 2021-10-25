@@ -29,15 +29,15 @@
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |    2197 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
 !    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
-!    3 |   16805 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+!    3 |   16807 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 !    4 |    1483 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 !    5 |      45 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
 !    6 |    5783 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-!    7 |    6877 | domains | local  | online  | unchanged | black.list.fake
-!    8 |    1421 | domains | local  | online  | unchanged | fake.ts.black.list
+!    7 |    6880 | domains | local  | online  | changed   | black.list.fake
+!    8 |    1423 | domains | local  | online  | changed   | fake.ts.black.list
 !    9 |     491 | domains | local  | online  | unchanged | fake.vzni.black.list
 !
-! 23641 unique Domains - Version 2021.1025.180850
+! 23648 unique Domains - Version 2021.1026.000748
 !
 ||000relationships.com^
 ||007cryptooption.com^
@@ -8628,6 +8628,7 @@
 ||geoengineeringwatch.org^
 ||geoexpresshipping.com^
 ||geoflirt.com^
+||geolite.mobi^
 ||geopuppieshouse.com^
 ||georgeammunition.com^
 ||georgecockapoopuppies.com^
@@ -9049,6 +9050,7 @@
 ||gmixnchic.com^
 ||gmo.news^
 ||gmperrierl.com^
+||goandfind.online^
 ||gobank.com^
 ||gobrashop.com^
 ||gobuystores.com^
@@ -9200,6 +9202,7 @@
 ||goldhandel-beratung-kauf.de^
 ||goldhandel-clever-kaufen.de^
 ||goldhandel-depot.de^
+||goldhandel-fair.de^
 ||goldhandel-gmbh.de^
 ||goldhandel-heute.de^
 ||goldhandel-imperium.de^
@@ -9723,6 +9726,7 @@
 ||hacker-gezocht.com^
 ||hackersgrouponline.com^
 ||hackerslist.co^
+||hackservices.com^
 ||hackservicetech.com^
 ||hackvisor.net^
 ||hadeery.com^
@@ -12699,6 +12703,7 @@
 ||localfrenchbulldogbreeders.com^
 ||local-milfs-nextdoor.com^
 ||localpomskybreeder.com^
+||locating.mobi^
 ||lockpickingstore.de^
 ||loco-outlet.de^
 ||lodiro.de^
@@ -21731,6 +21736,7 @@
 ||trusted-onlineshop-n7737.de^
 ||trusted-onlineshop-nr18253.de^
 ||trusted-onlineshop-nr24283.de^
+||trusted-onlineshop-nr2802.de^
 ||trusted-onlineshop-nr29381.de^
 ||trusted-onlineshop-nr38742.de^
 ||trusted-onlineshop-nr7382.de^
@@ -23308,6 +23314,7 @@
 ||wwhp.info^
 ||wwiii.news^
 ||wwschnellefuhrerschein.com^
+||www-mywifiext-net.net^
 ||ww-woffice.com^
 ||wxinthai.com^
 ||wyandottetimes.com^
