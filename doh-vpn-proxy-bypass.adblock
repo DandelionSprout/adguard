@@ -26,14 +26,33 @@
 !    1 |     257 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/travisboss/TheGreatWall/master/doh.txt
 !    2 |     288 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 !    3 |     610 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods
+!    4 |     130 | domains | local  | online  | changed   | black.list.dohdot
 !
-! 669 unique Domains - Version 2021.1025.204324
+! 687 unique Domains - Version 2021.1026.194026
 !
 ||012proxy.ga^
 ||123-24.eport.gr^
 ||12vpx.com^
 ||24tunnel.com^
+||2.dnscrypt-cert.blahdns.com^
+||2.dnscrypt-cert.browser.yandex.net^
+||2.dnscrypt-cert.captnemo.in^
+||2.dnscrypt-cert.dnsrec.meo.ws^
 ||2.dnscrypt-cert.dns.seby.io^
+||2.dnscrypt-cert.dns.tiar.app^
+||2.dnscrypt-cert.ffmuc.net^
+||2.dnscrypt-cert.nawala.id^
+||2.dnscrypt-cert.opendns.com^
+||2.dnscrypt-cert.oszx.co^
+||2.dnscrypt-cert.pumplex.com^
+||2.dnscrypt-cert.quad9.net^
+||2.dnscrypt-cert.safesurfer.co.nz^
+||2.dnscrypt-cert.shield-2.dnsbycomodo.com^
+||2.dnscrypt.default.ns1.adguard.com^
+||2.dnscrypt.default.ns2.adguard.com^
+||2.dnscrypt.family.ns1.adguard.com^
+||2.dnscrypt.family.ns2.adguard.com^
+||2.dnscrypt.unfiltered.ns1.adguard.com^
 ||2fastsurfer.com^
 ||2ub.top^
 ||3x.nz^
@@ -111,6 +130,7 @@
 ||cryptohippie.com^
 ||cryptostorm.is^
 ||cyberghostvpn.com^
+||dandelionsprout.asuscomm.com^
 ||defencevpn.com^
 ||defilter.us^
 ||dns10.quad9.net^
@@ -141,12 +161,11 @@
 ||dns.dnshome.de^
 ||dns.dns-over-https.com^
 ||dns.dnsoverhttps.net^
-||dns-doh.dnsforfamily.com^
-||dns-dot.dnsforfamily.com^
 ||dns.east.comss.one^
 ||dnses.alekberg.net^
 ||dns-family.adguard.com^
 ||dns.flatuslifir.is^
+||dnsforfamily.com^
 ||dnsforge.de^
 ||dns-gcp.aaflalo.me^
 ||dns.google^
