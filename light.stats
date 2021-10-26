@@ -48,13 +48,13 @@ Initialize ...
   10 |     335 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
   11 |   16962 | hosts   | http   | online  | unchanged | https://someonewhocares.org/hosts/
   12 |   93803 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-  13 |    1439 | hosts   | http   | online  | changed   | https://urlhaus.abuse.ch/downloads/hostfile/
+  13 |    1475 | hosts   | http   | online  | changed   | https://urlhaus.abuse.ch/downloads/hostfile/
   14 |    4447 | hosts   | http   | online  | unchanged | https://threatfox.abuse.ch/downloads/hostfile
   15 |   40647 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
   16 |   14044 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/adguardteam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
   17 |   18536 | adblock | http   | online  | unchanged | https://easylist.to/easylist/easylist.txt
-  18 |   16185 | adblock | http   | online  | unchanged | https://easylist.to/easylist/easyprivacy.txt
-  19 |    9316 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
+  18 |   16186 | adblock | http   | online  | changed   | https://easylist.to/easylist/easyprivacy.txt
+  19 |    9317 | adblock | http   | online  | changed   | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
   20 |   14631 | domains | local  | online  | unchanged | black.list
   21 |     130 | domains | local  | online  | unchanged | black.list.threat-intelligence
 
@@ -62,20 +62,20 @@ Initialize ...
 
 Stats light:
 
-** Source (raw):    277676
-== Source (unique): 162642 (-115034)
--- Exclude:         162517 (-125)
--- White:           160178 (-2339)
--- White(*):        157312 (-2866)
--- Dead:            128678 (-28634)
-++ Block:           128843 (+165)
--- Unblock:         128841 (-2)
--- Unblock(*):      128841 (-0)
-++ FLD:             130033 (+1192)
-++ WWW:             171858 (+41825)
+** Source (raw):    277714
+== Source (unique): 162675 (-115039)
+-- Exclude:         162550 (-125)
+-- White:           160211 (-2339)
+-- White(*):        157345 (-2866)
+-- Dead:            128711 (-28634)
+++ Block:           128876 (+165)
+-- Unblock:         128874 (-2)
+-- Unblock(*):      128874 (-0)
+++ FLD:             130070 (+1196)
+++ WWW:             171910 (+41840)
 
-171858 unique Domains - Version 2021.1026.224640
-MD5 Domains RAW: d753f9535d3f9d4ab69cad2aa13b8ec4
+171910 unique Domains - Version 2021.1027.000858
+MD5 Domains RAW: 5cfe23cd95d2b21de3263d44d2333715
 
 # Convert light to Hostlist ... 
 
@@ -101,10 +101,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling light.adblock.raw
-ℹ Original length is 114506
-ℹ Length after applying transformations is 114505
-ℹ The list was compressed from 114508 to 95758
-ℹ Final length of the list is 95764
+ℹ Original length is 114538
+ℹ Length after applying transformations is 114537
+ℹ The list was compressed from 114540 to 95790
+ℹ Final length of the list is 95796
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/light/out/light.adblock
 ℹ Finished compiling
 
