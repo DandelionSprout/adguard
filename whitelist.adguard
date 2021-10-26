@@ -211,6 +211,7 @@
 @@|connect.facebook.com^
 @@|graph.facebook.com^
 @@|graph.instagram.com^
+@@|web.facebook.com^
 
 ! Github
 @@||ghcr.io^
