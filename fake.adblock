@@ -29,7 +29,7 @@
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |    2197 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
 !    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
-!    3 |   16808 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+!    3 |   16811 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 !    4 |    1483 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 !    5 |      45 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
 !    6 |    5783 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
@@ -37,7 +37,7 @@
 !    8 |    1423 | domains | local  | online  | unchanged | fake.ts.black.list
 !    9 |     491 | domains | local  | online  | unchanged | fake.vzni.black.list
 !
-! 23652 unique Domains - Version 2021.1026.060756
+! 23655 unique Domains - Version 2021.1027.000806
 !
 ||000relationships.com^
 ||007cryptooption.com^
@@ -310,6 +310,7 @@
 ||4evergoldendoodles.com^
 ||4everhomess.com^
 ||4everpuppyshop.com^
+||4hunnidweeds.com^
 ||4lovelyhomes.com^
 ||4pawspetshopau.com^
 ||4pssllc.com^
@@ -6871,6 +6872,7 @@
 ||enstlogistics.com^
 ||enter-croatia.com^
 ||enterprise-spedition.com^
+||enter-shield.com^
 ||entoida.com^
 ||entreprenaddacksale.com^
 ||entruempelung-gruber.info^
@@ -12010,6 +12012,7 @@
 ||kopkvalitetsmedicin.com^
 ||koretrak.kaufen^
 ||koreyo.de^
+||korkortforverklig.com^
 ||korkort-online.com^
 ||korkorttillsalu.com^
 ||kornblumen.myshopify.com^
