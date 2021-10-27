@@ -35,17 +35,17 @@
 ! --------------------------------------------
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
-!    1 |  122658 | hosts   | http   | online  | changed   | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+!    1 |  122661 | hosts   | http   | online  | changed   | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 !    2 |     244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 !    3 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
-!    4 |    9316 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
+!    4 |    9317 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
 !    5 |   14044 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/adguardteam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-!    6 |      22 | domains | http   | online  | changed   | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
-!    7 |     429 | domains | http   | online  | changed   | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
-!    8 |       5 | domains | http   | online  | changed   | https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
+!    6 |      22 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
+!    7 |     429 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
+!    8 |       5 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
 !    9 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
 !
-! 78478 unique Domains - Version 2021.1026.092625
+! 78480 unique Domains - Version 2021.1027.061634
 !
 ||000.euleriancdn.net^
 ||007.euleriancdn.net^
@@ -8208,6 +8208,7 @@
 ||compare.petfriendly.io^
 ||compare.rentalhomes24.de^
 ||compare.rentbyowner.com^
+||compare.reservations.com^
 ||compare.roomertravelintent.com^
 ||compare.routard.com^
 ||compare.save70.com^
@@ -15628,6 +15629,7 @@
 ||geoportal.euleriancdn.net^
 ||geoproxy.criteo.net^
 ||geoproxy.hk5.vip.prod.criteo.net^
+||geoproxy.par.vip.prod.criteo.net^
 ||geoproxy.va1.vip.prod.criteo.net^
 ||geo.query.yahoo.com^
 ||george.euleriancdn.net^
