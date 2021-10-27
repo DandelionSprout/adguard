@@ -25,10 +25,10 @@
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |     257 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/travisboss/TheGreatWall/master/doh.txt
 !    2 |     288 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
-!    3 |     610 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods
-!    4 |     130 | domains | local  | online  | changed   | black.list.dohdot
+!    3 |     622 | domains | http   | online  | changed   | https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods
+!    4 |     139 | domains | local  | online  | changed   | black.list.dohdot
 !
-! 687 unique Domains - Version 2021.1026.194026
+! 688 unique Domains - Version 2021.1027.075134
 !
 ||012proxy.ga^
 ||123-24.eport.gr^
@@ -294,6 +294,7 @@
 ||dot.ny.ahadns.net^
 ||dot.pl.ahadns.net^
 ||dot.pub^
+||dot.quickline.ch^
 ||dot.seby.io^
 ||dot-sg.blahdns.com^
 ||dot.tiar.app^
