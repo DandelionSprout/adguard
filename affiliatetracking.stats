@@ -36,7 +36,7 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |  122663 | hosts   | http   | online  | changed   | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+   1 |  122663 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
    2 |     244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
    3 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
    4 |    9317 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
@@ -62,7 +62,7 @@ Stats affiliatetracking:
 ++ FLD:             110277 (+272)
 ++ WWW:             110371 (+94)
 
-110371 unique Domains - Version 2021.1028.061730
+110371 unique Domains - Version 2021.1028.090351
 MD5 Domains RAW: fce79e7d2e4e6a55ddb88ecbf155adb3
 
 # Convert affiliatetracking to Hostlist ... 
@@ -78,10 +78,7 @@ Prepare domain list for compiling ... done.
     "sources": [
         {
             "source": "affiliatetracking.adblock.raw",
-            "type": "adblock",
-            "transformations": [
-                "Validate"
-            ]
+            "type": "adblock"
         }
     ],
     "transformations": [
