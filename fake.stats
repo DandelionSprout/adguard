@@ -52,7 +52,7 @@ Stats fake:
 ++ FLD:             24061 (+135)
 ++ WWW:             46809 (+22748)
 
-46809 unique Domains - Version 2021.1028.060942
+46809 unique Domains - Version 2021.1028.085615
 MD5 Domains RAW: 24e29485dfda131f5888bbbb64de36b6
 
 # Convert fake to Hostlist ... 
@@ -68,10 +68,7 @@ Prepare domain list for compiling ... done.
     "sources": [
         {
             "source": "fake.adblock.raw",
-            "type": "adblock",
-            "transformations": [
-                "Validate"
-            ]
+            "type": "adblock"
         }
     ],
     "transformations": [
