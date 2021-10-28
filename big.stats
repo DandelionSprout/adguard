@@ -2,22 +2,20 @@
 
 Config:
 
-** Build - 6:
+** Build - 4:
 
    extendWWWFLD
    hosts
    adblock
-   adblockwhite
-   no_adblock_convert
    localpush
 
 ++ Prioritized Blocklists - 1:
 
    ../../data/rules.list.block
 
- - White - 31:
+-- Deadlists - 1:
 
-   big.white
+   ../../data/dead.list
 
 -- Whitelists - 2:
 
@@ -34,155 +32,57 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |  478815 | domains | local  | online  | changed   | multi.txt
-   2 |   46809 | domains | local  | online  | changed   | fake.txt
+   1 |  478815 | domains | local  | online  | unchanged | multi.txt
+   2 |   46809 | domains | local  | online  | unchanged | fake.txt
    3 | 1058155 | domains | http   | online  | unchanged | https://dbl.oisd.nl
-   4 |   40736 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+   4 |   40751 | adblock | http   | online  | changed   | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
 # Build big Domainlist ...
 
 Stats big:
 
-** Source (raw):    1624515
-== Source (unique): 1334013 (-290502)
--- White:           1333748 (-265)
--- White(*):        1328848 (-4900)
-++ Block:           1328867 (+19)
--- Unblock:         1328815 (-52)
--- Unblock(*):      1328733 (-82)
-++ FLD:             1328948 (+215)
-++ WWW:             1340839 (+11891)
+** Source (raw):    1624530
+== Source (unique): 1334015 (-290515)
+-- White:           1333750 (-265)
+-- White(*):        1328850 (-4900)
+-- Dead:            1287735 (-41115)
+++ Block:           1287872 (+137)
+-- Unblock:         1287820 (-52)
+-- Unblock(*):      1287738 (-82)
+++ FLD:             1302039 (+14301)
+++ WWW:             1311456 (+9417)
 
-1340839 unique Domains - Version 2021.1028.061851
-MD5 Domains RAW: acdcc2c85704f7d477f0c4a6b2f0f12e
+1311456 unique Domains - Version 2021.1028.082222
+MD5 Domains RAW: 5e08ae3f764ac3bc7a05775bf28514be
 
 # Convert big to Hostlist ... 
 
 # Convert big to AdBlocklist ...
 
+Prepare domain list for compiling ... done.
+
 ℹ Starting @adguard/hostlist-compiler v1.0.12
 ℹ Starting the compiler
 ℹ Configuration: {
-    "name": "Big",
+    "name": "big",
     "sources": [
         {
-            "source": "/media/nas/git/adguard/multi.adblock",
+            "source": "big.adblock.raw",
             "type": "adblock",
             "transformations": [
                 "Validate"
             ]
-        },
-        {
-            "source": "/media/nas/git/adguard/fake.adblock",
-            "type": "adblock",
-            "transformations": [
-                "Validate"
-            ]
-        },
-        {
-            "source": "https://abp.oisd.nl/",
-            "type": "adblock",
-            "exclusions_sources": [
-                "../exclusions.txt",
-                "../../../data/adblock.exclusions.referral",
-                "../../../data/adblock.exclusions.list",
-                "../../../data/adblock.exclusions.important",
-                "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt"
-            ],
-            "transformations": [
-                "Validate"
-            ]
-        },
-        {
-            "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
-            "type": "adblock",
-            "exclusions_sources": [
-                "../exclusions.txt",
-                "../../../data/adblock.exclusions.referral",
-                "../../../data/adblock.exclusions.list",
-                "../../../data/adblock.exclusions.important"
-            ],
-            "transformations": [
-                "Validate"
-            ]
-        },
-        {
-            "source": "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt",
-            "exclusions_sources": [
-                "../exclusions.txt",
-                "../../../data/adblock.exclusions.referral",
-                "../../../data/adblock.exclusions.important"
-            ],
-            "transformations": [
-                "Validate"
-            ],
-            "type": "adblock"
-        },
-        {
-            "source": "../rules.txt",
-            "exclusions_sources": [
-                "../exclusions.txt",
-                "../../../data/adblock.exclusions.referral",
-                "../../../data/adblock.exclusions.important"
-            ],
-            "transformations": [
-                "Validate"
-            ],
-            "type": "adblock"
-        },
-        {
-            "source": "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt",
-            "transformations": [
-                "Validate"
-            ],
-            "type": "adblock"
-        },
-        {
-            "source": "../exceptions.txt",
-            "transformations": [
-                "Validate"
-            ],
-            "type": "adblock"
         }
     ],
     "transformations": [
         "Compress"
     ]
 }
-ℹ Start compiling /media/nas/git/adguard/multi.adblock
-ℹ Original length is 258092
-ℹ Length after applying transformations is 258092
-ℹ Start compiling /media/nas/git/adguard/fake.adblock
-ℹ Original length is 23809
-ℹ Length after applying transformations is 23809
-ℹ Start compiling https://abp.oisd.nl/
-ℹ Original length is 371588
-ℹ Filtering the list of rules using 2151 exclusion rules
-ℹ Excluded 560 rules. 371028 rules left.
-ℹ Length after applying transformations is 371027
-ℹ Start compiling https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-ℹ Original length is 41807
-ℹ Filtering the list of rules using 1825 exclusion rules
-ℹ Excluded 105 rules. 41702 rules left.
-ℹ Length after applying transformations is 41702
-ℹ Start compiling https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt
-ℹ Original length is 576
-ℹ Filtering the list of rules using 918 exclusion rules
-ℹ Excluded 0 rules. 576 rules left.
-ℹ Length after applying transformations is 570
-ℹ Start compiling ../rules.txt
-ℹ Original length is 2
-ℹ Filtering the list of rules using 918 exclusion rules
-ℹ Excluded 0 rules. 2 rules left.
-ℹ Length after applying transformations is 2
-ℹ Start compiling https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt
-ℹ Original length is 179
-ℹ Length after applying transformations is 179
-ℹ Start compiling ../exceptions.txt
-ℹ Original length is 32
-ℹ Length after applying transformations is 32
-ℹ The list was compressed from 695437 to 494878
-ℹ Final length of the list is 494884
+ℹ Start compiling big.adblock.raw
+ℹ Original length is 951039
+ℹ Length after applying transformations is 951037
+ℹ The list was compressed from 951040 to 508330
+ℹ Final length of the list is 508336
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/big/out/big.adblock
 ℹ Finished compiling
 
