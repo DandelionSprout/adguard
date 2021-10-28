@@ -39,12 +39,12 @@
 !    1 |   14631 | domains | local  | online  | unchanged | black.list
 !    2 |     134 | domains | local  | online  | unchanged | black.list.threat-intelligence
 !    3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
-!    4 |    3672 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+!    4 |    3675 | hosts   | http   | online  | changed   | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 !    5 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
 !    6 |    2016 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
-!    7 |    4924 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
+!    7 |    4923 | adblock | http   | online  | changed   | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
 !
-! 12816 unique Domains - Version 2021.1028.085514
+! 12818 unique Domains - Version 2021.1028.120818
 !
 ||0emm.com^
 ||0i0i0i0.com^
@@ -2141,7 +2141,6 @@
 ||as.otto.de^
 ||assamtour.in^
 ||asset42.check24.de^
-||asset.fwcdn2.com^
 ||assets1.exgfnetwork.com^
 ||assets.a-mo.net^
 ||assetscdn.pushengage.com^
@@ -4999,6 +4998,8 @@
 ||finn.demdex.net^
 ||firebaselogging.googleapis.com^
 ||firebaselogging-pa.googleapis.com^
+||fireworkadservices.com^
+||fireworkanalytics.com^
 ||firstimpression.io^
 ||first.iovation.com^
 ||firstlightera.com^
@@ -5179,6 +5180,7 @@
 ||fuzzyflavor.com^
 ||fuzzyweather.com^
 ||fw.adsafeprotected.com^
+||fwcdn2.com^
 ||fwpixel.com^
 ||fxclix.com^
 ||fxj.com.au^
