@@ -32,28 +32,28 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |  478525 | domains | local  | online  | changed   | multi.txt
+   1 |  482203 | domains | local  | online  | changed   | multi.txt
    2 |   46809 | domains | local  | online  | unchanged | fake.txt
-   3 | 1058154 | domains | http   | online  | changed   | https://dbl.oisd.nl
-   4 |   40751 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+   3 | 1058154 | domains | http   | online  | unchanged | https://dbl.oisd.nl
+   4 |   40776 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
 # Build big Domainlist ...
 
 Stats big:
 
-** Source (raw):    1624239
-== Source (unique): 1333778 (-290461)
--- White:           1333513 (-265)
--- White(*):        1328613 (-4900)
--- Dead:            1287498 (-41115)
-++ Block:           1287635 (+137)
--- Unblock:         1287583 (-52)
--- Unblock(*):      1287501 (-82)
-++ FLD:             1301802 (+14301)
-++ WWW:             1311216 (+9414)
+** Source (raw):    1627942
+== Source (unique): 1337333 (-290609)
+-- White:           1337068 (-265)
+-- White(*):        1332168 (-4900)
+-- Dead:            1291053 (-41115)
+++ Block:           1291190 (+137)
+-- Unblock:         1291138 (-52)
+-- Unblock(*):      1291056 (-82)
+++ FLD:             1305357 (+14301)
+++ WWW:             1314771 (+9414)
 
-1311216 unique Domains - Version 2021.1028.121846
-MD5 Domains RAW: bd4cd0f92c01a266181e72b4c092f511
+1314771 unique Domains - Version 2021.1028.181921
+MD5 Domains RAW: 79a23fb9a890aa7300354f4393223375
 
 # Convert big to Hostlist ... 
 
@@ -76,10 +76,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling big.adblock.raw
-ℹ Original length is 950568
-ℹ Length after applying transformations is 950568
-ℹ The list was compressed from 950571 to 508130
-ℹ Final length of the list is 508136
+ℹ Original length is 953889
+ℹ Length after applying transformations is 953889
+ℹ The list was compressed from 953892 to 511223
+ℹ Final length of the list is 511229
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/big/out/big.adblock
 ℹ Finished compiling
 
