@@ -32,7 +32,7 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |   14631 | domains | local  | online  | changed   | black.list
+   1 |   14631 | domains | local  | online  | unchanged | black.list
    2 |     134 | domains | local  | online  | unchanged | black.list.threat-intelligence
    3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
    4 |    3672 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -48,14 +48,14 @@ Stats personal:
 == Source (unique): 23252 (-3861)
 -- White:           21955 (-1297)
 -- White(*):        21915 (-40)
--- Dead:            20978 (-937)
-++ Block:           21143 (+165)
+-- Dead:            20977 (-938)
+++ Block:           21143 (+166)
 -- Unblock:         21141 (-2)
 -- Unblock(*):      21141 (-0)
 ++ FLD:             21294 (+153)
 ++ WWW:             28029 (+6735)
 
-28029 unique Domains - Version 2021.1028.000739
+28029 unique Domains - Version 2021.1028.085514
 MD5 Domains RAW: 4d2b9817789cb049811e09c64abd0136
 
 # Convert personal to Hostlist ... 
@@ -71,10 +71,7 @@ Prepare domain list for compiling ... done.
     "sources": [
         {
             "source": "personal.adblock.raw",
-            "type": "adblock",
-            "transformations": [
-                "Validate"
-            ]
+            "type": "adblock"
         }
     ],
     "transformations": [
@@ -83,9 +80,9 @@ Prepare domain list for compiling ... done.
 }
 ℹ Start compiling personal.adblock.raw
 ℹ Original length is 20887
-ℹ Length after applying transformations is 20886
-ℹ The list was compressed from 20889 to 12819
-ℹ Final length of the list is 12825
+ℹ Length after applying transformations is 20887
+ℹ The list was compressed from 20890 to 12820
+ℹ Final length of the list is 12826
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/personal/out/personal.adblock
 ℹ Finished compiling
 
