@@ -791,11 +791,15 @@
 @@|web.setup^
 @@|web.setup.home^
 
+! Shit
+@@|www.*.cloudfront.net^
+
 ! False positive
 @@||00110.citi.com^
 @@||static-webarchive.org^
 @@|ad.nl^
 @@|bitmovin.com^
+@@|cdn.iobit.com^
 @@|clickhouse.com^
 @@|cloudfront.net^
 @@|demdex.net^
@@ -804,7 +808,10 @@
 @@|glomex.com^
 @@|go-mpulse.net^
 @@|ioam.de^
+@@|iobit.com^
 @@|ipapi.co^
+@@|mc-8c48dcd0-9dfd-4591-be7d-409340-headless-fd1.azurefd.net^
+@@|mimecast.com^
 @@|mylivechat.com^
 @@|nextplatform.com^
 @@|online.com^
@@ -818,8 +825,3 @@
 @@|wieistmeineip.de^
 @@|willhaben.at^
 @@|zomap.de^
-@@|mimecast.com^
-@@|mc-8c48dcd0-9dfd-4591-be7d-409340-headless-fd1.azurefd.net^
-
-! Shit
-@@|www.*.cloudfront.net^
