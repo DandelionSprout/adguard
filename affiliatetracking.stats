@@ -40,7 +40,7 @@ Initialize ...
    2 |     244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
    3 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
    4 |    9317 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
-   5 |   14044 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/adguardteam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
+   5 |   16250 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/adguardteam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
    6 |      22 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
    7 |     429 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
    8 |       5 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
@@ -50,20 +50,20 @@ Initialize ...
 
 Stats affiliatetracking:
 
-** Source (raw):    148460
-== Source (unique): 127846 (-20614)
--- Exclude:         112064 (-15782)
--- White:           112018 (-46)
--- White(*):        111726 (-292)
--- Dead:            109839 (-1887)
-++ Block:           110005 (+166)
--- Unblock:         110005 (-0)
--- Unblock(*):      110005 (-0)
-++ FLD:             110277 (+272)
-++ WWW:             110371 (+94)
+** Source (raw):    150666
+== Source (unique): 128391 (-22275)
+-- Exclude:         109879 (-18512)
+-- White:           109833 (-46)
+-- White(*):        109526 (-307)
+-- Dead:            107639 (-1887)
+++ Block:           107805 (+166)
+-- Unblock:         107805 (-0)
+-- Unblock(*):      107805 (-0)
+++ FLD:             108071 (+266)
+++ WWW:             108165 (+94)
 
-110371 unique Domains - Version 2021.1028.090351
-MD5 Domains RAW: fce79e7d2e4e6a55ddb88ecbf155adb3
+108165 unique Domains - Version 2021.1028.181755
+MD5 Domains RAW: ff2c4a1467062190d93ad439aaf0163c
 
 # Convert affiliatetracking to Hostlist ... 
 
@@ -86,10 +86,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling affiliatetracking.adblock.raw
-ℹ Original length is 107188
-ℹ Length after applying transformations is 107188
-ℹ The list was compressed from 107191 to 79458
-ℹ Final length of the list is 79464
+ℹ Original length is 104999
+ℹ Length after applying transformations is 104999
+ℹ The list was compressed from 105002 to 77316
+ℹ Final length of the list is 77322
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/affiliatetracking/out/affiliatetracking.adblock
 ℹ Finished compiling
 
