@@ -53,17 +53,17 @@ Stats affiliatetracking:
 ** Source (raw):    150666
 == Source (unique): 128391 (-22275)
 -- Exclude:         109879 (-18512)
--- White:           109833 (-46)
--- White(*):        109526 (-307)
--- Dead:            107639 (-1887)
-++ Block:           107805 (+166)
--- Unblock:         107805 (-0)
--- Unblock(*):      107805 (-0)
-++ FLD:             108071 (+266)
-++ WWW:             108165 (+94)
+-- White:           109832 (-47)
+-- White(*):        109525 (-307)
+-- Dead:            107638 (-1887)
+++ Block:           107804 (+166)
+-- Unblock:         107804 (-0)
+-- Unblock(*):      107804 (-0)
+++ FLD:             108070 (+266)
+++ WWW:             108163 (+93)
 
-108165 unique Domains - Version 2021.1028.181755
-MD5 Domains RAW: ff2c4a1467062190d93ad439aaf0163c
+108163 unique Domains - Version 2021.1029.001730
+MD5 Domains RAW: 17bfe0defbcb0013073c9a7b5dd35557
 
 # Convert affiliatetracking to Hostlist ... 
 
@@ -86,10 +86,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling affiliatetracking.adblock.raw
-ℹ Original length is 104999
-ℹ Length after applying transformations is 104999
-ℹ The list was compressed from 105002 to 77316
-ℹ Final length of the list is 77322
+ℹ Original length is 104998
+ℹ Length after applying transformations is 104998
+ℹ The list was compressed from 105001 to 77315
+ℹ Final length of the list is 77321
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/affiliatetracking/out/affiliatetracking.adblock
 ℹ Finished compiling
 
