@@ -29,7 +29,7 @@
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |    2197 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
 !    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
-!    3 |   16924 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+!    3 |   16942 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 !    4 |    1483 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 !    5 |      45 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
 !    6 |    5783 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
@@ -37,7 +37,7 @@
 !    8 |    1423 | domains | local  | online  | unchanged | fake.ts.black.list
 !    9 |     491 | domains | local  | online  | unchanged | fake.vzni.black.list
 !
-! 23767 unique Domains - Version 2021.1028.085615
+! 23785 unique Domains - Version 2021.1029.000905
 !
 ||000relationships.com^
 ||007cryptooption.com^
@@ -999,6 +999,7 @@
 ||allanteacuppuppies.com^
 ||allbudsorganics.com^
 ||allcannabisdispensary.com^
+||allclicks.com^
 ||allconsumstore.com^
 ||allcounterfeitbills.com^
 ||allcounterfeitinternational.com^
@@ -2717,6 +2718,7 @@
 ||bischofer-alm.at^
 ||bishopelectro.com^
 ||biskisloriuniplda.com^
+||bislutwives.com^
 ||bisterberg.de^
 ||bistroyorkies.com^
 ||biswaj.com^
@@ -4926,6 +4928,7 @@
 ||craigmorehatchery.co.za^
 ||craigshihtzu.com^
 ||cramazingmedsstore.com^
+||craptraffic.com^
 ||crateel.com^
 ||cravelogs.net^
 ||crawfordtimes.com^
@@ -7631,6 +7634,7 @@
 ||fastxpressdocuments.com^
 ||fatburner-1.com^
 ||fatherlandherbs.com^
+||fatwives.com^
 ||faugustino.com^
 ||favieltsscore.com^
 ||favornote.com^
@@ -8496,6 +8500,7 @@
 ||gamingplanet.eu^
 ||gamingrockstars.de^
 ||gaming-sky.de^
+||gamingtools.site^
 ||gaming-xpress.com^
 ||gaming-z0ne.com^
 ||gamma24.de^
@@ -9137,6 +9142,7 @@
 ||goldcavapoo.com^
 ||goldchef.de^
 ||goldclubsavings.com^
+||goldcoastescorts.com^
 ||goldcountrytoday.com^
 ||goldcrestshippingline.com^
 ||golddrick.com^
@@ -10599,6 +10605,8 @@
 ||hotrussianbrides.com^
 ||hotspringsfrenchies.com^
 ||hotspringstimes.com^
+||hottestwife.com^
+||hotwifery.com^
 ||houchdoberfarm.com^
 ||houmathibodauxnews.com^
 ||hounony.com^
@@ -13496,6 +13504,7 @@
 ||matthias-koehl.de^
 ||mattiswesthighlandwhiteterrier.com^
 ||mature-hits.net^
+||maturelibrary.com^
 ||maturesexdates.com^
 ||mauireporter.com^
 ||mauritius-koeln.de^
@@ -14275,6 +14284,7 @@
 ||mohreal.com^
 ||moirau.myshopify.com^
 ||moisse.de^
+||mojosearch.com^
 ||mojoweedshop.com^
 ||mojwear.de^
 ||mokapoultry.co.za^
@@ -14550,6 +14560,7 @@
 ||muz-tradingsfood.com^
 ||mvbergweiler.de^
 ||mvplasholding.com^
+||mwifexty.net^
 ||mx4love.com^
 ||mxows.com^
 ||my3bsc.com^
@@ -14697,6 +14708,7 @@
 ||mywebfortoys.com^
 ||mywedj.com^
 ||mywhippetpups.com^
+||my-wife.com^
 ||my-willhaben.at^
 ||myxofy.top^
 ||myyesrun.com^
@@ -17907,6 +17919,7 @@
 ||realweeddispensary.com^
 ||realweedtins.com^
 ||realwood-austria.com^
+||realxxxwives.com^
 ||realyiyi.com^
 ||reankazettw.com^
 ||reasignaciones.com^
@@ -19553,6 +19566,9 @@
 ||slothyear.uk^
 ||sls-baumarkt.de^
 ||slutmedtandlaegeskraek.dk^
+||sluttywives.com^
+||slutwifeoftheday.com^
+||slutwifestories.com^
 ||smail.love^
 ||smainecoonkitten.com^
 ||smalldachshundpuppies.com^
@@ -21336,6 +21352,7 @@
 ||ticketsales.com^
 ||ticslogistics.com^
 ||tieker-versandhandel.de^
+||tiemyankles.com^
 ||tiere.at^
 ||tieredoodle.store^
 ||tiere-infos.de^
@@ -22083,6 +22100,7 @@
 ||uneslabradors.com^
 ||unexplained.news^
 ||unexpress.us^
+||unfaithfulwives.com^
 ||unfiedchickenandmeat.com^
 ||unglaublichepreise.com^
 ||ungulain.top^
