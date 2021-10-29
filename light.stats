@@ -37,7 +37,7 @@ Initialize ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
    1 |    1013 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
-   2 |   16015 | domains | http   | online  | changed   | https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
+   2 |   16034 | domains | http   | online  | changed   | https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
    3 |    9922 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains
    4 |    1486 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains
    5 |    3670 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/ut1/master/ads/domains
@@ -47,11 +47,11 @@ Initialize ...
    9 |     335 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
   10 |   16964 | hosts   | http   | online  | unchanged | https://someonewhocares.org/hosts/
   11 |   93173 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-  12 |    1852 | hosts   | http   | online  | changed   | https://urlhaus.abuse.ch/downloads/hostfile/
-  13 |    4466 | hosts   | http   | online  | unchanged | https://threatfox.abuse.ch/downloads/hostfile
-  14 |   40852 | adblock | http   | online  | changed   | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+  12 |    1890 | hosts   | http   | online  | changed   | https://urlhaus.abuse.ch/downloads/hostfile/
+  13 |    4467 | hosts   | http   | online  | unchanged | https://threatfox.abuse.ch/downloads/hostfile
+  14 |   40882 | adblock | http   | online  | changed   | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
   15 |   16106 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/adguardteam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-  16 |   18691 | adblock | http   | online  | unchanged | https://easylist.to/easylist/easylist.txt
+  16 |   18737 | adblock | http   | online  | changed   | https://easylist.to/easylist/easylist.txt
   17 |   16195 | adblock | http   | online  | unchanged | https://easylist.to/easylist/easyprivacy.txt
   18 |    9319 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
   19 |   14630 | domains | local  | online  | unchanged | black.list
@@ -61,20 +61,20 @@ Initialize ...
 
 Stats light:
 
-** Source (raw):    278355
-== Source (unique): 162990 (-115365)
--- Exclude:         162864 (-126)
--- White:           160584 (-2280)
--- White(*):        157711 (-2873)
--- Dead:            130878 (-26833)
-++ Block:           131044 (+166)
--- Unblock:         131042 (-2)
--- Unblock(*):      131042 (-0)
-++ FLD:             132264 (+1222)
-++ WWW:             174198 (+41934)
+** Source (raw):    278489
+== Source (unique): 163046 (-115443)
+-- Exclude:         162920 (-126)
+-- White:           160640 (-2280)
+-- White(*):        157767 (-2873)
+-- Dead:            130934 (-26833)
+++ Block:           131100 (+166)
+-- Unblock:         131098 (-2)
+-- Unblock(*):      131098 (-0)
+++ FLD:             132321 (+1223)
+++ WWW:             174299 (+41978)
 
-174198 unique Domains - Version 2021.1029.181043
-MD5 Domains RAW: 4797802dc1fc5ee1c3b8c0c480b11cd2
+174299 unique Domains - Version 2021.1030.001034
+MD5 Domains RAW: 9a356b24e3992b8b7340460b6e897ae9
 
 # Convert light to Hostlist ... 
 
@@ -97,10 +97,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling light.adblock.raw
-ℹ Original length is 116443
-ℹ Length after applying transformations is 116443
-ℹ The list was compressed from 116446 to 97725
-ℹ Final length of the list is 97731
+ℹ Original length is 116501
+ℹ Length after applying transformations is 116501
+ℹ The list was compressed from 116504 to 97783
+ℹ Final length of the list is 97789
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/light/out/light.adblock
 ℹ Finished compiling
 
