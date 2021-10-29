@@ -37,14 +37,14 @@
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |   14630 | domains | local  | online  | unchanged | black.list
-!    2 |     135 | domains | local  | online  | changed   | black.list.threat-intelligence
+!    2 |     135 | domains | local  | online  | unchanged | black.list.threat-intelligence
 !    3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
-!    4 |    3675 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+!    4 |    3674 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 !    5 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
 !    6 |    2016 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
 !    7 |    4923 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
 !
-! 12819 unique Domains - Version 2021.1029.060855
+! 12817 unique Domains - Version 2021.1029.180833
 !
 ||0emm.com^
 ||0i0i0i0.com^
@@ -1171,7 +1171,6 @@
 ||ads.joaffs.com^
 ||ads.jobsite.co.uk^
 ||ads.jpost.com^
-||ads.junctionbox.com^
 ||ads.justhungry.com^
 ||ads.kaktuz.net^
 ||ad.sk.doubleclick.net^
@@ -3991,7 +3990,6 @@
 ||dapxl.com^
 ||dart-ad.l.doubleclick.net^
 ||da-services.ch^
-||dashbida.com^
 ||dashboard.io^
 ||dashboard.tinypass.com^
 ||dashingdirt.com^

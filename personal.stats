@@ -33,9 +33,9 @@ Initialize ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
    1 |   14630 | domains | local  | online  | unchanged | black.list
-   2 |     135 | domains | local  | online  | changed   | black.list.threat-intelligence
+   2 |     135 | domains | local  | online  | unchanged | black.list.threat-intelligence
    3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
-   4 |    3675 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+   4 |    3674 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
    5 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
    6 |    2016 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
    7 |    4923 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
@@ -44,19 +44,19 @@ Initialize ...
 
 Stats personal:
 
-** Source (raw):    27115
-== Source (unique): 23254 (-3861)
--- White:           21957 (-1297)
--- White(*):        21917 (-40)
--- Dead:            20980 (-937)
-++ Block:           21146 (+166)
--- Unblock:         21144 (-2)
--- Unblock(*):      21144 (-0)
-++ FLD:             21298 (+154)
-++ WWW:             28036 (+6738)
+** Source (raw):    27114
+== Source (unique): 23253 (-3861)
+-- White:           21956 (-1297)
+-- White(*):        21916 (-40)
+-- Dead:            20978 (-938)
+++ Block:           21144 (+166)
+-- Unblock:         21142 (-2)
+-- Unblock(*):      21142 (-0)
+++ FLD:             21296 (+154)
+++ WWW:             28033 (+6737)
 
-28036 unique Domains - Version 2021.1029.060855
-MD5 Domains RAW: 741a8113677e97b8766b1f5e610c6aac
+28033 unique Domains - Version 2021.1029.180833
+MD5 Domains RAW: 31a1605524e827d078d046bfb85f128b
 
 # Convert personal to Hostlist ... 
 
@@ -79,10 +79,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling personal.adblock.raw
-ℹ Original length is 20891
-ℹ Length after applying transformations is 20891
-ℹ The list was compressed from 20894 to 12823
-ℹ Final length of the list is 12829
+ℹ Original length is 20889
+ℹ Length after applying transformations is 20889
+ℹ The list was compressed from 20892 to 12821
+ℹ Final length of the list is 12827
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/personal/out/personal.adblock
 ℹ Finished compiling
 
