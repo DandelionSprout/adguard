@@ -29,7 +29,7 @@
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |    2197 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
 !    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
-!    3 |   16958 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+!    3 |   16959 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 !    4 |    1483 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 !    5 |      45 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
 !    6 |    5783 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
@@ -37,7 +37,7 @@
 !    8 |    1423 | domains | local  | online  | unchanged | fake.ts.black.list
 !    9 |     491 | domains | local  | online  | unchanged | fake.vzni.black.list
 !
-! 23793 unique Domains - Version 2021.1029.180940
+! 23793 unique Domains - Version 2021.1030.000925
 !
 ||000relationships.com^
 ||007cryptooption.com^
@@ -1494,7 +1494,6 @@
 ||anxietydrug4health.com^
 ||anxietysolutionpharmacy.com^
 ||anxietytreats.com^
-||anycubic.com^
 ||anycustomercarenumbers.com^
 ||anydecals.com^
 ||anytimesupport.net^
@@ -9745,6 +9744,7 @@
 ||gunsexpresszone.com^
 ||gunsforsalecheap.com^
 ||gunsforsalegun.com^
+||gunsforsaleonline.org^
 ||gunsforsale-usa.com^
 ||gunshopofficial.com^
 ||gunshoppro.com^
