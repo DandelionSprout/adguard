@@ -32,6 +32,7 @@
 @@||amazon.nl^
 @@||amazon.sa^
 @@||amazon.se^
+@@||amazonalexa.com^
 @@||amazonsilk.com^
 @@||media-amazon.com^
 @@|aan.amazon.com^
@@ -58,7 +59,7 @@
 @@|s3.amazonaws.com^
 
 ! Amazon Devices (Alexa, Kindle, ...)
-@@|a2z.com^
+@@||a2z.com^
 @@|avs-alexa-*-*.amazon.com^
 @@|d3p8zr0ffa9t17.cloudfront.net^
 @@|device-metrics-*.amazon.com^
@@ -77,6 +78,7 @@
 @@||atv-ps.amazon.com^
 @@||primevideo.com^
 @@||pv-cdn.net^
+@@||video.a2z.com^
 @@|d25xi40x97liuc.cloudfront.net^
 @@|dmqdd6hw24ucf.cloudfront.net^
 
@@ -374,6 +376,10 @@
 @@||steamuserimages-a.akamaihd.net^
 @@||steamvideo-a.akamaihd.net^
 @@||valvesoftware.com^
+
+! Slack
+@@||slack.com^
+@@||slackb.com^
 
 ! Sony (Playstation)
 @@||playstation.com^
