@@ -35,7 +35,7 @@
 ! --------------------------------------------
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
-!    1 |   14013 | hosts   | http   | online  | changed   | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+!    1 |   14013 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 !    2 |     244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 !    3 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
 !    4 |    9319 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
@@ -45,7 +45,7 @@
 !    8 |       5 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
 !    9 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
 !
-! 11649 unique Domains - Version 2021.1030.093438
+! 11648 unique Domains - Version 2021.1030.121818
 !
 ||106075.genieessp.com^
 ||108557.genieessp.com^
@@ -562,7 +562,6 @@
 ||apologia.postaffiliatepro.com^
 ||aponeo01.webtrekk.net^
 ||app2.salesmanago.pl^
-||app.adjust.com^
 ||app.bugsnag.com^
 ||app.chat.xiaomi.net^
 ||app.getresponse.com^
