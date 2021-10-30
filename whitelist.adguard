@@ -13,6 +13,10 @@
 @@|tags.tiqcdn.com^
 @@|www.asadcdn.com^
 
+! Adobe
+! https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/demdex-calls.html
+@@||demdex.net^
+
 ! Amazon
 @@||amazon-adsystem.com^
 @@||amazon.ae^
@@ -31,33 +35,16 @@
 @@||amazonsilk.com^
 @@||media-amazon.com^
 @@|aan.amazon.com^
-@@|aax-eu-retail-direct.amazon-adsystem.com^
-@@|aax-eu.amazon-adsystem.com^
-@@|aax-us-east.amazon-adsystem.com^
-@@|aax.amazon-adsystem.amazon.com^
+@@|aax-*.amazon-adsystem.com^
+@@|aax.*.amazon.com^
 @@|aax.amazon-adsystem.com^
 @@|amazon-adsystem.com^
 @@|assoc-amazon.com^
 @@|aviary.amazon.de^
 @@|c.amazon-adsystem.com^
-@@|configuration-vending.service.amazonsilk.com^
-@@|fls-eu.amazon-adsystem.com^
-@@|fls-eu.amazon.ae^
-@@|fls-eu.amazon.co.uk^
-@@|fls-eu.amazon.com^
-@@|fls-eu.amazon.de^
-@@|fls-eu.amazon.es^
-@@|fls-eu.amazon.fr^
-@@|fls-eu.amazon.in^
-@@|fls-eu.amazon.it^
-@@|fls-eu.amazon.nl^
-@@|fls-eu.amazon.sa^
-@@|fls-eu.amazon.se^
-@@|fls-na.amazon.com.br^
-@@|fls-na.amazon.com.mx^
-@@|global.safebrowsing.service.amazonsilk.com^
-@@|kinesis.us-east-1.amazonaws.com^
-@@|mads-eu.amazon.com^
+@@|fls-*.amazon-adsystem.com^
+@@|fls-*.amazon.*^
+@@|mads-*.amazon.com^
 @@|mads.amazon-adsystem.com^
 @@|mads.amazon.com^
 @@|partnernet.amazon.de^
@@ -65,37 +52,18 @@
 
 ! Amazon AWS
 @@|bbuseruploads.s3.amazonaws.com^
+@@|kinesis.*.amazonaws.com^
+@@|s3-*.amazonaws.com^
+@@|s3.*.amazonaws.com^
 @@|s3.amazonaws.com^
 
 ! Amazon Devices (Alexa, Kindle, ...)
 @@|a2z.com^
-@@|avs-alexa-1-na.amazon.com^
-@@|avs-alexa-13-na.amazon.com^
-@@|avs-alexa-14-eu.amazon.com^
-@@|avs-alexa-14-na.amazon.com^
-@@|avs-alexa-15-na.amazon.com^
-@@|avs-alexa-16-na.amazon.com^
-@@|avs-alexa-18-eu.amazon.com^
-@@|avs-alexa-18-fe.amazon.com^
-@@|avs-alexa-18-na.amazon.com^
-@@|avs-alexa-19-na.amazon.com^
-@@|avs-alexa-3-eu.amazon.com^
-@@|avs-alexa-3-na.amazon.com^
-@@|avs-alexa-4-eu.amazon.com^
-@@|avs-alexa-4-na.amazon.com^
-@@|avs-alexa-5-eu.amazon.com^
-@@|avs-alexa-5-na.amazon.com^
-@@|avs-alexa-6-eu.amazon.com^
-@@|avs-alexa-6-na.amazon.com^
-@@|avs-alexa-7-eu.amazon.com^
-@@|avs-alexa-7-na.amazon.com^
+@@|avs-alexa-*-*.amazon.com^
 @@|d3p8zr0ffa9t17.cloudfront.net^
-@@|device-metrics-us-2.amazon.com^
-@@|device-metrics-us.amazon.com^
+@@|device-metrics-*.amazon.com^
 @@|dxz5jxhrrzigf.cloudfront.net^
-@@|msh.amazon.co.uk^
-@@|msh.amazon.com^
-@@|msh.amazon.de^
+@@|msh.amazon.*^
 @@|prod.amcs-tachyon.com^
 
 ! Amazon Prime Video
@@ -114,15 +82,14 @@
 
 ! Apps (Mobile)
 @@|app.link^
-@@|mobilesdk-us.kampyle.com^
+@@|mobilesdk-*.kampyle.com^
 
 ! Apple
 @@|doh.dns.apple.com^
 @@|cstat.apple.com^
 @@|iphone-ld.apple.com^
 @@|iphone-ld.origin-apple.com.akadns.net^
-@@|ocsp.apple.com^
-@@|ocsp2.apple.com^
+@@|ocsp*.apple.com^
 @@|xp.apple.com^
 
 ! Cookies (Spiegel/...)
@@ -193,8 +160,7 @@
 @@||dssott.com^
 @@||dssott.com.akamaized.net^
 @@||search-api-disney.bamgrid.com^
-@@|akamai-san24.exacttarget.com.edgekey.net^
-@@|akamai-san39.exacttarget.com.edgekey.net^
+@@|akamai-san*.exacttarget.com.edgekey.net^
 @@|e12906.dscx.akamaiedge.net^
 @@|exacttarget.com.edgekey.net^
 @@|image.mail.disneyplus.com^
@@ -275,11 +241,15 @@
 @@|static.apester.com^
 
 ! Microsoft
+@@||1drv.com^
+@@||activity.windows.com^
+@@||events.data.microsoft.com^
 @@||msedge.net^
 @@||office.com^
 @@||onedrive.com^
+@@||pipe.aria.microsoft.com^
 @@||teams.microsoft.com^
-@@||activity.windows.com^
+@@||vortex.data.microsoft.com^
 @@|arc.msn.com^
 @@|browser.events.data.microsoft.com^
 @@|click.email.microsoftrewards.com^
@@ -324,18 +294,12 @@
 @@||nflximg.net^
 @@||nflxso.net^
 @@||nflxvideo.net^
-@@|apiproxy-device-prod-nlb-3-a653f8a785200e05.elb.us-west-2.amazonaws.com^
+@@|apiproxy-device-prod-nlb-*.*.amazonaws.com^
 @@|customerevents.netflix.com^
-@@|dualstack.apiproxy-device-prod-nlb-1-4d12762d4ba53e45.elb.eu-west-1.amazonaws.com^
-@@|dualstack.apiproxy-device-prod-nlb-1-c582e7914e487bf4.elb.us-east-1.amazonaws.com^
-@@|dualstack.apiproxy-device-prod-nlb-2-300c995e1ce8a001.elb.us-east-1.amazonaws.com^
-@@|dualstack.apiproxy-device-prod-nlb-3-a6ae1986950e693f.elb.us-east-1.amazonaws.com^
-@@|dualstack.apiproxy-device-prod-nlb-3-d601e17f0cb54f72.elb.eu-west-1.amazonaws.com^
-@@|dualstack.apiproxy-device-prod-nlb-4-1f9e6a56738a49ec.elb.us-east-1.amazonaws.com^
-@@|dualstack.apiproxy-device-prod-nlb-4-f1dce6fa09ac5989.elb.eu-west-1.amazonaws.com^
-@@|dualstack.apiproxy-http1-199106617.us-east-1.elb.amazonaws.com^
-@@|dualstack.beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com^
-@@|dualstack.ichnaea-web-121909266.us-east-1.elb.amazonaws.com^
+@@|dualstack.apiproxy-device-prod-*.elb.*.amazonaws.com^
+@@|dualstack.apiproxy-http1-*.*.elb.amazonaws.com^
+@@|dualstack.beaconserver-ce-*.*.elb.amazonaws.com^
+@@|dualstack.ichnaea-web-*.*.elb.amazonaws.com^
 @@|ichnaea-web.netflix.com^
 @@|ichnaea.netflix.com^
 @@|nrdp.prod.ftl.netflix.com^
@@ -352,10 +316,7 @@
 ! n-tv
 @@||damoh.n-tv.de^
 @@||ntvde.damoh.schneevonmorgen.com^
-@@|1.ntvde.damoh.schneevonmorgen.com^
-@@|2.ntvde.damoh.schneevonmorgen.com^
-@@|ssl.1.damoh.n-tv.de^
-@@|ssl.2.damoh.n-tv.de^
+@@|ssl.*.damoh.n-tv.de^
 
 ! NVidia
 @@|events.gfe.nvidia.com^
@@ -418,10 +379,9 @@
 @@||sonyjpnpsg-1.hs.llnwd.net^
 
 ! Spotify
-@@||audio-ak-spotify-com.akamaized.net^
-@@||audio-akp-bbr-spotify-com.akamaized.net^
-@@||audio4-ak-spotify-com.akamaized.net^
-@@||heads-ak-spotify-com.akamaized.net^
+@@||audio-*-spotify-com.akamaized.net^
+@@||audio4-*-spotify-com.akamaized.net^
+@@||heads-*-spotify-com.akamaized.net^
 @@||pscdn.co^
 @@||scdn.co^
 @@||spoti.fi^
@@ -473,12 +433,12 @@
 @@||twitch.tv^
 @@||twitchcdn.net^
 @@||twitchsvc.net^
-@@|countess-prod-public-176850629.us-west-2.elb.amazonaws.com^
+@@|countess-prod-public-*.*.elb.amazonaws.com^
 @@|countess.twitch.tv^
 @@|ink1001.com^
 @@|mi.twitch.tv^
-@@|movable-ink-397.com^
-@@|science-edge-external-prod-73889260.us-west-2.elb.amazonaws.com^
+@@|movable-ink-*.com^
+@@|science-edge-external-prod-*.*.elb.amazonaws.com^
 @@|static-cdn.jtvnw.net^
 @@|supervisor.ext-twitch.tv^
 
@@ -506,7 +466,7 @@
 @@||webex.com.cn^
 @@||webex.com.edgekey.net^
 @@||webex.com.ssl.sc.omtrdc.net^
-@@|admin-webex-com-690861900.us-east-2.elb.amazonaws.com^
+@@|admin-webex-com-*.*.elb.amazonaws.com^
 
 ! XBox
 @@||xbox.com^
@@ -550,189 +510,6 @@
 @@|click.zoom.us^
 @@|log.zoom.us^
 @@|logfiles.zoom.us^
-
-! Threat-Intelligence Exclusion (NextDNS)
-@@||0rz.tw^
-@@||1drv.ms^
-@@||4shared.com^
-@@||archive.org^
-@@||arpa^
-@@||backblazeb2.com^
-@@||bit.do^
-@@||bit.ly^
-@@||bitly.com^
-@@||cl.ly^
-@@||cloud.ovh.net^
-@@||cutt.ly^
-@@||docs.google.com^
-@@||docs.zoho.com^
-@@||downloads.intercomcdn.com^
-@@||drive.google.com^
-@@||dropbox.com^
-@@||dropboxusercontent.com^
-@@||evernote.com^
-@@||file-upload.com^
-@@||filefactory.com^
-@@||files.1drv.com^
-@@||files.cloud.orange.fr^
-@@||forms.gle^
-@@||ghostbin.co^
-@@||gitlab.com^
-@@||googleusercontent.com^
-@@||imagebam.com^
-@@||imagehosting.biz^
-@@||imgbox.com^
-@@||imgur.com^
-@@||is.gd^
-@@||j.mp^
-@@||jsdelivr.net^
-@@||linktr.ee^
-@@||lnky.in^
-@@||mail.naver.com^
-@@||maven.org^
-@@||mediafire.com^
-@@||mega.nz^
-@@||on24.com^
-@@||onedrive.live.com^
-@@||ow.ly^
-@@||paste.ee^
-@@||pastebin.com^
-@@||pasteboard.co^
-@@||pastelink.net^
-@@||postimg.cc^
-@@||pxlme.me^
-@@||rb.gy^
-@@||rebrand.ly^
-@@||reurl.cc^
-@@||s.id^
-@@||send.firefox.com^
-@@||sendspace.com^
-@@||snip.ly^
-@@||thumbsnap.com^
-@@||tiny.cc^
-@@||tinypic.com^
-@@||tinyurl.com^
-@@||wetransfer.com^
-@@||wixstatic.com^
-@@||xpixl.me^
-@@||zdusercontent.com^
-@@||zippyshare.com^
-@@|ams3.digitaloceanspaces.com^
-@@|bitbucket.org^
-@@|ddns.net^
-@@|files.slack.com^
-@@|firebasestorage.googleapis.com^
-@@|hopto.org^
-@@|kriskintel.com^
-@@|mailchi.mp^
-@@|mandrillapp.com^
-@@|nyc3.digitaloceanspaces.com^
-@@|s3-af-south-1.amazonaws.com^
-@@|s3-ap-east-1.amazonaws.com^
-@@|s3-ap-northeast-1.amazonaws.com^
-@@|s3-ap-northeast-2.amazonaws.com^
-@@|s3-ap-northeast-3.amazonaws.com^
-@@|s3-ap-south-1.amazonaws.com^
-@@|s3-ap-southeast-1.amazonaws.com^
-@@|s3-ap-southeast-2.amazonaws.com^
-@@|s3-ca-central-1.amazonaws.com^
-@@|s3-cn-north-1.amazonaws.com^
-@@|s3-cn-northwest-1.amazonaws.com^
-@@|s3-eu-central-1.amazonaws.com^
-@@|s3-eu-north-1.amazonaws.com^
-@@|s3-eu-south-1.amazonaws.com^
-@@|s3-eu-west-1.amazonaws.com^
-@@|s3-eu-west-2.amazonaws.com^
-@@|s3-eu-west-3.amazonaws.com^
-@@|s3-sa-east-1.amazonaws.com^
-@@|s3-us-east-1.amazonaws.com^
-@@|s3-us-east-2.amazonaws.com^
-@@|s3-us-west-1.amazonaws.com^
-@@|s3-us-west-2.amazonaws.com^
-@@|s3-website-ap-northeast-1.amazonaws.com^
-@@|s3-website-ap-southeast-1.amazonaws.com^
-@@|s3-website-ap-southeast-2.amazonaws.com^
-@@|s3-website-eu-west-1.amazonaws.com^
-@@|s3-website-sa-east-1.amazonaws.com^
-@@|s3-website-us-east-1.amazonaws.com^
-@@|s3-website-us-west-1.amazonaws.com^
-@@|s3-website-us-west-2.amazonaws.com^
-@@|s3-website.af-south-1.amazonaws.com^
-@@|s3-website.ap-east-1.amazonaws.com^
-@@|s3-website.ap-northeast-2.amazonaws.com^
-@@|s3-website.ap-northeast-3.amazonaws.com^
-@@|s3-website.ap-south-1.amazonaws.com^
-@@|s3-website.ca-central-1.amazonaws.com^
-@@|s3-website.cn-northwest-1.amazonaws.com.cn^
-@@|s3-website.eu-central-1.amazonaws.com^
-@@|s3-website.eu-north-1.amazonaws.com^
-@@|s3-website.eu-south-1.amazonaws.com^
-@@|s3-website.eu-west-2.amazonaws.com^
-@@|s3-website.eu-west-3.amazonaws.com^
-@@|s3-website.us-east-2.amazonaws.com^
-@@|s3.af-south-1.amazonaws.com^
-@@|s3.ap-east-1.amazonaws.com^
-@@|s3.ap-northeast-1.amazonaws.com^
-@@|s3.ap-northeast-2.amazonaws.com^
-@@|s3.ap-northeast-3.amazonaws.com^
-@@|s3.ap-south-1.amazonaws.com^
-@@|s3.ap-southeast-1.amazonaws.com^
-@@|s3.ap-southeast-2.amazonaws.com^
-@@|s3.ca-central-1.amazonaws.com^
-@@|s3.cn-north-1.amazonaws.com^
-@@|s3.cn-northwest-1.amazonaws.com^
-@@|s3.dualstack.af-south-1.amazonaws.com^
-@@|s3.dualstack.ap-east-1.amazonaws.com^
-@@|s3.dualstack.ap-northeast-1.amazonaws.com^
-@@|s3.dualstack.ap-northeast-2.amazonaws.com^
-@@|s3.dualstack.ap-northeast-3.amazonaws.com^
-@@|s3.dualstack.ap-south-1.amazonaws.com^
-@@|s3.dualstack.ap-southeast-1.amazonaws.com^
-@@|s3.dualstack.ap-southeast-2.amazonaws.com^
-@@|s3.dualstack.ca-central-1.amazonaws.com^
-@@|s3.dualstack.cn-north-1.amazonaws.com^
-@@|s3.dualstack.cn-northwest-1.amazonaws.com^
-@@|s3.dualstack.eu-central-1.amazonaws.com^
-@@|s3.dualstack.eu-north-1.amazonaws.com^
-@@|s3.dualstack.eu-south-1.amazonaws.com^
-@@|s3.dualstack.eu-west-1.amazonaws.com^
-@@|s3.dualstack.eu-west-2.amazonaws.com^
-@@|s3.dualstack.eu-west-3.amazonaws.com^
-@@|s3.dualstack.sa-east-1.amazonaws.com^
-@@|s3.dualstack.us-east-1.amazonaws.com^
-@@|s3.dualstack.us-east-2.amazonaws.com^
-@@|s3.dualstack.us-west-1.amazonaws.com^
-@@|s3.dualstack.us-west-2.amazonaws.com^
-@@|s3.eu-central-1.amazonaws.com^
-@@|s3.eu-north-1.amazonaws.com^
-@@|s3.eu-south-1.amazonaws.com^
-@@|s3.eu-west-1.amazonaws.com^
-@@|s3.eu-west-2.amazonaws.com^
-@@|s3.eu-west-3.amazonaws.com^
-@@|s3.sa-east-1.amazonaws.com^
-@@|s3.us-east-1.amazonaws.com^
-@@|s3.us-east-2.amazonaws.com^
-@@|s3.us-west-1.amazonaws.com^
-@@|s3.us-west-2.amazonaws.com^
-@@|sfo2.digitaloceanspaces.com^
-@@|sgp1.digitaloceanspaces.com^
-@@|simp.ly^
-@@|sites.google.com^
-@@|storage.googleapis.com^
-@@|sytes.net^
-@@|weebly.com^
-@@|zapto.org^
-
-! NextDNS
-@@||cloud.answerhub.com^
-@@||gov^
-@@||inc.com^
-@@||lenta.ru^
-@@||smartsheet.com^
-@@|ae01.alicdn.com^
-@@|geo2.adobe.com^
-@@|get3.adobe.com^
-@@|teslarati-com-edge.ntv.io^
 
 ! Lokal
 @@||fritz.box^
@@ -797,12 +574,14 @@
 ! False positive
 @@||00110.citi.com^
 @@||static-webarchive.org^
+@@||wieistmeineip.de^
 @@|ad.nl^
 @@|bitmovin.com^
 @@|cdn.iobit.com^
 @@|clickhouse.com^
 @@|cloudfront.net^
-@@|demdex.net^
+@@|dee.su^
+@@|digi77.com^
 @@|esd.icloseli.com^
 @@|glitch.me^
 @@|glomex.com^
@@ -810,18 +589,25 @@
 @@|ioam.de^
 @@|iobit.com^
 @@|ipapi.co^
+@@|ipredia.org^
 @@|mc-8c48dcd0-9dfd-4591-be7d-409340-headless-fd1.azurefd.net^
 @@|mimecast.com^
+@@|mofolinux.com^
 @@|mylivechat.com^
 @@|nextplatform.com^
 @@|online.com^
 @@|opecloud.com^
+@@|opera.com^
 @@|organicfruitapps.com^
+@@|parrotsec.org^
 @@|pcmatic.com^
+@@|polippix.org^
+@@|privacy-cd.org^
 @@|real-markt.de^
 @@|strato.de^
+@@|tails.boum.org^
 @@|visitor-badge.glitch.me^
 @@|watchlist-internet.at^
-@@|wieistmeineip.de^
+@@|whonix.org^
 @@|willhaben.at^
 @@|zomap.de^
