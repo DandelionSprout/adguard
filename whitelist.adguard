@@ -81,8 +81,12 @@
 @@|dmqdd6hw24ucf.cloudfront.net^
 
 ! Apps (Mobile)
+@@|api.branch.io^
+@@|api2.branch.io^
 @@|app.link^
+@@|cdn.branch.io^
 @@|mobilesdk-*.kampyle.com^
+@@|sb.scorecardresearch.com^
 
 ! Apple
 @@|doh.dns.apple.com^
@@ -140,6 +144,7 @@
 @@|crashlytics2.l.google.com^
 @@|crashlyticsreports-pa.googleapis.com^
 @@|events.split.io^
+@@|firebase-settings.crashlytics.com^
 
 ! Deutsche Bahn
 @@|st.bahn.de^
@@ -397,6 +402,9 @@
 @@||spotifycodes.com^
 @@||spotifyjobs.com^
 @@||spotilocal.com^
+@@|app.adjust.com^
+@@|app.adjust.net.in^
+@@|app.adjust.world^
 @@|wl.spotify.com^
 
 ! Streaming/Videos
