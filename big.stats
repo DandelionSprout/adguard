@@ -9,21 +9,18 @@ Config:
    adblock
    localpush
 
-++ Prioritized Blocklists - 1:
+++ Prioritized Blocklists - 2:
 
+   ../../data/black.list.block
    ../../data/rules.list.block
 
 -- Deadlists - 1:
 
    ../../data/dead.list
 
--- Whitelists - 2:
+-- Unblocklists - 3:
 
    ../../data/white.list
-   ../../data/white.list.adguard
-
--- Unblocklists - 2:
-
    ../../data/white.list.important
    ../../data/white.list.referral
 
@@ -32,28 +29,25 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |  483669 | domains | local  | online  | changed   | multi.txt
-   2 |   46860 | domains | local  | online  | changed   | fake.txt
+   1 |  482097 | domains | local  | online  | changed   | multi.txt
+   2 |   46856 | domains | local  | online  | changed   | fake.txt
    3 | 1059554 | domains | http   | online  | unchanged | https://dbl.oisd.nl
-   4 |   40882 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
 # Build big Domainlist ...
 
 Stats big:
 
-** Source (raw):    1630965
-== Source (unique): 1338669 (-292296)
--- White:           1338404 (-265)
--- White(*):        1333505 (-4899)
--- Dead:            1292327 (-41178)
-++ Block:           1292464 (+137)
--- Unblock:         1292413 (-51)
--- Unblock(*):      1292332 (-81)
-++ FLD:             1306677 (+14345)
-++ WWW:             1316087 (+9410)
+** Source (raw):    1588507
+== Source (unique): 1334165 (-254342)
+-- Dead:            1296192 (-37973)
+++ Block:           1296324 (+132)
+-- Unblock:         1296312 (-12)
+-- Unblock(*):      1294261 (-2051)
+++ FLD:             1308647 (+14386)
+++ WWW:             1317823 (+9176)
 
-1316087 unique Domains - Version 2021.1030.001900
-MD5 Domains RAW: 3d7826d5a7bf88ef3bcc21c2a4b41b69
+1317823 unique Domains - Version 2021.1030.093531
+MD5 Domains RAW: 73eb5bef972c9dcb6438acd96daf87e4
 
 # Convert big to Hostlist ... 
 
@@ -76,10 +70,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling big.adblock.raw
-ℹ Original length is 954744
-ℹ Length after applying transformations is 954744
-ℹ The list was compressed from 954747 to 512052
-ℹ Final length of the list is 512058
+ℹ Original length is 956482
+ℹ Length after applying transformations is 956482
+ℹ The list was compressed from 956485 to 488030
+ℹ Final length of the list is 488036
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/big/out/big.adblock
 ℹ Finished compiling
 
