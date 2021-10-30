@@ -29,15 +29,15 @@
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |    2197 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
 !    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
-!    3 |   16959 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+!    3 |   17009 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 !    4 |    1483 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 !    5 |      45 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
-!    6 |    5904 | domains | http   | online  | changed   | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
+!    6 |    5904 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 !    7 |    6880 | domains | local  | online  | unchanged | black.list.fake
 !    8 |    1424 | domains | local  | online  | unchanged | fake.ts.black.list
 !    9 |     491 | domains | local  | online  | unchanged | fake.vzni.black.list
 !
-! 23892 unique Domains - Version 2021.1030.120933
+! 23942 unique Domains - Version 2021.1031.000950
 !
 ||000relationships.com^
 ||007cryptooption.com^
@@ -255,6 +255,7 @@
 ||420ganja.shop^
 ||420ganjaway.com^
 ||420gashouse.com^
+||420gasunit.com^
 ||420globaldispensary.com^
 ||420greencannabis.com^
 ||420greenfarms.com^
@@ -649,6 +650,7 @@
 ||adorablepoodlepuppies.us^
 ||adorablepoodleteacuppuppies.com^
 ||adorableporianpups.com^
+||adorablepuppies4home.dog^
 ||adorablepuppiescenter.com^
 ||adorablepuppiesforadoption.com^
 ||adorablepuppiesforlife.com^
@@ -1550,6 +1552,7 @@
 ||apphackzone.com^
 ||applaystation5.com^
 ||applebazaar.ir^
+||applebeaglespup.com^
 ||applecard24.com^
 ||apple-helpnumber.com^
 ||apple-helpsupport.com^
@@ -2400,6 +2403,7 @@
 ||bestcont.co.za^
 ||bestcorgipuppiess.com^
 ||bestcostsuppliers.com^
+||bestcounterfeitandvaliddocs.com^
 ||bestcounterfeitlabsonline.com^
 ||bestcounterfeitmoneyonline.com^
 ||bestcounterfeitnote.com^
@@ -3274,6 +3278,7 @@
 ||budgreenexpressshop.com^
 ||buds4u.org^
 ||budschemicals.com^
+||budsflavormall.com^
 ||budshopsonline.com^
 ||budshouseexotics.com^
 ||budsworld420.com^
@@ -3741,6 +3746,7 @@
 ||cannabisfrostdispensary.com^
 ||cannabishales.com^
 ||cannabishealthhome.com^
+||cannabishempblogstore.com^
 ||cannabisherbsaustralia.com^
 ||cannabishermpstore.com^
 ||cannabishighlife420.com^
@@ -3753,6 +3759,7 @@
 ||cannabisonlinebuy.com^
 ||cannabispluguniverse.com^
 ||cannabisshopdispensary.com^
+||cannabissocietyinc.com^
 ||cannabistillsaluonline.com^
 ||cannabistralia.com^
 ||cannabisuniverse.us^
@@ -4476,6 +4483,7 @@
 ||classicrangebernedoodles.com^
 ||classicretrievergolden.com^
 ||classicrottweilershome.com^
+||classicsamoyedpuppies.com^
 ||classicshibainuhome.com^
 ||classicshihtzuhome.com^
 ||classsysaintbernard.com^
@@ -4486,6 +4494,7 @@
 ||classyhavanese.com^
 ||classykittenshome.com^
 ||classylabradorretrieverpuppies.com^
+||classylabradorretrievers.com^
 ||classy-puppies.com^
 ||classypuppybreeders.com^
 ||classypuppyhome.com^
@@ -4831,6 +4840,7 @@
 ||corgipuppylovers.com^
 ||corgipupsfamily.com^
 ||corgisden.com^
+||cornertradegmbh.com^
 ||cornhuskerstatenews.com^
 ||cornorsfrenchiepuppieshome.com^
 ||coroasinfieis.com^
@@ -5206,6 +5216,7 @@
 ||cutepuppymansion.com^
 ||cutepuppyspot.com^
 ||cutepuppyusa.com^
+||cutepupshome.com^
 ||cuterottweiler.com^
 ||cuterottweillerpups.com^
 ||cuteroyalpal.com^
@@ -5564,6 +5575,7 @@
 ||debbiesdachshundpuppies.com^
 ||debbscanecorso.com^
 ||deborafrenchbulldogs.com^
+||debrapuppieshome.com^
 ||debtpaygateway.com^
 ||debunkingskeptics.com^
 ||debusinessdaily.com^
@@ -6159,6 +6171,7 @@
 ||dreamkingcharlespuppies.com^
 ||dreamlandalaskanmalamutes.com^
 ||dreamlandcavapoopuppies.com^
+||dreamlandcockerspaniels.com^
 ||dreamlandlabradoodlepups.com^
 ||dreamlandmarket.net^
 ||dreamlandparrots.com^
@@ -7655,6 +7668,7 @@
 ||fast-trackglobalcouriers.com^
 ||fasttransitinc.com^
 ||fasttvdownloads.com^
+||fastwaydelivery-us.com^
 ||fastwayexpresservice.com^
 ||fastwayxpress.com^
 ||fastwebformula.com^
@@ -8247,6 +8261,7 @@
 ||frenchbullscollection.com^
 ||frenchbullsforall.com^
 ||frenchbullydogs.com^
+||frenchenglishbulldog.com^
 ||frenchhomeu.com^
 ||frenchieangels.com^
 ||frenchiebreederstoday.com^
@@ -8919,6 +8934,7 @@
 ||gkmetalfabrication.com^
 ||g-konsolen.com^
 ||glabalpsychedelic.com^
+||glabaltransdispensary.com^
 ||glaciercountrynews.com^
 ||glamaxshop.com^
 ||glamordachshundpuppies.com^
@@ -9000,6 +9016,7 @@
 ||globalexpress-logistics.com^
 ||globalexpressshippings.com^
 ||globalfarmstrading.com^
+||global-fishfarm.com^
 ||globalfreightways.net^
 ||globalfxdocument.com^
 ||globalgemtones.com^
@@ -9011,6 +9028,7 @@
 ||globalgunsales.com^
 ||globalgunshop.net^
 ||globalgunstore.com^
+||globalhealthpharmaceuticals.com^
 ||globalherbdispensary.com^
 ||globalheritagecapital.com^
 ||globalhomemed.com^
@@ -9204,6 +9222,7 @@
 ||goldendoodlespuppy.com^
 ||goldendreamzcoons.com^
 ||goldeneliteretrievers.com^
+||goldenewelpennachhause-de.com^
 ||goldenforcetradinggroup.co.za^
 ||goldenforcewholesalesa.com^
 ||goldenfrenchbulldog.com^
@@ -9378,6 +9397,7 @@
 ||gonetzteil.de^
 ||gonortoncom-setup.com^
 ||gonortoncomsetup.com^
+||gooaussies.com^
 ||goodchows.com^
 ||goodcocains.com^
 ||gooddog.com^
@@ -9537,6 +9557,7 @@
 ||greatbostonfamily.com^
 ||greatboxerpuppies.com^
 ||greatbulldogshome.com^
+||greatcalicanabis.com^
 ||greatchihuahuapups.com^
 ||greatcorgipuppies.com^
 ||greatdanecompanion.com^
@@ -9661,6 +9682,7 @@
 ||greenworldpaper.com^
 ||greenyorkies.com^
 ||greenzdispensary.com^
+||greenzsolution.com^
 ||greezshirt.com^
 ||gregor-friedl.at^
 ||gregsgoldenretrievershome.com^
@@ -9987,6 +10009,7 @@
 ||hartsdobermanpuppies.store^
 ||haruko.store^
 ||hashdistribution420.com^
+||hashmann-kush.com^
 ||hashmining.ltd^
 ||hashsociety.store^
 ||hashtagpoultry.co.za^
@@ -10751,6 +10774,7 @@
 ||huksypuppieshome.com^
 ||hulahip.de^
 ||hulapro.de^
+||hulkmeddispensary.com^
 ||hultopstore.com^
 ||hultpomeranianpuppies.com^
 ||humblefrenchbulldog.com^
@@ -11148,6 +11172,7 @@
 ||investinsured.com^
 ||investiogbnk.com^
 ||investorshub-advfn-boards-read-msg-aspx-message-id-119911483.com^
+||investrading.info^
 ||inwenco-ab.com^
 ||inzoomat.se^
 ||ioffer.com^
@@ -11593,6 +11618,7 @@
 ||joydunnpuppies.com^
 ||joyfulakitapuppies.com^
 ||joyfullywelshcorgiarena.com^
+||joyfulmaltesepuppies.com^
 ||joyfulrottweilerpuppies.com^
 ||joyfulshihtzuhome.com^
 ||joyfulshihtzupuppieshome.info^
@@ -11814,6 +11840,7 @@
 ||keen-outlet.com^
 ||keenschuhewien.at^
 ||kefibullies.com^
+||kefrabullies.com^
 ||keillieskennel.com^
 ||keishaadorables.co.za^
 ||keksa.de^
@@ -12951,6 +12978,7 @@
 ||lovelykingcharleshome.com^
 ||lovelymaltesepups.com^
 ||lovelymaltipoopuppies.com^
+||lovelymaltipoopuppies.dog^
 ||lovelymaltipoopuppies.us^
 ||lovelypetssupplyshop.com^
 ||lovelypomeraniandogs.com^
@@ -13001,6 +13029,7 @@
 ||loyalammoshop.com^
 ||loyalcanecorsofamily.com^
 ||loyalcorgipuppies.dog^
+||loyaldrugstoreonline.com^
 ||loyalenglishsetterpuppies.com^
 ||loyalgermanshepherd.com^
 ||loyalgoldenretrieverpups.com^
@@ -13069,6 +13098,7 @@
 ||luminescenceofficial.com^
 ||luminisens.fr^
 ||lumionridgebacks.com^
+||lunahavanesefarm.com^
 ||lunakebe.com^
 ||lunashihtzupuppyhome.com^
 ||lunashippingbv.nl^
@@ -13132,6 +13162,7 @@
 ||luxyboxerpuppieshome.com^
 ||luzernetimes.com^
 ||lv-angebote.de^
+||lvivpugpuppies.com^
 ||lvsevnas.com^
 ||lvtraderlimited.com^
 ||lybra-market.com^
@@ -13433,6 +13464,7 @@
 ||marijuanaskiesdispensary.com^
 ||marijuanasupplynow.com^
 ||marijuanatopshelfstore.com^
+||marijuanatopstrainsusa.com^
 ||marijuana-us.com^
 ||marijuanawarehouse.org^
 ||mariliarho.com^
@@ -13746,6 +13778,7 @@
 ||medikamenteonlinebestellen.com^
 ||medikamenteonlinekaufen.com^
 ||medikamente-rezeptfrei.shop^
+||medimarijuanas.com^
 ||medimox.net^
 ||medinatoday.com^
 ||medionpharmacy.com^
@@ -13792,6 +13825,7 @@
 ||megacanabisdispensary.com^
 ||megacanecorsohome.com^
 ||megacannabisonlinestore.com^
+||megacurecannabis.com^
 ||megadealernews.com^
 ||megadoccumments.com^
 ||megadrugdeals.com^
@@ -15593,6 +15627,7 @@
 ||octagoncreditunion.com^
 ||octagonglobalfund.com^
 ||octaxionbaks.com^
+||octbasenjis.com^
 ||oddomarkt.de^
 ||odhustle.com^
 ||oefinancejm.com^
@@ -15806,6 +15841,7 @@
 ||onlineprizes4you.com^
 ||onlinepromosusa.com^
 ||onlinepromotionsusa.com^
+||onlineproreloads.com^
 ||onlinepsb.com^
 ||onlinepsychedelicplug.com^
 ||onlinepuppysale.com^
@@ -16806,6 +16842,7 @@
 ||poochescavapoopuppies.com^
 ||poodlefamcross.com^
 ||poodleloversonly.com^
+||poodlemaster.com^
 ||poodleminipet.com^
 ||poodlemixminiatures.com^
 ||poodlepetlovers.com^
@@ -16991,6 +17028,7 @@
 ||premiumdocumentproduction.com^
 ||premiumdriverslicense.org^
 ||premiumenglishbulldoghome.com^
+||premiumfrenchiesparadise.com^
 ||premiumfrozenfoods.com^
 ||premium-garderobe.com^
 ||premium-gloves.com^
@@ -17351,6 +17389,7 @@
 ||psychedelicszone.com^
 ||psychedelictransit.com^
 ||psychedelictripp.com^
+||psychedelictrippers.com^
 ||psychedelictrippystore.com^
 ||psychedelicworld.net^
 ||psychedelicworld.org^
@@ -17520,6 +17559,7 @@
 ||purebreederhome.com^
 ||purebreedhavanesepuppies.com^
 ||purebreedlabrador.online^
+||purebreedmaltipoo.online^
 ||purebreedpets-sa.com^
 ||purebreedpuppieshome.com^
 ||purebreedragdollkittens.com^
@@ -17686,6 +17726,7 @@
 ||queeneva.com^
 ||queenlandsiberianhuskypuppy.com^
 ||queenmaltesepuppies.com^
+||queenmarijuanastore.com^
 ||queensamoyedhomeprogram.com^
 ||queensaussiehome.com^
 ||queensdermalfiller.com^
@@ -17887,6 +17928,7 @@
 ||rarebostonterriers.com^
 ||raredvds.biz^
 ||raroday.com^
+||rashcarlgoldendoodle.com^
 ||rashfordshibainuhome.com^
 ||ratiag.com^
 ||ratingadultdating.com^
@@ -18927,6 +18969,7 @@
 ||santanabullies.com^
 ||santinomaltipoo.com^
 ||saparrotsbreeders.com^
+||saplanetlivestockgroup.com^
 ||sapopod.com^
 ||sapotatee.com^
 ||sapoultryfarmsupplies.co.za^
@@ -19672,6 +19715,7 @@
 ||smartbullmastiffpuppies.com^
 ||smartbullmastiffpups.com^
 ||smartbuyglasses.at^
+||smartcanecorso.com^
 ||smartcannabisshop.com^
 ||smartcavapoopuppies.com^
 ||smartcharliepug.com^
@@ -19722,6 +19766,7 @@
 ||smart-sped.com^
 ||smartstech24.online^
 ||smart-tech48.space^
+||smartthcoil.com^
 ||smartwayforexinvest.com^
 ||smartwelshcorgistore.com^
 ||smartxpats.com^
@@ -21204,6 +21249,7 @@
 ||theeconomiccollapseblog.com^
 ||theeventchronicle.com^
 ||theevolutionpharma.com^
+||theexoticweed.com^
 ||thefederalistpapers.org^
 ||thefirstcitytrust.com^
 ||theflametee.com^
@@ -22554,6 +22600,7 @@
 ||veeravagrofarms.com^
 ||vegamartz.com^
 ||veganfoodie.de^
+||veggiecartsdispensary.com^
 ||veggiemuscles.de^
 ||vehiclehistory.report^
 ||vehiclereportplus.com^
@@ -22788,6 +22835,7 @@
 ||vivonshop.com^
 ||vivoshoesnz.com^
 ||vizoa.de^
+||vizslapuppies.store^
 ||vizslaweimaranerbreeders.com^
 ||vlomy.de^
 ||vlshaulage.com^
@@ -23104,6 +23152,7 @@
 ||wellaware1.com^
 ||wellbeingremedy.com^
 ||wellbredgoldenretrieverpuppies.com^
+||wellbredshihtzu.com^
 ||wellenkreise.at^
 ||wellensteynjacke.com^
 ||wellensteynjackenoutlet.org^
@@ -23605,6 +23654,7 @@
 ||xn--deutscherfhrerscheinzumverkauf-efd.com^
 ||xn--e-gerteundhaus-9hb.com^
 ||xn--eu-registrierterfhrerschein-y3c.com^
+||xn--fhrerscheinjetzt-jzb.com^
 ||xn--g1acaefjdem4al8l.xn--p1ai^
 ||xn--geflschterwhrungsstecker-sbci.com^
 ||xn--giga-schnppchen-8kb.de^
