@@ -44,7 +44,7 @@
 !    6 |    2016 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
 !    7 |    4923 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
 !
-! 12615 unique Domains - Version 2021.1031.120830
+! 12613 unique Domains - Version 2021.1101.001503
 !
 ||0emm.com^
 ||0i0i0i0.com^
@@ -6458,7 +6458,6 @@
 ||lfeeder.com^
 ||l.ffx.io^
 ||lfov.net^
-||l.franceculture.fr^
 ||lfstmedia.com^
 ||lghdoxzulv.com^
 ||lg.naukri.com^
@@ -7147,7 +7146,6 @@
 ||metrics.foxsports.com.au^
 ||metrics.gfycat.com^
 ||metrics.govexec.com^
-||metrics.hackerrank.com^
 ||metrics.hackerrank.com.edgekey.net^
 ||metrics.heraldsun.com.au^
 ||metrics.icloud.com^
