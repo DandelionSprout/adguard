@@ -35,17 +35,17 @@
 ! --------------------------------------------
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
-!    1 |   14013 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+!    1 |   14180 | hosts   | http   | online  | changed   | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 !    2 |     244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 !    3 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
-!    4 |    9319 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
+!    4 |    9322 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
 !    5 |   16106 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/adguardteam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 !    6 |      22 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
 !    7 |     429 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 !    8 |       5 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
 !    9 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
 !
-! 11648 unique Domains - Version 2021.1030.121818
+! 11690 unique Domains - Version 2021.1031.121831
 !
 ||106075.genieessp.com^
 ||108557.genieessp.com^
@@ -64,6 +64,7 @@
 ||349655011509897.mateti.net^
 ||370212450674777.mateti.net^
 ||3d.laserdesign.com^
+||428789396344161.mateti.net^
 ||469816027576686.mateti.net^
 ||4crowns.postaffiliatepro.com^
 ||5014.xg4ken.com^
@@ -128,6 +129,7 @@
 ||acton.mediusa.com^
 ||acton.prolabs.com^
 ||actonservice.com^
+||act-on.snb.com^
 ||actonsoftware.com^
 ||acton.the-tma.org^
 ||adac01.webtrekk.net^
@@ -571,6 +573,7 @@
 ||appleworldwidedeveloper.hb-api.omtrdc.net^
 ||appleworldwidedeveloper-stage.hb-api.omtrdc.net^
 ||appmetrica.yandex.com^
+||app.riverbed.com^
 ||app.sephora.com^
 ||arg.mail.haircode.com^
 ||arg.mail.pantene.com^
@@ -581,6 +584,7 @@
 ||armstrong.support.mapp.com^
 ||arqueonautas01.webtrekk.net^
 ||arteza.postaffiliatepro.com^
+||artlist.postaffiliatepro.com^
 ||as2.saiglobal.com^
 ||asc.xs4all.net^
 ||asia.interface.com^
@@ -612,6 +616,7 @@
 ||awin1.com^
 ||awsync.yandex.ru^
 ||awuapj.landwatch.com^
+||azxhnt.uniformadvantage.com^
 ||b2b.autotrack.nl^
 ||babybathwater.postaffiliatepro.com^
 ||baet.outiland.fr^
@@ -640,6 +645,7 @@
 ||bellmedia.hb.omtrdc.net^
 ||bel.pg.com^
 ||bentleysystems.hb.omtrdc.net^
+||benzinga.postaffiliatepro.com^
 ||berkeyfilters.postaffiliatepro.com^
 ||bestmediatech.postaffiliatepro.com^
 ||beta2.eulerian.com^
@@ -725,6 +731,7 @@
 ||campaign.fayebsg.com^
 ||campaigns.affinionservices.com^
 ||campaigns.notino.com^
+||campaign.zurn.com^
 ||campustech.com^
 ||cape.smu.edu^
 ||capital-fr.capital.fr^
@@ -753,6 +760,7 @@
 ||ccma.hb.omtrdc.net^
 ||ccs.postaffiliatepro.com^
 ||cdb.cbtrk.net^
+||cdn.4patientcare.com^
 ||cdn.missguided.com^
 ||cdn.mktg.arcadiagroup.co.uk^
 ||cdn.rozetka.com.ua^
@@ -850,6 +858,7 @@
 ||cmp.itworld.com^
 ||cmp.javaworld.com^
 ||cmp.macwelt.de^
+||cmp.macworld.com^
 ||cmp.macworld.co.uk^
 ||cmp.networkworld.com^
 ||cmp.pcwelt.de^
@@ -900,11 +909,16 @@
 ||communications.ypo.org^
 ||compaid.aosag.net^
 ||compare.flighthub.com^
+||compare.fly4free.com^
 ||compare-im.ostrovok.ru^
 ||compare-im.trip101.com^
 ||compare.liligo.com^
+||compare.loli-pop.co.uk^
+||compare.reservations.com^
 ||compare.routard.com^
+||compare.studentuniverse.com^
 ||compare.teletextholidays.co.uk^
+||compare.tripcanvas.co^
 ||compare.volaris.com^
 ||computeruniverse01.webtrekk.net^
 ||conferences.marketforce.eu.com^
@@ -912,6 +926,7 @@
 ||connect.bakerhill.com^
 ||connect.bdoalliance.com^
 ||connected.integrationpoint.com^
+||connect.leaseplan.gr^
 ||connect.medicomhealth.com^
 ||connect.ndspro.com^
 ||connect.oculusit.com^
@@ -991,6 +1006,7 @@
 ||csm.magnetintell.com^
 ||csm.par.vip.prod.criteo.net^
 ||css6.docmorris.fr^
+||ctagm.tchibo.de^
 ||ctagm.tchibo.hu^
 ||ctagm.tchibo.pl^
 ||ctjfdn.sandals.com^
@@ -1280,6 +1296,7 @@
 ||em.northernquest.com^
 ||emsuite.net^
 ||engage.gordon.edu^
+||engage.growthplay.com^
 ||engage.nigp.org^
 ||engage.schinnerer.com^
 ||engage.shl.com^
@@ -1518,6 +1535,7 @@
 ||gentside-uk.gentside.co.uk^
 ||geoproxy.criteo.net^
 ||geoproxy.hk5.vip.prod.criteo.net^
+||geoproxy.par.vip.prod.criteo.net^
 ||geo.query.yahoo.com^
 ||geo.yahoo.com^
 ||gerryweb02.webtrekk.net^
@@ -1545,6 +1563,7 @@
 ||go.128technology.com^
 ||go1.gurucul.com^
 ||go1.pbmedia.org^
+||go.280group.com^
 ||go2.bizbash.com^
 ||go2.clearent.com^
 ||go2.extensisgroup.com^
@@ -1573,6 +1592,7 @@
 ||go.alpco.com^
 ||go.alumdev.columbia.edu^
 ||go.americancraft.info^
+||go.americanlaboratorytrading.com^
 ||go.americannursetoday.com^
 ||go.amyris.com^
 ||go.anaqua.com^
@@ -1617,6 +1637,7 @@
 ||go.bicyclecoalition.org^
 ||go.bidsync.com^
 ||go.bigsquid.com^
+||go.bigteams.com^
 ||go.bistromd.com^
 ||go.bizzdesign.com^
 ||go.blastam.com^
@@ -1627,6 +1648,7 @@
 ||go.bobrogerstravel.com^
 ||go.bodhala.com^
 ||go.boingo.com^
+||go.bonadio.com^
 ||go.boostability.com^
 ||go.bostonprivate.com^
 ||go.boydcorp.com^
@@ -1645,6 +1667,7 @@
 ||go.campkesem.org^
 ||go.cantega.com^
 ||go.capital.org^
+||go.capitolservices.com^
 ||go.captivate.com^
 ||go.capture2.com^
 ||go.careangel.com^
@@ -1690,10 +1713,12 @@
 ||go.cultureiq.com^
 ||go.curvgroup.com^
 ||go.customerlobby.com^
+||go.dataserv.com^
 ||go.datera.io^
 ||go.dcli.com^
 ||go.dealerinspire.com^
 ||go.decisionquest.com^
+||go.delmarcargo.com^
 ||go.demandbase.net^
 ||go.demandforce.com^
 ||go.destinationimagination.org^
@@ -1726,6 +1751,7 @@
 ||go.eyecareleaders.com^
 ||go.f2feventexp.com^
 ||go.factualdata.com^
+||go.fagroncompanies.com^
 ||go.farragutsquaregroup.com^
 ||go.fastcase.com^
 ||go.feim.com^
@@ -1739,6 +1765,7 @@
 ||go.firstclose.com^
 ||go.firstlegal.com^
 ||go.firstlight.net^
+||go.flir.com^
 ||go.flocabulary.com^
 ||go.fluidigm.com^
 ||go.fmgsuite.com^
@@ -1831,6 +1858,7 @@
 ||go.irpanetwork.com^
 ||go.irvinecompanyworkplaces.com^
 ||go.isminc.com^
+||go.issuerdirect.com^
 ||go.isystemsweb.com^
 ||go.jabmo.com^
 ||go.jeolusa.com^
@@ -1848,6 +1876,7 @@
 ||go.knowledgematters.com^
 ||go.kublr.com^
 ||go.kuebix.com^
+||go.kurzweiledu.com^
 ||go.kvie.org^
 ||go.kwiktag.com^
 ||go.lab-aids.com^
@@ -1857,6 +1886,7 @@
 ||go.lawlogix.com^
 ||goldplusrewards.hertz.com^
 ||go.leadnet.org^
+||go.learningsciences.com^
 ||go.learnplatform.com^
 ||go.legacybuildingsolutions.com^
 ||go.lennox.com^
@@ -1946,6 +1976,7 @@
 ||go.outsourcing.com^
 ||go.pacvan.com^
 ||go.padcaster.com^
+||go.paragonaviationgroup.com^
 ||go.pardot.com^
 ||go.parkassist.com^
 ||go.parksite.com^
@@ -1967,6 +1998,7 @@
 ||go.phs.co.uk^
 ||go.picturemarketing.com^
 ||gopjn.com^
+||go.plansource.com^
 ||go.powergridengineering.com^
 ||go.ppbi.com^
 ||go.ppmglobalservices.com^
@@ -2036,6 +2068,7 @@
 ||go.sleepgroupsolutions.com^
 ||go.smartfoodservice.com^
 ||go.socalgrantmakers.org^
+||go.socialtalent.com^
 ||go.solairus.aero^
 ||go.solvhealth.com^
 ||go.som.yale.edu^
@@ -2053,6 +2086,7 @@
 ||go.stormtrap.com^
 ||go.storyhunter.com^
 ||go.stratasadvisors.com^
+||go.strategasrp.com^
 ||go.strategicitstaffing.com^
 ||go.stratus.com^
 ||go.stratusvideo.com^
@@ -2065,6 +2099,7 @@
 ||go.symphonicsource.com^
 ||go.synzi.com^
 ||go.tab.com^
+||go.take5fleet.com^
 ||go.talentplus.com^
 ||go.tasconline.com^
 ||go.tcdi.com^
@@ -2074,6 +2109,7 @@
 ||go.technicaltoolboxes.com^
 ||go.techvar.com^
 ||go.teletracking.com^
+||go.telkonet.com^
 ||go.ten-inc.com^
 ||go.terradotta.com^
 ||go.tetrascience.com^
@@ -2084,6 +2120,7 @@
 ||go.theexpogroup.com^
 ||go.thehortongroup.com^
 ||go.thelawyer.com^
+||go.themisbar.com^
 ||go.themmrf.org^
 ||go.theshelbygroup.com^
 ||go.thestjames.co^
@@ -2099,6 +2136,7 @@
 ||go.tnsglobal.com^
 ||go.toolingu.com^
 ||goto.owneriq.com^
+||goto.thisismap.com^
 ||go.touchnet.com^
 ||go.tracecommunication.com^
 ||go.tracerplus.com^
@@ -2145,6 +2183,7 @@
 ||go.wildlandtrekking.com^
 ||go.wilshirefp.com^
 ||go.wiremasters.net^
+||go.wodify.com^
 ||go.woodsidecap.com^
 ||go.workforcelogiq.com^
 ||go.worldwideerc.org^
@@ -2156,6 +2195,7 @@
 ||go.zerocater.com^
 ||go.zeromotorcycles.com^
 ||go.zerotothree.org^
+||go.ziffdavisb2b.com^
 ||go.zignallabs.com^
 ||go.zodiac.com^
 ||gqjppj.rentcafe.com^
@@ -9153,6 +9193,7 @@
 ||smetrics.mikasa.com^
 ||smetrics.samsung.com^
 ||smetrics.santander.co.uk^
+||smetrics.versionone.com^
 ||smetrics.yola.com^
 ||smtp.abbotsford.bluehornet.com^
 ||smtp.abbse.bluehornet.com^
@@ -11501,6 +11542,7 @@
 ||tags.news.com.au^
 ||talpaholdingnv.hb.omtrdc.net^
 ||target.georiot.com^
+||tatyei.adika.com^
 ||t.bahn.de^
 ||tbz5.evelop.com^
 ||tchibo01.webtrekk.net^
