@@ -33,58 +33,58 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |    6673 | hosts   | http   | online  | changed   | https://curben.gitlab.io/malware-filter/phishing-filter-hosts.txt
-   2 |     417 | hosts   | http   | online  | changed   | https://curben.gitlab.io/malware-filter/pup-filter-hosts.txt
-   3 |   10364 | hosts   | http   | online  | changed   | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt
+   1 |    6658 | hosts   | http   | online  | changed   | https://curben.gitlab.io/malware-filter/phishing-filter-hosts.txt
+   2 |     413 | hosts   | http   | online  | changed   | https://curben.gitlab.io/malware-filter/pup-filter-hosts.txt
+   3 |   10357 | hosts   | http   | online  | changed   | https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt
    4 |    3496 | hosts   | http   | online  | unchanged | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts_browser
-   5 |   34428 | hosts   | http   | online  | changed   | https://hole.cert.pl/domains/domains_hosts.txt
+   5 |   34450 | hosts   | http   | online  | changed   | https://hole.cert.pl/domains/domains_hosts.txt
    6 |     550 | hosts   | http   | online  | unchanged | https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt
    7 |    5987 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
    8 |    2204 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
    9 |      59 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
-  10 |     144 | hosts   | http   | online  | changed   | https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
-  11 |    1056 | hosts   | http   | online  | changed   | https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
+  10 |     144 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
+  11 |    1056 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
   12 |    8624 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/guardicore/labs_campaigns/master/Autodiscover/autodiscover-tlds.txt
   13 |     695 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
   14 |    3686 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/scams-and-phishing.txt
   15 |    1072 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/metamask/eth-phishing-detect/master/src/hosts.txt
   16 |    1386 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
   17 |   13465 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts
-  18 |    1258 | hosts   | http   | online  | changed   | https://urlhaus.abuse.ch/downloads/hostfile/
-  19 |    4474 | hosts   | http   | online  | changed   | https://threatfox.abuse.ch/downloads/hostfile
+  18 |    1267 | hosts   | http   | online  | changed   | https://urlhaus.abuse.ch/downloads/hostfile/
+  19 |    4465 | hosts   | http   | online  | changed   | https://threatfox.abuse.ch/downloads/hostfile
   20 |     883 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist
   21 |     915 | domains | http   | online  | changed   | https://azorult-tracker.net/api/list/domain?format=plain
-  22 |  122584 | domains | http   | online  | unchanged | https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
+  22 |    4896 | domains | http   | online  | changed   | https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
   23 |     549 | domains | http   | online  | unchanged | https://feeds.alphasoc.net/ryuk.txt
   24 |    9233 | domains | http   | online  | unchanged | https://gitlab.com/KevinThomas0/cryptoscamdb-lists/-/raw/master/cryptoscamdb-blocklist.txt
   25 |     357 | domains | http   | online  | unchanged | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
-  26 |   34428 | domains | http   | online  | changed   | https://hole.cert.pl/domains/domains.txt
-  27 |   73584 | domains | http   | online  | changed   | https://joewein.net/dl/bl/dom-bl-base.txt
-  28 |     863 | domains | http   | online  | changed   | https://joewein.net/dl/bl/dom-bl.txt
-  29 |    1997 | domains | http   | online  | changed   | https://kriskintel.com/feeds/ktip_covid_domains.txt
-  30 |    1999 | domains | http   | online  | changed   | https://kriskintel.com/feeds/ktip_malicious_domains.txt
+  26 |   34450 | domains | http   | online  | changed   | https://hole.cert.pl/domains/domains.txt
+  27 |   73533 | domains | http   | online  | changed   | https://joewein.net/dl/bl/dom-bl-base.txt
+  28 |     847 | domains | http   | online  | changed   | https://joewein.net/dl/bl/dom-bl.txt
+  29 |    1998 | domains | http   | online  | changed   | https://kriskintel.com/feeds/ktip_covid_domains.txt
+  30 |    1997 | domains | http   | online  | changed   | https://kriskintel.com/feeds/ktip_malicious_domains.txt
   31 |     397 | domains | http   | online  | unchanged | https://kriskintel.com/feeds/ktip_ransomware_feeds.txt
   32 |    2245 | domains | http   | online  | unchanged | https://orca.pet/notonmyshift/domains.txt
-  33 |     144 | domains | http   | online  | changed   | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
-  34 |   46163 | domains | http   | online  | changed   | https://phishing.army/download/phishing_army_blocklist.txt
-  35 |   56122 | domains | http   | online  | changed   | https://phishing.army/download/phishing_army_blocklist_extended.txt
+  33 |     144 | domains | http   | online  | unchanged | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
+  34 |   46207 | domains | http   | online  | changed   | https://phishing.army/download/phishing_army_blocklist.txt
+  35 |   56147 | domains | http   | online  | changed   | https://phishing.army/download/phishing_army_blocklist_extended.txt
   36 |    1406 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/domains.txt
   37 |      27 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/fake-domains.txt
-  38 |   34739 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADomains.txt
+  38 |   34021 | domains | http   | online  | changed   | https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADomains.txt
   39 |     675 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Cryptocurrency
-  40 |   23138 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware
+  40 |   23157 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware
   41 |     179 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
   42 |    3960 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/MD-ID-Fork.txt
   43 |   18454 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/spyware/domains
   44 |   13908 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/ut1/master/cryptojacking/domains
-  45 |  168843 | domains | http   | online  | changed   | https://raw.githubusercontent.com/cbuijs/ut1/master/malware/domains
+  45 |  168843 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/ut1/master/malware/domains
   46 |     434 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/hpthreatresearch/iocs/main/CryptBot/domains.txt
   47 |     137 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/hpthreatresearch/iocs/main/IcedID/domains.txt
   48 |     657 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/hpthreatresearch/iocs/main/TA551/domains.txt
-  49 |    3740 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt
+  49 |    3751 | domains | http   | online  | changed   | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt
   50 |    2079 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
   51 |   71289 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
-  52 |     268 | domains | http   | online  | changed   | https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-NEW-today.txt
+  52 |     422 | domains | http   | online  | changed   | https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-NEW-today.txt
   53 |   10000 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/prodaft/malware-ioc/master/FluBot/v3.7_5000_domain.txt
   54 |   10000 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/prodaft/malware-ioc/master/FluBot/v3.7_germany.txt
   55 |   10000 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/prodaft/malware-ioc/master/FluBot/v3.8_domains.txt
@@ -93,40 +93,40 @@ Initialize ...
   58 |    2382 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-amnenstytech.txt
   59 |     307 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certego.txt
   60 |    1010 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-citizenlabs.txt
-  61 |     100 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-cyble.txt
+  61 |      99 | domains | http   | online  | changed   | https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-cyble.txt
   62 |     211 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-drweb.txt
   63 |     158 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-eset.txt
   64 |       3 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-kaspersky.txt
   65 |   10592 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-main.txt
   66 |    1872 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-malware-traffic.txt
-  67 |    2992 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-personal.txt
+  67 |    3009 | domains | http   | online  | changed   | https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-personal.txt
   68 |     147 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-sentinelone.txt
   69 |     512 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42-playbook.txt
   70 |   23232 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42-silverterrier.txt
   71 |    3791 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-zscaler.txt
   72 |  150480 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt
-  73 |   16942 | domains | http   | online  | changed   | https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt
-  74 |     499 | domains | http   | online  | changed   | https://rescure.me/covid.txt
-  75 |     500 | domains | http   | online  | changed   | https://rescure.me/rescure_domain_blacklist.txt
+  73 |   16942 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt
+  74 |     499 | domains | http   | online  | unchanged | https://rescure.me/covid.txt
+  75 |     500 | domains | http   | online  | unchanged | https://rescure.me/rescure_domain_blacklist.txt
   76 |     508 | domains | http   | online  | unchanged | https://www.botvrij.eu/data/ioclist.domain.raw
   77 |      90 | domains | http   | online  | unchanged | https://www.botvrij.eu/data/ioclist.hostname.raw
-  78 |   35112 | domains | http   | online  | changed   | https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
-  79 |  102373 | domains | http   | online  | changed   | https://www.usom.gov.tr/url-list.txt
+  78 |   35114 | domains | http   | online  | changed   | https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
+  79 |  102415 | domains | http   | online  | changed   | https://www.usom.gov.tr/url-list.txt
   80 |     136 | domains | local  | online  | unchanged | black.list.threat-intelligence
 
 # Build threat-intelligence Domainlist ...
 
 Stats threat-intelligence:
 
-** Source (raw):    1200383
-== Source (unique): 867221 (-333162)
--- Exclude:         867216 (-5)
--- White:           866444 (-772)
--- White(*):        861080 (-5364)
--- Dead:            371638 (-489442)
+** Source (raw):    1082240
+== Source (unique): 854350 (-227890)
+-- Exclude:         854345 (-5)
+-- White:           853569 (-776)
+-- White(*):        848215 (-5354)
+-- Dead:            368301 (-479914)
 
-371638 unique Domains - Version 2021.1031.120147
-MD5 Domains RAW: 5bb866725886f1034f59fddf06ee43ce
+368301 unique Domains - Version 2021.1101.000131
+MD5 Domains RAW: 520ce18d393ca885cc8aaa513aaa3e65
 
 # Convert threat-intelligence to Hostlist ... 
 
@@ -149,10 +149,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling threat-intelligence.adblock.raw
-ℹ Original length is 352140
-ℹ Length after applying transformations is 352140
-ℹ The list was compressed from 352143 to 323506
-ℹ Final length of the list is 323512
+ℹ Original length is 350223
+ℹ Length after applying transformations is 350223
+ℹ The list was compressed from 350226 to 323515
+ℹ Final length of the list is 323521
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/threat-intelligence/out/threat-intelligence.adblock
 ℹ Finished compiling
 
