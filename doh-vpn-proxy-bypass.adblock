@@ -28,7 +28,7 @@
 !    3 |     622 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods
 !    4 |     139 | domains | local  | online  | unchanged | black.list.dohdot
 !
-! 688 unique Domains - Version 2021.1028.090514
+! 676 unique Domains - Version 2021.1101.082618
 !
 ||012proxy.ga^
 ||123-24.eport.gr^
@@ -37,22 +37,13 @@
 ||2.dnscrypt-cert.blahdns.com^
 ||2.dnscrypt-cert.browser.yandex.net^
 ||2.dnscrypt-cert.captnemo.in^
-||2.dnscrypt-cert.dnsrec.meo.ws^
 ||2.dnscrypt-cert.dns.seby.io^
-||2.dnscrypt-cert.dns.tiar.app^
 ||2.dnscrypt-cert.ffmuc.net^
 ||2.dnscrypt-cert.nawala.id^
 ||2.dnscrypt-cert.opendns.com^
 ||2.dnscrypt-cert.oszx.co^
 ||2.dnscrypt-cert.pumplex.com^
 ||2.dnscrypt-cert.quad9.net^
-||2.dnscrypt-cert.safesurfer.co.nz^
-||2.dnscrypt-cert.shield-2.dnsbycomodo.com^
-||2.dnscrypt.default.ns1.adguard.com^
-||2.dnscrypt.default.ns2.adguard.com^
-||2.dnscrypt.family.ns1.adguard.com^
-||2.dnscrypt.family.ns2.adguard.com^
-||2.dnscrypt.unfiltered.ns1.adguard.com^
 ||2fastsurfer.com^
 ||2ub.top^
 ||3x.nz^
@@ -439,7 +430,6 @@
 ||mullvad.net^
 ||myprivateproxy.net^
 ||my-proxy.com^
-||myproxy.info^
 ||myunblocksites.com^
 ||ndns.233py.com^
 ||newipnow.com^
@@ -477,7 +467,6 @@
 ||ovpn.com^
 ||pandashield.com^
 ||pdns.faelix.net^
-||pinkproxy.xyz^
 ||pixelprivacy.com^
 ||pkproxy.info^
 ||polaris.cx^
@@ -628,7 +617,6 @@
 ||ultravpn.com^
 ||unblock123.com^
 ||unblockaccess.com^
-||unblockandsurf.com^
 ||unblockblocked.net^
 ||unblockbook.biz^
 ||unblocked.me^

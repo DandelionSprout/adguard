@@ -37,14 +37,14 @@
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |   14511 | domains | local  | online  | unchanged | black.list
-!    2 |     136 | domains | local  | online  | unchanged | black.list.threat-intelligence
+!    2 |     139 | domains | local  | online  | unchanged | black.list.threat-intelligence
 !    3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
 !    4 |    3674 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 !    5 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
 !    6 |    2016 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
 !    7 |    4923 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
 !
-! 12613 unique Domains - Version 2021.1101.001503
+! 12555 unique Domains - Version 2021.1101.081618
 !
 ||0emm.com^
 ||0i0i0i0.com^
@@ -350,7 +350,6 @@
 ||ad1.missyusa.com^
 ||ad1.pamedia.com.au^
 ||ad1.sibnet.ru^
-||ad1.xiaomi.com^
 ||ad2.doubleclick.net^
 ||ad2.iinfo.cz^
 ||ad2.lupa.cz^
@@ -884,7 +883,6 @@
 ||ads.annabac.com^
 ||ads.aol.co.uk^
 ||adsapi2.snapchat.com^
-||adsapimus.snapchat.com^
 ||adsapi.snapchat.com^
 ||ads-api.twitter.com^
 ||ads.apn.co.nz^
@@ -1969,7 +1967,6 @@
 ||api.platform.letv.com^
 ||api.platform.letv-epg.wasu.tv^
 ||api.platform.video123456.com^
-||api.platform.vmoters.com^
 ||api.privacy.schibsted.com^
 ||api.p.tdf.ringier.ch^
 ||api-public.addthis.com^
@@ -1982,6 +1979,7 @@
 ||api.tuisong.baidu.com^
 ||api-v3.tinypass.com^
 ||api.venyoo.ru^
+||api.video.xiaomi.com^
 ||api.zanox.com^
 ||apk.scloud.lfengmobile.com^
 ||apmconfig.douyucdn.cn^
@@ -2426,7 +2424,6 @@
 ||banner.webmersion.com^
 ||bannerwise.io^
 ||bannery.cz^
-||bannieres.acces-contenu.com^
 ||bannieres.wdmedia.net^
 ||ban.promotools.biz^
 ||banre24h.com^
@@ -2484,7 +2481,6 @@
 ||b.da.us.criteo.com^
 ||bdt.123rf.com^
 ||bdwblog.eastmoney.com^
-||be01.hh.xiaomi.com^
 ||bea4.cnn.com^
 ||beachfront.com^
 ||beachlinkz.com^
@@ -2686,7 +2682,6 @@
 ||blogtw.net^
 ||blog-webkatalog.de^
 ||blog.with2.net^
-||blog.xiaomi.com^
 ||blotcreepy.com^
 ||blueadvertise.com^
 ||bluecava.com^
@@ -2826,7 +2821,6 @@
 ||builder.lift.acquia.com^
 ||buildkiteanalytics.com^
 ||bullads.net^
-||bulletproof-analytics.com^
 ||bullionyield.com^
 ||bumlam.com^
 ||bunchbox.co^
@@ -2989,7 +2983,6 @@
 ||cdn.alfasense.net^
 ||cdn-alliancegravity.s3.amazonaws.com^
 ||cdn.amplitude.com^
-||cdnanalytics.xyz^
 ||cdn-api-weglot.com^
 ||cdn.appsflyer.com^
 ||cdn.asecw.xyz^
@@ -3037,7 +3030,6 @@
 ||cdn.memo.co^
 ||cdn.moengage.com^
 ||cdn.monsido.com^
-||cdn.morps.xyz^
 ||cdn.mouseflow.com^
 ||cdnondemand.org^
 ||cdnopw.com^
@@ -3300,7 +3292,6 @@
 ||clouddc2.syslogagent.telemetry.microsoft.com^
 ||cloud-exploration.com^
 ||cloud-iq.com^
-||cloud.le.com^
 ||cloudtracer101.com^
 ||clrstm.com^
 ||cls.ichotelsgroup.com^
@@ -3310,7 +3301,6 @@
 ||cluster.adultworld.com^
 ||clustrmaps.com^
 ||clvk.viki.io^
-||cm066.getui.igexin.com^
 ||cm.adform.net^
 ||cm.ads.oppomobile.com^
 ||cmap.alibaba.com^
@@ -3434,7 +3424,6 @@
 ||compteur.developpez.com^
 ||compteur-gratuit.org^
 ||computeterrifyingobdurate.com^
-||com.thoughtworks.xstream^
 ||conative.de^
 ||concernedcondition.com^
 ||concert.io^
@@ -3457,6 +3446,7 @@
 ||connected-stories.com^
 ||connectif.cloud^
 ||connects.ch^
+||connectwalletnow.com^
 ||connextra.com^
 ||consciouschairs.com^
 ||consciouscheese.com^
@@ -3511,7 +3501,6 @@
 ||conversation.api.drift.com^
 ||conversionbet.com^
 ||conversionfly.com^
-||conversionlogic.net^
 ||conversionly.com^
 ||conversionruler.com^
 ||convertcart.com^
@@ -3529,7 +3518,6 @@
 ||cookies.cmpnet.com^
 ||cooladata.com^
 ||coordinatedcub.com^
-||coordinator-production-28516768.us-east-1.elb.amazonaws.com^
 ||cootlogix.com^
 ||copperchickens.com^
 ||copperegg.com^
@@ -3649,7 +3637,6 @@
 ||crakmedia.com^
 ||craktraffic.com^
 ||crash2.zhihu.com^
-||crashfootwork.com^
 ||crashlogs.whatsapp.net^
 ||cratecamera.com^
 ||craveandlamb.com^
@@ -4205,7 +4192,6 @@
 ||directaclick.com^
 ||directadvert.ru^
 ||direct-collect.dy-api.eu^
-||directcounter.de^
 ||direct-events-collector.spot.im^
 ||directivepub.com^
 ||directleads.com^
@@ -4647,7 +4633,6 @@
 ||ethnio.com^
 ||etineria.com^
 ||etioh.com^
-||etl.xlmc.sec.miui.comm^
 ||etop.ro^
 ||etp-prod.com^
 ||etrack.ext.hpe.com^
@@ -4906,7 +4891,6 @@
 ||fiftyt.com^
 ||fightcovidmisinfo.com^
 ||fiksu.com^
-||filitrac.com^
 ||fimg-resp.seznam.cz^
 ||fimserve.com^
 ||finalid.com^
@@ -5070,7 +5054,6 @@
 ||ftbpro.com^
 ||ftjcfx.com^
 ||ftz.io^
-||fuel451.com^
 ||fueldeck.com^
 ||fuelx.com^
 ||fugetech.com^
@@ -5117,7 +5100,6 @@
 ||g3cn.video123456.com^
 ||g3com.cp21.ott.cibntv.net^
 ||g3com.video123456.com^
-||g3com.vmoters.com^
 ||g3.doubleclick.net^
 ||g3.letv.cn^
 ||g3.letv.com^
@@ -5276,7 +5258,6 @@
 ||getjad.io^
 ||get.mobu.jp.eimg.jp^
 ||getmyads.com^
-||getpolymorph.com^
 ||getpublica.com^
 ||getquanty.com^
 ||getrockerbox.com^
@@ -5312,7 +5293,6 @@
 ||gimbal.com^
 ||gim.co.il^
 ||giraff.io^
-||github.dihe.moe^
 ||gixmo.dk^
 ||g.jwpsrv.com^
 ||glancecdn.net^
@@ -5485,7 +5465,6 @@
 ||gweini.com^
 ||gwmtracking.com^
 ||gxgydnhz.com^
-||h4k5.com^
 ||h5v.eu^
 ||h78xb.pw^
 ||habitualhumor.com^
@@ -5863,7 +5842,6 @@
 ||immensehoney.com^
 ||immobox.logic-immo.be^
 ||i-mobile.co.jp^
-||imonitor.nethost.cz^
 ||imonomy.com^
 ||impactcdn.com^
 ||impactmobile.com^
@@ -5929,7 +5907,6 @@
 ||influenceaudience.com^
 ||influencedindoors.com^
 ||influid.co^
-||info.analysis.kp.sec.miui.com^
 ||infocollect.dk^
 ||infodata2.bancsabadell.com^
 ||infoevent.startappservice.com^
@@ -5960,7 +5937,6 @@
 ||innomdc.com^
 ||innovateads.com^
 ||innovid.com^
-||in.o2o.api.xiaomi.com^
 ||in-page-push.com^
 ||inpage-push.com^
 ||inpagepush.com^
@@ -6175,10 +6151,8 @@
 ||jaroop.com^
 ||jatxt.com^
 ||jauchuwa.net^
-||jbeet.cjt1.net^
 ||jcount.com^
 ||jcrewmwcom.112.2o7.net^
-||jedonkey.cjt1.net^
 ||jelly.mdhv.io^
 ||jen.jiji.com^
 ||jerkmate.com^
@@ -6193,10 +6167,8 @@
 ||jivosite.com^
 ||jiwire.com^
 ||jixie.io^
-||jkazaa.cjt1.net^
 ||jlisting.jp^
 ||jmrnews.pro^
-||jnova.cjt1.net^
 ||joetec.net^
 ||jomtingi.net^
 ||joystickinteractive.com^
@@ -6618,13 +6590,10 @@
 ||log3-normal-c-alisg.tiktokv.com^
 ||log3-normal-c-useast1a.tiktokv.com^
 ||log-4.adclerks.com^
-||log53-normal-c-alisg.tiktokv.com^
 ||log53-normal-c-useast1a.tiktokv.com^
-||log55-normal-c-alisg.tiktokv.com^
 ||log55-normal-c-useast1a.tiktokv.com^
 ||log58-normal-c-alisg.tiktokv.com^
 ||log58-normal-c-useast1a.tiktokv.com^
-||log61-normal-c-useast1a.tiktokv.com^
 ||log77-normal-c-alisg.tiktokv.com^
 ||log77-normal-c-useast1a.tiktokv.com^
 ||log9-normal-c-useast1a.tiktokv.com^
@@ -7078,7 +7047,6 @@
 ||megastats.net^
 ||megatopsites.com^
 ||megawerbung.de^
-||meihua.xiaomi.com^
 ||me.ioam.de^
 ||mellowads.com^
 ||memangbau.com^
@@ -7446,6 +7414,7 @@
 ||mutinyhq.io^
 ||mutua.es^
 ||muwmedia.com^
+||m.video.xiaomi.com^
 ||mvilivestats.com^
 ||mvtracker.com^
 ||mxcdn.net^
@@ -7967,7 +7936,6 @@
 ||orbengine.com^
 ||orbidder.otto.de^
 ||orcapia.com^
-||order.music.xiaomi.com^
 ||ordinarywinsprizedaily.rest^
 ||ordingly.com^
 ||orgpcxyohrd.com^
@@ -8172,7 +8140,6 @@
 ||performancing.com^
 ||performax.cz^
 ||performcb.com^
-||performtracking.com^
 ||perf-serving.com^
 ||perftrk.com^
 ||perimeterx.net^
@@ -8394,7 +8361,6 @@
 ||pmctrack.net^
 ||pmg.com^
 ||pmir.3g.qq.com^
-||p.morps.xyz^
 ||pm.redbull.com^
 ||p.nag.ru^
 ||p-n.io^
@@ -8458,6 +8424,7 @@
 ||pornstar.solidcams.com^
 ||porntrack.com^
 ||portfold.com^
+||possessive117.xyz^
 ||possessivebucket.com^
 ||possibleboats.com^
 ||posst.co^
@@ -8621,7 +8588,6 @@
 ||prtracker.com^
 ||prudencewiserelapse.com^
 ||prudsys-rde.de^
-||prvsz4pe.micpn.com^
 ||prx.wayfair.com^
 ||pr.ybp.yahoo.com^
 ||psaiceex.net^
@@ -8989,7 +8955,6 @@
 ||reinvigorate.net^
 ||reitingas.lt^
 ||reitingi.lv^
-||rejcinews.pro^
 ||rejestr.org^
 ||rekko.com^
 ||reklama.mironet.cz^
@@ -9295,7 +9260,6 @@
 ||rvty.net^
 ||rws-dorsten.de^
 ||rxthdr.com^
-||ryfsh.ghtfd.net^
 ||rztrkr.com^
 ||s0.doubleclick.net^
 ||s11.cnzz.com^
@@ -9316,7 +9280,6 @@
 ||s2.video.doubleclick.net^
 ||s2.youtube.com^
 ||s2.zdmimg.com^
-||s3.lecloud.com^
 ||s3proxy.scloud.letv.com^
 ||s3.pstatp.com^
 ||s3s-main.net^
@@ -9928,7 +9891,6 @@
 ||smetrics.samsung.com^
 ||smetrics.sap.com^
 ||smetrics.sfr.fr^
-||smetrics.shopbop.com^
 ||smetrics.shopmyexchange.com^
 ||smetrics.siriusxm.com^
 ||smetrics.sisal.it^
@@ -10036,7 +9998,6 @@
 ||soko.ai^
 ||sokrati.com^
 ||sol-data.com^
-||solidarietachepassione.it^
 ||solomid-net.videoplayerhub.com^
 ||solosegment.com^
 ||solty.biz^
@@ -10768,7 +10729,6 @@
 ||s.webp2p.letv.com^
 ||s.webp2p.letv-epg.wasu.tv^
 ||s.webp2p.video123456.com^
-||s.webp2p.vmoters.com^
 ||sweb.ulta.com^
 ||swfstats.com^
 ||swimslope.com^
@@ -10930,7 +10890,6 @@
 ||tcads.net^
 ||t.castle.io^
 ||t.channeladvisor.com^
-||tc.hd.xiaomi.com^
 ||tcimg.com^
 ||t.cinemablend.com^
 ||tctm.co^
@@ -10957,7 +10916,6 @@
 ||telegraphmedia.bootstrap.fyre.co^
 ||telemetrics.klaviyo.com^
 ||telemetry.api.swiftkey.com^
-||telemetry.dailymotion.com^
 ||telemetry.dropbox.com^
 ||telemetry.tradingview.com^
 ||telemetry.urs.microsoft.com^
@@ -10988,8 +10946,6 @@
 ||test.push.platform.letv.com^
 ||test.samsungrm.net^
 ||test.tvapi.letv.com^
-||test.xiaomi.com^
-||tetigi.com^
 ||tetoolbox.com^
 ||textads.biz^
 ||textad.sexsearch.com^
@@ -11163,7 +11119,6 @@
 ||topgamesites.net^
 ||tophits4u.de^
 ||toplista.mw.hu^
-||toplistcity.com^
 ||toplist.cz^
 ||toplist.eu^
 ||toplist.pornhost.com^
@@ -11605,7 +11560,6 @@
 ||tvpixel.com^
 ||tvppl.hit.gemius.pl^
 ||tvsquared.com^
-||tw13b093.sandai.net^
 ||t.wayfair.com^
 ||t.wayfair.de^
 ||twcount.com^
@@ -11770,7 +11724,6 @@
 ||usercenter.scloud.letv.com^
 ||user-clicks.com^
 ||usercycle.com^
-||userdmp.com^
 ||usergram.info^
 ||userleap.com^
 ||userlook.com^
@@ -11833,7 +11786,6 @@
 ||vanfireworks.com^
 ||variablefitness.com^
 ||vars.hotjar.com^
-||vasgenerete.site^
 ||vast.adsturn.com^
 ||vastserved.com^
 ||vax-now.com^
@@ -11869,7 +11821,6 @@
 ||vendri.io^
 ||venetrigni.com^
 ||ventivmedia.com^
-||venture7program.biz^
 ||venturead.com^
 ||veoxa.com^
 ||vepxl1.net^
@@ -11894,7 +11845,6 @@
 ||verve.com^
 ||vervemobile.com^
 ||vervewireless.com^
-||verypopularwebsite.com^
 ||vfd2dyn.vodafone.de^
 ||vfhbo3jsnvrutdkuee1akd0lj.litix.io^
 ||vg01.met.vgwort.de^
@@ -11934,7 +11884,6 @@
 ||videostat.com^
 ||videostats.kakao.com^
 ||videostep.com^
-||video.xiaomi.com^
 ||vidoomy.com^
 ||vidora.com^
 ||vidsply.com^
@@ -12073,9 +12022,6 @@
 ||was.vodafone.de^
 ||wat8.ppe.telemetry.microsoft.com^
 ||watanvision.sa^
-||watchdog.goodbyeads^
-||watchdog.goodbyeads.xiaomi^
-||watchdog.leeco.goodbyeads^
 ||wateryvan.com^
 ||watson.live.com^
 ||watson.microsoft.com^
@@ -12297,6 +12243,7 @@
 ||withcubed.com^
 ||wizaly.com^
 ||wknd.ai^
+||wlkzge.xyz^
 ||wlmarketing.com^
 ||wmcdp.io^
 ||wnd.com^
@@ -12408,7 +12355,6 @@
 ||xfreeservice.com^
 ||xhamsterlive.com^
 ||xhit.com^
-||xiaomiir.yaokantv.com^
 ||xid.designbetter.co^
 ||xid.designdisruptors.com^
 ||xid.dicksmith.com.au^
@@ -12421,7 +12367,6 @@
 ||xid.opsgenie.com^
 ||xid.switchtosketchapp.com^
 ||xing-share.com^
-||xitong.xiaomi.com^
 ||xius.com^
 ||xkomspzoo.germany-2.evergage.com^
 ||xlisting.jp^
@@ -12464,7 +12409,6 @@
 ||xray.mail.ru^
 ||xref.io^
 ||xse5vfg6.micpn.com^
-||xshare.api.xiaomi.com^
 ||xsquare.scloud.letv.com^
 ||x-stat.de^
 ||xtendmedia.com^
@@ -12562,7 +12506,6 @@
 ||yuanxian.letv.com^
 ||yuanxian.scloud.letv.com^
 ||yummy.drom.ru^
-||yun.lvehaiser.com^
 ||yun.rili.cn^
 ||yun.tuitiger.com^
 ||yusp.com^
@@ -12654,7 +12597,6 @@
 ||zuuvi.com^
 ||zuyapixel.com^
 ||zuzab.com^
-||zx.game.xiaomi.com^
 ||zy16eoat1w.com^
 ||zypmedia.com^
 ||zz.bdstatic.com^

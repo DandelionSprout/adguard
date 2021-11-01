@@ -34,7 +34,7 @@ Initialize ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
    1 |   14511 | domains | local  | online  | unchanged | black.list
-   2 |     136 | domains | local  | online  | unchanged | black.list.threat-intelligence
+   2 |     139 | domains | local  | online  | unchanged | black.list.threat-intelligence
    3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
    4 |    3674 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
    5 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
@@ -45,19 +45,19 @@ Initialize ...
 
 Stats personal:
 
-** Source (raw):    26996
-== Source (unique): 23096 (-3900)
--- White:           21758 (-1338)
--- White(*):        21718 (-40)
--- Dead:            20781 (-937)
-++ Block:           20946 (+165)
--- Unblock:         20942 (-4)
--- Unblock(*):      20936 (-6)
-++ FLD:             21090 (+154)
-++ WWW:             27827 (+6737)
+** Source (raw):    26999
+== Source (unique): 23099 (-3900)
+-- White:           21760 (-1339)
+-- White(*):        21720 (-40)
+-- Dead:            20690 (-1030)
+++ Block:           20866 (+176)
+-- Unblock:         20862 (-4)
+-- Unblock(*):      20856 (-6)
+++ FLD:             21008 (+152)
+++ WWW:             27742 (+6734)
 
-27827 unique Domains - Version 2021.1101.001503
-MD5 Domains RAW: 805c360e44f62f7a9137861dac6294b6
+27742 unique Domains - Version 2021.1101.081618
+MD5 Domains RAW: 14572e2c20af64adf6025b8a79edca40
 
 # Convert personal to Hostlist ... 
 
@@ -80,10 +80,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling personal.adblock.raw
-ℹ Original length is 20683
-ℹ Length after applying transformations is 20683
-ℹ The list was compressed from 20686 to 12617
-ℹ Final length of the list is 12623
+ℹ Original length is 20617
+ℹ Length after applying transformations is 20617
+ℹ The list was compressed from 20620 to 12559
+ℹ Final length of the list is 12565
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/personal/out/personal.adblock
 ℹ Finished compiling
 

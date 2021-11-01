@@ -35,7 +35,7 @@
 ! --------------------------------------------
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
-!    1 |   14180 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+!    1 |   14202 | hosts   | http   | online  | changed   | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 !    2 |     244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 !    3 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
 !    4 |    9322 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
@@ -45,7 +45,7 @@
 !    8 |       5 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
 !    9 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
 !
-! 11691 unique Domains - Version 2021.1101.002527
+! 11700 unique Domains - Version 2021.1101.082542
 !
 ||106075.genieessp.com^
 ||108557.genieessp.com^
@@ -92,8 +92,6 @@
 ||981949533494636.mateti.net^
 ||a0ib.ebs-geneve.com^
 ||a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com^
-||a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com^
-||a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com^
 ||a8onlineshop.trendmicro.co.jp^
 ||aaqrvt.thefryecompany.com^
 ||aarpgli.newyorklife.com^
@@ -436,7 +434,6 @@
 ||aerewardsae.com^
 ||aetv.hb-api.omtrdc.net^
 ||aetv.hb.omtrdc.net^
-||afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com^
 ||af.eficads.com^
 ||affex.org^
 ||affiliate.amplifi.com^
@@ -722,6 +719,7 @@
 ||bucksfreepress-gb.bucksfreepress.co.uk^
 ||bulkmail.acadian-asset.com^
 ||burytimes-gb.burytimes.co.uk^
+||business.lutron.info^
 ||business.samsungusa.com^
 ||byubroadcasting.hb.omtrdc.net^
 ||c1oudfront.net^
@@ -909,12 +907,16 @@
 ||communications.rightstar.com^
 ||communications.ypo.org^
 ||compaid.aosag.net^
+||compare.biletyplus.ru^
 ||compare.flighthub.com^
+||compare.flightnetwork.com^
 ||compare.fly4free.com^
 ||compare-im.ostrovok.ru^
 ||compare-im.trip101.com^
+||compare.jetcost.com^
 ||compare.liligo.com^
 ||compare.loli-pop.co.uk^
+||compare.minube.com^
 ||compare.reservations.com^
 ||compare.routard.com^
 ||compare.studentuniverse.com^
@@ -936,6 +938,8 @@
 ||consent.computerweekly.com^
 ||consent.dumont.de^
 ||consent.express.de^
+||consent.hamhigh.co.uk^
+||consent.hertsad.co.uk^
 ||consent.ksta.de^
 ||consent.mopo.de^
 ||consent.mz-web.de^
@@ -1125,6 +1129,7 @@
 ||e3rd.net^
 ||eads-com01.webtrekk.net^
 ||ea.galerieslafayette.com^
+||ea.pixmania.de^
 ||eb.informabi.com^
 ||ecards01.webtrekk.net^
 ||echo-news-gb.echo-news.co.uk^
@@ -1316,6 +1321,7 @@
 ||eprofessional01.webtrekk.net^
 ||e.prospertrading.com^
 ||ereflect.postaffiliatepro.com^
+||er.prod.verticalresponse.com^
 ||erstegroup01.webtrekk.net^
 ||ery6.anaca3.com^
 ||es.adpinfo.com^
@@ -1751,6 +1757,7 @@
 ||go.experityhealth.com^
 ||go.eyecareleaders.com^
 ||go.f2feventexp.com^
+||go.factoryathletics.com^
 ||go.factualdata.com^
 ||go.fagroncompanies.com^
 ||go.farragutsquaregroup.com^
@@ -2098,6 +2105,7 @@
 ||go.supercolor.com^
 ||go.swbc.com^
 ||go.symphonicsource.com^
+||go.syndigo.com^
 ||go.synzi.com^
 ||go.tab.com^
 ||go.take5fleet.com^
@@ -9194,6 +9202,7 @@
 ||smetrics.mikasa.com^
 ||smetrics.samsung.com^
 ||smetrics.santander.co.uk^
+||smetrics.tnt.tv^
 ||smetrics.versionone.com^
 ||smetrics.yola.com^
 ||smtp.abbotsford.bluehornet.com^
