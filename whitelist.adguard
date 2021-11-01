@@ -217,6 +217,10 @@
 @@|raw.githubusercontent.com^
 @@|user-images.githubusercontent.com^
 
+! GMX
+@@|i*.gmx.net^
+@@|i0.gmx.net^
+
 ! Google
 @@||cdn.ampproject.org^
 @@|ampproject.org^
