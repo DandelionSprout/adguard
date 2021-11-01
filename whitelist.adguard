@@ -301,10 +301,12 @@
 @@||nflximg.net^
 @@||nflxso.net^
 @@||nflxvideo.net^
+@@|apiproxy-*-*.*.elb.amazonaws.com^
 @@|apiproxy-device-prod-nlb-*.*.amazonaws.com^
+@@|beaconserver-ce-*.*.elb.amazonaws.com^
 @@|customerevents.netflix.com^
+@@|dualstack.apiproxy-*-*.*.elb.amazonaws.com^
 @@|dualstack.apiproxy-device-prod-*.elb.*.amazonaws.com^
-@@|dualstack.apiproxy-http1-*.*.elb.amazonaws.com^
 @@|dualstack.beaconserver-ce-*.*.elb.amazonaws.com^
 @@|dualstack.ichnaea-web-*.*.elb.amazonaws.com^
 @@|ichnaea-web.netflix.com^
