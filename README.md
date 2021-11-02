@@ -15,6 +15,7 @@
 | [Personal](https://raw.githubusercontent.com/Zelo72/adguard/main/personal.adblock)                             |   |   |   |   |   |   |   |
 | [Affiliate & Tracking](https://raw.githubusercontent.com/Zelo72/adguard/main/affiliatetracking.adblock)        | + | + | + |   | + |   |   |
 | [Threat Intelligence Feeds](https://raw.githubusercontent.com/Zelo72/adguard/main/threat-intelligence.adblock) | + | + | + |   | + |   |   |
+| [DoH-VPN-Proxy-Bypass](https://raw.githubusercontent.com/Zelo72/adguard/main/doh-vpn-proxy-bypass.adblock)     | + | + | + |   | + |   |   |
 
 *X= contains the named list in the column header    
 += expands the named list in the column header*
@@ -73,6 +74,12 @@
 > ***Link:*** https://raw.githubusercontent.com/Zelo72/adguard/main/threat-intelligence.adblock
 > 
 > ***Sources:*** [Stats](https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/threat-intelligence.stats)
+
+[**DoH-VPN-Proxy-Bypass**](https://raw.githubusercontent.com/Zelo72/adguard/main/doh-vpn-proxy-bypass.adblock) - Zelo's "DoH/VPN/TOR/Proxy Bypass Blocklist": Prevent methods to bypass your DNS: DNS over HTTPS, VPN, TOR, Proxies. To ensure the bootstrap is your DNS server you must redirect standard DNS outbound (UDP 53) to an internal server and block all DoT (TCP 853) outbound. ***(Optional)***
+
+> ***Link:*** https://raw.githubusercontent.com/Zelo72/adguard/main/doh-vpn-proxy-bypass.adblock
+> 
+> ***Sources:*** [Stats](https://raw.githubusercontent.com/Zelo72/adguard/main/doh-vpn-proxy-bypass.stats)
 
 ---
 
