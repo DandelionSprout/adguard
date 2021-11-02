@@ -36,20 +36,21 @@
 ! ---------------------------------------------------
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
-!    1 |   14503 | domains | local  | online  | changed   | black.list
+!    1 |   13598 | domains | local  | online  | unchanged | black.list
 !    2 |     139 | domains | local  | online  | unchanged | black.list.threat-intelligence
 !    3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
-!    4 |    3675 | hosts   | http   | online  | changed   | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+!    4 |    3675 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 !    5 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
 !    6 |    2016 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
 !    7 |    4923 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
 !
-! 12556 unique Domains - Version 2021.1102.000821
+! 12543 unique Domains - Version 2021.1102.120820
 !
 ||0emm.com^
 ||0i0i0i0.com^
 ||0ioda95t.micpn.com^
 ||0stats.com^
+||0tracker.com^
 ||100010274.collect.igodigital.com^
 ||100010552.collect.igodigital.com^
 ||100011870.collect.igodigital.com^
@@ -464,6 +465,7 @@
 ||adchemy.com^
 ||adchemy-content.com^
 ||adchex.com^
+||adcirrus.com^
 ||adc-js.nine.com.au^
 ||ad.cl.doubleclick.net^
 ||adclear.de^
@@ -1110,6 +1112,7 @@
 ||ads.gaming-universe.de^
 ||ads.gaypoint.hu^
 ||ad.sg.doubleclick.net^
+||ads.geekswithblogs.net^
 ||ads.gld.dk^
 ||ads.gmodules.com^
 ||ads.golem.de^
@@ -2057,6 +2060,7 @@
 ||apu.samsungelectronics.com^
 ||apvdr.com^
 ||apv-launcher.minute.ly^
+||apxy.io^
 ||aqtracker.com^
 ||aquaticowl.com^
 ||a.quora.com^
@@ -2078,6 +2082,7 @@
 ||ariane.abtasty.com^
 ||arianelab.com^
 ||a.ria.ru^
+||aristianewr.club^
 ||arkayne.com^
 ||arkeero.com^
 ||arlime.com^
@@ -2242,7 +2247,6 @@
 ||automaticflock.com^
 ||automattic.com^
 ||auto-ping.com^
-||autotrack.g.ebay.com^
 ||avads.net^
 ||avantisvideo.com^
 ||avapartner.com^
@@ -2318,18 +2322,6 @@
 ||backlinkdino.de^
 ||backlink-test.de^
 ||backlink-umsonst.de^
-||backstory.ebay.at^
-||backstory.ebay.ca^
-||backstory.ebay.com^
-||backstory.ebay.com.au^
-||backstory.ebay.co.uk^
-||backstory.ebay.de^
-||backstory.ebay.es^
-||backstory.ebay.fr^
-||backstory.ebay.ie^
-||backstory.ebay.it^
-||backstory.ebay.nl^
-||backstory.ebay.pl^
 ||backup.scloud.letv.com^
 ||ba-content.de^
 ||bad-tool-tell-doubt.xyz^
@@ -3162,7 +3154,6 @@
 ||claritas.com^
 ||clarity.ms^
 ||claritytag.com^
-||clarium.global.ssl.fastly.net^
 ||clarivoy.com^
 ||cl.canva.com^
 ||clcktrax.com^
@@ -3433,7 +3424,6 @@
 ||conductrics.net^
 ||conduze.com^
 ||conff.dc.oppomobile.com^
-||confiant-integrations.global.ssl.fastly.net^
 ||confiant.msn.com^
 ||config2.mparticle.com^
 ||config3.ioam.de^
@@ -4589,7 +4579,6 @@
 ||epiodata.com^
 ||epitrack.com^
 ||e-planning.net^
-||epnt.ebay.com^
 ||epom.com^
 ||epp.bih.net.ba^
 ||eproof.com^
@@ -5088,7 +5077,6 @@
 ||fxstyle.net^
 ||fyber.com^
 ||fyreball.com^
-||fyrsbckgi-c.global.ssl.fastly.net^
 ||g0.doubleclick.net^
 ||g1.ads.oppomobile.com^
 ||g1.doubleclick.net^
@@ -5270,6 +5258,7 @@
 ||getviously.com^
 ||getwhichit.com^
 ||getyoutothenext.com^
+||gezaehlt.de^
 ||gezinti.com^
 ||gez.io^
 ||gf47k2jv.micpn.com^
@@ -5647,6 +5636,7 @@
 ||hotrank.com.tw^
 ||hoverowl.com^
 ||hp.myway.com^
+||hpprintersupportservice.com^
 ||hprofits.com^
 ||hpr.outbrain.com^
 ||hpyjmp.com^
@@ -5889,7 +5879,6 @@
 ||indicative.com^
 ||indicia.com^
 ||indieclick.com^
-||individuad.net^
 ||indoleads.com^
 ||industrybrains.com^
 ||ineedhits.com^
@@ -6873,6 +6862,7 @@
 ||martinimedianetwork.com^
 ||marvel-b2-cdn.bc0a.com^
 ||masdk.3g.qq.com^
+||mashero.com^
 ||mask-h2.icloud.com^
 ||mask.icloud.com^
 ||mas.protecmedia.com^
@@ -7200,7 +7190,6 @@
 ||mixi.mn^
 ||mixmarket.biz^
 ||mixpo.com^
-||mjca-yijws.global.ssl.fastly.net^
 ||mkt3261.com^
 ||mkt6333.com^
 ||mkt941.com^
@@ -7260,6 +7249,7 @@
 ||mobday.com^
 ||mobee.xyz^
 ||mobfox.com^
+||mobgold.com^
 ||mobials.com^
 ||mobidea.com^
 ||mobilda.com^
@@ -7312,7 +7302,6 @@
 ||mongoosemetrics.com^
 ||mon.isnssdk.com^
 ||monitor.channel4.com^
-||monitor.ebay.com^
 ||monitus.net^
 ||mon.musical.ly^
 ||mon.musical.ly.edgesuite.net^
@@ -7354,7 +7343,6 @@
 ||mozoo.com^
 ||mp3lofts.com^
 ||mp3vizor.com^
-||mparticle.map.fastly.net^
 ||m-pathy.com^
 ||mpc.nicequest.com^
 ||mpianalytics.com^
@@ -8652,8 +8640,6 @@
 ||pulpix.com^
 ||pulpo.com^
 ||pulpsbarndomed.com^
-||pulsar.ebay.ie^
-||pulsar.ebay.nl^
 ||pulse360.com^
 ||pulse.apester.com^
 ||pulse.delta.com^
@@ -10664,6 +10650,7 @@
 ||sub.viafoura.co^
 ||succeedscene.com^
 ||successfultogether.co.uk^
+||suchmaschinen-ranking-hits.de^
 ||suddensidewalk.com^
 ||sugarcurtain.com^
 ||sug.browser.miui.com^
@@ -10733,7 +10720,6 @@
 ||sweb.ulta.com^
 ||swfstats.com^
 ||swimslope.com^
-||swissadsolutions.com^
 ||swiss-counter.com^
 ||switchadhub.com^
 ||switchads.com^
@@ -12190,6 +12176,7 @@
 ||whitelist.scloud.lfengmobile.com^
 ||whiteops.com^
 ||whitepixel.com^
+||whizstats.com^
 ||whizzco.com^
 ||whoisonline.net^
 ||whoisvisiting.com^
@@ -12226,6 +12213,7 @@
 ||wikia-ads.wikia.com^
 ||wikia-beacon.com^
 ||wikiodeliv.com^
+||wildxtraffic.com^
 ||window.nixnet.cz^
 ||windsplay.com^
 ||wintricksbanner.googlepages.com^
@@ -12310,7 +12298,6 @@
 ||wt.vhb.de^
 ||wundercounter.com^
 ||wunderkind.co^
-||wunderloop.net^
 ||wurfl.io^
 ||w.usabilla.com^
 ||ww13.smartadserver.com^
