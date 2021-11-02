@@ -50,6 +50,7 @@
 @@|mads.amazon.com^
 @@|partnernet.amazon.de^
 @@|s.amazon-adsystem.com^
+@@|www-amazon-*.customer.fastly.net^
 
 ! Amazon AWS
 @@|bbuseruploads.s3.amazonaws.com^
@@ -487,6 +488,7 @@
 @@|config.uca.cloud.unity3d.com^
 
 ! Various
+@@||fastly.net^
 @@|api-cf.affirm.com^
 @@|api.rollbar.com^
 @@|cdn-assets.affirm.com^
