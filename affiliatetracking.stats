@@ -2,12 +2,13 @@
 
 Config:
 
-** Build - 4:
+** Build - 5:
 
    extendWWWFLD
    hosts
    adblock
    localpush
+   checkfordead
 
 ++ Prioritized Blocklists - 1:
 
@@ -35,7 +36,7 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |   14202 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+   1 |   14213 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
    2 |     244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
    3 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
    4 |    9322 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
@@ -49,20 +50,20 @@ Initialize ...
 
 Stats affiliatetracking:
 
-** Source (raw):    40685
-== Source (unique): 31007 (-9678)
--- Exclude:         14049 (-16958)
--- White:           14039 (-10)
--- White(*):        14012 (-27)
--- Dead:            13599 (-413)
-++ Block:           13755 (+156)
--- Unblock:         13755 (-0)
--- Unblock(*):      13755 (-0)
-++ FLD:             13759 (+4)
-++ WWW:             13854 (+95)
+** Source (raw):    40696
+== Source (unique): 31018 (-9678)
+-- Exclude:         14075 (-16943)
+-- White:           14065 (-10)
+-- White(*):        14038 (-27)
+-- Dead:            13605 (-433)
+++ Block:           13761 (+156)
+-- Unblock:         13761 (-0)
+-- Unblock(*):      13761 (-0)
+++ FLD:             13765 (+4)
+++ WWW:             13860 (+95)
 
-13854 unique Domains - Version 2021.1101.122345
-MD5 Domains RAW: 4dccc53ee437f63ac596735d2babe02f
+13860 unique Domains - Version 2021.1102.121743
+MD5 Domains RAW: 2d0d3e7067a5af9f9c6fec50faf13340
 
 # Convert affiliatetracking to Hostlist ... 
 
@@ -85,10 +86,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling affiliatetracking.adblock.raw
-ℹ Original length is 13541
-ℹ Length after applying transformations is 13541
-ℹ The list was compressed from 13544 to 11798
-ℹ Final length of the list is 11804
+ℹ Original length is 13547
+ℹ Length after applying transformations is 13547
+ℹ The list was compressed from 13550 to 11802
+ℹ Final length of the list is 11808
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/affiliatetracking/out/affiliatetracking.adblock
 ℹ Finished compiling
 

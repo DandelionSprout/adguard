@@ -35,7 +35,7 @@
 ! --------------------------------------------
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
-!    1 |   14202 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+!    1 |   14213 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 !    2 |     244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 !    3 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
 !    4 |    9322 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
@@ -45,7 +45,7 @@
 !    8 |       5 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
 !    9 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
 !
-! 11794 unique Domains - Version 2021.1101.122345
+! 11798 unique Domains - Version 2021.1102.121743
 !
 ||106075.genieessp.com^
 ||108557.genieessp.com^
@@ -572,6 +572,7 @@
 ||appleworldwidedeveloper.hb-api.omtrdc.net^
 ||appleworldwidedeveloper-stage.hb-api.omtrdc.net^
 ||appmetrica.yandex.com^
+||app.noreply.cummins.com^
 ||app.riverbed.com^
 ||app.sephora.com^
 ||arg.mail.haircode.com^
@@ -876,6 +877,7 @@
 ||cmp.techhive.com^
 ||cmp.webwereld.nl^
 ||cmp.zeit.de^
+||cms.rickdronkers.com^
 ||cn.cyclingnews.com^
 ||cnmq.sens-original.com^
 ||cnn.hb.omtrdc.net^
@@ -913,12 +915,15 @@
 ||communications.rightstar.com^
 ||communications.ypo.org^
 ||compaid.aosag.net^
+||compare.bedroomvillas.com^
 ||compare.biletyplus.ru^
 ||compare.flighthub.com^
 ||compare.flightnetwork.com^
 ||compare.fly4free.com^
+||compare.flyfar.ca^
 ||compare-im.ostrovok.ru^
 ||compare-im.trip101.com^
+||compare-im.virail.com^
 ||compare.jetcost.com^
 ||compare.liligo.com^
 ||compare.loli-pop.co.uk^
@@ -928,7 +933,9 @@
 ||compare.studentuniverse.com^
 ||compare.teletextholidays.co.uk^
 ||compare.tripcanvas.co^
+||compare.triphobo.com^
 ||compare.volaris.com^
+||compare.wanderu.com^
 ||computeruniverse01.webtrekk.net^
 ||conferences.marketforce.eu.com^
 ||congstar01.webtrekk.net^
@@ -947,12 +954,11 @@
 ||consent.computerweekly.com^
 ||consent.dumont.de^
 ||consent.express.de^
-||consent.hamhigh.co.uk^
-||consent.hertsad.co.uk^
 ||consent.ksta.de^
 ||consent.mopo.de^
 ||consent.mz-web.de^
 ||consent.notebookreview.com^
+||consent.romfordrecorder.co.uk^
 ||consent.theserverside.com^
 ||contact.kensington.com^
 ||contact.tphco.com^
@@ -1138,7 +1144,6 @@
 ||e3rd.net^
 ||eads-com01.webtrekk.net^
 ||ea.galerieslafayette.com^
-||ea.pixmania.de^
 ||eb.informabi.com^
 ||ecards01.webtrekk.net^
 ||echo-news-gb.echo-news.co.uk^
@@ -1335,7 +1340,6 @@
 ||eprofessional01.webtrekk.net^
 ||e.prospertrading.com^
 ||ereflect.postaffiliatepro.com^
-||er.prod.verticalresponse.com^
 ||erstegroup01.webtrekk.net^
 ||ery6.anaca3.com^
 ||es.adpinfo.com^
@@ -8948,6 +8952,7 @@
 ||pb.eulerian.com^
 ||pb.eulerian.eu^
 ||pb.eulerian.fr^
+||pc4.datarunsdeep.com.au^
 ||pclick.yahoo.com^
 ||pdp1.pdpaola.com^
 ||peering.da1.vip.prod.criteo.net^
@@ -9291,7 +9296,6 @@
 ||smetrics.mikasa.com^
 ||smetrics.samsung.com^
 ||smetrics.santander.co.uk^
-||smetrics.tnt.tv^
 ||smetrics.versionone.com^
 ||smetrics.yola.com^
 ||smtp.abbotsford.bluehornet.com^
