@@ -76,6 +76,15 @@
 
 ---
 
+### ***Beta/Experimental***
+
+**I am currently testing an "Everything" experimental version of my blocklists with more discreet whitelisting. Testers are welcome.**    
+More information and the links to the different versions of the blocklist can be found in the following issue: [German version](https://github.com/Zelo72/rpi/issues/22) | [English version](https://github.com/Zelo72/rpi/issues/23)
+
+*An attempt has been made to avoid false positive domains, but still this list may contain false positive domains. Therefore, an admin should be available to allow falsely blocked domains when you use this list. Please report false positive domains.*
+
+---
+
 ### ***Note***
 
 ***The blocklists were created for purely personal, private use. They were designed to avoid false positive domains as much as possible and not to block any needed features. Maximum blocking with full functionality. They were [compiled](https://github.com/Zelo72/rpi/tree/master/pihole/blocklists/build) from [numerous sources](https://github.com/Zelo72/rpi/blob/master/SOURCES.md), my own [blacklists](https://github.com/Zelo72/rpi/tree/master/pihole/blocklists/data) and various [whitelists](https://github.com/Zelo72/rpi/blob/master/SOURCES.md#white--dead-list). To keep the lists as small as possible, [dead domains](https://github.com/Zelo72/rpi/blob/master/SOURCES.md#white--dead-list) are removed regularly.***
@@ -88,7 +97,7 @@
 
 **A huge thank you to the following list maintainers of the [sources used](https://github.com/Zelo72/rpi/blob/master/SOURCES.md):**
 
-*ABPindo, abpvn, AdAway, adblock.gardar.net, AdguardTeam, AdroitAdorKhan, AhaDNS, alphasoc.net, AmnestyTech, anudeepND, azorult-tracker.net, badmojr, bigdargon, blokadaorg, bongochong, botvrij.eu, boutetnico, cbuijs, cert-pa.it, chrisjudk, common-lisp.net, curbengh, cyberthreatcoalition.org, d3ward, Dan Pollock (someonewhocares.org), DandelionSprout, davidonzo, DRSDavidSoft, durablenapkin, easylist, EasyList-Lithuania, easylist-thailand, EnergizedProtection, FadeMind, guardicore, hole.cert.pl, hoshsadiq, hostfiles.frogeye.fr, hpthreatresearch, iam-py-test, infinitytec, jdlingyu, jkrejcha, joewein.net, JoseGalRe, kargig, Kees1958, KevinThomas0, kriskintel.com, Laicure, latvian-list, matomo-org, metamask, mitchellkrogza, mkb2091, Natizyskunk, nextdns, notracking, ookangzheng, oneoffdallas, orca.pet, osint.digitalside.it, paulgb, Peter Lowe (pgl.yoyo.org), phishing.army, piperun, PolishFiltersTeam, prodaft, quidsup, raghavdua1995, rescure.me, RPiList, rspamd, scafroglia93, ShadowWhisperer, shreyasminocha, socram8888, Spam404, stamparm, stanev.org, Stephan (sjhgvr - oisd.nl), StevenBlack, stonecrusher, stopforumspam.com, T145, tiuxo, tomasko126, travisboss, uBlockOrigin, Ultimate-Hosts-Blacklist, URLhaus, usom.gov.tr, velesila, WaLLy3K, What-Zit-Tooya, windscribe.com, winhelp2002.mvps.org, yecarrillo, Yhonay, zebpalmer, ZeroDot1, zoso.ro*
+*ABPindo, abpvn, AdAway, adblock.gardar.net, AdguardTeam, AdroitAdorKhan, AhaDNS, alphasoc.net, AmnestyTech, anudeepND, azorult-tracker.net, badmojr, bigdargon, blokadaorg, bongochong, botvrij.eu, boutetnico, cbuijs, cert-pa.it, chrisjudk, common-lisp.net, curbengh, cyberthreatcoalition.org, d3ward, Dan Pollock (someonewhocares.org), DandelionSprout, davidonzo, DRSDavidSoft, durablenapkin, easylist, EasyList-Lithuania, easylist-thailand, EnergizedProtection, FadeMind, guardicore, hl2guide, hole.cert.pl, hoshsadiq, hostfiles.frogeye.fr, hpthreatresearch, iam-py-test, infinitytec, jdlingyu, jkrejcha, joewein.net, JoseGalRe, kargig, Kees1958, KevinThomas0, kriskintel.com, Laicure, latvian-list, matomo-org, metamask, mitchellkrogza, mkb2091, Natizyskunk, nextdns, notracking, ookangzheng, oneoffdallas, orca.pet, osint.digitalside.it, paulgb, Peter Lowe (pgl.yoyo.org), phishing.army, piperun, PolishFiltersTeam, prodaft, quidsup, raghavdua1995, rescure.me, RPiList, rspamd, scafroglia93, ShadowWhisperer, shreyasminocha, socram8888, Spam404, stamparm, stanev.org, Stephan (sjhgvr - oisd.nl), StevenBlack, stonecrusher, stopforumspam.com, T145, tiuxo, tomasko126, travisboss, uBlockOrigin, Ultimate-Hosts-Blacklist, URLhaus, usom.gov.tr, velesila, WaLLy3K, What-Zit-Tooya, windscribe.com, winhelp2002.mvps.org, yecarrillo, Yhonay, zebpalmer, ZeroDot1, zoso.ro*
 
 ---
 
