@@ -29,7 +29,7 @@
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |    2197 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
 !    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
-!    3 |   17012 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+!    3 |   17028 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 !    4 |    1487 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 !    5 |      45 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
 !    6 |    5904 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
@@ -37,7 +37,7 @@
 !    8 |    1424 | domains | local  | online  | unchanged | fake.ts.black.list
 !    9 |     491 | domains | local  | online  | unchanged | fake.vzni.black.list
 !
-! 21688 unique Domains - Version 2021.1102.120920
+! 21704 unique Domains - Version 2021.1103.001033
 !
 ||000relationships.com^
 ||007cryptooption.com^
@@ -280,6 +280,7 @@
 ||420stonersshop.com^
 ||420store4all.com^
 ||420suppliesshop.com^
+||420weedcache.com^
 ||420weedcafe.store^
 ||420weedonlineshop.us^
 ||420weedstore.us^
@@ -720,6 +721,7 @@
 ||agrotractorhouseimpexp.co.za^
 ||agrotradeglobal.co.za^
 ||agrovace.com^
+||agrowthtradeinternational.com^
 ||agru-paradis.com^
 ||agsm.ch^
 ||agtradeltd.com^
@@ -1356,6 +1358,7 @@
 ||aplcourierservice.org^
 ||apodeutschland.biz^
 ||apollan.de^
+||apollohospitalcenter.com^
 ||apollosclinic.com^
 ||apopkatimes.com^
 ||apotheek24-7.com^
@@ -2974,6 +2977,7 @@
 ||bulkygermanshepherdpuppies.com^
 ||bulkygermanshepherdpups.com^
 ||bulldog4u.com^
+||bulldogbreeds.store^
 ||bulldogbreedsuk.com^
 ||bulldogcriadora.com^
 ||bulldogge-franzosische-welpen.com^
@@ -5331,6 +5335,7 @@
 ||dioncu.com^
 ||dionycos.com^
 ||dioscavapoopuppies.xyz^
+||diplomapharmacy.com^
 ||diplomaticbullion.com^
 ||direcasn.com^
 ||directairwayslogistic.com^
@@ -6522,6 +6527,7 @@
 ||everweydelivery.com^
 ||everydaybengal.com^
 ||everydaybreakingnews.com^
+||everydaymaltipoopuppies.com^
 ||everydaywinner.com^
 ||everynewshere.com^
 ||evil.news^
@@ -6848,6 +6854,7 @@
 ||fancypetshome.co.za^
 ||fancypugs.com^
 ||fancypuppieshomes.co.za^
+||fancyteacuppuppies.com^
 ||fanieshat-chery.co.za^
 ||fanogo.de^
 ||fantasie-farbe.de^
@@ -8704,6 +8711,7 @@
 ||greenleafdispensarystore.com^
 ||greenlife-420.net^
 ||greenlightfrenchies.com^
+||greenlight-poodles.com^
 ||greenline-cargo.com^
 ||greenlivingnews.com^
 ||greenmms.com^
@@ -9115,6 +9123,7 @@
 ||healhtystbernard.com^
 ||healing-rock.de^
 ||heally.top^
+||health420s.com^
 ||healthbenefitsf.com^
 ||healthcaremarijuanastore.com^
 ||healthcartmeds.com^
@@ -11916,6 +11925,7 @@
 ||macmillianlaboratory.com^
 ||macombtoday.com^
 ||maconbradleyscorgishome.com^
+||maconcanecorso.com^
 ||maconreporter.com^
 ||macontimes.com^
 ||macosdriver.com^
@@ -13321,6 +13331,7 @@
 ||mykaspersky.co.uk^
 ||mykatzenwelt.de^
 ||mykennelshop.com^
+||mykidneysale.com^
 ||mykundenservice.com^
 ||mykushonlinefarm.com^
 ||mylabrador-retriever.com^
@@ -14218,6 +14229,7 @@
 ||oilsupply.biz^
 ||oinstroj.com^
 ||ojammunitions.com^
+||ojpoultryfarms.co.za^
 ||ojrwebtool.com^
 ||okbusinessdaily.com^
 ||okcstandard.com^
@@ -14481,6 +14493,7 @@
 ||ourpremiumaussies.com^
 ||ourpuppieshome.com^
 ||ourpuppycastle.com^
+||ourpuppyworld.com^
 ||ourrottweilers.com^
 ||ourshiftingperspective.com^
 ||ourworldofdocuments.com^
@@ -15074,6 +15087,7 @@
 ||pixelguns.com^
 ||pixiefun.net^
 ||pjglobalshipping.online^
+||pkbbaneheide.com^
 ||pkslutvr.top^
 ||pkv-vorteil.com^
 ||placeo.top^
@@ -18171,6 +18185,7 @@
 ||sphynx-kittens4sale.com^
 ||sphynxkittensforhome.com^
 ||sphynxkittensforsale.com^
+||sphynxlocalbreeder.com^
 ||sphynxspot.com^
 ||sphynxxkittens.com^
 ||spicegermanshepherdpuppies.com^
@@ -20768,6 +20783,7 @@
 ||walterlabradors.com^
 ||walter-riegler.at^
 ||waltontrustrc.com^
+||waltontrustrc.org^
 ||waltraudkoch.de^
 ||wamegoguide.com^
 ||wanderlustu.com^
