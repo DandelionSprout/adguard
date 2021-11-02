@@ -83,6 +83,17 @@
 
 ---
 
+### ***Other lists*** (third party)
+*The following lists are already included in my lists!*
+
+**StevenBlack/hosts:** Compressed AdBlock/AdGuard version of Steven Black's Hosts. This hosts file is a merged collection of hosts from reputable sources with a dash of crowd sourcing via GitHub. Homepage: https://github.com/StevenBlack/hosts
+> ***Link AdBlock/AdGuard version:*** https://raw.githubusercontent.com/Zelo72/adguard/main/stevenblack.adblock
+
+**D3Ward/D3Hosts:** Compressed AdBlock/AdGuard version of D3Ward's Hosts. A simple and small list with the most popular advertising, analytics and social advertising services. Homepage: https://github.com/d3ward/toolz
+> ***Link AdBlock/AdGuard version:*** https://raw.githubusercontent.com/Zelo72/adguard/main/d3host.adblock
+
+---
+
 ### ***Beta/Experimental***
 
 **I am currently testing an "Everything" experimental version of my blocklists with more discreet whitelisting. Testers are welcome.**    
