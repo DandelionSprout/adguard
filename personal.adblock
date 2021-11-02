@@ -36,15 +36,15 @@
 ! ---------------------------------------------------
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
-!    1 |   13598 | domains | local  | online  | unchanged | black.list
+!    1 |   13598 | domains | local  | online  | changed   | black.list
 !    2 |     139 | domains | local  | online  | unchanged | black.list.threat-intelligence
 !    3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
-!    4 |    3675 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+!    4 |    3676 | hosts   | http   | online  | changed   | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 !    5 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
 !    6 |    2016 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
 !    7 |    4923 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
 !
-! 12543 unique Domains - Version 2021.1102.120820
+! 12545 unique Domains - Version 2021.1103.000935
 !
 ||0emm.com^
 ||0i0i0i0.com^
@@ -1799,9 +1799,11 @@
 ||analytics.fs-bdash.com^
 ||analytics.global.sky.com^
 ||analytics.go.com^
+||analytics.google.com^
 ||analytics.headerbiddr.net^
 ||analytics.htmedia.in^
 ||analytics.icons8.com^
+||analytics.idfnet.net^
 ||analytics.ifood.tv^
 ||analytics-ingress-global.bitmovin.com^
 ||analytics.inlinemanual.com^
@@ -2756,6 +2758,7 @@
 ||brat-online.ro^
 ||bravospots.com^
 ||braze.eu^
+||breadbalance.com^
 ||breakableinsurance.com^
 ||breakfastboat.com^
 ||breaktime.com.tw^
@@ -5713,7 +5716,6 @@
 ||iads.staticscdn.net^
 ||iadvize.com^
 ||ia.ekstrabladet.dk^
-||ia.hit.interia.pl^
 ||ia.iinfo.cz^
 ||iasds01.com^
 ||iaudienc.com^
