@@ -22,7 +22,7 @@
          
 #### Totallist ***(recommendation)***
 
-[**Big**](https://raw.githubusercontent.com/Zelo72/adguard/main/big.adblock) - Zelo's "Big" Blocklist: Blocks ads, tracking, metrics, telemetry, fake, phishing, malware, coins, crypto and other "crap". An all-in-one blocklist that does not block any mandatory "functions" - no strict blocking. Dead hosts (hosts addresses that no longer exist) have been removed from this list. It can be used as a standalone blocklist. The prerequisite is that the ad blocker can handle large lists. With Pihole, for example, this is no problem. The list contains about 1.300.000 domains (570.000 AdBlock optimized).
+[**Big**](https://raw.githubusercontent.com/Zelo72/adguard/main/big.adblock) - Zelo's "Big" Blocklist: Blocks ads, tracking, metrics, telemetry, fake, phishing, malware, coins, crypto and other "crap". An all-in-one blocklist that does not block any mandatory "functions" - no strict blocking. Dead hosts (hosts addresses that no longer exist) have been removed from this list. It can be used as a standalone blocklist. The prerequisite is that the ad blocker can handle large lists. With Pihole, for example, this is no problem. 
 
 > ***Link:***
 > https://raw.githubusercontent.com/Zelo72/adguard/main/big.adblock
@@ -31,21 +31,21 @@
 
 #### Basiclists (included in Big blocklist)
 
-[**Multi**](https://raw.githubusercontent.com/Zelo72/adguard/main/multi.adblock) - Zelo's "Multi" blocklist: Blocks ads, tracking, metrics, telemetry, phishing, malware, coins, crypto and other "crap". The "light" version of the big list. A light all-in-one blocklist that does not block any mandatory "functions" - no strict blocking. Dead hosts (hosts addresses that no longer exist) have been removed from this list. It can be used as a standalone blocklist. The list contains about 430.000 domains (250.000 AdBlock optimized).
+[**Multi**](https://raw.githubusercontent.com/Zelo72/adguard/main/multi.adblock) - Zelo's "Multi" blocklist: Blocks ads, tracking, metrics, telemetry, phishing, malware, coins, crypto and other "crap". The "light" version of the big list. A light all-in-one blocklist that does not block any mandatory "functions" - no strict blocking. Dead hosts (hosts addresses that no longer exist) have been removed from this list. It can be used as a standalone blocklist. 
 
 > ***Link:***
 > https://raw.githubusercontent.com/Zelo72/adguard/main/multi.adblock
 > 
 > ***Sources:*** [Stats](https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/multi.stats)
 
-[**Light**](https://raw.githubusercontent.com/Zelo72/adguard/main/light.adblock) - Zelo's "Light" blocklist: Blocks ads, tracking, metrics, telemetry. The "very light" version of the multi list. A lightweight blocklist for ad blockers who have problems with large lists that does not block any mandatory "functions" - no strict blocking. Dead hosts (hosts addresses that no longer exist) have been removed from this list. The list contains about 100.000 domains (60.000 AdBlock optimized).
+[**Light**](https://raw.githubusercontent.com/Zelo72/adguard/main/light.adblock) - Zelo's "Light" blocklist: Blocks ads, tracking, metrics, telemetry. The "very light" version of the multi list. A lightweight blocklist for ad blockers who have problems with large lists that does not block any mandatory "functions" - no strict blocking. Dead hosts (hosts addresses that no longer exist) have been removed from this list. 
 
 > ***Link:***
 > https://raw.githubusercontent.com/Zelo72/adguard/main/light.adblock
 > 
 > ***Sources:*** [Stats](https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/light.stats)
 
-[**Fake**](https://raw.githubusercontent.com/Zelo72/adguard/main/fake.adblock) - Zelo's "Fake" blocklist: Blocks fake stores, -news, -science, -streaming, rip-offs, cost traps and co. Based on various consumer sites, warnings and other fake lists. As a recommended addition to the multi or light blocklist, the domains from the fake blocklist are included in the big blocklist. The list contains about 15.000 domains (7.500 AdBlock optimized).
+[**Fake**](https://raw.githubusercontent.com/Zelo72/adguard/main/fake.adblock) - Zelo's "Fake" blocklist: Blocks fake stores, -news, -science, -streaming, rip-offs, cost traps and co. Based on various consumer sites, warnings and other fake lists. As a recommended addition to the multi or light blocklist, the domains from the fake blocklist are included in the big blocklist. 
 
 > ***Link:*** https://raw.githubusercontent.com/Zelo72/adguard/main/fake.adblock
 > 
@@ -53,7 +53,7 @@
 
 #### Personallists (included in Light/Multi/Big blocklist)
 
-[**Personal**](https://raw.githubusercontent.com/Zelo72/adguard/main/personal.adblock) - Zelo's "Personal" blocklist: Blocks ads, tracking, metrics, telemetry and  other "crap". As an extension for other blocklists. The personal blocklist is already included in my light/multi/big blocklist! The list contains about 23.000 domains (13.000 AdBlock optimized).
+[**Personal**](https://raw.githubusercontent.com/Zelo72/adguard/main/personal.adblock) - Zelo's "Personal" blocklist: Blocks ads, tracking, metrics, telemetry and  other "crap". As an extension for other blocklists. The personal blocklist is already included in my light/multi/big blocklist! 
 
 > ***Link:*** https://raw.githubusercontent.com/Zelo72/adguard/main/personal.adblock
 > 
@@ -61,13 +61,13 @@
 
 #### Extensionlists (if required - as an extension to the big, multi or light blocklist)
 
-[**Affiliate&Tracking**](https://raw.githubusercontent.com/Zelo72/adguard/main/affiliatetracking.adblock) - Zelo's "Affiliate & Tracking Plus" Blocklist: Blocks additional ads, ad links, tracking, metrics and telemetry. An extension to the light/multi/big blocklist. Note: This blocklist also blocks e.g. links marked as ads in Google search or affiliate links in mail offers. The list contains about 170.000 domains (142.000 AdBlock optimized). ***(Optional)***
+[**Affiliate&Tracking**](https://raw.githubusercontent.com/Zelo72/adguard/main/affiliatetracking.adblock) - Zelo's "Affiliate & Tracking Plus" Blocklist: Blocks additional ads, ad links, tracking, metrics and telemetry. An extension to the light/multi/big blocklist. Note: This blocklist also blocks e.g. links marked as ads in Google search or affiliate links in mail offers. ***(Optional)***
 
 > ***Link:*** https://raw.githubusercontent.com/Zelo72/adguard/main/affiliatetracking.adblock
 > 
 > ***Sources:*** [Stats](https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/affiliatetracking.stats)
 
-[**ThreatIntelligenceFeeds**](https://raw.githubusercontent.com/Zelo72/adguard/main/threat-intelligence.adblock)- Zelo's "Threat Intelligence Feeds": Blocks Malware, Crypto, Coins, Spam, Scam and Pishing - domains known to spread malware, launch phishing attacks, host command-and-control servers and more. Increases secutity significantly. The list contains about 320.000 domains (280.000 AdBlock optimized). ***(Optional)***
+[**ThreatIntelligenceFeeds**](https://raw.githubusercontent.com/Zelo72/adguard/main/threat-intelligence.adblock)- Zelo's "Threat Intelligence Feeds": Blocks Malware, Crypto, Coins, Spam, Scam and Pishing - domains known to spread malware, launch phishing attacks, host command-and-control servers and more. Increases secutity significantly. ***(Optional)***
 
 *An attempt has been made to avoid false positive domains, but still this list may contain false positive domains. Therefore, an admin should be available to allow falsely blocked domains when you use this list. Please report false positive domains.*
 
