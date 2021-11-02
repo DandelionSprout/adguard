@@ -29,25 +29,25 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |  492823 | domains | local  | online  | changed   | multi.txt
-   2 |   42861 | domains | local  | online  | changed   | fake.txt
-   3 | 1066105 | domains | http   | online  | changed   | https://dbl.oisd.nl
+   1 |  483838 | domains | local  | online  | changed   | multi.txt
+   2 |   42897 | domains | local  | online  | changed   | fake.txt
+   3 | 1066103 | domains | http   | online  | unchanged | https://dbl.oisd.nl
 
 # Build big Domainlist ...
 
 Stats big:
 
-** Source (raw):    1601789
-== Source (unique): 1344830 (-256959)
--- Dead:            1306931 (-37899)
-++ Block:           1307075 (+144)
--- Unblock:         1307061 (-14)
--- Unblock(*):      1304988 (-2073)
-++ FLD:             1319218 (+14230)
-++ WWW:             1328415 (+9197)
+** Source (raw):    1592838
+== Source (unique): 1339023 (-253815)
+-- Dead:            1298720 (-40303)
+++ Block:           1298863 (+143)
+-- Unblock:         1298849 (-14)
+-- Unblock(*):      1296729 (-2120)
+++ FLD:             1311574 (+14845)
+++ WWW:             1321214 (+9640)
 
-1328415 unique Domains - Version 2021.1102.001843
-MD5 Domains RAW: 321d81e4ad11d0d80dbe75b75010b33e
+1321214 unique Domains - Version 2021.1102.121837
+MD5 Domains RAW: 10a1c52a87de2e254db24b5d8b65c0e9
 
 # Convert big to Hostlist ... 
 
@@ -70,10 +70,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling big.adblock.raw
-ℹ Original length is 967742
-ℹ Length after applying transformations is 967742
-ℹ The list was compressed from 967745 to 498393
-ℹ Final length of the list is 498399
+ℹ Original length is 962811
+ℹ Length after applying transformations is 962811
+ℹ The list was compressed from 962814 to 495322
+ℹ Final length of the list is 495328
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/big/out/big.adblock
 ℹ Finished compiling
 
