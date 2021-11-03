@@ -37,7 +37,7 @@
 !    8 |    1424 | domains | local  | online  | unchanged | fake.ts.black.list
 !    9 |     492 | domains | local  | online  | unchanged | fake.vzni.black.list
 !
-! 21762 unique Domains - Version 2021.1103.214935
+! 21764 unique Domains - Version 2021.1104.001101
 !
 ||000relationships.com^
 ||007cryptooption.com^
@@ -9738,6 +9738,7 @@
 ||hpprintersupportpro.com^
 ||hpprintersupportpro.us^
 ||hp-printer-supports.com^
+||hpprintersupportservice.com^
 ||hp-printer-support.us^
 ||hp-printer-tech-support-number.com^
 ||hprintertechs.com^
@@ -13741,6 +13742,7 @@
 ||newmanenglishcenter.com^
 ||newmanslayer.de^
 ||newmarketing4dummies.com^
+||new-message.email^
 ||newobserveronline.com^
 ||newpassportonline.com^
 ||newpoliticstoday.com^
