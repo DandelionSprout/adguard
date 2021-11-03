@@ -34,27 +34,27 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |  442505 | domains | local  | online  | changed   | multi.txt
-   2 |   43043 | domains | local  | online  | unchanged | fake.txt
+   1 |  442965 | domains | local  | online  | changed   | multi.txt
+   2 |   43047 | domains | local  | online  | changed   | fake.txt
    3 | 1037010 | domains | http   | OFFLINE | unchanged | USE LOCAL COPY: dbl.oisd.nl.txt
 
 # Build big Domainlist ...
 
 Stats big:
 
-** Source (raw):    1522558
-== Source (unique): 1298088 (-224470)
--- White:           1298081 (-7)
--- White(*):        1297293 (-788)
--- Dead:            1257364 (-39929)
-++ Block:           1257525 (+161)
--- Unblock:         1257503 (-22)
--- Unblock(*):      1255484 (-2019)
-++ FLD:             1270273 (+14789)
-++ WWW:             1280007 (+9734)
+** Source (raw):    1523022
+== Source (unique): 1298977 (-224045)
+-- White:           1298970 (-7)
+-- White(*):        1298182 (-788)
+-- Dead:            1256787 (-41395)
+++ Block:           1256948 (+161)
+-- Unblock:         1256926 (-22)
+-- Unblock(*):      1254636 (-2290)
+++ FLD:             1270469 (+15833)
+++ WWW:             1280125 (+9656)
 
-1280007 unique Domains - Version 2021.1103.215807
-MD5 Domains RAW: 812d8e433af5d9a061106a82d18e97bd
+1280125 unique Domains - Version 2021.1104.001909
+MD5 Domains RAW: e24f08b5da03300786a07424537d0768
 
 # Convert big to Hostlist ... 
 
@@ -77,10 +77,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling big.adblock.raw
-ℹ Original length is 924016
-ℹ Length after applying transformations is 924016
-ℹ The list was compressed from 924019 to 486278
-ℹ Final length of the list is 486284
+ℹ Original length is 923908
+ℹ Length after applying transformations is 923908
+ℹ The list was compressed from 923911 to 486253
+ℹ Final length of the list is 486259
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/big/out/big.adblock
 ℹ Finished compiling
 
