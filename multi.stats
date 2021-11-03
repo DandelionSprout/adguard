@@ -44,15 +44,15 @@ Initialize ...
   Nr |   Count | Format  | Source | Status  | File      | URL/File
    1 |    1013 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
    2 |     636 | domains | http   | online  | unchanged | https://v.firebog.net/hosts/Admiral.txt
-   3 |   14744 | domains | http   | online  | unchanged | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-   4 |   15640 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
+   3 |   14900 | domains | http   | online  | changed   | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+   4 |   15642 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
    5 |    3670 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/ut1/master/ads/domains
    6 |      22 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
    7 |     429 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
    8 |       5 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
    9 |     419 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.txt
   10 |     357 | domains | http   | online  | unchanged | https://v.firebog.net/hosts/static/w3kbl.txt
-  11 |   77838 | domains | http   | online  | unchanged | https://dbl.oisd.nl/basic/
+  11 |   77838 | domains | http   | OFFLINE | unchanged | USE LOCAL COPY: dbl.oisd.nl_basic_.txt
   12 |  251484 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
   13 |   46754 | domains | http   | online  | unchanged | https://phishing.army/download/phishing_army_blocklist.txt
   14 |    1406 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/domains.txt
@@ -71,12 +71,12 @@ Initialize ...
   27 |    3496 | hosts   | http   | online  | unchanged | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts_browser
   28 |   93173 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
   29 |    8624 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/guardicore/labs_campaigns/master/Autodiscover/autodiscover-tlds.txt
-  30 |    1312 | hosts   | http   | online  | changed   | https://urlhaus.abuse.ch/downloads/hostfile/
+  30 |    1298 | hosts   | http   | online  | unchanged | https://urlhaus.abuse.ch/downloads/hostfile/
   31 |    4500 | hosts   | http   | online  | unchanged | https://threatfox.abuse.ch/downloads/hostfile
   32 |     374 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
   33 |   41158 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
   34 |    1024 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-  35 |     732 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
+  35 |     733 | adblock | http   | online  | changed   | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
   36 |    5552 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_16_French/filter.txt
   37 |    4660 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
   38 |    6736 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
@@ -130,20 +130,20 @@ Initialize ...
 
 Stats multi:
 
-** Source (raw):    799263
-== Source (unique): 438144 (-361119)
--- Exclude:         434040 (-4104)
--- White:           431043 (-2997)
--- White(*):        426939 (-4104)
--- Dead:            317741 (-109198)
-++ Block:           317935 (+194)
--- Unblock:         317931 (-4)
--- Unblock(*):      317925 (-6)
-++ FLD:             319495 (+1570)
-++ WWW:             442491 (+122996)
+** Source (raw):    799408
+== Source (unique): 438152 (-361256)
+-- Exclude:         434048 (-4104)
+-- White:           431050 (-2998)
+-- White(*):        426946 (-4104)
+-- Dead:            317748 (-109198)
+++ Block:           317942 (+194)
+-- Unblock:         317938 (-4)
+-- Unblock(*):      317932 (-6)
+++ FLD:             319504 (+1572)
+++ WWW:             442505 (+123001)
 
-442491 unique Domains - Version 2021.1103.203536
-MD5 Domains RAW: 97a6115821d56992c09b0ace8816b5a0
+442505 unique Domains - Version 2021.1103.215236
+MD5 Domains RAW: 0b364ae1fd3cfb388aa791fdb26019ba
 
 # Convert multi to Hostlist ... 
 
@@ -166,10 +166,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling multi.adblock.raw
-ℹ Original length is 282823
-ℹ Length after applying transformations is 282823
-ℹ The list was compressed from 282826 to 255690
-ℹ Final length of the list is 255696
+ℹ Original length is 282830
+ℹ Length after applying transformations is 282830
+ℹ The list was compressed from 282833 to 255697
+ℹ Final length of the list is 255703
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/multi/out/multi.adblock
 ℹ Finished compiling
 
