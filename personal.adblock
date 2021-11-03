@@ -36,15 +36,15 @@
 ! ---------------------------------------------------
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
-!    1 |   13596 | domains | local  | online  | changed   | black.list
+!    1 |   13591 | domains | local  | online  | changed   | black.list
 !    2 |     139 | domains | local  | online  | unchanged | black.list.threat-intelligence
 !    3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
-!    4 |    3676 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+!    4 |    3677 | hosts   | http   | online  | changed   | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 !    5 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
 !    6 |    2016 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
 !    7 |    4923 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
 !
-! 12513 unique Domains - Version 2021.1103.120812
+! 12511 unique Domains - Version 2021.1103.194834
 !
 ||0emm.com^
 ||0i0i0i0.com^
@@ -2994,6 +2994,7 @@
 ||cdn.cookie.sync.usonar.jp^
 ||cdn.curalate.com^
 ||cdn.decibelinsight.net^
+||cdn.engine.phn.doublepimp.com^
 ||cdn.evergage.com^
 ||cdn.exactag.com^
 ||cdn.feeds.videosz.com^
@@ -4275,7 +4276,6 @@
 ||doubleclick.com^
 ||doubleclick.de^
 ||doublemax.net^
-||doublepimp.com^
 ||doublepositive.com^
 ||doubleverify.com^
 ||doubtfulrainstorm.com^
@@ -5672,7 +5672,6 @@
 ||hystericalcloth.com^
 ||hystericalhelp.com^
 ||hzkachqd.com^
-||i01.sozcucdn.com^
 ||i16-tb.isnssdk.com^
 ||i16-tb.isnssdk.com.edgekey.net^
 ||i18n.mclean.50union.com^
@@ -6364,6 +6363,7 @@
 ||leafmedia.io^
 ||leaplunchroom.com^
 ||learn.doubleclick.net^
+||leftliquid.com^
 ||legenhit.com^
 ||legolas-media.com^
 ||leiki.com^
@@ -9555,7 +9555,6 @@
 ||services.hearstmags.com^
 ||servicesupport.hicloud.com^
 ||serviciosliverpoolsadecv.us-4.evergage.com^
-||servix.idnes.cz^
 ||servt.vidcrunch.com^
 ||servt.vid-play.com^
 ||servustats.com^
@@ -11035,7 +11034,6 @@
 ||tm1-001.com^
 ||tm.br.de^
 ||tmetrics.hdfcbank.com^
-||tm.jsuol.com.br^
 ||tm-offers.gamingadult.com^
 ||tm.r-ad.ne.jp^
 ||tms.dmp.wi-fi.ru^
