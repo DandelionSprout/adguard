@@ -35,7 +35,7 @@
 ! --------------------------------------------
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
-!    1 |   14213 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+!    1 |   14219 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 !    2 |     244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 !    3 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
 !    4 |    9322 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
@@ -45,7 +45,7 @@
 !    8 |       5 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
 !    9 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
 !
-! 11798 unique Domains - Version 2021.1102.121743
+! 11804 unique Domains - Version 2021.1103.091601
 !
 ||106075.genieessp.com^
 ||108557.genieessp.com^
@@ -924,14 +924,18 @@
 ||compare-im.ostrovok.ru^
 ||compare-im.trip101.com^
 ||compare-im.virail.com^
+||compare-im.zenhotels.com^
 ||compare.jetcost.com^
 ||compare.liligo.com^
 ||compare.loli-pop.co.uk^
 ||compare.minube.com^
+||compare.rentbyowner.com^
 ||compare.reservations.com^
 ||compare.routard.com^
 ||compare.studentuniverse.com^
 ||compare.teletextholidays.co.uk^
+||compare.travelata.ru^
+||compare.traveldealcomparisons.com^
 ||compare.tripcanvas.co^
 ||compare.triphobo.com^
 ||compare.volaris.com^
@@ -1564,6 +1568,7 @@
 ||gentside-de.gentside.de^
 ||gentside-fr.gentside.com^
 ||gentside-uk.gentside.co.uk^
+||geoproxy.am5.vip.prod.criteo.net^
 ||geoproxy.criteo.net^
 ||geoproxy.hk5.vip.prod.criteo.net^
 ||geoproxy.par.vip.prod.criteo.net^
@@ -3581,8 +3586,6 @@
 ||marketing.theppigroup.com^
 ||marketing.vokuz.com^
 ||marvel.hb-api.omtrdc.net^
-||mask-h2.icloud.com^
-||mask.icloud.com^
 ||mathworks.hb.omtrdc.net^
 ||m.blackberry.com^
 ||mc.eulerian.com^
@@ -9252,6 +9255,8 @@
 ||searchadmin-sys.digitalriver.com^
 ||search-sys.digitalriver.com^
 ||securemetrics.apple.com^
+||securemetrics.apple.com.cn^
+||securemetrics.experience.apple^
 ||sedoparking.com^
 ||se-go.kelkoogroup.net^
 ||send1.alsearsmd.com^
@@ -9285,6 +9290,7 @@
 ||skydeutschland.hb.omtrdc.net^
 ||skyitalia.hb.omtrdc.net^
 ||smbhelp.altn.com^
+||smetric.ads.microsoft.com^
 ||smetrics.clickatell.com^
 ||smetrics.cnn.com^
 ||smetrics.costco.com^
