@@ -92,11 +92,13 @@
 @@|sb.scorecardresearch.com^
 
 ! Apple
-@@|doh.dns.apple.com^
+@@|apple.tt.omtrdc.net^
 @@|cstat.apple.com^
+@@|doh.dns.apple.com^
 @@|iphone-ld.apple.com^
 @@|iphone-ld.origin-apple.com.akadns.net^
 @@|ocsp*.apple.com^
+@@|securemvt.apple.com^
 @@|xp.apple.com^
 
 ! Cookies (Spiegel/...)
