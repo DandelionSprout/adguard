@@ -29,15 +29,15 @@
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |    2197 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
 !    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
-!    3 |   17066 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+!    3 |   17160 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 !    4 |    1487 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 !    5 |      45 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
 !    6 |    5904 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-!    7 |    6881 | domains | local  | online  | changed   | black.list.fake
+!    7 |    6881 | domains | local  | online  | unchanged | black.list.fake
 !    8 |    1424 | domains | local  | online  | unchanged | fake.ts.black.list
-!    9 |     492 | domains | local  | online  | changed   | fake.vzni.black.list
+!    9 |     492 | domains | local  | online  | unchanged | fake.vzni.black.list
 !
-! 21744 unique Domains - Version 2021.1103.120914
+! 21762 unique Domains - Version 2021.1103.194941
 !
 ||000relationships.com^
 ||007cryptooption.com^
@@ -1091,6 +1091,7 @@
 ||amazingpitbullpupshome.com^
 ||amazingpomskyfamily.com^
 ||amazingpuppyskennelbreeder.com^
+||amazingshihtzupughome.com^
 ||amazingsiberianhuskypuppies.com^
 ||amazingwelscorgihome.com^
 ||amazingwestiepuppies.com^
@@ -3752,6 +3753,7 @@
 ||chancepool.de^
 ||chaneldaisylabradorhome.com^
 ||chaneltees.com^
+||changingbntyap.rest^
 ||changluinvestmentbank.com^
 ||channel16news.com^
 ||channel18news.com^
@@ -4529,6 +4531,7 @@
 ||creekwoodbordercolliepuppies.com^
 ||creekwoodpitbullpuppies.com^
 ||cremcofy.com^
+||crenmhsuyuam.cam^
 ||crepetee.com^
 ||crestmonumentfinancegroup.com^
 ||crestolbank.com^
@@ -4864,6 +4867,7 @@
 ||daledachshundhome.com^
 ||daledoxies.com^
 ||dalehuskiepuppies.com^
+||dalgonashihpoopuppies.com^
 ||dalilasphynx.com^
 ||daliyasdachshundpuppies.com^
 ||dallascitywire.com^
@@ -5059,6 +5063,7 @@
 ||debunkingskeptics.com^
 ||debusinessdaily.com^
 ||decaturtimes.com^
+||declarebvgrsyu.sbs^
 ||decoryourhome.store^
 ||de.dhgate.com^
 ||dedohnankap.com^
@@ -6611,6 +6616,7 @@
 ||exoticsconnect.com^
 ||exoticsvapeshop.com^
 ||exoticweedonline.com^
+||expenbnarience.sbs^
 ||expendablegreatdanepups.com^
 ||expertbrothers.com^
 ||expertbullies.com^
@@ -7887,6 +7893,7 @@
 ||gender.news^
 ||genealogie.de^
 ||genealogy.us.org^
+||generalbvaop.bar^
 ||generatornosurvey.com^
 ||generica-farmacia24.com^
 ||genericchemstores.com^
@@ -8541,6 +8548,7 @@
 ||gooshop.org^
 ||gopaexpressshipment.com^
 ||gopthedailydose.com^
+||gordenragdollho.me^
 ||gorgeouscanecorso.com^
 ||gorgeousfrenchbulldog.com^
 ||gorgeousgermanshepherds.com^
@@ -8999,6 +9007,7 @@
 ||happy420home.com^
 ||happy420shop.com^
 ||happybostonterrier.com^
+||happyboxershome.com^
 ||happybullterriers.com^
 ||happychowchowpups.com^
 ||happycoons.com^
@@ -12414,6 +12423,7 @@
 ||mdstatewire.com^
 ||mdsurgicalshealthcare.com^
 ||meaningift.com^
+||measurementnjs.bar^
 ||mebs.ch^
 ||mechanit.top^
 ||mecs.delivery^
@@ -12798,6 +12808,7 @@
 ||milfschnitte.net^
 ||milfsconnection.com^
 ||milfsexdates.com^
+||milf-sextreffen.com^
 ||milfsficktreff.com^
 ||milfsmexicanas.com^
 ||milfssearch.com^
@@ -13377,6 +13388,7 @@
 ||myonepro.com^
 ||myonlinepsychedstore.com^
 ||myoodlesofpoodles.com^
+||myorki.com^
 ||myparcelservice.com^
 ||myparrotszone.com^
 ||my-pbs.shop^
@@ -13517,6 +13529,7 @@
 ||naturistgirl-nextdoor.com^
 ||naturkraut.at^
 ||naturlabyrinth.de^
+||naturnbnssal.rest^
 ||naturopathy.news^
 ||naturprojekt.at^
 ||natwestbankonlinebanking.com^
@@ -14473,6 +14486,7 @@
 ||organics.news^
 ||organicvapesandbuds.com^
 ||organicweedvapes.com^
+||organnbmaize.rest^
 ||org-suite.com^
 ||oricgermany.de^
 ||orientalreview.org^
@@ -16927,6 +16941,7 @@
 ||royaldobermann.com^
 ||royaldutchcourier.com^
 ||royalenglishbulldogbreeder.com^
+||royalepups.com^
 ||royal-eu.com^
 ||royal-expressdelivery.com^
 ||royalexpressworldwide.com^
@@ -18690,6 +18705,7 @@
 ||sunsetbrusselgriffons.com^
 ||sunsetinternationalshippers.com^
 ||sunsetpetshome.co.za^
+||sunsetteacupchihuahua.com^
 ||sunshinecavalierkingcharles.com^
 ||sunshinecontainers.co.za^
 ||sunshinedachshunds.com^
@@ -19175,6 +19191,7 @@
 ||tgfarms.co.za^
 ||tgpoultry.com^
 ||tgw.com.pk^
+||thaetia.com^
 ||thaiglobalmanufacturer.com^
 ||thaiglobalshippingcompany.com^
 ||thaiglovescoltd.com^
@@ -21738,6 +21755,7 @@
 ||zipcloud.com^
 ||zipexexpress.com^
 ||zipexexpress.net^
+||zithromax-250.com^
 ||zizagift.com^
 ||ziziypomeranian.com^
 ||zkwassmedia.com^
