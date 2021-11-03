@@ -53,15 +53,15 @@ Stats personal:
 == Source (unique): 22325 (-3757)
 -- White:           21722 (-603)
 -- White(*):        21090 (-632)
--- Dead:            20091 (-999)
-++ Block:           20286 (+195)
--- Unblock:         20282 (-4)
--- Unblock(*):      20276 (-6)
-++ FLD:             20429 (+153)
-++ WWW:             27185 (+6756)
+-- Dead:            20095 (-995)
+++ Block:           20290 (+195)
+-- Unblock:         20286 (-4)
+-- Unblock(*):      20280 (-6)
+++ FLD:             20431 (+151)
+++ WWW:             27188 (+6757)
 
-27185 unique Domains - Version 2021.1103.214838
-MD5 Domains RAW: e117775690d5d918889ec446a9f4f8ba
+27188 unique Domains - Version 2021.1104.001003
+MD5 Domains RAW: 3bfc71cdae0226d5f88ab5fa195a011b
 
 # Convert personal to Hostlist ... 
 
@@ -84,10 +84,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling personal.adblock.raw
-ℹ Original length is 20040
-ℹ Length after applying transformations is 20040
-ℹ The list was compressed from 20043 to 12515
-ℹ Final length of the list is 12521
+ℹ Original length is 20042
+ℹ Length after applying transformations is 20042
+ℹ The list was compressed from 20045 to 12516
+ℹ Final length of the list is 12522
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/personal/out/personal.adblock
 ℹ Finished compiling
 
