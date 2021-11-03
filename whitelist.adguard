@@ -101,7 +101,7 @@
 @@|securemvt.apple.com^
 @@|xp.apple.com^
 
-! Cookies (Spiegel/...)
+! Cookies
 @@||sp-prod.net^
 @@|aggregator.service.usercentrics.eu^
 @@|api.usercentrics.eu^
@@ -263,6 +263,7 @@
 @@||onedrive.com^
 @@||pipe.aria.microsoft.com^
 @@||teams.microsoft.com^
+@@||visualstudio.com^
 @@||vortex.data.microsoft.com^
 @@|arc.msn.com^
 @@|browser.events.data.microsoft.com^
@@ -625,6 +626,7 @@
 @@|glitch.me^
 @@|glomex.com^
 @@|go-mpulse.net^
+@@|intercom.com^
 @@|ioam.de^
 @@|iobit.com^
 @@|ipapi.co^
