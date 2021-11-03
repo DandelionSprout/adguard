@@ -37,7 +37,7 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |   13595 | domains | local  | online  | changed   | black.list
+   1 |   13596 | domains | local  | online  | changed   | black.list
    2 |     139 | domains | local  | online  | unchanged | black.list.threat-intelligence
    3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
    4 |    3676 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -49,19 +49,19 @@ Initialize ...
 
 Stats personal:
 
-** Source (raw):    26085
-== Source (unique): 22327 (-3758)
--- White:           21725 (-602)
--- White(*):        21093 (-632)
--- Dead:            20094 (-999)
-++ Block:           20289 (+195)
--- Unblock:         20285 (-4)
--- Unblock(*):      20279 (-6)
-++ FLD:             20432 (+153)
-++ WWW:             27188 (+6756)
+** Source (raw):    26086
+== Source (unique): 22328 (-3758)
+-- White:           21726 (-602)
+-- White(*):        21094 (-632)
+-- Dead:            20095 (-999)
+++ Block:           20290 (+195)
+-- Unblock:         20286 (-4)
+-- Unblock(*):      20280 (-6)
+++ FLD:             20433 (+153)
+++ WWW:             27189 (+6756)
 
-27188 unique Domains - Version 2021.1103.090627
-MD5 Domains RAW: a41033dcefbf588cd699bb5849b9e654
+27189 unique Domains - Version 2021.1103.120812
+MD5 Domains RAW: d57c7733064fa99c39c988c5b5e6a1ae
 
 # Convert personal to Hostlist ... 
 
@@ -84,10 +84,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling personal.adblock.raw
-ℹ Original length is 20043
-ℹ Length after applying transformations is 20043
-ℹ The list was compressed from 20046 to 12516
-ℹ Final length of the list is 12522
+ℹ Original length is 20044
+ℹ Length after applying transformations is 20044
+ℹ The list was compressed from 20047 to 12517
+ℹ Final length of the list is 12523
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/personal/out/personal.adblock
 ℹ Finished compiling
 
