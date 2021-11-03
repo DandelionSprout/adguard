@@ -45,107 +45,105 @@ Initialize ...
    1 |    1013 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
    2 |     636 | domains | http   | online  | unchanged | https://v.firebog.net/hosts/Admiral.txt
    3 |   14744 | domains | http   | online  | unchanged | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-   4 |   14725 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/adguardteam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-   5 |   15640 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/adroitadorkhan/antipopads-re/master/formats/domains.txt
-   6 |    3670 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/ut1/master/ads/domains
-   7 |      22 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
-   8 |     429 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
-   9 |       5 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
-  10 |     419 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.txt
-  11 |     357 | domains | http   | online  | unchanged | https://v.firebog.net/hosts/static/w3kbl.txt
-  12 |   77838 | domains | http   | online  | unchanged | https://dbl.oisd.nl/basic/
-  13 |       5 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/badmojr/1Hosts/master/submit_here/include_for_all.txt
-  14 |  251484 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
-  15 |   46509 | domains | http   | online  | unchanged | https://phishing.army/download/phishing_army_blocklist.txt
-  16 |    1406 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/domains.txt
-  17 |    8122 | hosts   | http   | online  | unchanged | https://adaway.org/hosts.txt
-  18 |   14219 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
-  19 |    3677 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-  20 |     244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
-  21 |    1286 | hosts   | http   | OFFLINE | unchanged | USE LOCAL COPY: fademind_hosts.extras_add.2o7net_hosts.txt
-  22 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
-  23 |    1831 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
-  24 |     335 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
-  25 |    1730 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/tiuxo/hosts/master/ads
-  26 |    6890 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/velesila/yhosts/master/hosts
-  27 |   16964 | hosts   | http   | online  | unchanged | https://someonewhocares.org/hosts/
-  28 |    8728 | hosts   | http   | online  | unchanged | https://winhelp2002.mvps.org/hosts.txt
-  29 |    3496 | hosts   | http   | online  | unchanged | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts_browser
-  30 |   93173 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-  31 |    8624 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/guardicore/labs_campaigns/master/Autodiscover/autodiscover-tlds.txt
-  32 |    1274 | hosts   | http   | online  | unchanged | https://urlhaus.abuse.ch/downloads/hostfile/
-  33 |    4499 | hosts   | http   | online  | unchanged | https://threatfox.abuse.ch/downloads/hostfile
-  34 |     374 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-  35 |   41158 | adblock | http   | OFFLINE | unchanged | USE LOCAL COPY: adguardteam.github.io_adguardsdnsfilter_filters_filter.txt
-  36 |     553 | adblock | http   | OFFLINE | unchanged | USE LOCAL COPY: adguardteam_adguardsdnsfilter_filters_rules.txt
-  37 |    1023 | adblock | http   | OFFLINE | unchanged | USE LOCAL COPY: adguardteam_filtersregistry_filters_filter_11_mobile_filter.txt
-  38 |     727 | adblock | http   | OFFLINE | unchanged | USE LOCAL COPY: adguardteam_filtersregistry_filters_filter_14_annoyances_filter.txt
-  39 |    5533 | adblock | http   | OFFLINE | unchanged | USE LOCAL COPY: adguardteam_filtersregistry_filters_filter_16_french_filter.txt
-  40 |    4652 | adblock | http   | OFFLINE | unchanged | USE LOCAL COPY: adguardteam_filtersregistry_filters_filter_1_russian_filter.txt
-  41 |    6682 | adblock | http   | OFFLINE | unchanged | USE LOCAL COPY: adguardteam_filtersregistry_filters_filter_224_chinese_filter.txt
-  42 |   22428 | adblock | http   | OFFLINE | unchanged | USE LOCAL COPY: adguardteam_filtersregistry_filters_filter_2_english_filter.txt
-  43 |   18299 | adblock | http   | OFFLINE | unchanged | USE LOCAL COPY: adguardteam_filtersregistry_filters_filter_3_spyware_filter.txt
-  44 |      50 | adblock | http   | OFFLINE | unchanged | USE LOCAL COPY: adguardteam_filtersregistry_filters_filter_4_social_filter.txt
-  45 |     404 | adblock | http   | OFFLINE | unchanged | USE LOCAL COPY: adguardteam_filtersregistry_filters_filter_6_german_filter.txt
-  46 |     338 | adblock | http   | OFFLINE | unchanged | USE LOCAL COPY: adguardteam_filtersregistry_filters_filter_7_japanese_filter.txt
-  47 |      25 | adblock | http   | OFFLINE | unchanged | USE LOCAL COPY: adguardteam_filtersregistry_filters_filter_8_dutch_filter.txt
-  48 |     219 | adblock | http   | OFFLINE | unchanged | USE LOCAL COPY: adguardteam_filtersregistry_filters_filter_9_spanish_filter.txt
-  49 |   14725 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/adguardteam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-  50 |    9643 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/advblock.txt
-  51 |    6466 | adblock | http   | online  | changed   | https://easylist-downloads.adblockplus.org/easylistchina.txt
-  52 |      21 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/easylistdutch.txt
-  53 |     365 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/easylistgermany.txt
-  54 |     216 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/easylistitaly.txt
-  55 |      38 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/easylistpolish.txt
-  56 |     123 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/easylistportuguese.txt
-  57 |     396 | adblock | http   | online  | changed   | https://easylist-downloads.adblockplus.org/easylistspanish.txt
-  58 |      18 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/indianlist.txt
-  59 |      25 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/koreanlist.txt
-  60 |     127 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/liste_ar.txt
-  61 |    5545 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/liste_fr.txt
-  62 |   18905 | adblock | http   | online  | unchanged | https://easylist.to/easylist/easylist.txt
-  63 |   16206 | adblock | http   | online  | unchanged | https://easylist.to/easylist/easyprivacy.txt
-  64 |      55 | adblock | http   | online  | unchanged | https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt
-  65 |      88 | adblock | http   | online  | unchanged | https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt
-  66 |     413 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/abpindo/indonesianadblockrules/master/subscriptions/abpindo.txt
-  67 |     216 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
-  68 |      38 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist-lithuania/easylist_lithuania/master/easylistlithuania.txt
-  69 |     199 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/easylist-thailand.txt
-  70 |    9322 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
-  71 |     302 | adblock | http   | OFFLINE | unchanged | USE LOCAL COPY: easylist_easylisthebrew_easylisthebrew.txt
-  72 |       5 | adblock | http   | online  | unchanged | https://stanev.org/abp/adblock_bg.txt
-  73 |      16 | adblock | http   | online  | unchanged | https://www.void.gr/kargig/void-gr-filters.txt
-  74 |     120 | adblock | http   | online  | unchanged | https://www.zoso.ro/pages/rolist.txt
-  75 |     549 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
-  76 |     103 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
-  77 |     161 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
-  78 |     725 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
-  79 |      43 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
-  80 |       4 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
-  81 |    2016 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
-  82 |    4923 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
-  83 |   13591 | domains | local  | online  | unchanged | black.list
-  84 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
-  85 |     139 | domains | local  | online  | unchanged | black.list.threat-intelligence
+   4 |   15640 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
+   5 |    3670 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/ut1/master/ads/domains
+   6 |      22 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
+   7 |     429 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
+   8 |       5 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
+   9 |     419 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.txt
+  10 |     357 | domains | http   | online  | unchanged | https://v.firebog.net/hosts/static/w3kbl.txt
+  11 |   77838 | domains | http   | online  | unchanged | https://dbl.oisd.nl/basic/
+  12 |  251484 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
+  13 |   46754 | domains | http   | online  | unchanged | https://phishing.army/download/phishing_army_blocklist.txt
+  14 |    1406 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/domains.txt
+  15 |    8122 | hosts   | http   | online  | unchanged | https://adaway.org/hosts.txt
+  16 |   14219 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+  17 |    3677 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+  18 |    1286 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
+  19 |     244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
+  20 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
+  21 |    1831 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+  22 |     335 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
+  23 |    1730 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/tiuxo/hosts/master/ads
+  24 |    6890 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/velesila/yhosts/master/hosts
+  25 |   16964 | hosts   | http   | online  | unchanged | https://someonewhocares.org/hosts/
+  26 |    8728 | hosts   | http   | online  | unchanged | https://winhelp2002.mvps.org/hosts.txt
+  27 |    3496 | hosts   | http   | online  | unchanged | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts_browser
+  28 |   93173 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+  29 |    8624 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/guardicore/labs_campaigns/master/Autodiscover/autodiscover-tlds.txt
+  30 |    1312 | hosts   | http   | online  | changed   | https://urlhaus.abuse.ch/downloads/hostfile/
+  31 |    4500 | hosts   | http   | online  | unchanged | https://threatfox.abuse.ch/downloads/hostfile
+  32 |     374 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
+  33 |   41158 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+  34 |    1024 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
+  35 |     732 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
+  36 |    5552 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_16_French/filter.txt
+  37 |    4660 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
+  38 |    6736 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
+  39 |   22530 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_English/filter.txt
+  40 |   17775 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
+  41 |      51 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt
+  42 |     404 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_6_German/filter.txt
+  43 |     339 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt
+  44 |      25 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_8_Dutch/filter.txt
+  45 |     219 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_9_Spanish/filter.txt
+  46 |     553 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt
+  47 |   14725 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/adguardteam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
+  48 |     127 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/Liste_AR.txt
+  49 |    9643 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/advblock.txt
+  50 |    6466 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/easylistchina.txt
+  51 |      21 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/easylistdutch.txt
+  52 |     365 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/easylistgermany.txt
+  53 |     216 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/easylistitaly.txt
+  54 |      38 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/easylistpolish.txt
+  55 |     123 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/easylistportuguese.txt
+  56 |     396 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/easylistspanish.txt
+  57 |      18 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/indianlist.txt
+  58 |      25 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/koreanlist.txt
+  59 |    5545 | adblock | http   | online  | unchanged | https://easylist-downloads.adblockplus.org/liste_fr.txt
+  60 |   18905 | adblock | http   | online  | unchanged | https://easylist.to/easylist/easylist.txt
+  61 |   16206 | adblock | http   | online  | unchanged | https://easylist.to/easylist/easyprivacy.txt
+  62 |      55 | adblock | http   | online  | unchanged | https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt
+  63 |      88 | adblock | http   | online  | unchanged | https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt
+  64 |     413 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
+  65 |      38 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt
+  66 |     216 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
+  67 |     199 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/easylist-thailand.txt
+  68 |     302 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt
+  69 |    9322 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
+  70 |       5 | adblock | http   | online  | unchanged | https://stanev.org/abp/adblock_bg.txt
+  71 |      16 | adblock | http   | online  | unchanged | https://www.void.gr/kargig/void-gr-filters.txt
+  72 |     120 | adblock | http   | online  | unchanged | https://www.zoso.ro/pages/rolist.txt
+  73 |     549 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
+  74 |     103 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
+  75 |     161 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
+  76 |     725 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
+  77 |      43 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
+  78 |       4 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
+  79 |    2016 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
+  80 |    4923 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
+  81 |   13591 | domains | local  | online  | unchanged | black.list
+  82 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
+  83 |     139 | domains | local  | online  | unchanged | black.list.threat-intelligence
 
 # Build multi Domainlist ...
 
 Stats multi:
 
-** Source (raw):    814042
-== Source (unique): 438293 (-375749)
--- Exclude:         434189 (-4104)
--- White:           431192 (-2997)
--- White(*):        427082 (-4110)
--- Dead:            317876 (-109206)
-++ Block:           318070 (+194)
--- Unblock:         318066 (-4)
--- Unblock(*):      318060 (-6)
-++ FLD:             319612 (+1552)
-++ WWW:             442496 (+122884)
+** Source (raw):    799263
+== Source (unique): 438144 (-361119)
+-- Exclude:         434040 (-4104)
+-- White:           431043 (-2997)
+-- White(*):        426939 (-4104)
+-- Dead:            317741 (-109198)
+++ Block:           317935 (+194)
+-- Unblock:         317931 (-4)
+-- Unblock(*):      317925 (-6)
+++ FLD:             319495 (+1570)
+++ WWW:             442491 (+122996)
 
-442496 unique Domains - Version 2021.1103.195234
-MD5 Domains RAW: d94310e444e2acc57e96e9df59ad3cb3
+442491 unique Domains - Version 2021.1103.203536
+MD5 Domains RAW: 97a6115821d56992c09b0ace8816b5a0
 
 # Convert multi to Hostlist ... 
 
@@ -168,10 +166,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling multi.adblock.raw
-ℹ Original length is 282978
-ℹ Length after applying transformations is 282978
-ℹ The list was compressed from 282981 to 255852
-ℹ Final length of the list is 255858
+ℹ Original length is 282823
+ℹ Length after applying transformations is 282823
+ℹ The list was compressed from 282826 to 255690
+ℹ Final length of the list is 255696
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/multi/out/multi.adblock
 ℹ Finished compiling
 
