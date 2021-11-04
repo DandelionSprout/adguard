@@ -37,7 +37,7 @@
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |   14226 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 !    2 |     244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
-!    3 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
+!    3 |    1736 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
 !    4 |    9322 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
 !    5 |   14725 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/adguardteam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 !    6 |      22 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
@@ -45,7 +45,7 @@
 !    8 |       5 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
 !    9 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
 !
-! 18194 unique Domains - Version 2021.1104.121623
+! 18195 unique Domains - Version 2021.1105.001722
 !
 ||100pure.ositracker.com^
 ||106075.genieessp.com^
@@ -2609,6 +2609,7 @@
 ||e.preipobuzz.com^
 ||eprofessional01.webtrekk.net^
 ||e.prospertrading.com^
+||ept.ms^
 ||eqkwat.histoiredor.com^
 ||equity.e2g.com^
 ||ereflect.postaffiliatepro.com^
