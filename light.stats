@@ -42,37 +42,36 @@ Initialize ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
    1 |    1013 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
-   2 |   15652 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
+   2 |   15653 | domains | http   | online  | changed   | https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
    3 |    3670 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/ut1/master/ads/domains
-   4 |    3677 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+   4 |    3679 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
    5 |   16964 | hosts   | http   | online  | unchanged | https://someonewhocares.org/hosts/
-   6 |   93173 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-   7 |    1236 | hosts   | http   | online  | changed   | https://urlhaus.abuse.ch/downloads/hostfile/
-   8 |    4500 | hosts   | http   | online  | unchanged | https://threatfox.abuse.ch/downloads/hostfile
-   9 |   41174 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-  10 |   18907 | adblock | http   | online  | unchanged | https://easylist.to/easylist/easylist.txt
-  11 |   16208 | adblock | http   | online  | unchanged | https://easylist.to/easylist/easyprivacy.txt
-  12 |   13588 | domains | local  | online  | unchanged | black.list
-  13 |     139 | domains | local  | online  | unchanged | black.list.threat-intelligence
+   6 |    1237 | hosts   | http   | online  | changed   | https://urlhaus.abuse.ch/downloads/hostfile/
+   7 |    4511 | hosts   | http   | online  | changed   | https://threatfox.abuse.ch/downloads/hostfile
+   8 |   41174 | adblock | http   | online  | unchanged | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+   9 |   18907 | adblock | http   | online  | unchanged | https://easylist.to/easylist/easylist.txt
+  10 |   16209 | adblock | http   | online  | changed   | https://easylist.to/easylist/easyprivacy.txt
+  11 |   13471 | domains | local  | online  | unchanged | black.list
+  12 |     139 | domains | local  | online  | unchanged | black.list.threat-intelligence
 
 # Build light Domainlist ...
 
 Stats light:
 
-** Source (raw):    229901
-== Source (unique): 149199 (-80702)
--- Exclude:         149078 (-121)
--- White:           147225 (-1853)
--- White(*):        141342 (-5883)
--- Dead:            116782 (-24560)
-++ Block:           116976 (+194)
--- Unblock:         116972 (-4)
--- Unblock(*):      116966 (-6)
-++ FLD:             118138 (+1172)
-++ WWW:             157697 (+39559)
+** Source (raw):    136627
+== Source (unique): 88989 (-47638)
+-- Exclude:         88933 (-56)
+-- White:           87647 (-1286)
+-- White(*):        86033 (-1614)
+-- Dead:            72222 (-13811)
+++ Block:           72416 (+194)
+-- Unblock:         72412 (-4)
+-- Unblock(*):      72406 (-6)
+++ FLD:             73203 (+797)
+++ WWW:             110774 (+37571)
 
-157697 unique Domains - Version 2021.1104.082235
-MD5 Domains RAW: 8e7a29e485f231adea14a5131fdd0470
+110774 unique Domains - Version 2021.1104.120949
+MD5 Domains RAW: 12537c6156a93e2757b131e39c5cf6ef
 
 # Convert light to Hostlist ... 
 
@@ -95,10 +94,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling light.adblock.raw
-ℹ Original length is 103051
-ℹ Length after applying transformations is 103051
-ℹ The list was compressed from 103054 to 86871
-ℹ Final length of the list is 86877
+ℹ Original length is 70933
+ℹ Length after applying transformations is 70933
+ℹ The list was compressed from 70936 to 62171
+ℹ Final length of the list is 62177
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/light/out/light.adblock
 ℹ Finished compiling
 
