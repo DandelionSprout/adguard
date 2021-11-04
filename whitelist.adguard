@@ -514,10 +514,12 @@
 @@||fastly.net^
 @@|api-cf.affirm.com^
 @@|api.rollbar.com^
+@@|auth.split.io^
 @@|cdn-assets.affirm.com^
 @@|cdn.optimizely.com^
 @@|cdn1.affirm.com^
 @@|j.wfcdn.de^
+@@|sdk.split.io^
 
 ! Webex
 @@||ciscospark.com^
