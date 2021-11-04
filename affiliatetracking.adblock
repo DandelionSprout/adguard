@@ -35,7 +35,7 @@
 ! --------------------------------------------
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
-!    1 |   14219 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+!    1 |   14226 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 !    2 |     244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 !    3 |    1734 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
 !    4 |    9322 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
@@ -45,7 +45,7 @@
 !    8 |       5 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
 !    9 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
 !
-! 11804 unique Domains - Version 2021.1103.215731
+! 11809 unique Domains - Version 2021.1104.073547
 !
 ||106075.genieessp.com^
 ||108557.genieessp.com^
@@ -917,10 +917,12 @@
 ||compaid.aosag.net^
 ||compare.bedroomvillas.com^
 ||compare.biletyplus.ru^
+||compare.flightgorilla.com^
 ||compare.flighthub.com^
 ||compare.flightnetwork.com^
 ||compare.fly4free.com^
 ||compare.flyfar.ca^
+||compare.hotelsone.com^
 ||compare-im.ostrovok.ru^
 ||compare-im.trip101.com^
 ||compare-im.virail.com^
@@ -1269,6 +1271,7 @@
 ||emails.7-eleven.com^
 ||emails.accesscapgroup.com^
 ||emails.advisor2advisor.com^
+||email-sailthru.branch.io^
 ||emails.astrixinc.com^
 ||emails.avitru.com^
 ||emails.baselayer.com^
@@ -11659,6 +11662,7 @@
 ||tbslatinamerica.hb.omtrdc.net^
 ||tbz5.evelop.com^
 ||tchibo01.webtrekk.net^
+||tdep.suncamp.fr^
 ||t.dripemail2.com^
 ||telecolumbus01.webtrekk.net^
 ||telecomitaliamedia01.webtrekk.net^
@@ -11812,6 +11816,7 @@
 ||wtads.webtrekk.net^
 ||wt-eu02.net^
 ||wtr.waterair.com^
+||www91.intel.com.au^
 ||xdbchs.bradfordexchange.com^
 ||x.eulerian.com^
 ||x.eulerian.eu^

@@ -473,6 +473,16 @@
 @@|vz-cdn2.trafficjunky.net^
 @@|yrg6yks9.ab1n.net^
 
+! TikTok
+@@||fcdn.*.tiktokv.com^
+@@||fcdn.*.tiktokv.com.*.worldfcdn*.com^
+@@||tiktokcdn-*.com^
+@@||tiktokcdn.com^
+@@||tiktokcdn.com.*.worldfcdn*.com^
+@@||ttlivecdn.com^
+@@||ttlivecdn.com.*.worldfcdn*.com^
+@@||worldfcdn.com^
+
 ! Twitch
 @@||ext-twitch.tv^
 @@||jtvnw.net^

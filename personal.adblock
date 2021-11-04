@@ -36,7 +36,7 @@
 ! ---------------------------------------------------
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
-!    1 |   13591 | domains | local  | online  | unchanged | black.list
+!    1 |   13471 | domains | local  | online  | changed   | black.list
 !    2 |     139 | domains | local  | online  | unchanged | black.list.threat-intelligence
 !    3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
 !    4 |    3677 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -44,7 +44,7 @@
 !    6 |    2016 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
 !    7 |    4923 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
 !
-! 12512 unique Domains - Version 2021.1104.001003
+! 12399 unique Domains - Version 2021.1104.082602
 !
 ||0emm.com^
 ||0i0i0i0.com^
@@ -446,7 +446,6 @@
 ||adc.api.nine.com.au^
 ||ad.caradisiac.com^
 ||adcash.com^
-||adcast.deviantart.com^
 ||ad-cdn.bilgin.pro^
 ||adcdn.goo.ne.jp^
 ||ad-cdn.technoratimedia.com^
@@ -545,6 +544,7 @@
 ||adforce.com^
 ||adform.com^
 ||adformdsp.net^
+||adfox-c2s-ams.creativecdn.com^
 ||adfox-hb-bidder.rutarget.ru^
 ||ad.foxnetworks.com^
 ||ad.fr.doubleclick.net^
@@ -951,7 +951,6 @@
 ||ads.dennisnet.co.uk^
 ||ads.desmoinesregister.com^
 ||ads.detelefoongids.nl^
-||ads.deviantart.com^
 ||ads.devmates.com^
 ||ads-dev.pinterest.com^
 ||ads.digitalcaramel.com^
@@ -1282,7 +1281,6 @@
 ||ads.roku.com^
 ||adsroller.com^
 ||adsrv2.swidnica24.pl^
-||adsrv.deviantart.com^
 ||adsrv.iol.co.za^
 ||adsrv.kobi.tv^
 ||adsrv.moebelmarkt.tv^
@@ -1738,6 +1736,7 @@
 ||ampush.io^
 ||ams1-ib.adnxs.com^
 ||ams900.goo.ne.jp^
+||ams.creativecdn.com^
 ||amtrack213.com^
 ||a.muloqot.uz^
 ||amung.us^
@@ -2008,7 +2007,6 @@
 ||app-analytics-us.huami.com^
 ||app-analytics-v2.snapchat.com^
 ||appboycdn.com^
-||appcast.io^
 ||app.cdn.lookbookhq.com^
 ||appcmpn.com^
 ||appconsent.io^
@@ -2236,7 +2234,6 @@
 ||aunica.com^
 ||aurea.com^
 ||authorinsights.com^
-||auth.split.io^
 ||autoaffiliatenetwork.com^
 ||autoaudience.com^
 ||auto-bannertausch.de^
@@ -2932,7 +2929,6 @@
 ||cbdatatracker.com^
 ||c.betrad.com^
 ||c.bigmir.net^
-||c.bing.com^
 ||cbjs.baidu.com^
 ||cbsi-d.openx.net^
 ||cbtrk.net^
@@ -3006,6 +3002,7 @@
 ||cdn.geni.us^
 ||cdn.getblueshift.com^
 ||cdn.gladly.com^
+||cdn.impactserving.com^
 ||cdn.inspectlet.com^
 ||cdn.intergi.com^
 ||cdnkimg.com^
@@ -3291,6 +3288,7 @@
 ||c.marsflag.com^
 ||cm.bilibili.com^
 ||cmcore.com^
+||cm.creativecdn.com^
 ||cm.everesttech.net^
 ||cm.g.doubleclick.net^
 ||cm.gittigidiyor.com^
@@ -3629,7 +3627,6 @@
 ||crazypopups.com^
 ||crbsrv.jsfiddle.net^
 ||crcdn01.adnxs.com^
-||creativecdn.com^
 ||creative.doubleclick.net^
 ||creative.rutarget.ru^
 ||creatives-cdn.appsflyer.com^
@@ -3794,98 +3791,17 @@
 ||cyrasi.com^
 ||cytoclause.com^
 ||czx5eyk0exbhwp43ya.biz^
-||d11enq2rymy0yl.cloudfront.net^
-||d144jmuhz9kvbq.cloudfront.net^
-||d15kdpgjg3unno.cloudfront.net^
-||d169bbxks24g2u.cloudfront.net^
-||d16fk4ms6rqz1v.cloudfront.net^
-||d179kwmlpc4o47.cloudfront.net^
-||d188m5xxcpvuue.cloudfront.net^
-||d18p8z0ptb8qab.cloudfront.net^
-||d18t35yyry2k49.cloudfront.net^
-||d1ac2du043ydir.cloudfront.net^
-||d1af033869koo7.cloudfront.net^
-||d1clufhfw8sswh.cloudfront.net^
 ||d-1.co^
-||d1cykymlllue3h.cloudfront.net^
-||d1d3jupgwm7m5r.cloudfront.net^
-||d1e28xq8vu3baf.cloudfront.net^
-||d1fc8wv8zag5ca.cloudfront.net^
-||d1igp3oop3iho5.cloudfront.net^
-||d1ks8roequxbwa.cloudfront.net^
-||d1l6p2sc9645hc.cloudfront.net^
-||d1lxhc4jvstzrp.cloudfront.net^
-||d1m6l9dfulcyw7.cloudfront.net^
-||d1miwkthq39xj8.cloudfront.net^
-||d1n00d49gkbray.cloudfront.net^
 ||d1.sina.com.cn^
-||d1v9u0bgi1uimx.cloudfront.net^
-||d1vl8wytztdz.cloudfront.net^
-||d1wa9546y9kg0n.cloudfront.net^
-||d1xfq2052q7thw.cloudfront.net^
-||d1yu67rmchodpo.cloudfront.net^
-||d21y75miwcfqoq.cloudfront.net^
-||d22xmn10vbouk4.cloudfront.net^
 ||d24ak3f2b.top^
-||d24n15hnbwhuhn.cloudfront.net^
-||d24rtvkqjwgutp.cloudfront.net^
-||d26adrx9c3n0mq.cloudfront.net^
 ||d2-apps.net^
-||d2c4ylitp1qu24.cloudfront.net^
-||d2ip7iv1l4ergv.cloudfront.net^
-||d2kadvyeq051an.cloudfront.net^
-||d2klx87bgzngce.cloudfront.net^
-||d2lv4zbk7v5f93.cloudfront.net^
-||d2muzdhs7lpmo0.cloudfront.net^
-||d2o5idwacg3gyw.cloudfront.net^
-||d2oh4tlt9mrke9.cloudfront.net^
-||d2r7bmv6l6bnd1.cloudfront.net^
-||d2t77mnxyo7adj.cloudfront.net^
-||d2t7a3zbo166a9.cloudfront.net^
-||d2tnx644ijgq6i.cloudfront.net^
-||d2uap9jskdzp2.cloudfront.net^
-||d2uhnetoehh304.cloudfront.net^
-||d2v02itv0y9u9t.cloudfront.net^
-||d2wu036mkcz52n.cloudfront.net^
-||d2yyd1h5u9mauk.cloudfront.net^
-||d2zqfs55y95cft.cloudfront.net^
-||d31bfnnwekbny6.cloudfront.net^
-||d31j93rd8oukbv.cloudfront.net^
-||d37gvrvc0wt4s1.cloudfront.net^
-||d3aiy6aqoa3ykz.cloudfront.net^
-||d3alqb8vzo7fun.cloudfront.net^
-||d3avqv6zaxegeu.cloudfront.net^
-||d3bj8nkfly20uo.cloudfront.net^
 ||d3.c3.b1.a1.top.mail.ru^
-||d3cod80thn7qnd.cloudfront.net^
-||d3cxv97fi8q177.cloudfront.net^
-||d3g5ovfngjw9bw.cloudfront.net^
-||d3in1te4fdays6.cloudfront.net^
-||d3j1weegxvu8ns.cloudfront.net^
-||d3j3yrurxcqogk.cloudfront.net^
-||d3l320urli0p1u.cloudfront.net^
-||d3lcz8vpax4lo2.cloudfront.net^
-||d3m4hp4bp4w996.cloudfront.net^
-||d3m6sept6cnil5.cloudfront.net^
-||d3mjsomixevyw7.cloudfront.net^
-||d3mr7y154d2qg5.cloudfront.net^
-||d3mzokty951c5w.cloudfront.net^
-||d3n6i6eorggdxk.cloudfront.net^
-||d3ou4areduq72f.cloudfront.net^
-||d3q7vxy7usqoub.cloudfront.net^
-||d3qxef4rp70elm.cloudfront.net^
 ||d3.sina.com.cn^
 ||d3sv.net^
-||d3v27wwd40f0xu.cloudfront.net^
 ||d41.co^
 ||d4.sina.com.cn^
-||d5i9o0tpq9sa1.cloudfront.net^
-||d5phz18u4wuww.cloudfront.net^
 ||d5.sina.com.cn^
 ||d7.sina.com.cn^
-||d81mfvml8p5ml.cloudfront.net^
-||d8yw4927nnimu.cloudfront.net^
-||d9etzk30b05yg.cloudfront.net^
 ||dabiaozhi.com^
 ||dacounter.com^
 ||dada.pro^
@@ -4017,16 +3933,12 @@
 ||d-bi.fr^
 ||dbnghpxnbqpquh.com^
 ||db.thepointsguy.com^
-||dc08i221b0n8a.cloudfront.net^
-||dc8xl0ndzn2cb.cloudfront.net^
 ||dcinfos.abtasty.com^
 ||dcinfos-cache.abtasty.com^
 ||dcmn.com^
 ||dcmn.io^
 ||dc-storm.com^
 ||dc-tag.jp^
-||dd6zx4ibq538k.cloudfront.net^
-||ddacn6pr5v0tl.cloudfront.net^
 ||dd.leboncoin.fr^
 ||ddm.io^
 ||dd.nytimes.com^
@@ -4040,7 +3952,6 @@
 ||de28.zopim.com^
 ||de3.ioam.de^
 ||de4.ioam.de^
-||de8of677fyt0b.cloudfront.net^
 ||deadpantruck.com^
 ||dealdotcom.com^
 ||debonairway.com^
@@ -4071,7 +3982,6 @@
 ||delfiadlv.hit.gemius.pl^
 ||delivered-by-madington.com^
 ||deliverimp.com^
-||deliver.ptgncdn.com^
 ||delivery-cdn-cf.adswizz.com^
 ||delivery.r2b2.io^
 ||delivr.com^
@@ -4126,7 +4036,6 @@
 ||dfpdashboard.doubleclick.net^
 ||dfp.doubleclick.net^
 ||df-srv.de^
-||dggaenaawxe8z.cloudfront.net^
 ||d.haberler.com^
 ||dhfm3psl.micpn.com^
 ||diagnosis.ad.xiaomi.com^
@@ -4204,7 +4113,6 @@
 ||districtm.io^
 ||distroscale.com^
 ||dis.us.criteo.com^
-||dita6jhhqwoiz.cloudfront.net^
 ||dit.whatsapp.net^
 ||divolution.com^
 ||dj.1688.com^
@@ -4212,7 +4120,6 @@
 ||djers.com^
 ||djgfsrlt.com^
 ||dk4ywix.com^
-||dl1d2m8ri9v3j.cloudfront.net^
 ||dl8.me^
 ||d.la1-c2-phx.salesforceliveagent.com^
 ||dlt-beacon.dynatrace-managed.com^
@@ -4242,16 +4149,13 @@
 ||dna.uol.com.br^
 ||dnb.doubleclick.net^
 ||dn-growing.qbox.me^
-||dnk2wr2ch6zxa.cloudfront.net^
 ||dnm-cn.scloud.letv.com^
 ||dnps.com^
 ||dns-clientinfo.cbsivideo.com^
 ||dnsdelegation.io^
 ||dnt-userreport.com^
-||do69ll745l27z.cloudfront.net^
 ||doceree.com^
 ||doc.good-loop.com^
-||docj27ko03fnu.cloudfront.net^
 ||dockdigestion.com^
 ||docksalmon.com^
 ||doclix.com^
@@ -4280,7 +4184,6 @@
 ||doublepositive.com^
 ||doubleverify.com^
 ||doubtfulrainstorm.com^
-||doug1izaerwt3.cloudfront.net^
 ||dowjoneson.com^
 ||downloadr.xyz^
 ||dp3.qq.com^
@@ -4289,8 +4192,6 @@
 ||dp.g.doubleclick.net^
 ||dps-reach.com^
 ||dpvgmbh.germany-2.evergage.com^
-||dq06u9lt5akr2.cloudfront.net^
-||dq3yxnlzwhcys.cloudfront.net^
 ||dq95d35.com^
 ||drabsize.com^
 ||dragzebra.com^
@@ -4303,14 +4204,11 @@
 ||drumcash.com^
 ||drunkenstepfather.com^
 ||drydrum.com^
-||ds88pc0kw6cvc.cloudfront.net^
 ||dsar.ziffdavis.com^
-||dsbahmgppc0j4.cloudfront.net^
 ||dsb.yahoo.co.jp^
 ||dsengine.doubleclick.net^
 ||d.seznam.cz^
 ||dsg.interia.pl^
-||dsh7ky7308k4b.cloudfront.net^
 ||dsm.doubleclick.net^
 ||dsmmadvantage.com^
 ||dsnextgen.com^
@@ -4352,8 +4250,6 @@
 ||d.wi-fi.ru^
 ||dwin1.com^
 ||dwin2.com^
-||dx6ctphzljkf1.cloudfront.net^
-||dy2xcjk8s1dbz.cloudfront.net^
 ||dydjxvazbj.com^
 ||dynadmic.com^
 ||dynad.net^
@@ -4371,8 +4267,6 @@
 ||dynsrvtyu.com^
 ||dyn.tnaflix.com^
 ||dyntrk.com^
-||dyv1bugovvq1g.cloudfront.net^
-||dz9qn8fh4jznm.cloudfront.net^
 ||dzienkudrow.com^
 ||e1f95201b19594.site^
 ||e2ertt.com^
@@ -4408,7 +4302,6 @@
 ||e-bannery.cz^
 ||ebayadvertising.com^
 ||ebayclassifiedsgroup.com^
-||ebay-paymets-online-selle-center.github.io^
 ||ebayssl.doubleclick.net^
 ||ebtrk1.com^
 ||ebuilders.nl^
@@ -5161,7 +5054,6 @@
 ||geniussports.com^
 ||geo.6play.fr^
 ||geoapi.indiatimes.com^
-||geo.battle.net^
 ||geobeacon.ign.com^
 ||geobytes.com^
 ||geocompteur.com^
@@ -5609,7 +5501,6 @@
 ||hotjar.io^
 ||hotlog.ru^
 ||hotmart.com^
-||hotpornfile.org^
 ||hotrank.com.tw^
 ||hoverowl.com^
 ||hp.myway.com^
@@ -5722,7 +5613,6 @@
 ||id.crwdcntrl.net^
 ||idealadvertising.net^
 ||ideoclick.com^
-||idio.co^
 ||idm-d.openx.net^
 ||idm.hit.gemius.pl^
 ||idot.cz^
@@ -5813,7 +5703,6 @@
 ||impactmobile.com^
 ||impactradius-event.com^
 ||impactradius-go.com^
-||impactserving.com^
 ||impactslam.com^
 ||imp.ebis.ne.jp^
 ||impes.tradedoubler.com^
@@ -5831,7 +5720,6 @@
 ||impressionz.co.uk^
 ||improvedigital.com^
 ||improvely.com^
-||improving.duckduckgo.com^
 ||impulsehands.com^
 ||imr.sk^
 ||imrtrack.com^
@@ -6141,7 +6029,6 @@
 ||jscount.com^
 ||js.datafront.co^
 ||jsecoin.com^
-||js.gleam.io^
 ||js.hscollectedforms.net^
 ||js.medi-8.net^
 ||js.mediams.mb.softbank.jp^
@@ -6997,6 +6884,7 @@
 ||mediatoday.ru^
 ||mediatradecraft-com.videoplayerhub.com^
 ||mediatraffic.com^
+||media.trafficjunky.com^
 ||media.trafficjunky.net^
 ||mediatrust.com^
 ||mediav3.inq.com^
@@ -7900,7 +7788,6 @@
 ||optout.ioam.de^
 ||optyruntchan.com^
 ||oqqcejco.xyz^
-||oracleinfinity.io^
 ||oranegfodnd.com^
 ||orangeads.fr^
 ||orangeadvertising.fr^
@@ -7985,7 +7872,6 @@
 ||padsbrown.com^
 ||p-advg.com^
 ||pagead2.googleadservices.com^
-||pagead.l.google.com^
 ||pagefair.net^
 ||page-hit.de^
 ||pageinfo.motorsport.com^
@@ -8038,7 +7924,6 @@
 ||participants.evolv.ai^
 ||particularaudience.com^
 ||partnerad.l.doubleclick.net^
-||partnerad.l.google.com^
 ||partnerads.ysm.yahoo.com^
 ||partner.alltricks.fr^
 ||partner.blancheporte.fr^
@@ -8427,9 +8312,11 @@
 ||prebid-analytics-2.openx.net^
 ||prebid-analytics.openx.net^
 ||prebid-bidder.rutarget.ru^
+||prebid-eu.creativecdn.com^
 ||prebid.openx.net^
 ||prebid.org^
 ||prebid.technoratimedia.com^
+||prebid-us.creativecdn.com^
 ||precisionclick.com^
 ||precisioncounter.com^
 ||predictad.com^
@@ -8709,7 +8596,6 @@
 ||qoopler.ru^
 ||q.quora.com^
 ||qriously.com^
-||qrlsx.com^
 ||qs2.ioam.de^
 ||qsb.browser.miui.com^
 ||q.share.qvcemail.com^
@@ -9437,7 +9323,6 @@
 ||sdk.open.talk.igexin.com^
 ||sdk.pulse.schibsted.com^
 ||sdk.pushmessage.samsung.com^
-||sdk.split.io^
 ||seal.globalsign.com^
 ||sealine.youku.com^
 ||sea-nov-1.com^
@@ -9659,6 +9544,7 @@
 ||simplymeasured.com^
 ||sincerebuffalo.com^
 ||sinceresubstance.com^
+||sin.creativecdn.com^
 ||sinfo.dtcidev.co^
 ||s.infogr.am^
 ||s.infogram.com^
@@ -10369,6 +10255,7 @@
 ||static-od.com^
 ||static.olark.com^
 ||static.pochta.ru^
+||statics-asia.creativecdn.com^
 ||static.securedtouch.com^
 ||static.share-videos.se^
 ||static.sojern.com^
@@ -11370,7 +11257,6 @@
 ||traffichouse.com^
 ||traffichunt.com^
 ||trafficjoint.com^
-||trafficjunky.com^
 ||trafficleader.com^
 ||trafficmaxx.de^
 ||traffic-redirecting.com^
@@ -11681,6 +11567,7 @@
 ||usawildseafood.com^
 ||usc.adserver.snapads.com^
 ||us-central1-adaptive-growth.cloudfunctions.net^
+||us.creativecdn.com^
 ||useitbetter.com^
 ||usemaxserver.de^
 ||useproof.com^
