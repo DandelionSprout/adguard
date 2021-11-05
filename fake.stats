@@ -30,28 +30,28 @@ Initialize ...
   Nr |   Count | Format  | Source | Status  | File      | URL/File
    1 |    2197 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
-   3 |   17313 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+   3 |   17313 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
    4 |    1487 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
    5 |      45 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
-   6 |    5904 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-   7 |    6882 | domains | local  | online  | changed   | black.list.fake
+   6 |    6033 | domains | http   | online  | changed   | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
+   7 |    6882 | domains | local  | online  | unchanged | black.list.fake
    8 |    1424 | domains | local  | online  | unchanged | fake.ts.black.list
-   9 |     497 | domains | local  | online  | changed   | fake.vzni.black.list
+   9 |     497 | domains | local  | online  | unchanged | fake.vzni.black.list
 
 # Build fake Domainlist ...
 
 Stats fake:
 
-** Source (raw):    36001
-== Source (unique): 28331 (-7670)
--- White:           28239 (-92)
--- White(*):        28239 (-0)
--- Dead:            22061 (-6178)
-++ FLD:             22196 (+135)
-++ WWW:             43358 (+21162)
+** Source (raw):    36130
+== Source (unique): 28438 (-7692)
+-- White:           28346 (-92)
+-- White(*):        28346 (-0)
+-- Dead:            22168 (-6178)
+++ FLD:             22303 (+135)
+++ WWW:             43572 (+21269)
 
-43358 unique Domains - Version 2021.1105.120904
-MD5 Domains RAW: 700f54f863be4238b7f3d0903cefd97b
+43572 unique Domains - Version 2021.1106.001101
+MD5 Domains RAW: ff6a462f82fd2faf0b965037506ecad6
 
 # Convert fake to Hostlist ... 
 
@@ -74,10 +74,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling fake.adblock.raw
-ℹ Original length is 22027
-ℹ Length after applying transformations is 22027
-ℹ The list was compressed from 22030 to 21924
-ℹ Final length of the list is 21930
+ℹ Original length is 22134
+ℹ Length after applying transformations is 22134
+ℹ The list was compressed from 22137 to 22031
+ℹ Final length of the list is 22037
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/fake/out/fake.adblock
 ℹ Finished compiling
 
