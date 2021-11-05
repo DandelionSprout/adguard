@@ -35,7 +35,7 @@
 ! --------------------------------------------
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
-!    1 |   14226 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+!    1 |   14228 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 !    2 |     244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 !    3 |    1736 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
 !    4 |    9322 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
@@ -45,7 +45,7 @@
 !    8 |       5 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
 !    9 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
 !
-! 18195 unique Domains - Version 2021.1105.001722
+! 18196 unique Domains - Version 2021.1105.121646
 !
 ||100pure.ositracker.com^
 ||106075.genieessp.com^
@@ -1761,6 +1761,7 @@
 ||compare-im.virail.com^
 ||compare-im.zenhotels.com^
 ||compare.jetcost.com^
+||compare.justfly.com^
 ||compare.liligo.com^
 ||compare.loli-pop.co.uk^
 ||compare.minube.com^
