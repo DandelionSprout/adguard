@@ -36,27 +36,27 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |  439708 | domains | local  | online  | changed   | multi.txt
-   2 |   43348 | domains | local  | online  | changed   | fake.txt
+   1 |  440572 | domains | local  | online  | changed   | multi.txt
+   2 |   43358 | domains | local  | online  | changed   | fake.txt
    3 | 1037010 | domains | http   | OFFLINE | unchanged | USE LOCAL COPY: dbl.oisd.nl.txt
 
 # Build big Domainlist ...
 
 Stats big:
 
-** Source (raw):    1520066
-== Source (unique): 1299597 (-220469)
--- White:           1298625 (-972)
--- White(*):        1289900 (-8725)
--- Dead:            1248539 (-41361)
-++ Block:           1248733 (+194)
--- Unblock:         1248729 (-4)
--- Unblock(*):      1248723 (-6)
-++ FLD:             1264538 (+15815)
-++ WWW:             1274180 (+9642)
+** Source (raw):    1520940
+== Source (unique): 1300257 (-220683)
+-- White:           1299285 (-972)
+-- White(*):        1290560 (-8725)
+-- Dead:            1249212 (-41348)
+++ Block:           1249406 (+194)
+-- Unblock:         1249402 (-4)
+-- Unblock(*):      1249396 (-6)
+++ FLD:             1265195 (+15799)
+++ WWW:             1274842 (+9647)
 
-1274180 unique Domains - Version 2021.1105.001803
-MD5 Domains RAW: 84cd6cbef5eaec514f42ce401bb748d4
+1274842 unique Domains - Version 2021.1105.121727
+MD5 Domains RAW: 84735d81188093b252071a688cc88c32
 
 # Convert big to Hostlist ... 
 
@@ -79,10 +79,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling big.adblock.raw
-ℹ Original length is 917426
-ℹ Length after applying transformations is 917426
-ℹ The list was compressed from 917429 to 503641
-ℹ Final length of the list is 503647
+ℹ Original length is 917855
+ℹ Length after applying transformations is 917855
+ℹ The list was compressed from 917858 to 504105
+ℹ Final length of the list is 504111
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/big/out/big.adblock
 ℹ Finished compiling
 
