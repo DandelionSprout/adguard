@@ -32,12 +32,12 @@
 !    3 |   17313 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 !    4 |    1487 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 !    5 |      45 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
-!    6 |    6033 | domains | http   | online  | changed   | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
+!    6 |    6033 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 !    7 |    6882 | domains | local  | online  | unchanged | black.list.fake
 !    8 |    1424 | domains | local  | online  | unchanged | fake.ts.black.list
-!    9 |     497 | domains | local  | online  | unchanged | fake.vzni.black.list
+!    9 |     499 | domains | local  | online  | changed   | fake.vzni.black.list
 !
-! 22027 unique Domains - Version 2021.1106.001101
+! 22028 unique Domains - Version 2021.1106.215257
 !
 ||000relationships.com^
 ||007cryptooption.com^
@@ -12006,6 +12006,7 @@
 ||loyalvizslapuppieshome.com^
 ||loyalwelshcorgihome.com^
 ||lozano-agro-spedition.com^
+||lozoro.de^
 ||lpftradings.com^
 ||lpourl.com^
 ||lrbzl.com^
