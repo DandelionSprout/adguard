@@ -36,27 +36,27 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |  442480 | domains | local  | online  | changed   | multi.txt
+   1 |  442588 | domains | local  | online  | changed   | multi.txt
    2 |   43572 | domains | local  | online  | unchanged | fake.txt
-   3 | 1036455 | domains | http   | online  | changed   | https://dbl.oisd.nl
+   3 | 1036455 | domains | http   | online  | unchanged | https://dbl.oisd.nl
 
 # Build big Domainlist ...
 
 Stats big:
 
-** Source (raw):    1522507
-== Source (unique): 1301156 (-221351)
--- White:           1300192 (-964)
--- White(*):        1291484 (-8708)
--- Dead:            1250350 (-41134)
-++ Block:           1250544 (+194)
--- Unblock:         1250540 (-4)
--- Unblock(*):      1250534 (-6)
-++ FLD:             1266213 (+15679)
-++ WWW:             1275854 (+9641)
+** Source (raw):    1522615
+== Source (unique): 1301265 (-221350)
+-- White:           1300301 (-964)
+-- White(*):        1291593 (-8708)
+-- Dead:            1250459 (-41134)
+++ Block:           1250653 (+194)
+-- Unblock:         1250649 (-4)
+-- Unblock(*):      1250643 (-6)
+++ FLD:             1266322 (+15679)
+++ WWW:             1275963 (+9641)
 
-1275854 unique Domains - Version 2021.1106.121709
-MD5 Domains RAW: 5d6a84a45f80b5bfef856266446a9777
+1275963 unique Domains - Version 2021.1106.152739
+MD5 Domains RAW: bbc452db1f45fd22f72b91869e1e96b7
 
 # Convert big to Hostlist ... 
 
@@ -79,10 +79,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling big.adblock.raw
-ℹ Original length is 918406
-ℹ Length after applying transformations is 918406
-ℹ The list was compressed from 918409 to 504379
-ℹ Final length of the list is 504385
+ℹ Original length is 918467
+ℹ Length after applying transformations is 918467
+ℹ The list was compressed from 918470 to 504427
+ℹ Final length of the list is 504433
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/big/out/big.adblock
 ℹ Finished compiling
 
