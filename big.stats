@@ -36,27 +36,27 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |  442588 | domains | local  | online  | changed   | multi.txt
-   2 |   43572 | domains | local  | online  | unchanged | fake.txt
+   1 |  442982 | domains | local  | online  | changed   | multi.txt
+   2 |   43574 | domains | local  | online  | changed   | fake.txt
    3 | 1036455 | domains | http   | online  | unchanged | https://dbl.oisd.nl
 
 # Build big Domainlist ...
 
 Stats big:
 
-** Source (raw):    1522615
-== Source (unique): 1301265 (-221350)
--- White:           1300301 (-964)
--- White(*):        1291593 (-8708)
--- Dead:            1250459 (-41134)
-++ Block:           1250653 (+194)
--- Unblock:         1250649 (-4)
--- Unblock(*):      1250643 (-6)
-++ FLD:             1266322 (+15679)
-++ WWW:             1275963 (+9641)
+** Source (raw):    1523011
+== Source (unique): 1301663 (-221348)
+-- White:           1300698 (-965)
+-- White(*):        1291993 (-8705)
+-- Dead:            1250859 (-41134)
+++ Block:           1251051 (+192)
+-- Unblock:         1251047 (-4)
+-- Unblock(*):      1251041 (-6)
+++ FLD:             1266720 (+15679)
+++ WWW:             1276362 (+9642)
 
-1275963 unique Domains - Version 2021.1106.152739
-MD5 Domains RAW: bbc452db1f45fd22f72b91869e1e96b7
+1276362 unique Domains - Version 2021.1106.220112
+MD5 Domains RAW: a6ce5e5a5195caa127ff68ddcc1a2ce4
 
 # Convert big to Hostlist ... 
 
@@ -79,10 +79,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling big.adblock.raw
-ℹ Original length is 918467
-ℹ Length after applying transformations is 918467
-ℹ The list was compressed from 918470 to 504427
-ℹ Final length of the list is 504433
+ℹ Original length is 918724
+ℹ Length after applying transformations is 918724
+ℹ The list was compressed from 918727 to 504688
+ℹ Final length of the list is 504694
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/big/out/big.adblock
 ℹ Finished compiling
 
