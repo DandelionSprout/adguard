@@ -37,7 +37,7 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |   13471 | domains | local  | online  | unchanged | black.list
+   1 |   13470 | domains | local  | online  | unchanged | black.list
    2 |     139 | domains | local  | online  | unchanged | black.list.threat-intelligence
    3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
    4 |    3674 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -49,19 +49,19 @@ Initialize ...
 
 Stats personal:
 
-** Source (raw):    25959
-== Source (unique): 22206 (-3753)
--- White:           21599 (-607)
--- White(*):        20963 (-636)
+** Source (raw):    25958
+== Source (unique): 22206 (-3752)
+-- White:           21597 (-609)
+-- White(*):        20963 (-634)
 -- Dead:            19970 (-993)
-++ Block:           20165 (+195)
--- Unblock:         20161 (-4)
--- Unblock(*):      20155 (-6)
-++ FLD:             20306 (+151)
-++ WWW:             27057 (+6751)
+++ Block:           20163 (+193)
+-- Unblock:         20159 (-4)
+-- Unblock(*):      20153 (-6)
+++ FLD:             20304 (+151)
+++ WWW:             27055 (+6751)
 
-27057 unique Domains - Version 2021.1106.120818
-MD5 Domains RAW: 05b1b47a07139a2339222e2981bf3937
+27055 unique Domains - Version 2021.1106.215152
+MD5 Domains RAW: 9a4f61a6bfbd4d421560ce660364dcf6
 
 # Convert personal to Hostlist ... 
 
@@ -84,10 +84,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling personal.adblock.raw
-ℹ Original length is 19916
-ℹ Length after applying transformations is 19916
-ℹ The list was compressed from 19919 to 12405
-ℹ Final length of the list is 12411
+ℹ Original length is 19914
+ℹ Length after applying transformations is 19914
+ℹ The list was compressed from 19917 to 12403
+ℹ Final length of the list is 12409
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/personal/out/personal.adblock
 ℹ Finished compiling
 
