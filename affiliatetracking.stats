@@ -10,10 +10,6 @@ Config:
    localpush
    checkfordead
 
-++ Prioritized Blocklists - 1:
-
-   ../d3host/out/d3host.domains
-
 -- Excludelists - 2:
 
    ../../light.txt
@@ -37,33 +33,31 @@ Initialize ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
    1 |   14232 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
-   2 |     244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
-   3 |    1736 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
-   4 |    9322 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
-   5 |   14725 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/adguardteam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-   6 |      22 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
-   7 |     429 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
-   8 |       5 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
-   9 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
+   2 |    1736 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
+   3 |    9322 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
+   4 |   14725 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/adguardteam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
+   5 |      22 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
+   6 |     429 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
+   7 |       5 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
+   8 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
 
 # Build affiliatetracking Domainlist ...
 
 Stats affiliatetracking:
 
-** Source (raw):    40717
-== Source (unique): 31039 (-9678)
--- Exclude:         21625 (-9414)
--- White:           21615 (-10)
--- White(*):        21588 (-27)
--- Dead:            21145 (-443)
-++ Block:           21286 (+141)
--- Unblock:         21286 (-0)
--- Unblock(*):      21286 (-0)
-++ FLD:             21319 (+33)
-++ WWW:             21428 (+109)
+** Source (raw):    40473
+== Source (unique): 30847 (-9626)
+-- Exclude:         21544 (-9303)
+-- White:           21533 (-11)
+-- White(*):        21511 (-22)
+-- Dead:            21070 (-441)
+-- Unblock:         21070 (-0)
+-- Unblock(*):      21070 (-0)
+++ FLD:             21104 (+34)
+++ WWW:             21213 (+109)
 
-21428 unique Domains - Version 2021.1106.121631
-MD5 Domains RAW: 968244e8775350b9e45f38922c34b10a
+21213 unique Domains - Version 2021.1106.220032
+MD5 Domains RAW: 4137f5efc87f16768a7fa11cb79b64e1
 
 # Convert affiliatetracking to Hostlist ... 
 
@@ -86,10 +80,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling affiliatetracking.adblock.raw
-ℹ Original length is 20972
-ℹ Length after applying transformations is 20972
-ℹ The list was compressed from 20975 to 18203
-ℹ Final length of the list is 18209
+ℹ Original length is 20778
+ℹ Length after applying transformations is 20778
+ℹ The list was compressed from 20781 to 18055
+ℹ Final length of the list is 18061
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/affiliatetracking/out/affiliatetracking.adblock
 ℹ Finished compiling
 

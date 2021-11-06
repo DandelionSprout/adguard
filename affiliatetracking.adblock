@@ -36,16 +36,15 @@
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |   14232 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
-!    2 |     244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
-!    3 |    1736 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
-!    4 |    9322 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
-!    5 |   14725 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/adguardteam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-!    6 |      22 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
-!    7 |     429 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
-!    8 |       5 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
-!    9 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
+!    2 |    1736 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
+!    3 |    9322 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
+!    4 |   14725 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/adguardteam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
+!    5 |      22 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
+!    6 |     429 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
+!    7 |       5 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
+!    8 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
 !
-! 18199 unique Domains - Version 2021.1106.121631
+! 18051 unique Domains - Version 2021.1106.220032
 !
 ||100pure.ositracker.com^
 ||106075.genieessp.com^
@@ -283,10 +282,10 @@
 ||adb.toggo.de^
 ||add.barkleyus.com^
 ||addb.interpark.com^
+||ad.doubleclick.net^
 ||addvbux.net.daraz.com^
 ||adebis.thd-web.jp^
 ||adfoc.us^
-||adfox.yandex.ru^
 ||adfs.mapp.tools^
 ||adgenius.ositracker.com^
 ||adj.st^
@@ -360,11 +359,7 @@
 ||adobe.wacoal.jp^
 ||a.dogfood.ns.emailvision.net.daraz.com^
 ||adrenalinads.postaffiliatepro.com^
-||ads-api.twitter.com^
-||ads-dev.pinterest.com^
-||adsdk.yandex.ru^
 ||ads-e-darwin.hulustream.com^
-||adserver.yahoo.com^
 ||adservice.google.ac^
 ||adservice.google.ad^
 ||adservice.google.ae^
@@ -600,41 +595,22 @@
 ||adservice.google.xn--mxtq1m^
 ||adservice.google.xn--ngbrx^
 ||adservice.google.xn--node^
-||ads.facebook.com^
-||adsfs.oppomobile.com^
 ||ads.genieessp.com^
-||ads.google.com^
 ||ads.imbc.com^
-||ads.linkedin.com^
-||adspecs.yahoo.com^
-||ads.pinterest.com^
-||ads.reddit.com^
 ||adssea.byspotify.com^
 ||ads-serve.brave.com^
-||ads-sg.tiktok.com^
 ||ads.spacenine.biz^
-||ads.tiktok.com^
-||ads-twitter.com^
-||ads.yahoo.com^
-||ads.yap.yahoo.com^
-||ads.youtube.com^
-||adtago.s3.amazonaws.com^
 ||adtmrs.delti.com^
 ||adultswim.d2.hb.omtrdc.net^
 ||adultswim.hb.omtrdc.net^
 ||advantic01.webtrekk.net^
 ||advantic.webtrekk.net^
 ||advboard.ositracker.com^
-||advertising-api-eu.amazon.com^
 ||advertisingbait.postaffiliatepro.com^
-||advertising.twitter.com^
-||advertising.yahoo.com^
-||advice-ads.s3.amazonaws.com^
 ||adviser.legalandgeneral.com^
 ||advisers.kingstonsmith.co.uk^
 ||advisor.pearlmeyer.com^
 ||adv.khan.co.kr^
-||adx.ads.oppomobile.com^
 ||ae01.eulerian.com^
 ||ae01.eulerian.fr^
 ||ae02.eulerian.com^
@@ -672,7 +648,6 @@
 ||affiliates.ultimatebundles.com^
 ||affiliates.wegow.com^
 ||affiliate.tigerfitness.com^
-||affiliationjs.s3.amazonaws.com^
 ||affjobs.ositracker.com^
 ||afhjxb.flaconi.de^
 ||aficv.finebase.jp^
@@ -745,11 +720,9 @@
 ||al-smetrics.vizio.com^
 ||alumniconnect.lasalle.edu^
 ||amala.ositracker.com^
-||amazonaax.com^
 ||amazonbusiness.com^
 ||amazonbusiness.eu^
 ||amazonbusiness.jp^
-||amazonclix.com^
 ||amazon-incentives.com^
 ||ambassadors.diorinsider.com^
 ||a.medtronic.com^
@@ -770,7 +743,6 @@
 ||analytics.adam.page^
 ||analytics.adultswim.co.uk^
 ||analytics.americanfunds.com^
-||analytics-api.samsunghealthcn.com^
 ||analytics.asml.com^
 ||analytics.boing.es^
 ||analytics.boomerangtv.co.uk^
@@ -790,9 +762,7 @@
 ||analytics.cnnchile.com^
 ||analytics.concorsicartoonito.it^
 ||analytics.eleague.com^
-||analyticsengine.s3.amazonaws.com^
 ||analytics.esporteinterativo.com.br^
-||analytics.facebook.com^
 ||analytics.fnbfremont.com^
 ||analytics.futuro360.com^
 ||analytics.haworth.com^
@@ -806,7 +776,6 @@
 ||analytics.metro.pk^
 ||analytics.metro-tr.com^
 ||analytics.metro.ua^
-||analytics.mobile.yandex.net^
 ||analytics.mondotv.jp^
 ||analytics.myapstore.com^
 ||analytics.net.zooplus.de^
@@ -815,16 +784,10 @@
 ||analytics.nordea.fi^
 ||analytics.nordea.no^
 ||analytics.nordea.se^
-||analytics.oneplus.cn^
-||analytics.pinterest.com^
 ||analytics.pogo.tv^
-||analytics.pointdrive.linkedin.com^
-||analytics.query.yahoo.com^
 ||analytics.ratioform.it^
 ||analyticsresults.datev.de^
-||analytics.samsungknox.com^
 ||analytics-secure.dollargeneral.com^
-||analytics-sg.tiktok.com^
 ||analytics.simplyhealth.co.uk^
 ||analytics.sixtcarsales.de^
 ||analytics.sixt.ch^
@@ -841,7 +804,6 @@
 ||analytics.sprint.com^
 ||analytics.tabichan.jp^
 ||analytics.tbs.com^
-||analytics.tiktok.com^
 ||analytics.tnt.africa^
 ||analytics.tntdrama.com^
 ||analytics.tntsports.com.ar^
@@ -853,12 +815,10 @@
 ||analytics.underarmour.com^
 ||analytics.verizon.com^
 ||analytics.webtrekk.com^
-||analytics.yahoo.com^
 ||analytic.underarmour.com^
 ||an.avast.com^
 ||anders-onlinehandel.de^
 ||andoveradvertiser-gb.andoveradvertiser.co.uk^
-||an.facebook.com^
 ||angelfish.owlbear.rodeo^
 ||angieslistpardot.angieslist.com^
 ||anglerfish.annaand.co^
@@ -880,7 +840,6 @@
 ||antlion.launch.fyi^
 ||antlion.nomedium.dev^
 ||ant.prefinery.com^
-||an.yandex.ru^
 ||an.yesnetwork.com^
 ||anytimecbd.ositracker.com^
 ||ao10.experthealth.com^
@@ -912,7 +871,6 @@
 ||ape.smartplanschema.se^
 ||api.1-priv.net.zooplus.de^
 ||api.adbutler.com^
-||api.ad.xiaomi.com^
 ||api.alphaadmins.net.zooplus.de^
 ||api-analytics.4patientcare.com^
 ||api-analytics.missguided.com^
@@ -922,7 +880,6 @@
 ||api.anstrex.com^
 ||api.apidocs-repo.net.zooplus.de^
 ||api.beta.login.net.zooplus.de^
-||api.bugsnag.com^
 ||api.chd.repo.net.zooplus.de^
 ||api.client-admins.net.zooplus.de^
 ||api.cloudfront.admins.net.zooplus.de^
@@ -946,7 +903,6 @@
 ||api.getter-priv.net.zooplus.de^
 ||api.gits.net.zooplus.de^
 ||api.help.priv.net.zooplus.de^
-||api-hotjar.com^
 ||api.internal-repo.net.zooplus.de^
 ||api.login.history.net.zooplus.de^
 ||api.login.net.zooplus.de^
@@ -987,11 +943,8 @@
 ||aponeo01.webtrekk.net^
 ||app2.salesmanago.pl^
 ||app.anstrex.com^
-||app.bugsnag.com^
-||app.chat.xiaomi.net^
 ||appcmpn.com^
 ||app.getresponse.com^
-||app.getsentry.com^
 ||app.insight.heidrick.com^
 ||app-install.priceline.com^
 ||appinstall.webtrekk.net^
@@ -1001,7 +954,6 @@
 ||application-spring.net.daraz.com^
 ||apply.floridapoly.edu^
 ||apply.usc.edu^
-||appmetrica.yandex.com^
 ||app.noreply.cummins.com^
 ||apppartner.net.daraz.com^
 ||app.riverbed.com^
@@ -1047,7 +999,6 @@
 ||assetssitory-legacy.net.zooplus.com^
 ||assets.train-mgmt.net.zooplus.de^
 ||assetsyancancook.net.daraz.com^
-||assoc-amazon.com^
 ||association.locktonaffinity.net^
 ||astrogempakpoc.hb-api.omtrdc.net^
 ||asyoulikeit.ositracker.com^
@@ -1087,13 +1038,11 @@
 ||avaya-engage.avaya.com^
 ||aventedge.net^
 ||avidog.ositracker.com^
-||awaps.yandex.ru^
 ||awdssf.drnutrition.com^
 ||awin1.com^
 ||awowwo.forever21.com^
 ||aws.management.tpe.net.zooplus.de^
 ||aws.net.zooplus.com^
-||awsync.yandex.ru^
 ||awuapj.landwatch.com^
 ||axil.ositracker.com^
 ||axis-communications.com^
@@ -1130,8 +1079,6 @@
 ||bandicoot.lettera.co^
 ||bandicoot.mohit.dev^
 ||bankingfinance.euromoney.com^
-||banners.mobile.yandex.net^
-||banners-slb.mobile.yandex.net^
 ||baptist-health.hrm.healthgrades.com^
 ||baptisthealth.hrm.healthgrades.com^
 ||barnacle.viewsource.io^
@@ -1143,7 +1090,6 @@
 ||bass.kidneystonediet.com^
 ||bass.siterig.io^
 ||batoncorp.com^
-||bats.video.yahoo.com^
 ||baunetz01.webtrekk.net^
 ||bayer0401.webtrekk.net^
 ||bayslw.vizualfactory.com^
@@ -1159,8 +1105,6 @@
 ||bcdwku.eg.ru^
 ||bch8.destinia.co^
 ||b.chdns.emailvision.net.daraz.com^
-||bdapi.ads.oppomobile.com^
-||bdapi-in-ads.realmemobile.com^
 ||bderbn.foxtrot.com.ua^
 ||bear.jake.nyc^
 ||bear.modulr.design^
@@ -1217,7 +1161,6 @@
 ||bhxemw.charleskeith.com^
 ||bi.avalere.com^
 ||bidder.7xbid.com^
-||bigdata.ssp.samsung.com^
 ||big.srax.com^
 ||bigtime.floridacitrussports.com^
 ||bild01.webtrekk.net^
@@ -1304,8 +1247,6 @@
 ||bonjour.akeneo.com^
 ||booby.deanyeong.com^
 ||bookbyte.postaffiliatepro.com^
-||books-analytics-events.apple.com^
-||books-analytics-events.news.apple-dns.net^
 ||books-ch02.webtrekk.net^
 ||bookvip.postaffiliatepro.com^
 ||boom.laravel.io^
@@ -1334,7 +1275,6 @@
 ||brmclick.com^
 ||br.ositracker.com^
 ||brosmailing.com^
-||browser.sentry-cdn.com^
 ||br.promo.skf.com^
 ||brqsxv.bergdorfgoodman.com^
 ||br.zettle.com^
@@ -1344,14 +1284,12 @@
 ||bsh01.webtrekk.net^
 ||bsinteractive.hb.omtrdc.net^
 ||bskyb.hb.omtrdc.net^
-||bs-meta.yandex.ru^
 ||bsna.galeria-kaufhof.de^
 ||bsna.hudsonsbay.nl^
 ||bs-offers.konicaminolta.jp^
 ||bsse.ositracker.com^
 ||bs.serving-sys.com^
 ||bswiftmail.com^
-||bs.yandex.ru^
 ||btmp.tcheen.com^
 ||bts2dvz.taguiginfo.com^
 ||bttmkj.diesel.com^
@@ -1377,7 +1315,6 @@
 ||business.guinnessworldrecords.com^
 ||business.lutron.info^
 ||business.nbnco.com.au^
-||business.samsungusa.com^
 ||business.united.com^
 ||butchrr.ositracker.com^
 ||butterfly.ecouch.com.au^
@@ -1573,7 +1510,6 @@
 ||cj.com^
 ||cj.dotomi.com^
 ||cjz3.hejkanariskeoer.com^
-||ck.ads.oppomobile.com^
 ||ckpxtt.justfly.com^
 ||clam.figmachina.com^
 ||clam.mglaman.dev^
@@ -1611,12 +1547,9 @@
 ||click.member.americanexpress.com^
 ||click.myctm.canadiantire.ca^
 ||click.official.nike.com^
-||click.oneplus.cn^
-||click.oneplus.com^
 ||click.outreach.io^
 ||click.pstmrk.it^
 ||click.redditmail.com^
-||click.sender.yandex.ru^
 ||clickserve.dartsearch.net^
 ||clicks.piie.com^
 ||click.surfrider.org^
@@ -1708,7 +1641,6 @@
 ||com.102.122.207.net^
 ||comcastcom.hb.omtrdc.net^
 ||comcastentertainmentgroup.hb.omtrdc.net^
-||comet.yahoo.com^
 ||comingsoon.namebright.com^
 ||comm2.jeld-wen.com^
 ||commander1.com^
@@ -2039,8 +1971,8 @@
 ||dailyecho-gb.dailyecho.co.uk^
 ||dakqbwpduu.coywolf.io^
 ||damxx.net.daraz.com^
+||dart.l.doubleclick.net^
 ||dashboard-01.braze.com^
-||data.ads.oppomobile.com^
 ||data.aonunited.com^
 ||data.assetsdocker.net.zooplus.de^
 ||data.bitbucketorg.net.zooplus.de^
@@ -2053,10 +1985,6 @@
 ||data.fittestfreakest.com^
 ||data.marketorg.net.zooplus.de^
 ||data.mediaworld.it^
-||data.mistat.india.xiaomi.com^
-||data.mistat.intl.xiaomi.com^
-||data.mistat.rus.xiaomi.com^
-||data.mistat.xiaomi.com^
 ||data.mobiledocker.net.zooplus.de^
 ||data.mobile.net.zooplus.de^
 ||data.netdocker.net.zooplus.de^
@@ -2244,7 +2172,6 @@
 ||dot.discovery.org^
 ||dot.evolutionnews.org^
 ||dot.mindmatters.ai^
-||doubleclick.net^
 ||dove.fullcalendar.io^
 ||dowjones.hb-api.omtrdc.net^
 ||dowjones.hb.omtrdc.net^
@@ -2258,7 +2185,6 @@
 ||dragonfly.filmmakerfreedom.com^
 ||dragonfly.jala-one.com^
 ||dreamawake.ositracker.com^
-||d.reddit.com^
 ||dr.eulerian.com^
 ||dr.eulerian.eu^
 ||dr.eulerian.fr^
@@ -2283,7 +2209,6 @@
 ||dupont.hb.omtrdc.net^
 ||dvmira.keskisenkello.fi^
 ||dw7u.hotelsbarriere.com^
-||dzc-metrics.mzstatic.com^
 ||e2.hazeldenbettyford.org^
 ||e3rd.net^
 ||e5obq1v261.www.lurkit.com^
@@ -2717,7 +2642,6 @@
 ||events.georgiancollege.ca^
 ||events.markit.com^
 ||events.microland.com^
-||events.redditmedia.com^
 ||events.splunk.com^
 ||eversleep.ositracker.com^
 ||everydayfem.ositracker.com^
@@ -2759,7 +2683,6 @@
 ||explore.walkerdunlop.com^
 ||exp.sofology.co.uk^
 ||ext-cisco-capwap-controller.net.daraz.com^
-||extmaps-api.yandex.net^
 ||extra.landorandfitch.com^
 ||eyc-marketing.eyc.com^
 ||ezpp.ositracker.com^
@@ -2778,8 +2701,6 @@
 ||fandango.hb.omtrdc.net^
 ||fashionation01.webtrekk.net^
 ||fashionid01.webtrekk.net^
-||fastclick.com^
-||fastclick.net^
 ||fastenermkt.averydennison.com^
 ||fasterwaytofatloss.postaffiliatepro.com^
 ||fattal-alazman.postaffiliatepro.com^
@@ -2915,7 +2836,6 @@
 ||frbdzc.goguynet.jp^
 ||frbmdx.fwrd.com^
 ||freeware-finden.de^
-||freshmarketer.com^
 ||freya.admin.net.daraz.com^
 ||freya.mail.net.daraz.com^
 ||fr-go.kelkoogroup.net^
@@ -2963,14 +2883,12 @@
 ||fxyvcz.thecompanystore.com^
 ||fzh4.hellocanaryislands.com^
 ||fzp1.pretapousser.de^
-||g1.ads.oppomobile.com^
 ||gafpjt.maybe-baby.co.kr^
 ||galaksion.com^
 ||gamefowl.emailforward.mx^
 ||gamefowl.nonprofit.foundation^
 ||gamesdienst.de^
 ||gannett.hb.omtrdc.net^
-||ganon.yahoo.com^
 ||gassales.eversource.com^
 ||gas-sensing.spec-sensors.com^
 ||gayal.maxmasnick.com^
@@ -2991,7 +2909,6 @@
 ||gedozw.autoscout24.cz^
 ||geid.wbtrk.net^
 ||gel1.gosportmontagne.com^
-||gemini.yahoo.com^
 ||generali01.webtrekk.net^
 ||genesishealth.hrm.healthgrades.com^
 ||genetex.email^
@@ -3008,8 +2925,6 @@
 ||geoproxy.hk5.vip.prod.criteo.net^
 ||geoproxy.par.vip.prod.criteo.net^
 ||geoproxy.va1.vip.prod.criteo.net^
-||geo.query.yahoo.com^
-||geo.yahoo.com^
 ||gerbil.buf.build^
 ||gerryweb02.webtrekk.net^
 ||get.argyle.com^
@@ -3078,7 +2993,6 @@
 ||gl.eulerian.eu^
 ||gl.eulerian.fr^
 ||global.apexanalytix.com^
-||globalapi.ad.xiaomi.com^
 ||global-cdn.net^
 ||global.cognizant.com^
 ||globalcommunications.sc.com^
@@ -4233,7 +4147,6 @@
 ||go.officestation.jp^
 ||go.ofn.org^
 ||googleadservices.com^
-||google-analytics.com^
 ||google.pluto7.com^
 ||go.omaticsoftware.com^
 ||go.omgprograms.org^
@@ -4857,7 +4770,6 @@
 ||gqhlrr.fragrancedirect.co.uk^
 ||gqjppj.rentcafe.com^
 ||gqv7.turismodeislascanarias.com^
-||grade.market.yandex.ru^
 ||gradprograms.cals.cornell.edu^
 ||grantaholdings.com^
 ||greatdaytea.ositracker.com^
@@ -5043,8 +4955,6 @@
 ||hoseyy.prettylittlething.com^
 ||hostmaster.mb104.com^
 ||hotelde01.webtrekk.net^
-||hotjar-analytics.com^
-||hotjar.com^
 ||houjin.resort.co.jp^
 ||hoverfly.cdengine.co.uk^
 ||hoverfly.dailyblocks.tv^
@@ -5422,7 +5332,6 @@
 ||information.mastercard.com^
 ||information.plusseikotsuin.com^
 ||inform.biohithealthcare.com^
-||informer.yandex.ru^
 ||inform.milestonegroup.com^
 ||info.roadie.com^
 ||info.roomsketcher.com^
@@ -5700,7 +5609,6 @@
 ||khq.jpg.fr^
 ||khvcux.krisha.kz^
 ||kidscandor.ositracker.com^
-||kiks.yandex.ru^
 ||kiomi-com01.webtrekk.net^
 ||kiqwal.autoscout24.es^
 ||kite.ibirthdayclub.com^
@@ -5890,8 +5798,6 @@
 ||loadbalancer.lib-ht-1.net.daraz.com^
 ||loadbalancer-r-ht-2.net.daraz.com^
 ||lobster.justunderwear.com^
-||logbak.hicloud.com^
-||log.fc.yahoo.com^
 ||login.clickbooth.com^
 ||logindata.net.zooplus.de^
 ||login-dev.net.zooplus.de^
@@ -5899,10 +5805,7 @@
 ||login.net.daraz.com^
 ||login.net.zooplus.com^
 ||login-spring.net.daraz.com^
-||log.pinterest.com^
 ||logs1257.at.pagesjaunes.fr^
-||logservice1.hicloud.com^
-||logservice.hicloud.com^
 ||loon.hardin.io^
 ||loon.uselauncher.com^
 ||loox.io^
@@ -5934,8 +5837,6 @@
 ||ltsveh.wetteronline.at^
 ||luaqlg.blissy.com^
 ||lubricants.shell.com^
-||luckyorange.com^
-||luckyorange.net^
 ||luegnh.sneakercage.gr^
 ||lufthansa01.webtrekk.net^
 ||lume.ositracker.com^
@@ -7165,7 +7066,6 @@
 ||marketing.skorsports.nl^
 ||marketing.smartcamp.asia^
 ||marketing.smartvault.com^
-||marketingsolutions.yahoo.com^
 ||marketing.specgradeled.com^
 ||marketing.spglobal.com^
 ||marketing.starmicronics.com^
@@ -7236,7 +7136,6 @@
 ||m.cialfo.co^
 ||m.clickbooth.com^
 ||mct.paypay.ne.jp^
-||mc.yandex.ru^
 ||mczpco.darty.com^
 ||mdg9.olailhascanarias.com^
 ||mdiyay.vseinstrumenti.ru^
@@ -7248,7 +7147,6 @@
 ||mediacorp.hb.omtrdc.net^
 ||media.globalsign.com^
 ||media.gotham.com^
-||media.net^
 ||media.ositracker.com^
 ||media.pirtek.co.uk^
 ||media.polleverywhere.com^
@@ -7268,26 +7166,16 @@
 ||metal.schrott24.de^
 ||metlife.hb.omtrdc.net^
 ||metric.morganshotelgroup.com^
-||metrics1.data.hicloud.com^
-||metrics2.data.hicloud.com^
-||metrics3.data.hicloud.com^
-||metrics4.data.hicloud.com^
-||metrics5.data.hicloud.com^
 ||metrics.aetnamedicare.com^
-||metrics.apple.com^
 ||metrics.caracoltv.com^
 ||metrics.carnival.com^
 ||metrics.cartoonnetworkla.com^
 ||metrics.coachfactory.com^
 ||metrics.darty.com^
-||metrics.data.hicloud.com^
-||metrics-dra.dt.hicloud.com^
-||metrics.icloud.com^
 ||metrics.jm-lexus.com^
 ||metrics.kone.at^
 ||metrics.modcloth.com^
 ||metrics.myvi.in^
-||metrics.mzstatic.com^
 ||metrics.nissan.ee^
 ||metrics.pandora.com^
 ||metrics.portal.roche.de^
@@ -7309,7 +7197,6 @@
 ||metrics.watch.nba.com^
 ||metrics.wnba.com^
 ||metrics.workfront.com^
-||metrika.yandex.ru^
 ||metro.net.daraz.com^
 ||meuchevrolet.com^
 ||m.exactag.com^
@@ -7419,7 +7306,6 @@
 ||moth.artsmia.org^
 ||moth.underscoretw.com^
 ||motogmbh01.webtrekk.net^
-||mouseflow.com^
 ||mouse.voyagefuneralhomes.com^
 ||movida.ositracker.com^
 ||moviemp4hd.net.daraz.com^
@@ -9764,7 +9650,6 @@
 ||myalphaspace1.com^
 ||myalphaspace2.com^
 ||myalphaspace3.com^
-||m.yap.yahoo.com^
 ||mybjjg.vlan.be^
 ||mybooster.net.daraz.com^
 ||mychargeback.ositracker.com^
@@ -9917,7 +9802,6 @@
 ||notificacion.lifemiles.com^
 ||notification.pond.co.nz^
 ||notifications.autozonepro.com^
-||notify.bugsnag.com^
 ||novartispharma.hb.omtrdc.net^
 ||now1.t-mobile.com^
 ||now.inriver.com^
@@ -10881,7 +10765,6 @@
 ||offers.egym.com^
 ||offers.jazelauto.com^
 ||offers.netpulse.com^
-||offerwall.yandex.net^
 ||official.jpreturns.com^
 ||official.kminjurylawyers.com^
 ||ofkqel.sabinastore.com^
@@ -10928,7 +10811,6 @@
 ||one.fanuc.eu^
 ||onelink.me^
 ||onenetworkdirect.net^
-||onepush.query.yahoo.com^
 ||onfiei-eiei.uscluster.net^
 ||onfiei-eiei.wcohus.teradatadmc.com^
 ||onfiei-eifi.uscluster.net^
@@ -12920,7 +12802,6 @@
 ||onlineidi.abdn.ac.uk^
 ||onlinevision.ositracker.com^
 ||oouwiw.emp-shop.dk^
-||open.oneplus.net^
 ||oph7o.montecarlosbm-corporate.com^
 ||oppl.enghouseinteractive.es^
 ||ops-allseason.azure-freya.net.daraz.com^
@@ -12984,7 +12865,7 @@
 ||p7qebe2odmlm.franchiseplus.nl^
 ||pa5xjc.m1guelpf.me^
 ||pac12.hb-api.omtrdc.net^
-||pagead2.googlesyndication.com^
+||pagead.l.doubleclick.net^
 ||page-admindata.net.zooplus.de^
 ||page.bsigroup.com^
 ||page.evergage.com^
@@ -13078,7 +12959,6 @@
 ||par.shop-pro.jp^
 ||partneracc.net.daraz.com^
 ||partner-ads.com^
-||partnerads.ysm.yahoo.com^
 ||partner-alpha.net.daraz.com^
 ||partnerapi.net.zooplus.de^
 ||partnereuropewest.net.daraz.com^
@@ -13120,7 +13000,6 @@
 ||pbgmej.topsecret.pl^
 ||pc4.datarunsdeep.com.au^
 ||p.circaworks.com^
-||pclick.yahoo.com^
 ||pd.afsusa.org^
 ||pd.biglobe.ne.jp^
 ||pd.coinshares.com^
@@ -13282,7 +13161,6 @@
 ||pix.am5.vip.prod.criteo.net^
 ||pix.da1.vip.prod.criteo.net^
 ||pixel.everesttech.net^
-||pixel.facebook.com^
 ||pix.hk5.vip.prod.criteo.net^
 ||pix.jp2.vip.prod.criteo.net^
 ||pix.par.vip.prod.criteo.net^
@@ -13535,7 +13413,6 @@
 ||rebuy01.webtrekk.net^
 ||redbull01.webtrekk.net^
 ||redeemrx.ositracker.com^
-||redirect.appmetrica.yandex.ru^
 ||redirect.at^
 ||redirectcsr21.net.daraz.com^
 ||redirect.net.zooplus.de^
@@ -13604,13 +13481,11 @@
 ||report7.webtrekk.com^
 ||report8.webtrekk.com^
 ||report9.webtrekk.com^
-||report.appmetrica.yandex.net^
 ||repository-history.net.zooplus.com^
 ||repository-legacy.internals.net.zooplus.com^
 ||repository-restricted.net.zooplus.com^
 ||reptile.sat.trading^
 ||request.iagcargo.com^
-||rereddit.com^
 ||r-es-1.authorization.net.daraz.com^
 ||rescuetouch.ositracker.com^
 ||research.alpinemacro.com^
@@ -13726,7 +13601,6 @@
 ||saa.cbsi.com^
 ||saa.dyson.no^
 ||saa.irvinecompanyapartments.com^
-||sa.api.intl.miui.com^
 ||saa.scout.com^
 ||saa.thedrewbarrymoreshow.com^
 ||saa.wired2fish.com^
@@ -13762,8 +13636,6 @@
 ||salmon.literallife.church^
 ||salmon.thespiritualpsychologist.co.uk^
 ||samanthas.ositracker.com^
-||samsungadhub.com^
-||samsungads.com^
 ||sanalytics.adultswim.co.uk^
 ||sanalytics.boomerang.asia^
 ||sanalytics.boomerangtv.com.au^
@@ -13837,8 +13709,6 @@
 ||scriptcity.ositracker.com^
 ||sctc.ositracker.com^
 ||sczcpz.emp-online.fr^
-||sdkconfig.ad.intl.xiaomi.com^
-||sdkconfig.ad.xiaomi.com^
 ||sdk.ibm.xtify.com^
 ||sdome.underarmour.co.jp^
 ||sdu8.privetkanarskieostrova.com^
@@ -13870,7 +13740,6 @@
 ||secure.imagers.co.jp^
 ||secure.jebb8hurt.com^
 ||secure.main5poem.com^
-||securemetrics.apple.com^
 ||securemetrics.apple.com.cn^
 ||securemetrics.bananarepublic.co.uk^
 ||securemetrics.bananarepublic.eu^
@@ -13919,7 +13788,6 @@
 ||service.sbpayment.jp^
 ||services.demanddynamics.com^
 ||services.preludesys.com^
-||sessions.bugsnag.com^
 ||sexxdesi.net.daraz.com^
 ||seyfwl.smaker.pl^
 ||sf.anest-iwata.co.jp^
@@ -14018,7 +13886,6 @@
 ||sh960.ositracker.com^
 ||sh987.ositracker.com^
 ||shareasale.com^
-||share.yandex.ru^
 ||shawtelevision.hb.omtrdc.net^
 ||shaynamade.ositracker.com^
 ||shermanoaks.ositracker.com^
@@ -14314,7 +14181,6 @@
 ||smetrics.repco.co.nz^
 ||smetrics.rexulti.com^
 ||smetrics.rochepro.hr^
-||smetrics.samsung.com^
 ||smetrics.santander.co.uk^
 ||smetrics.savethechildren.org.uk^
 ||smetrics.sazerac.com^
@@ -16877,7 +16743,6 @@
 ||start.ecornell.cornell.edu^
 ||start.ef.com^
 ||start.revolutionparts.com^
-||startup.mobile.yandex.net^
 ||stash.clickbooth.com^
 ||static.am5.vip.prod.criteo.net^
 ||static.da1.vip.prod.criteo.net^
@@ -16912,7 +16777,6 @@
 ||stats.studypages.com^
 ||stats.voyages-sncf.com^
 ||stats.whattopack.com^
-||stats.wp.com^
 ||stats.xn--drivation-b4a.fr^
 ||stat.wolterskluwer.pl^
 ||st.bahnhof.de^
@@ -16933,8 +16797,6 @@
 ||stingray.pawsmood.com^
 ||stingray.reform.app^
 ||stoat.death-to-ie11.com^
-||stocks-analytics-events.apple.com^
-||stocks-analytics-events.news.apple-dns.net^
 ||storage.softdocs.com^
 ||stork.notlessbutbetter.com^
 ||stoxboxs.ositracker.com^
@@ -16986,7 +16848,6 @@
 ||supportc.ns.emailvision.net.daraz.com^
 ||support.data-api.net.zooplus.de^
 ||support.labapi.net.zooplus.de^
-||supportmetrics.apple.com^
 ||support.nginxapi.net.zooplus.de^
 ||support.svenson.co.jp^
 ||surveysonthego.net^
@@ -17234,18 +17095,14 @@
 ||tracking.go.provident.bank^
 ||tracking.guidehouse.com^
 ||tracking.igloosoftware.com^
-||tracking.india.miui.com^
-||tracking.intl.miui.com^
 ||tracking.janssenmed.hu^
 ||tracking.kyobo.co.kr^
 ||tracking.marketing.kbl.co.in^
-||tracking.miui.com^
 ||tracking.nasdaq.com^
 ||tracking.netcologne.de^
 ||tracking.pennmedicine.princetonhcs.org^
 ||tracking.pharmanewsintel.com^
 ||tracking.publicidees.com^
-||tracking.rus.miui.com^
 ||tracking.ssab.de^
 ||tracking.ssab.fr^
 ||tracking.ssab.it^
@@ -17292,13 +17149,11 @@
 ||tr.info.mango-mobilites.fr^
 ||tr.info.rouen.cci.fr^
 ||tr.info.vip-mag.co.uk^
-||trk2.pinterest.com^
 ||trk.advancedmanufacturingminneapolis.com^
 ||trk.informationweek.com^
 ||trk.klclick1.com^
 ||trk.klclick.com^
 ||trk.m1.stadiumgoods.com^
-||trk.pinterest.com^
 ||trk.powderandbulksolids.com^
 ||trk.prdt.computrabajo.com^
 ||trk.prdt.sherlockhr.com^
@@ -17490,7 +17345,6 @@
 ||vip.swiftcapital.com^
 ||visitor.furniture-china.cn^
 ||visit.sabre.com^
-||visit.webhosting.yahoo.com^
 ||visracing.ositracker.com^
 ||vitagene.ositracker.com^
 ||vitrade02.webtrekk.net^
@@ -17616,7 +17470,6 @@
 ||w-htgb-a.v1.net.daraz.com^
 ||whvm.blinked.fr^
 ||whxbrz.shipt.com^
-||widgets.pinterest.com^
 ||wifiextenderhelp.com^
 ||wihgkc.localiza.com^
 ||wiki.clickbooth.com^
@@ -18154,7 +18007,6 @@
 ||xxrmyp.carsdirect.com^
 ||yae6.mes-bijoux.fr^
 ||yak.embeddedartistry.com^
-||yandexadexchange.net^
 ||ychqww.aboutyou.lv^
 ||ycpkuophoy.vole.wtf^
 ||yctm.yopongoelhielo.com^
@@ -18181,7 +18033,6 @@
 ||yourporsche.nabooda-auto.com^
 ||your.sabre.com^
 ||yourupmcsusquehanna.hrm.healthgrades.com^
-||youtube.cleverads.vn^
 ||yoyochinese.ositracker.com^
 ||ypf4i81rjs5p.unstoppabledomains.com^
 ||yrlkte.in360.pl^
