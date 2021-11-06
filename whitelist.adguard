@@ -45,6 +45,7 @@
 @@|c.amazon-adsystem.com^
 @@|fls-*.amazon-adsystem.com^
 @@|fls-*.amazon.*^
+@@|global.safebrowsing.service.amazonsilk.com^
 @@|mads-*.amazon.com^
 @@|mads.amazon-adsystem.com^
 @@|mads.amazon.com^
@@ -97,8 +98,11 @@
 @@|doh.dns.apple.com^
 @@|iphone-ld.apple.com^
 @@|iphone-ld.origin-apple.com.akadns.net^
+@@|mask-h2.icloud.com^
+@@|mask.icloud.com^
 @@|ocsp*.apple.com^
 @@|securemvt.apple.com^
+@@|token.safebrowsing.apple^
 @@|xp.apple.com^
 
 ! Cookies
@@ -153,6 +157,9 @@
 
 ! Deutsche Bahn
 @@|st.bahn.de^
+
+! Deviantart
+@@|static.parastorage.com^
 
 ! Discord
 @@||discord.com^
@@ -230,14 +237,15 @@
 @@|cdn.ampproject.org^
 @@|connectivitycheck.gstatic.com^
 @@|fundingchoicesmessages.google.com^
-@@|googletagmanager.com^
-@@|googletagservices.com^
+! googletagmanager.com
+! googletagservices.com
 @@|id.google.com^
 @@|id.google.de^
 @@|imasdk.googleapis.com^
 @@|people-pa.googleapis.com^
 @@|safebrowsing.googleapis.com^
-@@|www-googletagmanager.l.google.com^
+@@|safebrowsing.google.com^
+! www-googletagmanager.l.google.com
 
 ! Images
 @@|assets.mmsrg.com^
@@ -442,6 +450,8 @@
 @@|wl.spotify.com^
 
 ! Streaming/Videos
+! s0-2mdn-net.l.google.com
+! s0.2mdn.net
 @@|cdn-gl.imrworldwide.com^
 @@|cdn.zomap.de^
 @@|cdn2.cam-content.com^
@@ -451,13 +461,12 @@
 @@|hw-cdn.trafficjunky.net^
 @@|hw-cdn2.adtng.com^
 @@|hw-cdn2.trafficjunky.net^
+@@|i01.sozcucdn.com^
 @@|js-sec.indexww.com^
 @@|p.brid.tv^
 @@|player-feedback-v1.glomex.com^
 @@|player.glomex.com^
 @@|redefine.hit.stat24.com^
-@@|s0-2mdn-net.l.google.com^
-@@|s0.2mdn.net^
 @@|s2.static.cfgr3.com^
 @@|s3t3d2y7.ackcdn.net^
 @@|servix.idnes.cz^
