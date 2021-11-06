@@ -35,7 +35,7 @@
 ! --------------------------------------------
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
-!    1 |   14228 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+!    1 |   14232 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 !    2 |     244 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 !    3 |    1736 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
 !    4 |    9322 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
@@ -45,7 +45,7 @@
 !    8 |       5 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
 !    9 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
 !
-! 18196 unique Domains - Version 2021.1105.121646
+! 18199 unique Domains - Version 2021.1106.121631
 !
 ||100pure.ositracker.com^
 ||106075.genieessp.com^
@@ -3007,6 +3007,7 @@
 ||geoproxy.criteo.net^
 ||geoproxy.hk5.vip.prod.criteo.net^
 ||geoproxy.par.vip.prod.criteo.net^
+||geoproxy.va1.vip.prod.criteo.net^
 ||geo.query.yahoo.com^
 ||geo.yahoo.com^
 ||gerbil.buf.build^
@@ -3068,6 +3069,7 @@
 ||gjhkyh.4fresh.ru^
 ||gksqdt.reitmans.com^
 ||gkxkvp.tumi.co.jp^
+||gkz4.pepephone.com^
 ||glambitious.ositracker.com^
 ||glasstic.ositracker.com^
 ||gldsta-02-or.com^
@@ -16881,6 +16883,7 @@
 ||static.da1.vip.prod.criteo.net^
 ||static.gitmanagement.net.zooplus.de^
 ||static.hk5.vip.prod.criteo.net^
+||static.jp2.vip.prod.criteo.net^
 ||static.net.zooplus.de^
 ||static.par.vip.prod.criteo.net^
 ||static.va1.vip.prod.criteo.net^
