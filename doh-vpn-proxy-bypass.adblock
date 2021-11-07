@@ -25,10 +25,10 @@
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |     257 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/travisboss/TheGreatWall/master/doh.txt
 !    2 |     288 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
-!    3 |     623 | domains | http   | online  | changed   | https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods
+!    3 |     628 | domains | http   | online  | changed   | https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods
 !    4 |     139 | domains | local  | online  | unchanged | black.list.dohdot
 !
-! 677 unique Domains - Version 2021.1106.152732
+! 682 unique Domains - Version 2021.1108.001845
 !
 ||012proxy.ga^
 ||123-24.eport.gr^
@@ -110,6 +110,7 @@
 ||chillglobal.com^
 ||christophbrem.com^
 ||citizenvpn.com^
+||clearvpn.com^
 ||cloakvpn.com^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
@@ -400,6 +401,7 @@
 ||i.passcloud.xyz^
 ||ipvanish.com^
 ||ispunblock.com^
+||itopvpn.com^
 ||ivacy.com^
 ||ivpn.net^
 ||jcdns.fun^
@@ -471,6 +473,7 @@
 ||pkproxy.info^
 ||polaris.cx^
 ||privacydns.go6lab.si^
+||privadovpn.com^
 ||privateinternetaccess.com^
 ||privatevpn.com^
 ||prointern.info^
@@ -593,6 +596,7 @@
 ||surfmenow.com^
 ||surfproxyserver.com^
 ||surfshark.com^
+||swoshsvpn.com^
 ||tenta.com^
 ||thebestvpn.com^
 ||theclickcheck.com^
@@ -612,6 +616,7 @@
 ||tubeunblock.net^
 ||tunnelbear.com^
 ||turbohide.org^
+||turbovpn.com^
 ||tuxlervpn.com^
 ||ultimateproxy.net^
 ||ultrafun.net^

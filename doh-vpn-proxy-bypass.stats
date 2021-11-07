@@ -24,21 +24,21 @@ Initialize ...
   Nr |   Count | Format  | Source | Status  | File      | URL/File
    1 |     257 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/travisboss/TheGreatWall/master/doh.txt
    2 |     288 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
-   3 |     623 | domains | http   | online  | changed   | https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods
+   3 |     628 | domains | http   | online  | changed   | https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods
    4 |     139 | domains | local  | online  | unchanged | black.list.dohdot
 
 # Build doh-vpn-proxy-bypass Domainlist ...
 
 Stats doh-vpn-proxy-bypass:
 
-** Source (raw):    1307
-== Source (unique): 775 (-532)
-++ Black:           775 (+0)
--- White:           765 (-10)
--- Dead:            711 (-54)
+** Source (raw):    1312
+== Source (unique): 780 (-532)
+++ Black:           780 (+0)
+-- White:           770 (-10)
+-- Dead:            716 (-54)
 
-711 unique Domains - Version 2021.1106.152732
-MD5 Domains RAW: bf470d894cc586be326d35957a83922b
+716 unique Domains - Version 2021.1108.001845
+MD5 Domains RAW: bca83c6a5cfdf69fb481949bb0284e19
 
 # Convert doh-vpn-proxy-bypass to Hostlist ... 
 
@@ -61,10 +61,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling doh-vpn-proxy-bypass.adblock.raw
-ℹ Original length is 712
-ℹ Length after applying transformations is 712
-ℹ The list was compressed from 715 to 681
-ℹ Final length of the list is 687
+ℹ Original length is 717
+ℹ Length after applying transformations is 717
+ℹ The list was compressed from 720 to 686
+ℹ Final length of the list is 692
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/doh-vpn-proxy-bypass/out/doh-vpn-proxy-bypass.adblock
 ℹ Finished compiling
 
