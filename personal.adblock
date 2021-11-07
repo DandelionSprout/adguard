@@ -36,7 +36,7 @@
 ! ---------------------------------------------------
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
-!    1 |   13470 | domains | local  | online  | unchanged | black.list
+!    1 |   13468 | domains | local  | online  | changed   | black.list
 !    2 |     139 | domains | local  | online  | unchanged | black.list.threat-intelligence
 !    3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
 !    4 |    3674 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -44,7 +44,7 @@
 !    6 |    2015 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
 !    7 |    4922 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
 !
-! 12399 unique Domains - Version 2021.1106.215152
+! 12397 unique Domains - Version 2021.1108.000905
 !
 ||0emm.com^
 ||0i0i0i0.com^
@@ -1693,7 +1693,6 @@
 ||all-ti-cod.com^
 ||alltracked.com^
 ||alocdn.com^
-||alo.contentexchange.me^
 ||aloofmetal.com^
 ||aloofvest.com^
 ||alphonso.tv^
@@ -1775,7 +1774,6 @@
 ||analytics.cibc.com^
 ||analytics.cloudron.io^
 ||analytics-cms.whitebeard.me^
-||analytics.contentexchange.me^
 ||analytics.convertlanguage.com^
 ||analytics.developer.riotgames.com^
 ||analytics.dnsfilter.com^
@@ -2720,7 +2718,6 @@
 ||boost-cdn.manatee.dk^
 ||boost-my-pr.de^
 ||boost-next.co.jp^
-||bootstrap.api.drift.com^
 ||boredcrown.com^
 ||boringcoat.com^
 ||botman.ninja^
@@ -3458,6 +3455,7 @@
 ||content.canadiantire.ca^
 ||content.cptrack.de^
 ||content.discover.com^
+||contentexchange.me^
 ||content.fishki.net^
 ||contentinsights.com^
 ||content-insights-revenue.snapchat.com^
@@ -7364,6 +7362,7 @@
 ||namimedia.com^
 ||n-analytics.io^
 ||nanointeractive.com^
+||nanovisor.io^
 ||nappyattack.com^
 ||naradxb.com^
 ||narrativ.com^
@@ -9316,7 +9315,6 @@
 ||sdkconfig.ad.xiaomi.com^
 ||sdk.e.qq.com^
 ||sdkfjxjertertry.com^
-||sdk.iad-06.braze.com^
 ||sdk.ibm.xtify.com^
 ||sdk.open.phone.igexin.com^
 ||sdk.open.talk.gepush.com^
@@ -9509,7 +9507,6 @@
 ||sibautomation.com^
 ||siccash.com^
 ||sicksmash.com^
-||si.contentexchange.me^
 ||sidebar.angelfire.com^
 ||sid.nordstrom.com^
 ||sift.co^
@@ -11271,6 +11268,7 @@
 ||trafficz.com^
 ||traffiliate.com^
 ||traffiq.com^
+||trafic.ro^
 ||trafikkfondet.no^
 ||trafit.com^
 ||trafix.ro^
@@ -11461,7 +11459,6 @@
 ||uedas.qidian.com^
 ||ueuodgnrhb.com^
 ||ugdturner.com^
-||ughr.contentexchange.me^
 ||ugroocuw.net^
 ||uhmevofiatnjg.xyz^
 ||uh.nakanohito.jp^
@@ -11875,6 +11872,7 @@
 ||waust.at^
 ||wa.wdr.de^
 ||wa.web.de^
+||way2traffic.com^
 ||waz.cleverpush.com^
 ||waz.met.vgwort.de^
 ||wbdx.fr^
