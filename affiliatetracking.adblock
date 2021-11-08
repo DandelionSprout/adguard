@@ -35,7 +35,7 @@
 ! --------------------------------------------
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
-!    1 |   14175 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+!    1 |   14207 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 !    2 |    1736 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
 !    3 |    9325 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
 !    4 |   14725 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/adguardteam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
@@ -44,7 +44,7 @@
 !    7 |       5 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
 !    8 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
 !
-! 18183 unique Domains - Version 2021.1108.001804
+! 18187 unique Domains - Version 2021.1108.084106
 !
 ||100pure.ositracker.com^
 ||106075.genieessp.com^
@@ -1415,7 +1415,6 @@
 ||campusmediaaward.de^
 ||campustech.com^
 ||canidae.introcrm.com^
-||canidae.sellerjournal.com^
 ||canid.peterakkies.net^
 ||canmake.de^
 ||cannaboids.ositracker.com^
@@ -1749,7 +1748,9 @@
 ||communication.thomas-krenn.com^
 ||communique.assetzproperty.com^
 ||compaid.aosag.net^
+||compare.bedroomvillas.com^
 ||compare.biletyplus.ru^
+||compare.flightnetwork.com^
 ||compare.flyfar.ca^
 ||compare.hotelsone.com^
 ||compare-im.ostrovok.ru^
@@ -1760,7 +1761,9 @@
 ||compare.liligo.com^
 ||compare.loli-pop.co.uk^
 ||compare.minube.com^
+||compare.rentbyowner.com^
 ||compare.routard.com^
+||compare.studentuniverse.com^
 ||compare.tripcanvas.co^
 ||compare.triphobo.com^
 ||compare.volaris.com^
@@ -2007,6 +2010,7 @@
 ||custvpn.wcohus.teradatadmc.com^
 ||cutt.ly^
 ||cvhp.hrm.healthgrades.com^
+||cvi6.destinia.qa^
 ||cvoddu.getnamenecklace.com^
 ||cvs-car10.net.daraz.com^
 ||cvs.flir.com^
@@ -2994,6 +2998,7 @@
 ||geoproxy.am5.vip.prod.criteo.net^
 ||geoproxy.criteo.net^
 ||geoproxy.da1.vip.prod.criteo.net^
+||geoproxy.hk5.vip.prod.criteo.net^
 ||geoproxy.va1.vip.prod.criteo.net^
 ||geo.query.yahoo.com^
 ||geo.yahoo.com^
@@ -3788,6 +3793,7 @@
 ||go.hacknotice.com^
 ||go.hanapinmarketing.com^
 ||go.happyfox.com^
+||go.harri.com^
 ||go.hartnessintl.com^
 ||go.harvardclub.com^
 ||go.harveyperformance.com^
@@ -4320,6 +4326,7 @@
 ||go.powergridengineering.com^
 ||go.ppbi.com^
 ||go.ppmglobalservices.com^
+||go.pragmaticinstitute.com^
 ||go.pragmaticmarketing.com^
 ||go.prasetiyamulya.ac.id^
 ||go.precor.com^
@@ -4742,6 +4749,7 @@
 ||go.vertexsmb.com^
 ||go.vestwell.com^
 ||go.vevox.com^
+||go.vfc.com^
 ||go.vhslearning.org^
 ||go.viator.com^
 ||go.videoamp.com^
@@ -5715,7 +5723,6 @@
 ||kratzbaum01.webtrekk.net^
 ||krgtzg.t-nation.com^
 ||krill.jorijn.com^
-||krill.octanna.com^
 ||krisanta.ositracker.com^
 ||krkralovehradecky01.webtrekk.net^
 ||krones01.webtrekk.net^
@@ -10877,7 +10884,6 @@
 ||oiwnrl.theory.co.jp^
 ||ojrq.net^
 ||ojufuk.vincecamuto.com^
-||ok2691lw4w3g.www.word.com.au^
 ||okr.resily.com^
 ||oldapi.admins.net.zooplus.de^
 ||oldapi.login.net.zooplus.de^
@@ -14048,7 +14054,6 @@
 ||skillsoft.website^
 ||skink.madewithlove.com^
 ||skins.csr12.net.daraz.com^
-||skunk.deathstare.com^
 ||skyapi.live.net.iberostar.com^
 ||skydeutschland.hb.omtrdc.net^
 ||skydin.ositracker.com^
@@ -18139,7 +18144,6 @@
 ||yak.embeddedartistry.com^
 ||yandexadexchange.net^
 ||ychqww.aboutyou.lv^
-||ycpkuophoy.vole.wtf^
 ||yctm.yopongoelhielo.com^
 ||ycyg.ir-l.com^
 ||ydcpcm.ninelineapparel.com^

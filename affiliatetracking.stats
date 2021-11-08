@@ -36,7 +36,7 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |   14175 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+   1 |   14207 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
    2 |    1736 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
    3 |    9325 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
    4 |   14725 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/adguardteam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
@@ -49,20 +49,20 @@ Initialize ...
 
 Stats affiliatetracking:
 
-** Source (raw):    40419
-== Source (unique): 30804 (-9615)
--- Exclude:         21498 (-9306)
--- White:           21487 (-11)
--- White(*):        21465 (-22)
--- Dead:            21040 (-425)
-++ Block:           21256 (+216)
--- Unblock:         21256 (-0)
--- Unblock(*):      21256 (-0)
-++ FLD:             21289 (+33)
-++ WWW:             21398 (+109)
+** Source (raw):    40451
+== Source (unique): 30829 (-9622)
+-- Exclude:         21523 (-9306)
+-- White:           21512 (-11)
+-- White(*):        21490 (-22)
+-- Dead:            21052 (-438)
+++ Block:           21268 (+216)
+-- Unblock:         21268 (-0)
+-- Unblock(*):      21268 (-0)
+++ FLD:             21301 (+33)
+++ WWW:             21410 (+109)
 
-21398 unique Domains - Version 2021.1108.001804
-MD5 Domains RAW: 807cc87691aefdc7ab4be2a0d4f00610
+21410 unique Domains - Version 2021.1108.084106
+MD5 Domains RAW: b9099b18d9a6970cb4ccf8426e16d52a
 
 # Convert affiliatetracking to Hostlist ... 
 
@@ -85,10 +85,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling affiliatetracking.adblock.raw
-ℹ Original length is 20942
-ℹ Length after applying transformations is 20942
-ℹ The list was compressed from 20945 to 18187
-ℹ Final length of the list is 18193
+ℹ Original length is 20954
+ℹ Length after applying transformations is 20954
+ℹ The list was compressed from 20957 to 18191
+ℹ Final length of the list is 18197
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/affiliatetracking/out/affiliatetracking.adblock
 ℹ Finished compiling
 
