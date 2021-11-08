@@ -36,7 +36,7 @@
 ! ---------------------------------------------------
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
-!    1 |   13468 | domains | local  | online  | changed   | black.list
+!    1 |   13467 | domains | local  | online  | changed   | black.list
 !    2 |     139 | domains | local  | online  | unchanged | black.list.threat-intelligence
 !    3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
 !    4 |    3674 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -44,7 +44,7 @@
 !    6 |    2015 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
 !    7 |    4922 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
 !
-! 12397 unique Domains - Version 2021.1108.000905
+! 12404 unique Domains - Version 2021.1108.083213
 !
 ||0emm.com^
 ||0i0i0i0.com^
@@ -1948,6 +1948,8 @@
 ||api.curalate.com^
 ||api.e.boohoo.com^
 ||api.e.nastygal.com^
+||api-esp-eu.piano.io^
+||api-esp.piano.io^
 ||api-eu.cleverpush.com^
 ||api.flocktory.com^
 ||api.gameanalytics.com^
@@ -2818,6 +2820,7 @@
 ||business.samsungusa.com^
 ||bustlinganimal.com^
 ||bux1le001.com^
+||buy-ap.piano.io^
 ||buyer.dspx.tv^
 ||buysellads.com^
 ||buysellads.net^
@@ -2838,6 +2841,7 @@
 ||c2399.dotomi.com^
 ||c2827.dotomi.com^
 ||c2op6nqb.micpn.com^
+||c2.piano.io^
 ||c2shb.ssp.yahoo.com^
 ||c2.taboola.com^
 ||c3metrics.com^
@@ -3328,6 +3332,7 @@
 ||codeadnetwork.com^
 ||code.etracker.com^
 ||codeforces.ml^
+||code.piano.io^
 ||codigo.se^
 ||coefficy.com^
 ||cogmatch.net^
@@ -4618,6 +4623,8 @@
 ||exovueplatform.com^
 ||experianmarketingservices.digital^
 ||experianmatch.info^
+||experience-ap.piano.io^
+||experience-eu.piano.io^
 ||experteerads.com^
 ||expired.namebright.com^
 ||explorads.com^
@@ -5902,6 +5909,7 @@
 ||ipfingerprint.com^
 ||ipfrom.com^
 ||ipgp.net^
+||i.piano.io^
 ||ipinyou.com.cn^
 ||ip-label.net^
 ||iplist.cc^
@@ -8055,7 +8063,6 @@
 ||phukienthoitranggiare.com^
 ||phunware.com^
 ||phywi.org^
-||piano.io^
 ||picadmedia.com^
 ||pics.xme.net^
 ||pictela.net^
