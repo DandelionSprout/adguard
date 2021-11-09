@@ -37,7 +37,7 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |   13467 | domains | local  | online  | changed   | black.list
+   1 |   13467 | domains | local  | online  | unchanged | black.list
    2 |     139 | domains | local  | online  | unchanged | black.list.threat-intelligence
    3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
    4 |    3674 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -51,17 +51,17 @@ Stats personal:
 
 ** Source (raw):    25955
 == Source (unique): 22204 (-3751)
--- White:           21598 (-606)
--- White(*):        20964 (-634)
--- Dead:            19970 (-994)
-++ Block:           20164 (+194)
--- Unblock:         20160 (-4)
--- Unblock(*):      20154 (-6)
-++ FLD:             20305 (+151)
-++ WWW:             27059 (+6754)
+-- White:           21597 (-607)
+-- White(*):        20963 (-634)
+-- Dead:            19969 (-994)
+++ Block:           20163 (+194)
+-- Unblock:         20159 (-4)
+-- Unblock(*):      20153 (-6)
+++ FLD:             20304 (+151)
+++ WWW:             27057 (+6753)
 
-27059 unique Domains - Version 2021.1108.083213
-MD5 Domains RAW: aa70f1853b4913a87223492e0dfd42a4
+27057 unique Domains - Version 2021.1109.040811
+MD5 Domains RAW: c628549f8b5fc2bd742b96145bb9be34
 
 # Convert personal to Hostlist ... 
 
@@ -84,10 +84,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling personal.adblock.raw
-ℹ Original length is 19915
-ℹ Length after applying transformations is 19915
-ℹ The list was compressed from 19918 to 12408
-ℹ Final length of the list is 12414
+ℹ Original length is 19914
+ℹ Length after applying transformations is 19914
+ℹ The list was compressed from 19917 to 12407
+ℹ Final length of the list is 12413
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/personal/out/personal.adblock
 ℹ Finished compiling
 

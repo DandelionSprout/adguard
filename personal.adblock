@@ -36,7 +36,7 @@
 ! ---------------------------------------------------
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
-!    1 |   13467 | domains | local  | online  | changed   | black.list
+!    1 |   13467 | domains | local  | online  | unchanged | black.list
 !    2 |     139 | domains | local  | online  | unchanged | black.list.threat-intelligence
 !    3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
 !    4 |    3674 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -44,7 +44,7 @@
 !    6 |    2015 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
 !    7 |    4922 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
 !
-! 12404 unique Domains - Version 2021.1108.083213
+! 12403 unique Domains - Version 2021.1109.040811
 !
 ||0emm.com^
 ||0i0i0i0.com^
@@ -2160,7 +2160,6 @@
 ||at.adtech.redventures.io^
 ||atanx.alicdn.com^
 ||atarget.harley-davidson.com^
-||atatus.com^
 ||atax.gamespy.com^
 ||atax.gamestats.com^
 ||atax.ign.com^
