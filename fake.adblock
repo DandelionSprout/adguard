@@ -29,7 +29,7 @@
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |    2197 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
 !    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
-!    3 |   17314 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+!    3 |   17317 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 !    4 |    1487 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 !    5 |      45 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
 !    6 |    6033 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
@@ -37,7 +37,7 @@
 !    8 |    1424 | domains | local  | online  | unchanged | fake.ts.black.list
 !    9 |     499 | domains | local  | online  | unchanged | fake.vzni.black.list
 !
-! 22029 unique Domains - Version 2021.1108.001022
+! 22032 unique Domains - Version 2021.1109.040915
 !
 ||000relationships.com^
 ||007cryptooption.com^
@@ -7873,6 +7873,7 @@
 ||gamarkt.de^
 ||game4future.com^
 ||game-adventures.com^
+||gameapn.com^
 ||gamecount.de^
 ||gamedownloadnow.com^
 ||gamehomedeat.com^
@@ -20505,6 +20506,7 @@
 ||unit-log.com^
 ||unitymaineguide.com^
 ||uniusedocuments.com^
+||universalaide.org^
 ||universalcamchemicals.com^
 ||universalcavapoopuppies.com^
 ||universalchemicallaboratory.com^
@@ -20876,6 +20878,7 @@
 ||vibrantjackrussellpuppies.com^
 ||viciac.com^
 ||vickymaltipoo.com^
+||victagram.com^
 ||victoriabrides.com^
 ||victoriapomeranians.com^
 ||victoriateddypomeranians.com^
