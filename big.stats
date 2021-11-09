@@ -36,27 +36,27 @@ Initialize ...
 # Download and convert Sourcelists ...
 
   Nr |   Count | Format  | Source | Status  | File      | URL/File
-   1 |  445374 | domains | local  | online  | changed   | multi.txt
-   2 |   43582 | domains | local  | online  | changed   | fake.txt
-   3 | 1039776 | domains | http   | online  | changed   | https://dbl.oisd.nl
+   1 |  445389 | domains | local  | online  | changed   | multi.txt
+   2 |   43580 | domains | local  | online  | changed   | fake.txt
+   3 | 1039776 | domains | http   | online  | unchanged | https://dbl.oisd.nl
 
 # Build big Domainlist ...
 
 Stats big:
 
-** Source (raw):    1528732
-== Source (unique): 1308574 (-220158)
--- White:           1307597 (-977)
--- White(*):        1298865 (-8732)
--- Dead:            1258737 (-40128)
-++ Block:           1258930 (+193)
--- Unblock:         1258926 (-4)
--- Unblock(*):      1258920 (-6)
-++ FLD:             1274552 (+15632)
-++ WWW:             1284258 (+9706)
+** Source (raw):    1528745
+== Source (unique): 1308492 (-220253)
+-- White:           1307514 (-978)
+-- White(*):        1298783 (-8731)
+-- Dead:            1258603 (-40180)
+++ Block:           1258796 (+193)
+-- Unblock:         1258792 (-4)
+-- Unblock(*):      1258786 (-6)
+++ FLD:             1274409 (+15623)
+++ WWW:             1284136 (+9727)
 
-1284258 unique Domains - Version 2021.1109.041733
-MD5 Domains RAW: 1bf2c967fd615faa5cd92d6893a520dd
+1284136 unique Domains - Version 2021.1109.130729
+MD5 Domains RAW: 46c3001413eb742f58f6b0b7e1c9e0dd
 
 # Convert big to Hostlist ... 
 
@@ -79,10 +79,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling big.adblock.raw
-ℹ Original length is 924701
-ℹ Length after applying transformations is 924701
-ℹ The list was compressed from 924704 to 506946
-ℹ Final length of the list is 506952
+ℹ Original length is 924285
+ℹ Length after applying transformations is 924285
+ℹ The list was compressed from 924288 to 506005
+ℹ Final length of the list is 506011
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/big/out/big.adblock
 ℹ Finished compiling
 
