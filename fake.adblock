@@ -34,10 +34,10 @@
 !    5 |      45 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
 !    6 |    6033 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 !    7 |    6882 | domains | local  | online  | unchanged | black.list.fake
-!    8 |    1424 | domains | local  | online  | unchanged | fake.ts.black.list
+!    8 |    1436 | domains | local  | online  | changed   | fake.ts.black.list
 !    9 |     499 | domains | local  | online  | unchanged | fake.vzni.black.list
 !
-! 22031 unique Domains - Version 2021.1109.125925
+! 22042 unique Domains - Version 2021.1109.142055
 !
 ||000relationships.com^
 ||007cryptooption.com^
@@ -2956,6 +2956,7 @@
 ||brotherprintersupportnumbers.com^
 ||brotherprintersupportpro.net^
 ||brotherprinterusa.com^
+||brothers-bike.com^
 ||brothers-bike.de^
 ||brother-support.us^
 ||brothertees.com^
@@ -7319,6 +7320,7 @@
 ||fitflopsreduziert.de^
 ||fitkueche.de^
 ||fitnessbox-arena.com^
+||fitnessboxx-arena.com^
 ||fitnessdates.com^
 ||fitnesshealthpharmacy.com^
 ||fitnessory.com^
@@ -7940,6 +7942,8 @@
 ||garnettli.com^
 ||garrymaltesehome.com^
 ||gartencenter-horstmann.de^
+||gartencenter-pursch.at^
+||gartencenter-pursch.ch^
 ||gartencenter-pursch.de^
 ||garten-events.de^
 ||garten-hannes.de^
@@ -7952,6 +7956,7 @@
 ||gartenwelt-lammerting.de^
 ||gartenwerker-sascha-kolic.de^
 ||garten-willi.de^
+||gartenzenter-pursch.de^
 ||garuplay.de^
 ||garvingreypharmaceuticals.com^
 ||gashousestore.com^
@@ -8588,6 +8593,7 @@
 ||goldhandel-depot.de^
 ||goldhandel-fair.de^
 ||goldhandel-gmbh.de^
+||goldhandel-heute.at^
 ||goldhandel-heute.de^
 ||goldhandel-imperium.de^
 ||goldhandel-kauf.de^
@@ -18511,6 +18517,8 @@
 ||sportgewandt.de^
 ||sportgorilla.de^
 ||sport-handel24.de^
+||sporthandel-weiler.de^
+||sporthandel-weiller.com^
 ||sporthandel-weiller.de^
 ||sporthotel-schwerin.de^
 ||sportif-rencontre.com^
@@ -18557,6 +18565,7 @@
 ||spydersale.de^
 ||spyshield.org^
 ||spywareremovalguide.org^
+||spyxe.com^
 ||squadronlending.com^
 ||squamise.top^
 ||squraei.com^
@@ -19662,6 +19671,7 @@
 ||therollingslabradors.com^
 ||theroyalkennels.com^
 ||theroyallogistics.online^
+||thers-bike.de^
 ||therundownlive.com^
 ||therussophile.org^
 ||therxprescription.com^
@@ -20256,6 +20266,7 @@
 ||trustremittance.com^
 ||trustsdocuments.com^
 ||trustspeedy.com^
+||trustss.com^
 ||trusttransporters.com^
 ||truthandaction.org^
 ||truthbroadcastnetwork.com^
