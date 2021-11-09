@@ -276,6 +276,7 @@
 @@||vortex.data.microsoft.com^
 @@|arc.msn.com^
 @@|browser.events.data.microsoft.com^
+@@|browser.pipe.aria.microsoft.com^
 @@|click.email.microsoftrewards.com^
 @@|click.engage.windows.com^
 @@|click.mail.onedrive.com^
@@ -294,6 +295,7 @@
 @@|image.engage.surface.com^
 @@|image.engage.windows.com^
 @@|image.mail.onedrive.com^
+@@|mobile.pipe.aria.microsoft.com^
 @@|nexus.officeapps.live.com^
 @@|nexusrules.officeapps.live.com^
 @@|prod.nexusrules.live.com.akadns.net^
@@ -308,6 +310,9 @@
 @@|teams.events.data.microsoft.com^
 @@|v10.events.data.microsoft.com^
 @@|v20.events.data.microsoft.com^
+@@|vortex-win.data.microsoft.com^
+@@|vortex.data.microsoft.com^
+@@|web.vortex.data.microsoft.com^
 @@|www.msftconnecttest.com^
 
 ! Netflix
@@ -550,8 +555,10 @@
 @@||xboxlive.com.c.footprint.net^
 @@||xboxlive.com.edgekey.net^
 @@||xboxservices.com^
+@@|c.xbox.com^
 @@|click.engage.xbox.com^
 @@|image.engage.xbox.com^
+@@|o.xbox.com^
 @@|xbox-relying.vortex.data.microsoft.com^
 
 ! Youtube
