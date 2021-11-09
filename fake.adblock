@@ -29,7 +29,7 @@
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |    2197 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
 !    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
-!    3 |   17317 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+!    3 |   17317 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 !    4 |    1487 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 !    5 |      45 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
 !    6 |    6033 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
@@ -37,7 +37,7 @@
 !    8 |    1424 | domains | local  | online  | unchanged | fake.ts.black.list
 !    9 |     499 | domains | local  | online  | unchanged | fake.vzni.black.list
 !
-! 22032 unique Domains - Version 2021.1109.040915
+! 22031 unique Domains - Version 2021.1109.125925
 !
 ||000relationships.com^
 ||007cryptooption.com^
@@ -2627,7 +2627,6 @@
 ||bluemoongermansherpherdpuppies.com^
 ||bluemountainshihtzus.info^
 ||bluemtnbmd.com^
-||bluemuli.com^
 ||bluenationreview.com^
 ||bluenosepitbullpuppies.com^
 ||bluenosepitbullpups.com^

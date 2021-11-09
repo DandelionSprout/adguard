@@ -30,7 +30,7 @@ Initialize ...
   Nr |   Count | Format  | Source | Status  | File      | URL/File
    1 |    2197 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
-   3 |   17317 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+   3 |   17317 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
    4 |    1487 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
    5 |      45 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
    6 |    6033 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
@@ -46,12 +46,12 @@ Stats fake:
 == Source (unique): 28443 (-7693)
 -- White:           28351 (-92)
 -- White(*):        28351 (-0)
--- Dead:            22173 (-6178)
-++ FLD:             22308 (+135)
-++ WWW:             43582 (+21274)
+-- Dead:            22172 (-6179)
+++ FLD:             22307 (+135)
+++ WWW:             43580 (+21273)
 
-43582 unique Domains - Version 2021.1109.040915
-MD5 Domains RAW: 29661c759f50bf76caaf6b43c0ec0af9
+43580 unique Domains - Version 2021.1109.125925
+MD5 Domains RAW: 5e466a680eca050cd71730a440fc052e
 
 # Convert fake to Hostlist ... 
 
@@ -74,10 +74,10 @@ Prepare domain list for compiling ... done.
     ]
 }
 ℹ Start compiling fake.adblock.raw
-ℹ Original length is 22139
-ℹ Length after applying transformations is 22139
-ℹ The list was compressed from 22142 to 22036
-ℹ Final length of the list is 22042
+ℹ Original length is 22138
+ℹ Length after applying transformations is 22138
+ℹ The list was compressed from 22141 to 22035
+ℹ Final length of the list is 22041
 ℹ Writing output to /media/nas/git/rpi/pihole/blocklists/build/fake/out/fake.adblock
 ℹ Finished compiling
 
