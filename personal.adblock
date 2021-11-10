@@ -36,15 +36,15 @@
 ! ---------------------------------------------------
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
-!    1 |   13467 | domains | local  | online  | unchanged | black.list
+!    1 |   13466 | domains | local  | online  | changed   | black.list
 !    2 |     139 | domains | local  | online  | unchanged | black.list.threat-intelligence
 !    3 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
 !    4 |    3674 | hosts   | http   | online  | unchanged | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 !    5 |    1736 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
-!    6 |    2015 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
-!    7 |    4922 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
+!    6 |    2014 | adblock | http   | online  | changed   | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_ABP
+!    7 |    4921 | adblock | http   | online  | changed   | https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
 !
-! 12403 unique Domains - Version 2021.1109.040811
+! 12404 unique Domains - Version 2021.1110.040800
 !
 ||0emm.com^
 ||0i0i0i0.com^
@@ -4566,6 +4566,7 @@
 ||events.onet.pl^
 ||events.reddit.com^
 ||events.redditmedia.com^
+||events.release.narrativ.com^
 ||events-sandbox.data.msn.com^
 ||events.sd-nbb.de^
 ||events.sk.ht^
@@ -7372,7 +7373,6 @@
 ||nanovisor.io^
 ||nappyattack.com^
 ||naradxb.com^
-||narrativ.com^
 ||narrative.io^
 ||nastydollars.com^
 ||natero.com^
@@ -10255,6 +10255,7 @@
 ||staticiv.com^
 ||static.karte.io^
 ||static.lostfilm.top^
+||static.narrativ.com^
 ||static-od.com^
 ||static.olark.com^
 ||static.pochta.ru^
