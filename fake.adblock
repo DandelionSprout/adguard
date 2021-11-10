@@ -29,15 +29,15 @@
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |    2197 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
 !    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
-!    3 |   17317 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+!    3 |   17337 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 !    4 |    1487 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 !    5 |      45 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
 !    6 |    6033 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 !    7 |    6882 | domains | local  | online  | unchanged | black.list.fake
-!    8 |    1436 | domains | local  | online  | changed   | fake.ts.black.list
+!    8 |    1436 | domains | local  | online  | unchanged | fake.ts.black.list
 !    9 |     499 | domains | local  | online  | unchanged | fake.vzni.black.list
 !
-! 22042 unique Domains - Version 2021.1109.142055
+! 22062 unique Domains - Version 2021.1110.040908
 !
 ||000relationships.com^
 ||007cryptooption.com^
@@ -756,6 +756,7 @@
 ||aircargosdeliveryexpress.com^
 ||aircoox.com^
 ||airfasttickets.com^
+||airfrightshipping-post.online^
 ||airlinesphonenumbers.org^
 ||airlinkcouriers.co.za^
 ||airmaxoutlet.de^
@@ -1889,6 +1890,7 @@
 ||baltimoregazette.com^
 ||balzbambii.de^
 ||bamabeaglehome.com^
+||bancaelitebnk.com^
 ||bancamontegroups.com^
 ||bangooon.com^
 ||bankcardnumbers.com^
@@ -2658,6 +2660,7 @@
 ||bmw-e36.de^
 ||boastransport.com^
 ||boazonas.com^
+||bobbysbeaglepuppies.com^
 ||bobbyshuskypuppies.com^
 ||bobdoxie.com^
 ||bobenglishbulldogsplace.site^
@@ -4053,6 +4056,7 @@
 ||christine-bongert.de^
 ||christineyorkies.com^
 ||christinmarit.de^
+||christmascornerpuppies.com^
 ||christmasfrenchbulldogs.com^
 ||christmaspomeranianpups.com^
 ||christophersparrotfarm.com^
@@ -4883,6 +4887,7 @@
 ||cydiapro.com^
 ||cypuppieshome.com^
 ||dabstarspharmacy.com^
+||dabydachshundfamily.com^
 ||dachfondsvergleich.at^
 ||dachshundboutiq.com^
 ||dachshundbreedersza.com^
@@ -5614,6 +5619,7 @@
 ||donniecockapoos.com^
 ||donodalmatiandogs.com^
 ||donotbealone.com^
+||donovandogohome.com^
 ||donovan.store^
 ||donoyo.net^
 ||donpablosfarm.cc^
@@ -5669,6 +5675,7 @@
 ||downtrend.com^
 ||doxiewoodspuppies.com^
 ||dpangulfts.com^
+||dpasdasfasfasfas.pages.dev^
 ||dpd-courier.com^
 ||dpd-speditions.com^
 ||dpex.us^
@@ -6056,6 +6063,7 @@
 ||educationdailywire.com^
 ||educationisthekeytofreedom.com^
 ||edukapluso.com^
+||edutrav.org^
 ||edwaybuy.com^
 ||edwinclarkcu.com^
 ||edwinshibapuppies.com^
@@ -6793,6 +6801,7 @@
 ||expresspetdelivery.com^
 ||expresspetshipping.com^
 ||expresspolane.com^
+||expressportalservice.com^
 ||expresspostmail.com^
 ||expressqualitydocuments.com^
 ||expressrealdocs.com^
@@ -9051,6 +9060,7 @@
 ||gunstiges-angebot.com^
 ||gunstores.us^
 ||gunstrades.com^
+||gunsvalley.com^
 ||gunterundfinn.de^
 ||guntradingonline.com^
 ||gunzforsaleonline.com^
@@ -11047,6 +11057,7 @@
 ||kingcharlysfind.com^
 ||kingcockerspaniel.com^
 ||kingcockerspanielhome.com^
+||kingdomgroodlepuppies.com^
 ||kingdomhack.com^
 ||kingdommaltesepuppies.com^
 ||kingelevenlogistics.com^
@@ -12801,6 +12812,7 @@
 ||mellowhusky.com^
 ||mellowlabradors.com^
 ||mellowpomeranian.com^
+||mellypetshome.com^
 ||melodiousal.com^
 ||melody-barker.com^
 ||melscavapooandcavalierhome.com^
@@ -14093,6 +14105,7 @@
 ||noblebanknotes.com^
 ||nobledaneshome.com^
 ||noblelogisticshipping.com^
+||noblemaltipoos.com^
 ||nobleminidoodles.com^
 ||noblepethome.com^
 ||nobleretrieversfarm.com^
@@ -14940,6 +14953,7 @@
 ||parrotbesties.com^
 ||parrotbreeds.com^
 ||parrotglory.us^
+||parrotpets4home.com^
 ||parrotsandmutations.co.za^
 ||parrotsfromjohn.us^
 ||parrotskingdom.com^
@@ -17802,6 +17816,7 @@
 ||sharonspugpuppies.com^
 ||sharopink.com^
 ||sharpeihomepuppies.com^
+||sharpstoneonlinebk.com^
 ||shatterwaxforsale.com^
 ||shauntapparel.com^
 ||shawcanecorsopups.com^
@@ -18159,6 +18174,7 @@
 ||smartmaltipoopuppy.com^
 ||smart-market-online.com^
 ||smartmeters.news^
+||smartoptionsinvestment.com^
 ||smartpapillonhome.com^
 ||smartpethome.com^
 ||smartpetscenter.us^
@@ -18973,6 +18989,7 @@
 ||sunshineteacuppuppieshome.com^
 ||sunshinevallerfarm.co.za^
 ||sunshinewelshcorgipups.com^
+||sunshinexpresscs.com^
 ||sunshineye.com^
 ||sunsideglobalgroupllc.com^
 ||sunstateflr.com^
@@ -19307,6 +19324,7 @@
 ||teacuppoodlepuppies.com^
 ||teacuppoodlepuppieshome.com^
 ||teacuppoodlepuppieshomes.com^
+||teacuppoodlepuppies.online^
 ||teacuppoodle.site^
 ||teacuppoodleslovers.com^
 ||teacup-poodles.store^
@@ -20075,6 +20093,7 @@
 ||tramadollakare.com^
 ||transaglogisticsinc.com^
 ||transatlantic-courier.com^
+||transatlanticdeliveryline.com^
 ||trans-automotive.com^
 ||transcargoagency.com^
 ||transcarriers.org^
@@ -21577,6 +21596,7 @@
 ||windyys.com^
 ||winecountrytimes.com^
 ||winehouseportugal.com^
+||wingift.ch^
 ||winkler-elektronik.de^
 ||winmuli.com^
 ||winningdemocrats.com^
