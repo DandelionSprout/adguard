@@ -2,6 +2,8 @@
 ! Zelo*s "Fake" Blocklist
 ! --------------------------------------------
 !
+! Title: Zelo72 - Fake
+!
 ! Extension list to the multi list: 
 !   Blocks fake stores, -news, -science,
 !   -streaming, rip-offs, cost traps and co.
@@ -29,7 +31,7 @@
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |    2197 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
 !    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
-!    3 |   17337 | domains | http   | online  | changed   | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+!    3 |   17337 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 !    4 |    1487 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 !    5 |      45 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
 !    6 |    6033 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
@@ -37,7 +39,7 @@
 !    8 |    1436 | domains | local  | online  | unchanged | fake.ts.black.list
 !    9 |     499 | domains | local  | online  | unchanged | fake.vzni.black.list
 !
-! 22062 unique Domains - Version 2021.1110.040908
+! 22062 unique Domains - Version 2021.1110.131215
 !
 ||000relationships.com^
 ||007cryptooption.com^

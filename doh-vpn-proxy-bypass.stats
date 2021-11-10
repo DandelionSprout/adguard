@@ -24,20 +24,19 @@ Initialize ...
   Nr |   Count | Format  | Source | Status  | File      | URL/File
    1 |     257 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/travisboss/TheGreatWall/master/doh.txt
    2 |     288 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
-   3 |     628 | domains | http   | online  | changed   | https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods
-   4 |     139 | domains | local  | online  | unchanged | black.list.dohdot
+   3 |     628 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods
+   4 |     142 | domains | local  | online  | unchanged | black.list.dohdot
 
 # Build doh-vpn-proxy-bypass Domainlist ...
 
 Stats doh-vpn-proxy-bypass:
 
-** Source (raw):    1312
-== Source (unique): 780 (-532)
-++ Black:           780 (+0)
+** Source (raw):    1315
+== Source (unique): 780 (-535)
 -- White:           770 (-10)
 -- Dead:            716 (-54)
 
-716 unique Domains - Version 2021.1108.001845
+716 unique Domains - Version 2021.1110.131947
 MD5 Domains RAW: bca83c6a5cfdf69fb481949bb0284e19
 
 # Convert doh-vpn-proxy-bypass to Hostlist ... 

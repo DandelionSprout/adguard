@@ -2,6 +2,8 @@
 ! DoH/VPN/TOR/Proxy Bypass Blocklist
 ! ----------------------------------------------
 !
+! Title: Zelo72 - DoH/VPN/TOR/Proxy Bypass
+!
 ! Prevent methods to bypass your DNS:
 !   DNS over HTTPS, VPN, TOR, Proxies
 !
@@ -25,10 +27,10 @@
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
 !    1 |     257 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/travisboss/TheGreatWall/master/doh.txt
 !    2 |     288 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
-!    3 |     628 | domains | http   | online  | changed   | https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods
-!    4 |     139 | domains | local  | online  | unchanged | black.list.dohdot
+!    3 |     628 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods
+!    4 |     142 | domains | local  | online  | unchanged | black.list.dohdot
 !
-! 682 unique Domains - Version 2021.1108.001845
+! 682 unique Domains - Version 2021.1110.131947
 !
 ||012proxy.ga^
 ||123-24.eport.gr^
