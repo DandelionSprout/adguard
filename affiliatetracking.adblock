@@ -35,7 +35,7 @@
 ! --------------------------------------------
 !
 !   Nr |   Count | Format  | Source | Status  | File      | URL/File
-!    1 |   14221 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+!    1 |   14225 | hosts   | http   | online  | unchanged | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 !    2 |    1736 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
 !    3 |    9325 | adblock | http   | online  | unchanged | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
 !    4 |   15559 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/adguardteam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
@@ -44,7 +44,7 @@
 !    7 |       5 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
 !    8 |       2 | domains | local  | online  | unchanged | black.list.affiliatetracking
 !
-! 18842 unique Domains - Version 2021.1109.041649
+! 18844 unique Domains - Version 2021.1110.041625
 !
 ||100pure.ositracker.com^
 ||106075.genieessp.com^
@@ -1772,12 +1772,14 @@
 ||compaid.aosag.net^
 ||compare.bedroomvillas.com^
 ||compare.biletyplus.ru^
+||compare.flighthub.com^
 ||compare.flightnetwork.com^
 ||compare.fly4free.com^
 ||compare.flyfar.ca^
 ||compare.hotelsone.com^
 ||compare-im.ostrovok.ru^
 ||compare-im.trip101.com^
+||compare-im.virail.com^
 ||compare-im.zenhotels.com^
 ||compare.jetcost.com^
 ||compare.justfly.com^
